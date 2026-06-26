@@ -1,0 +1,131 @@
+{
+ "2.2.8.LF.4": {
+  "schema_version": 1,
+  "standardCode": "2.2.8.LF.4",
+  "standardStatement": "Identify and recognize factors that generate positive emotions from participating in movement and physical fitness activities.",
+  "subject": "chpe",
+  "grade": "8",
+  "generatedAt": "2026-06-17T17:06:45.136727Z",
+  "cells": {
+   "remember-1": {
+    "objective": "List five things about a physical activity that can make a person feel good while doing it.",
+    "observableCheck": "Each student writes five factors on a card and shares one with the class.",
+    "sampleTask": "Guide asks students to recall a time movement felt good and name what caused it, such as being with friends, hitting a goal, or moving to music. Each student writes five factors on a card. Cards go on the board grouped by theme. The class reads the most common factors aloud.",
+    "materials": ["index cards", "board"]
+   },
+   "remember-2": null,
+   "remember-3": null,
+   "remember-4": null,
+   "understand-1": {
+    "objective": "Explain how one named factor produces a positive feeling during activity.",
+    "observableCheck": "Each student writes a because sentence linking the factor to the feeling.",
+    "sampleTask": "Each student picks one factor from Remember-1 and writes a sentence in the form this feels good because. Pairs read both sentences and decide if the link is believable. Guide collects three clear links and reads them. The class sorts whether the cause is social, physical, or about progress.",
+    "materials": ["lined paper", "board"]
+   },
+   "understand-2": {
+    "objective": "Describe the difference between enjoying an activity and being good at it.",
+    "observableCheck": "Each student gives one example where the two come apart.",
+    "sampleTask": "Guide poses the question: can you enjoy something you are not good at? Each student writes one example where enjoyment and skill come apart, from their own experience. Pairs compare examples. Guide charts how many found enjoyment without high skill and discusses what that means for trying new activities.",
+    "materials": ["lined paper", "chart paper"]
+   },
+   "understand-3": {
+    "objective": "Group the class's positive-feeling factors into categories that reveal a pattern.",
+    "observableCheck": "Each pair sorts the factor cards into named categories.",
+    "sampleTask": "Pairs take the factor cards from Remember-1 and sort them into categories such as social, sense of progress, physical sensation, and fun. Each pair names its categories. Pairs compare with another pair and discuss any card that fit two groups. Guide names the category the class generated most.",
+    "materials": ["factor cards", "heading strips"]
+   },
+   "understand-4": {
+    "objective": "Summarize why positive feelings matter for sticking with physical activity over time.",
+    "observableCheck": "Each student writes a paragraph connecting enjoyment to staying active.",
+    "sampleTask": "Students write a paragraph explaining why how an activity feels affects whether a person keeps doing it. The paragraph must use at least two factors from the class list. Pairs underline the factors used. Guide flags any paragraph that did not connect feeling to staying active.",
+    "materials": ["lined paper"]
+   },
+   "apply-1": {
+    "objective": "Rate personal enjoyment of three activities right after doing each one.",
+    "observableCheck": "Each student records a rating and one factor for each of three activities.",
+    "sampleTask": "Guide runs three short activity stations. After each, students record a one-to-five enjoyment rating and name the main factor behind it on a tracking sheet. After all three, students mark which factor mattered most across the day. Guide tallies the highest-rated station and the factors behind it.",
+    "materials": ["enjoyment tracking sheet", "three activity stations"]
+   },
+   "apply-2": {
+    "objective": "Apply known positive factors to redesign a drill the student usually dislikes.",
+    "observableCheck": "Each student rewrites one drill, naming the factor each change adds.",
+    "sampleTask": "Each student names a drill they dislike and rewrites it to add two positive factors, such as a partner or a clear progress marker. Each change is labeled with the factor it adds. Pairs check the changes would actually help. Guide collects two redesigns that made a disliked drill more appealing.",
+    "materials": ["drill redesign sheet"]
+   },
+   "apply-3": {
+    "objective": "Explain to a peer how to make a familiar activity feel better using one factor.",
+    "observableCheck": "The partner names the factor and the change the speaker suggested.",
+    "sampleTask": "Pairs take turns. One suggests how to make a familiar activity feel better using one positive factor and explains why it would work. The listener restates the factor and the change. They switch. Guide circulates and notes one pair whose suggestion was specific.",
+    "materials": ["factor list"]
+   },
+   "apply-4": {
+    "objective": "Build a personal feel-good activity menu listing five activities and the factor each provides.",
+    "observableCheck": "Each student turns in a menu of five activities each paired with its main positive factor.",
+    "sampleTask": "Each student builds a one-page menu of five activities they could turn to, each labeled with the positive factor it reliably provides, such as music for energy or a friend for fun. The menu must work for a low-motivation day. Pairs check the factors are honest, not aspirational. Guide reviews three menus for usefulness.",
+    "materials": ["menu template", "factor list"]
+   },
+   "analyze-1": {
+    "objective": "Identify, in two activity descriptions, which positive factors each one offers.",
+    "observableCheck": "Each student marks the factors present in each of two descriptions.",
+    "sampleTask": "Guide hands out two activity descriptions. Students mark which positive factors each one offers, drawing from the class category list. Pairs compare their marks. Guide reveals the factors built into each description and discusses any students missed.",
+    "materials": ["two activity descriptions", "factor list"]
+   },
+   "analyze-2": {
+    "objective": "Compare which factors drive enjoyment for two different students for the same activity.",
+    "observableCheck": "Each pair lists where their enjoyment factors for one activity overlap and differ.",
+    "sampleTask": "Pairs pick one activity both have done and list which factors drive their enjoyment, then mark overlaps and differences. They discuss why the same activity can feel different to two people. Pairs share one surprising difference with another pair. Guide names the most common point of difference.",
+    "materials": ["comparison handout", "factor list"]
+   },
+   "analyze-3": {
+    "objective": "Trace why enjoyment of an activity dropped over time by examining which factor disappeared.",
+    "observableCheck": "Each student names the lost factor and the point where enjoyment fell.",
+    "sampleTask": "Students recall an activity they once liked but stopped enjoying and trace what changed, naming the factor that disappeared, such as friends leaving or progress stalling. They mark roughly when the drop happened. Pairs suggest one way the factor could have been restored. Guide charts the most common lost factor.",
+    "materials": ["lined paper", "factor list"]
+   },
+   "analyze-4": {
+    "objective": "Analyze how the same factor, such as competition, can raise enjoyment for some and lower it for others.",
+    "observableCheck": "Each student gives one case where a factor helped and one where it hurt.",
+    "sampleTask": "Guide names a double-edged factor like competition or visible progress tracking. Each student writes one case where it raised enjoyment and one where it lowered enjoyment. Pairs compare and decide what tips it one way or the other. Guide collects two analyses that pinpointed the tipping condition.",
+    "materials": ["lined paper", "factor list"]
+   },
+   "evaluate-1": null,
+   "evaluate-2": null,
+   "evaluate-3": {
+    "objective": "Judge whether a peer's feel-good menu would actually help on a low-motivation day, citing entries.",
+    "observableCheck": "Each student writes a verdict on a peer menu citing two specific entries.",
+    "sampleTask": "Students swap the menus from Apply-4 and score them on a rubric for honest factors, variety, and usefulness on a hard day. Each reviewer writes a verdict citing two entries that earned or lost points. The reviewer suggests one swap. Guide checks three reviews against the rubric.",
+    "materials": ["peer menus", "three-point rubric"]
+   },
+   "evaluate-4": {
+    "objective": "Defend which single factor matters most for keeping teenagers active, ranking it against others.",
+    "observableCheck": "Each student presents a top factor with two reasons and a ranked list behind it.",
+    "sampleTask": "Each student ranks the class's positive factors by how much they keep teenagers active and defends the top pick with two reasons. Small groups compare rankings and try to agree on a top three. Guide records each group's top factor and the reasoning that swayed the group.",
+    "materials": ["ranking sheet", "factor list"]
+   },
+   "create-1": {
+    "objective": "Produce a poster of five positive factors with a quick example of each.",
+    "observableCheck": "Each student turns in a poster naming five factors each with one example.",
+    "sampleTask": "Each student makes a small poster listing five positive factors, each with a one-line example a classmate would recognize. The poster must read at a glance. Pairs check the examples fit the factors. Guide posts the clearest ones around the gym.",
+    "materials": ["poster paper", "markers", "factor list"]
+   },
+   "create-2": {
+    "objective": "Design a class warm-up that deliberately builds in three positive factors.",
+    "observableCheck": "Each student submits a warm-up plan labeling the three factors and where each appears.",
+    "sampleTask": "Each student designs a five-minute warm-up that builds in three positive factors, labeling where each appears, such as music for energy or a partner for fun. The warm-up must still get the body ready to move. Pairs run one section to test it. Guide collects two warm-ups that wove the factors in naturally.",
+    "materials": ["warm-up planning sheet", "open floor space"]
+   },
+   "create-3": {
+    "objective": "Create a class enjoyment campaign that promotes one activity by highlighting its positive factors.",
+    "observableCheck": "Each group produces a campaign piece naming the activity and at least two factors.",
+    "sampleTask": "Small groups build a short campaign, such as a poster and a thirty-second pitch, to get classmates to try one activity, leading with two positive factors it offers. The campaign must be honest about what the activity provides. Groups deliver the pitch to the class. Guide has the class note which campaign would get them to try the activity.",
+    "materials": ["poster paper", "markers", "timer"]
+   },
+   "create-4": {
+    "objective": "Develop a personal plan to add one positive factor to a required activity the student finds dull.",
+    "observableCheck": "Each student submits a plan naming the activity, the added factor, and how they will know it helped.",
+    "sampleTask": "Each student picks a required activity they find dull and writes a plan to add one positive factor, with steps and a way to tell if enjoyment rose. The plan must keep the activity's purpose intact. Pairs check the success measure is observable. Guide reviews three plans for whether the added factor is realistic.",
+    "materials": ["plan template", "factor list"]
+   }
+  }
+ }
+}

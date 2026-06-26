@@ -1,0 +1,260 @@
+{
+  "2.2.8.LF.6": {
+    "schema_version": 1,
+    "standardCode": "2.2.8.LF.6",
+    "standardStatement": "Develop a strategy to overcome barriers that allows for a visit in the community that promotes physical activities.",
+    "subject": "chpe",
+    "grade": "8",
+    "generatedAt": "GENAT",
+    "cells": {
+      "remember-1": {
+        "objective": "Name three community places nearby where a person can be physically active.",
+        "observableCheck": "Each student lists three named places on an index card before discussion starts.",
+        "sampleTask": "Guide posts the prompt: 'Name three real places within a short trip of our school where someone could walk, play, swim, or move.' Each student writes three on an index card. Cards go on a class map of the area, pinned near the place named. The Guide reads back the full list so every student leaves with more options than they came in with.",
+        "materials": ["index cards", "large printed local map", "push pins"]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Describe what counts as a barrier that keeps someone from visiting a community activity place.",
+        "observableCheck": "Each student writes a one-sentence definition of barrier and gives one example.",
+        "sampleTask": "Guide gives a half-sheet with the sentence stem 'A barrier is something that...'. Students finish the sentence and add one example from their own week. Pairs trade sheets and check that the example actually blocks a visit rather than just makes it less fun. The Guide collects three strong examples to read aloud.",
+        "materials": ["half-sheet handout", "pencils"]
+      },
+      "understand-2": {
+        "objective": "Explain how a named barrier blocks access to a specific activity place.",
+        "observableCheck": "Each student writes a 'because' sentence linking one barrier to one place from the class map.",
+        "sampleTask": "Each student picks one place from the class map and one barrier and writes 'I cannot visit [place] because [barrier]'. Then they add one sentence saying who else the same barrier would block. Pairs read each other's sentences and mark whether the barrier is real for many people or only for one. The Guide charts the barriers that showed up most.",
+        "materials": ["class map from Remember-1", "sentence-frame handout"]
+      },
+      "understand-3": {
+        "objective": "Sort barriers into types such as cost, distance, time, and safety.",
+        "observableCheck": "Each student places eight barrier cards into the correct type column on a sorting mat.",
+        "sampleTask": "Guide hands each pair eight barrier cards and a four-column sorting mat labeled cost, distance, time, and safety. Pairs place each card and write one card of their own for any column that feels thin. Pairs compare mats with a neighbor pair and resolve disagreements. The Guide names the column with the most cards as the one the class will target.",
+        "materials": ["barrier cards", "four-column sorting mat", "blank cards"]
+      },
+      "understand-4": {
+        "objective": "Connect the type of barrier a person faces to the kind of help that would remove it.",
+        "observableCheck": "Each student matches four barrier types to four support options on a worksheet.",
+        "sampleTask": "Students get a worksheet with four barrier types on the left and six possible supports on the right, such as a bus pass, a buddy, a free community day, and a daylight schedule. Students draw lines from each barrier type to the support that fits and cross out the two extras. They write one sentence explaining the hardest match. Whole-class review settles the matches.",
+        "materials": ["matching worksheet", "pencils"]
+      },
+      "apply-1": {
+        "objective": "Select the correct support for a stated barrier in five short scenarios.",
+        "observableCheck": "Each student writes the matching support beside each of five scenarios.",
+        "sampleTask": "Guide gives a scenario strip with five short situations, each naming a person and a barrier. Students write next to each the one support that would let that person make the visit. Pairs compare answers and flag any scenario with two reasonable answers. The Guide reads the trickiest scenario and takes two student answers.",
+        "materials": ["scenario strips", "pencils"]
+      },
+      "apply-2": {
+        "objective": "Use a planning template to lay out the steps of one community activity visit.",
+        "observableCheck": "Each student fills every row of a visit-planning template for one chosen place.",
+        "sampleTask": "Students pick one place from the class map and complete a planning template with rows for getting there, cost, who comes along, what to bring, and the day and time. Each row must name a specific answer, not 'somehow'. Pairs swap templates and circle any row that is still vague. Students fix circled rows before the Guide collects.",
+        "materials": ["visit-planning template", "class map", "pencils"]
+      },
+      "apply-3": {
+        "objective": "Apply a barrier-removal strategy to a peer's stalled visit plan and revise it.",
+        "observableCheck": "Each student adds at least two concrete fixes to a partner's plan in writing.",
+        "sampleTask": "Pairs trade the planning templates from Apply-2. Each student finds the two weakest rows on the partner's plan and writes a specific fix in the margin, such as a named bus route or a free Saturday hour. Partners talk through the fixes and decide which to keep. Each student rewrites one fixed row in clean form.",
+        "materials": ["completed planning templates", "colored pens"]
+      },
+      "apply-4": {
+        "objective": "Build a step-by-step strategy that carries a visit plan through more than one barrier at once.",
+        "observableCheck": "Each student produces a numbered action sequence that names a fix for each barrier in their plan.",
+        "sampleTask": "Students take their revised plan and write a numbered strategy, one step per line, that handles every barrier they listed in order. Each step names who does it and when. Students test the sequence by reading it to a partner who marks any step that depends on a missing earlier step. Students reorder steps to close the gaps.",
+        "materials": ["revised plans", "lined strategy sheet", "pencils"]
+      },
+      "analyze-1": {
+        "objective": "Identify which single barrier blocks the most students in the class.",
+        "observableCheck": "Each student reads the class barrier tally and names the top barrier in one sentence.",
+        "sampleTask": "Guide displays the tally of barriers collected across the lesson. Students study the counts and write the one barrier with the highest count, plus the runner-up. They add one sentence on whether the top barrier is the same for grade 5 students they know. Pairs compare conclusions and the Guide confirms the count.",
+        "materials": ["class barrier tally", "note cards"]
+      },
+      "analyze-2": {
+        "objective": "Compare two activity places to determine which has fewer barriers for most students.",
+        "observableCheck": "Each student completes a two-column comparison and circles the lower-barrier place.",
+        "sampleTask": "Students pick two places from the class map and fill a two-column chart listing cost, distance, time, and safety for each. They circle the place with fewer or smaller barriers and write one sentence defending the choice. Pairs challenge each other's circles with one counterpoint. The Guide takes two defenses to the class.",
+        "materials": ["two-column comparison chart", "class map", "pencils"]
+      },
+      "analyze-3": {
+        "objective": "Trace why a sample visit plan failed and pinpoint the barrier the strategy missed.",
+        "observableCheck": "Each student marks the failure point on a sample plan and names the missed barrier.",
+        "sampleTask": "Guide hands out a sample plan that broke down partway through a visit. Students read it, mark the exact step where it failed, and write which barrier the planner did not handle. They add the one fix that would have kept the plan alive. Pairs compare failure points and the Guide reveals what actually went wrong.",
+        "materials": ["printed failed-plan sample", "highlighters"]
+      },
+      "analyze-4": {
+        "objective": "Break down how cost, distance, time, and safety interact in one student's real situation.",
+        "observableCheck": "Each student produces a one-page map showing how their four barriers connect and reinforce each other.",
+        "sampleTask": "Students draw a one-page web with their chosen activity place in the center and the four barrier types around it. They draw arrows showing where one barrier makes another worse, such as distance raising cost. Each arrow gets a short label. Pairs read each other's webs and add one arrow the partner missed. The Guide collects the webs as the analysis artifact.",
+        "materials": ["plain paper", "rulers", "colored pens"]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Judge which of three barrier-removal strategies is most likely to work for a given student and defend the pick.",
+        "observableCheck": "Each student ranks three strategies and writes a paragraph defending the top choice against the others.",
+        "sampleTask": "Guide gives a profile of a student with named barriers and three competing strategies to fix them. Students rank the three and write a paragraph saying why the top one beats the other two for this person. They name one situation where their pick would fail. Pairs trade paragraphs and score each other against a two-point rubric for evidence and a named weakness.",
+        "materials": ["student profile card", "three strategy cards", "two-point rubric"]
+      },
+      "evaluate-4": {
+        "objective": "Assess a full class plan to promote community activity and recommend which strategy to fund first.",
+        "observableCheck": "Each student writes a recommendation memo naming one strategy to fund first with two reasons.",
+        "sampleTask": "Students review the class's collected strategies as if they had a small budget that covers only one. Each writes a short memo to the Guide naming the one strategy to fund first, with two reasons tied to the barrier tally. They name who benefits most and who is left out. The Guide sorts memos by recommendation and reports the class split.",
+        "materials": ["class strategy list", "barrier tally", "memo template"]
+      },
+      "create-1": {
+        "objective": "Draft a single poster slogan that invites peers to a named community activity place.",
+        "observableCheck": "Each student writes one slogan under ten words naming the place and the action.",
+        "sampleTask": "Students pick one place from the class map and write a single slogan, under ten words, that names the place and tells peers what to do there. They write it large on a quarter sheet. Pairs vote on which of two slogans is clearer. The Guide posts the top slogans near the class map.",
+        "materials": ["quarter sheets", "markers"]
+      },
+      "create-2": {
+        "objective": "Produce a one-page visit plan that combines a place, a strategy, and a schedule.",
+        "observableCheck": "Each student turns in a one-page plan with place, barrier strategy, and a dated schedule filled in.",
+        "sampleTask": "Students build a clean one-page plan that pulls together their chosen place, the barrier strategy they wrote, and a specific day and time. Each section gets at least two full sentences. Pairs check that the schedule and the strategy do not contradict each other. Students fix any clash before turning in.",
+        "materials": ["one-page plan template", "completed strategy sheets", "pencils"]
+      },
+      "create-3": {
+        "objective": "Design a small campaign that gets a group of peers to visit one activity place together.",
+        "observableCheck": "Each group produces a campaign sheet naming the message, the channel, and the visit date.",
+        "sampleTask": "Groups of three design a short campaign to get classmates to one activity place on one date. The campaign sheet must name the message, how they will spread it, and the exact visit day and time. Groups present the sheet in sixty seconds to another group, who asks one hard question about barriers. Groups revise the weakest part before the Guide collects.",
+        "materials": ["campaign planning sheet", "markers", "timer"]
+      },
+      "create-4": {
+        "objective": "Construct a class proposal that removes the top barrier so most students can reach community activity.",
+        "observableCheck": "Each group submits a proposal naming the barrier, the fix, the cost, and who carries it out.",
+        "sampleTask": "Working from the class barrier tally, groups write a proposal that attacks the single top barrier for the whole class. The proposal names the barrier, the concrete fix, a rough cost, and the person or group who would run it. Groups read proposals to the class and the class scores each on whether it would actually move the most students. The Guide keeps the highest-scoring proposal as the class artifact.",
+        "materials": ["proposal template", "barrier tally", "scoring sheet"]
+      }
+    }
+  },
+  "2.2.8.LF.7": {
+    "schema_version": 1,
+    "standardCode": "2.2.8.LF.7",
+    "standardStatement": "Evaluate personal attributes as they relate to career options in physical activity and health professions.",
+    "subject": "chpe",
+    "grade": "8",
+    "generatedAt": "GENAT",
+    "cells": {
+      "remember-1": {
+        "objective": "List five careers in physical activity or health professions.",
+        "observableCheck": "Each student writes five named careers on a card before any discussion.",
+        "sampleTask": "Guide posts the prompt: 'Name five jobs where someone works with movement, fitness, or health.' Students write five on a card. Cards go on a board sorted into physical-activity jobs and health-profession jobs. The Guide reads the combined list so students see careers they had not named.",
+        "materials": ["index cards", "class board", "two header labels"]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Describe what a personal attribute is and give two examples about yourself.",
+        "observableCheck": "Each student writes a definition of personal attribute and lists two of their own.",
+        "sampleTask": "Guide gives the stem 'A personal attribute is...'. Students finish it and list two attributes they have, such as patience or strong balance. Pairs check that each listed item is an attribute, not a hobby or a wish. The Guide reads three clear examples aloud and corrects one common mix-up.",
+        "materials": ["half-sheet handout", "pencils"]
+      },
+      "understand-2": {
+        "objective": "Explain why a specific career calls for a specific attribute.",
+        "observableCheck": "Each student writes a 'this job needs this trait because' sentence for two careers.",
+        "sampleTask": "Each student picks two careers from the class board and writes 'a [career] needs [attribute] because [reason]' for each. The reason must name a real task the worker does. Pairs read each other's sentences and mark whether the reason names a task or just repeats the trait. The Guide charts the attributes that came up most.",
+        "materials": ["class board list", "sentence-frame handout"]
+      },
+      "understand-3": {
+        "objective": "Group careers by the cluster of attributes each one demands.",
+        "observableCheck": "Each student sorts ten career cards into attribute clusters on a mat.",
+        "sampleTask": "Guide hands pairs ten career cards and a mat with clusters such as people-facing, detail-and-precision, and physical-stamina. Pairs place each career and write one card for any cluster that looks thin. Pairs compare with a neighbor pair and resolve splits. The Guide names which cluster held the most careers.",
+        "materials": ["career cards", "cluster sorting mat", "blank cards"]
+      },
+      "understand-4": {
+        "objective": "Connect a student's own attributes to the cluster of careers that fits them.",
+        "observableCheck": "Each student writes which career cluster fits their attributes and names one career in it.",
+        "sampleTask": "Students list three of their own attributes, then mark which cluster from Understand-3 those attributes point toward. They name one career in that cluster and write one sentence on the fit. Pairs trade and check that the named career actually sits in the chosen cluster. The Guide collects the strongest fits.",
+        "materials": ["cluster mat reference", "reflection half-sheet"]
+      },
+      "apply-1": {
+        "objective": "Match a listed attribute to the career that most needs it across five items.",
+        "observableCheck": "Each student writes the matching career beside each of five attributes.",
+        "sampleTask": "Guide gives a strip listing five attributes. Students write next to each the one career from a provided word bank that needs it most. Pairs compare and flag any attribute that fits two careers. The Guide reads the most-debated item and takes two answers.",
+        "materials": ["attribute strips", "career word bank", "pencils"]
+      },
+      "apply-2": {
+        "objective": "Use a self-rating scale to score your own attributes against one chosen career.",
+        "observableCheck": "Each student completes a rating sheet scoring four attributes one through four for one career.",
+        "sampleTask": "Students pick one career and rate themselves one through four on four attributes that career needs. Each rating gets a one-line example that backs the score. Pairs swap sheets and challenge any score with no example. Students add a missing example before turning in.",
+        "materials": ["self-rating sheet", "career attribute list", "pencils"]
+      },
+      "apply-3": {
+        "objective": "Apply the rating results to choose which of two careers fits you better right now.",
+        "observableCheck": "Each student picks one of two careers and cites two ratings that drove the choice.",
+        "sampleTask": "Students run the Apply-2 rating for a second career, then pick the better current fit. They write two sentences, each naming a specific rating that pushed the decision. Pairs check that the cited ratings actually favor the chosen career. The Guide takes two contrasting choices to the class.",
+        "materials": ["two completed rating sheets", "decision half-sheet"]
+      },
+      "apply-4": {
+        "objective": "Build an attribute-growth plan that raises your weakest score for a target career.",
+        "observableCheck": "Each student writes a three-step plan naming actions to grow one low-rated attribute.",
+        "sampleTask": "Students take their lowest rating from Apply-2 and write a three-step plan to raise it, with each step naming a specific action and when to do it. The plan ends with how they would know the attribute grew. Pairs test the plan by marking any step that is a wish rather than an action. Students rewrite weak steps.",
+        "materials": ["rating sheets", "lined plan template", "pencils"]
+      },
+      "analyze-1": {
+        "objective": "Identify which attribute shows up across the most health and activity careers.",
+        "observableCheck": "Each student reads the class attribute chart and names the most-shared attribute.",
+        "sampleTask": "Guide displays the chart of attributes collected across careers. Students name the attribute that appears in the most careers and the one that appears least. They add a sentence on why the top one is so common. Pairs compare and the Guide confirms the count.",
+        "materials": ["class attribute chart", "note cards"]
+      },
+      "analyze-2": {
+        "objective": "Compare two careers to determine which demands more of the same attribute.",
+        "observableCheck": "Each student completes a two-column chart and circles the higher-demand career.",
+        "sampleTask": "Students pick one attribute and two careers, then fill a two-column chart describing how each career uses that attribute. They circle the career that demands more of it and write one defending sentence. Pairs challenge the circle with a counterpoint. The Guide takes two defenses.",
+        "materials": ["two-column chart", "career list", "pencils"]
+      },
+      "analyze-3": {
+        "objective": "Examine a worker profile to find the gap between the person's attributes and the job's demands.",
+        "observableCheck": "Each student marks one attribute gap on a profile and names its effect on the job.",
+        "sampleTask": "Guide hands out a profile of a worker whose attributes only partly fit their job. Students mark the attribute the worker is short on and write how that gap would show up at work. They add one way the worker could close the gap. Pairs compare gaps and the Guide reveals the intended gap.",
+        "materials": ["worker profile card", "highlighters"]
+      },
+      "analyze-4": {
+        "objective": "Break down how several of your attributes combine to open or close a career path.",
+        "observableCheck": "Each student produces a one-page web linking three attributes to the careers they open or block.",
+        "sampleTask": "Students draw a one-page web with three of their attributes in the center and careers around the edge. Arrows show which attributes open which careers and which attributes would hold one back. Each arrow gets a short label. Pairs add one arrow the partner missed. The Guide collects the webs.",
+        "materials": ["plain paper", "rulers", "colored pens"]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Judge whether a peer's career choice fits their stated attributes and defend the verdict.",
+        "observableCheck": "Each student writes a verdict with two pieces of evidence from the peer's attribute list.",
+        "sampleTask": "Pairs trade their Understand-4 fits. Each student judges whether the partner's named career truly fits the partner's attributes and writes a verdict backed by two specific attributes. They name one attribute the partner would still need to build. Partners discuss and each scores the other against a two-point rubric for evidence and a named gap.",
+        "materials": ["peer fit sheets", "two-point rubric"]
+      },
+      "evaluate-4": {
+        "objective": "Assess your own readiness for a target career and recommend your single best next step.",
+        "observableCheck": "Each student writes a readiness memo naming one next step with two reasons drawn from their ratings.",
+        "sampleTask": "Students review their full set of ratings and plans for a target career and write a short memo on how ready they are now. The memo names the one next step that matters most, with two reasons tied to specific ratings. They name the attribute that would change the verdict if it grew. The Guide sorts memos by next step and reports common choices.",
+        "materials": ["completed ratings and plans", "memo template"]
+      },
+      "create-1": {
+        "objective": "Draft a one-line career goal statement that names a career and one matching attribute.",
+        "observableCheck": "Each student writes one sentence naming a target career and one attribute that fits it.",
+        "sampleTask": "Students write a single goal sentence in the form 'I am aiming at [career] because I have [attribute]'. They write it large on a quarter sheet. Pairs check that the attribute genuinely fits the career. The Guide posts the goal statements on the careers board.",
+        "materials": ["quarter sheets", "markers"]
+      },
+      "create-2": {
+        "objective": "Produce a one-page profile pairing your attributes with a chosen career and its demands.",
+        "observableCheck": "Each student turns in a profile with attributes, career demands, and the matches marked.",
+        "sampleTask": "Students build a one-page profile with their key attributes on one side, the chosen career's demands on the other, and lines drawn between matches. Each match gets a one-line note. Pairs check that every drawn line connects a real attribute to a real demand. Students fix stray lines before turning in.",
+        "materials": ["profile template", "career demand list", "pencils"]
+      },
+      "create-3": {
+        "objective": "Design a short interview plan to learn what attributes a real worker in a target career uses.",
+        "observableCheck": "Each student writes five interview questions aimed at attributes the career demands.",
+        "sampleTask": "Students pick a target career and write five interview questions for a worker in it, each aimed at a specific attribute, not at salary or hours. Pairs swap question sets and cut any question that does not target an attribute. Students replace cut questions. The Guide collects the sharpest sets to model a real interview.",
+        "materials": ["question planning sheet", "career list", "pencils"]
+      },
+      "create-4": {
+        "objective": "Construct a two-year attribute-building roadmap toward a target career.",
+        "observableCheck": "Each student submits a roadmap with dated milestones tied to specific attributes.",
+        "sampleTask": "Students build a roadmap that names a target career and lays out milestones across the next two years, each tied to growing a specific attribute the career needs. Each milestone names an action and roughly when it happens. Pairs read each other's roadmaps and flag any milestone with no attribute attached. Students fix flagged milestones before the Guide collects the roadmap.",
+        "materials": ["roadmap template", "attribute and career notes", "pencils"]
+      }
+    }
+  }
+}

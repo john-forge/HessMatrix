@@ -1,0 +1,260 @@
+{
+ "2.3.5.DSDT.3": {
+  "schema_version": 1,
+  "standardCode": "2.3.5.DSDT.3",
+  "standardStatement": "Demonstrate effective refusal skills of alcohol, e-cigarettes, vaping products, cannabis products, opioids, and other substances that can negatively impact health.",
+  "subject": "chpe",
+  "grade": "5",
+  "generatedAt": "2026-06-17T20:39:02.696250Z",
+  "cells": {
+   "remember-1": {
+    "objective": "Name four refusal moves a person can use when offered a substance, such as saying no clearly, giving a reason, suggesting another activity, and walking away.",
+    "observableCheck": "Each student lists four refusal moves on an index card from memory.",
+    "sampleTask": "Guide posts the prompt: 'A person can say no in more than one way. Name as many ways as you can.' Each student writes their list on an index card. Cards go up on the board and the class circles the four moves that show up most often.",
+    "materials": ["index cards", "class board", "markers"]
+   },
+   "remember-2": null,
+   "remember-3": null,
+   "remember-4": null,
+   "understand-1": {
+    "objective": "Match each refusal move to a short script that shows it in action.",
+    "observableCheck": "Each student pairs four refusal moves with four sample lines on a worksheet.",
+    "sampleTask": "Guide hands out a worksheet with four refusal moves in one column and six sample lines in the other, two of which are decoys. Students draw lines from each move to the line that fits. The class reviews the matches together and crosses out the two decoy lines.",
+    "materials": ["matching worksheet"]
+   },
+   "understand-2": {
+    "objective": "Explain why a clear no works better than a quiet no when someone offers a vape or other substance.",
+    "observableCheck": "Each student writes two sentences contrasting a weak refusal and a strong one.",
+    "sampleTask": "Guide reads two short refusal lines aloud, one mumbled and vague, one clear and firm. Each student writes which one is stronger and gives two reasons in full sentences. Partners trade papers and underline the reason they find most convincing.",
+    "materials": ["refusal line cards", "writing handout"]
+   },
+   "understand-3": {
+    "objective": "Summarize what makes a refusal effective by drawing a rule that holds across several offers.",
+    "observableCheck": "Each student writes one rule for refusing that would work for alcohol, vaping, and cannabis alike.",
+    "sampleTask": "Students read three short scenarios where a peer offers a different substance in each. They look for what a good refusal has in common across all three and write one rule that fits every case. Pairs test their rule against a fourth scenario the Guide reveals at the end.",
+    "materials": ["scenario handout", "rule worksheet"]
+   },
+   "understand-4": {
+    "objective": "Describe how a person's refusal changes depending on who is offering, comparing a stranger, a friend, and an older relative.",
+    "observableCheck": "Each student fills a three-row chart noting how the refusal shifts for each person.",
+    "sampleTask": "Guide gives students a chart with three rows: stranger, friend, older relative. For each, students write how they would refuse and what stays the same. Students circle the one refusal they think would be hardest and write one sentence on why it is harder than the others.",
+    "materials": ["three-row chart", "pencils"]
+   },
+   "apply-1": {
+    "objective": "Recite a firm refusal line out loud in response to a single scripted offer.",
+    "observableCheck": "Each student says one clear refusal line when the Guide reads an offer.",
+    "sampleTask": "Guide reads one offer line to the class, such as 'Want to try this vape? No one will know.' Going around the room, each student answers with a clear refusal of their own. The Guide notes which lines were firm and reads back two strong examples.",
+    "materials": ["offer prompt card"]
+   },
+   "apply-2": {
+    "objective": "Perform a two-line refusal in a partner role-play where the partner pushes back once.",
+    "observableCheck": "Each pair acts out a refusal where the refuser holds the no after one push.",
+    "sampleTask": "Pairs get a role-play card: one student offers a substance and pushes back once, the other refuses and holds. Students run it twice so each takes both roles. Two pairs perform for the class and the Guide names the move that held the no.",
+    "materials": ["role-play cards"]
+   },
+   "apply-3": {
+    "objective": "Choose and carry out the best refusal move for a scenario where a close friend keeps offering.",
+    "observableCheck": "Each student picks a refusal move, justifies the pick in one sentence, then performs it.",
+    "sampleTask": "Guide gives each pair a harder scenario where a close friend offers three times. Students decide which refusal move fits best, write one sentence saying why, and act it out. The class votes on which performed refusal would be most likely to work and explains the vote.",
+    "materials": ["scenario cards", "decision slip"]
+   },
+   "apply-4": {
+    "objective": "Build and rehearse a personal refusal plan that a student could use across a week of real situations.",
+    "observableCheck": "Each student completes a planning sheet listing situations, refusal moves, and a trusted adult to tell.",
+    "sampleTask": "Students fill a planning sheet that names three situations they might actually face, the refusal move for each, and one adult they would tell afterward. They rehearse one situation with a partner. Students keep the sheet and the Guide collects a photo of each for follow-up.",
+    "materials": ["refusal planning sheet", "pencils"]
+   },
+   "analyze-1": {
+    "objective": "Spot which line in a written exchange is the actual refusal and which lines are just stalling.",
+    "observableCheck": "Each student highlights the refusal line and crosses out the stalling lines in a transcript.",
+    "sampleTask": "Guide gives each student a short written exchange where a person stalls twice before refusing once. Students highlight the real refusal and cross out the stalls. The class discusses why stalling leaves the door open and the refusal closes it.",
+    "materials": ["transcript handout", "highlighters"]
+   },
+   "analyze-2": {
+    "objective": "Compare two recorded refusals and identify which moves made one hold and the other fold.",
+    "observableCheck": "Each student lists the moves used in each refusal and marks which refusal held.",
+    "sampleTask": "Guide performs or plays two short refusals, one that holds and one that caves. Students list the moves used in each on a two-column sheet and mark which one held. Pairs agree on the single move that made the biggest difference and report it out.",
+    "materials": ["two-column comparison sheet"]
+   },
+   "analyze-3": {
+    "objective": "Trace how pressure escalates in a scenario and pinpoint the moment a refusal had to get firmer.",
+    "observableCheck": "Each student marks the turning point on a scenario script and labels the firmer move needed.",
+    "sampleTask": "Students read a scenario where an offer starts friendly and turns pushy. They mark the exact line where the pressure rises and write what firmer refusal move the person should switch to. Pairs compare turning points and settle any disagreement using the text.",
+    "materials": ["escalation scenario script", "pencils"]
+   },
+   "analyze-4": {
+    "objective": "Examine a set of peer refusal role-plays and sort the moves by how well each one shut the offer down.",
+    "observableCheck": "Each group ranks four observed refusal moves from most to least effective with a reason for the top pick.",
+    "sampleTask": "Groups watch four short refusal role-plays performed by classmates. They sort the four moves on a ranking strip from most to least effective and write one reason for the move they ranked first. Groups post their strips and the class looks for moves that landed in the top spot more than once.",
+    "materials": ["ranking strips", "role-play list"]
+   },
+   "evaluate-1": null,
+   "evaluate-2": null,
+   "evaluate-3": {
+    "objective": "Judge whether a written refusal would actually work and defend the verdict with evidence from the text.",
+    "observableCheck": "Each student rates a sample refusal as strong or weak and cites two lines that justify the rating.",
+    "sampleTask": "Guide hands out a sample refusal that looks polite but never says no. Each student rates it strong or weak and quotes two lines that back the rating. Pairs that disagree argue it out and the Guide settles ties by pointing to whether a no was ever stated.",
+    "materials": ["sample refusal handout", "rating slip"]
+   },
+   "evaluate-4": {
+    "objective": "Critique the refusal advice in a poster or video aimed at fifth graders and recommend what to keep, cut, or change.",
+    "observableCheck": "Each group produces a review naming one part to keep, one to cut, and one to change, each with a reason.",
+    "sampleTask": "Groups review a real or sample anti-vaping poster or short clip made for kids their age. They complete a keep, cut, change form, giving a reason rooted in what makes refusals work. Groups present their review and the class drafts one shared note to send back to the poster's makers.",
+    "materials": ["sample poster or clip", "keep-cut-change form"]
+   },
+   "create-1": {
+    "objective": "Write a single firm refusal line a student could memorize and use this week.",
+    "observableCheck": "Each student produces one refusal line on a card to carry or post.",
+    "sampleTask": "Guide asks each student to write one refusal line they would actually say, short enough to remember under pressure. Students copy it onto a small card. Volunteers read theirs aloud and the class picks three to post by the door.",
+    "materials": ["small cards", "markers"]
+   },
+   "create-2": {
+    "objective": "Storyboard a short refusal skit that shows a clear no and one trusted adult to tell.",
+    "observableCheck": "Each pair turns in a three-panel storyboard with the refusal and the follow-up named.",
+    "sampleTask": "Pairs draw a three-panel storyboard: the offer, the refusal, and telling a trusted adult. Each panel needs one line of dialogue. Pairs trade storyboards and check that a clear no appears in panel two.",
+    "materials": ["three-panel storyboard sheet", "markers"]
+   },
+   "create-3": {
+    "objective": "Design a refusal toolkit poster that matches each common offer to the move most likely to shut it down.",
+    "observableCheck": "Each group produces a poster pairing at least four offers with fitting refusal moves.",
+    "sampleTask": "Groups build a poster that lists four common offers down one side and the best refusal move for each across from it. Each pairing needs a one-line reason. Groups hang the posters and walk the room to check that the moves actually fit the offers.",
+    "materials": ["poster paper", "markers", "refusal move list"]
+   },
+   "create-4": {
+    "objective": "Produce a short refusal lesson the group could teach to younger students, complete with a script and a practice activity.",
+    "observableCheck": "Each group turns in a one-page plan with a refusal script and one practice activity for a younger class.",
+    "sampleTask": "Groups design a one-page mini-lesson to teach refusal skills to second or third graders. The plan needs a simple script and one practice activity the younger students could run. Groups rehearse the opening and the Guide checks that the language fits a younger audience.",
+    "materials": ["lesson plan template", "markers"]
+   }
+  }
+ },
+ "2.3.5.DSDT.4": {
+  "schema_version": 1,
+  "standardCode": "2.3.5.DSDT.4",
+  "standardStatement": "Demonstrate strategies for seeking assistance for someone impacted by an individual who is struggling with the use/abuse of alcohol or drugs.",
+  "subject": "chpe",
+  "grade": "5",
+  "generatedAt": "2026-06-17T20:39:02.696250Z",
+  "cells": {
+   "remember-1": {
+    "objective": "Name three trusted adults a student could go to for help when someone at home is struggling with alcohol or drugs.",
+    "observableCheck": "Each student writes three trusted adults on a card.",
+    "sampleTask": "Guide poses the prompt: 'If a kid needed help because someone close to them was using alcohol or drugs, who could that kid talk to?' Each student writes three trusted adults on a card. Cards go on the board grouped into home, school, and community.",
+    "materials": ["index cards", "class board"]
+   },
+   "remember-2": null,
+   "remember-3": null,
+   "remember-4": null,
+   "understand-1": {
+    "objective": "Describe what each trusted adult can do to help when a family member is using substances.",
+    "observableCheck": "Each student writes one sentence per adult naming the help that adult can give.",
+    "sampleTask": "Using the trusted-adult list from the class board, students write one sentence for each of three adults naming what that person can actually do, such as listen, connect to a counselor, or call for help. Pairs trade and check that each sentence names a real action, not just 'help.'",
+    "materials": ["trusted-adult list", "writing handout"]
+   },
+   "understand-2": {
+    "objective": "Explain why a child is not to blame and cannot fix an adult's substance use on their own.",
+    "observableCheck": "Each student writes two true statements about what is and is not a child's job in this situation.",
+    "sampleTask": "Guide reads four statements, some true and some false, about whose job it is to fix an adult's drinking or drug use. Students sort each as true or false and rewrite the false ones to be true. The class reviews the rewrites and the Guide names the three rules to remember.",
+    "materials": ["true-false statement strip", "pencils"]
+   },
+   "understand-3": {
+    "objective": "Summarize the steps for asking for help in an order that makes sense across different situations.",
+    "observableCheck": "Each student arranges help-seeking steps into a working order and labels the first step.",
+    "sampleTask": "Students receive five help-seeking steps on cut strips, out of order. They arrange the strips into an order that would work and glue them down. Pairs compare their orders and agree on which step has to come first.",
+    "materials": ["step strips", "glue", "ordering sheet"]
+   },
+   "understand-4": {
+    "objective": "Describe how the right person to ask for help changes when the struggling adult is a parent versus a neighbor versus an older sibling.",
+    "observableCheck": "Each student completes a chart matching each situation to a fitting first contact.",
+    "sampleTask": "Guide gives students a chart with three situations down the side. For each, students name the best first person to tell and why that person fits. Students circle the situation they find hardest to decide and write one sentence explaining what makes it harder than the others.",
+    "materials": ["situation chart", "pencils"]
+   },
+   "apply-1": {
+    "objective": "Read a simple scenario and point to the one sentence that shows it is time to ask an adult for help.",
+    "observableCheck": "Each student underlines the warning sentence in a short scenario.",
+    "sampleTask": "Guide hands out a four-sentence scenario about a friend whose home life feels unsafe. Students underline the one sentence that signals it is time to get an adult. The class shares which sentence they marked and the Guide confirms the signal.",
+    "materials": ["scenario handout", "pencils"]
+   },
+   "apply-2": {
+    "objective": "Carry out a help-seeking conversation in a role-play where a student tells a school counselor about a friend's home.",
+    "observableCheck": "Each pair performs a short talk where the student states the worry and names what they need.",
+    "sampleTask": "Pairs get a role-play card: one plays a student worried about a friend, one plays the counselor. The student must state the worry clearly and say what they hope happens next. Pairs swap roles and one pair performs for the class.",
+    "materials": ["role-play cards"]
+   },
+   "apply-3": {
+    "objective": "Choose the best help-seeking strategy for a scenario where the first adult the student tells does not act.",
+    "observableCheck": "Each student writes which strategy to try next and gives one reason for the choice.",
+    "sampleTask": "Guide describes a scenario where a student tells one adult who brushes it off. In pairs, students decide the best next move from a short menu and write one reason for the pick. The class compares choices and discusses why not giving up matters here.",
+    "materials": ["scenario card", "strategy menu", "decision slip"]
+   },
+   "apply-4": {
+    "objective": "Build a wallet-sized help card that lists who to contact, what to say, and a backup person.",
+    "observableCheck": "Each student completes a help card with a primary contact, an opening line, and a backup.",
+    "sampleTask": "Students fill a small help card with a trusted adult, one sentence they could open with, and a backup person if the first does not respond. They practice the opening line once with a partner. Students keep the card and the Guide checks each for a real backup.",
+    "materials": ["blank help cards", "pencils"]
+   },
+   "analyze-1": {
+    "objective": "Sort a list of responses into helpful and unhelpful ways to support a friend in this situation.",
+    "observableCheck": "Each student places each response in a helpful or unhelpful column.",
+    "sampleTask": "Guide gives students eight responses a kid might have, such as keeping it secret or telling a counselor. Students sort each into helpful or unhelpful columns and mark the one they think helps most. Pairs compare and resolve any response they sorted differently.",
+    "materials": ["response cards", "two-column mat"]
+   },
+   "analyze-2": {
+    "objective": "Compare two help-seeking attempts and identify why one reached the right person and one stalled.",
+    "observableCheck": "Each student lists the steps in each attempt and marks where the stalled one went wrong.",
+    "sampleTask": "Guide reads two short accounts: one student gets help, the other gives up after one try. Students list the steps in each on a comparison sheet and circle the step where the second attempt broke down. Pairs agree on the single change that would have helped the second student.",
+    "materials": ["comparison sheet", "account handout"]
+   },
+   "analyze-3": {
+    "objective": "Trace the chain of help from a child's first request to the adult who can act and find the weak link.",
+    "observableCheck": "Each group maps the help chain and marks the point most likely to break.",
+    "sampleTask": "Groups draw a chain from a worried student to the adult who can really help, naming each link. They mark the link most likely to break and write why. Groups post their chains and the class looks for which weak link shows up most.",
+    "materials": ["chart paper", "markers"]
+   },
+   "analyze-4": {
+    "objective": "Examine the supports available across home, school, and community and identify gaps a student might fall through.",
+    "observableCheck": "Each group produces a map of supports with at least one gap circled and explained.",
+    "sampleTask": "Groups map the supports a fifth grader could reach across home, school, and community on chart paper. They circle one gap where a kid might find no help and write one sentence on it. Groups present and the class drafts a question to ask the school about closing one gap.",
+    "materials": ["chart paper", "support list", "markers"]
+   },
+   "evaluate-1": null,
+   "evaluate-2": null,
+   "evaluate-3": {
+    "objective": "Judge whether a student in a scenario asked for help the right way and back the verdict with what happened.",
+    "observableCheck": "Each student rates the attempt and cites two details that justify the rating.",
+    "sampleTask": "Guide hands out a scenario where a student asks for help in a vague, indirect way. Students rate the attempt as effective or not and quote two details that support the rating. Pairs that disagree argue it out using the scenario text.",
+    "materials": ["scenario handout", "rating slip"]
+   },
+   "evaluate-4": {
+    "objective": "Critique a school resource flyer for kids dealing with family substance use and recommend what to add or fix.",
+    "observableCheck": "Each group produces a review naming one strength and two specific fixes.",
+    "sampleTask": "Groups review a sample school flyer about where to get help. They complete a review form noting one thing that works and two specific fixes, such as a missing contact or confusing wording. Groups present and the class agrees on the single most important fix.",
+    "materials": ["sample flyer", "review form"]
+   },
+   "create-1": {
+    "objective": "Write one opening sentence a student could use to start a help-seeking conversation.",
+    "observableCheck": "Each student produces one opening line on a card.",
+    "sampleTask": "Guide asks each student to write one sentence they could actually say to start telling a trusted adult something is wrong at home. Students copy it onto a card. Volunteers read theirs and the class picks two that feel easiest to say out loud.",
+    "materials": ["cards", "markers"]
+   },
+   "create-2": {
+    "objective": "Storyboard a short scene showing a student reaching the right adult and getting a helpful response.",
+    "observableCheck": "Each pair turns in a three-panel storyboard with the request and the helpful response shown.",
+    "sampleTask": "Pairs draw a three-panel storyboard: noticing the problem, telling a trusted adult, and the adult helping. Each panel needs one line of dialogue. Pairs trade and confirm the middle panel shows a clear request, not a hint.",
+    "materials": ["storyboard sheet", "markers"]
+   },
+   "create-3": {
+    "objective": "Design a help-resource poster that matches different worries to the right place to turn for each.",
+    "observableCheck": "Each group produces a poster pairing at least four worries with fitting resources.",
+    "sampleTask": "Groups build a poster listing four worries a kid might have down one side and the best resource for each across from it. Each pairing needs the resource's name and how to reach it. Groups hang posters and walk the room to check the contacts are real and reachable.",
+    "materials": ["poster paper", "markers", "resource list"]
+   },
+   "create-4": {
+    "objective": "Produce a short guide that teaches younger students how and when to ask an adult for help.",
+    "observableCheck": "Each group turns in a one-page guide with simple steps and one practice line for younger students.",
+    "sampleTask": "Groups write a one-page guide for second or third graders on when and how to ask an adult for help. The guide needs three simple steps and one practice line. Groups rehearse reading it aloud and the Guide checks that the words fit a younger reader.",
+    "materials": ["guide template", "markers"]
+   }
+  }
+ }
+}

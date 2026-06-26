@@ -1,0 +1,690 @@
+{
+  "schemaVersion": "2.0",
+  "_generationStatus": "IN PROGRESS — Part 1 of 6 written (challenge envelope + preStage + Pin 1/Act 1). Pins 2-6, coldTransferTask, fitnessCheck, and selfVerification are appended in subsequent turns. This object is valid JSON and will render Act 1 only until complete.",
+  "sourceInput": "WHY BIG DOGS GET PASSED OVER. Partner: St. Hubert's Animal Welfare Center. Cohort 5/6 (This is not for 7/8). Students produce narrative profile cards for individual big dogs, written for families walking the adoption kennels at St. Hubert's...",
+  "challenge": {
+    "challengeId": "why-big-dogs-get-passed-over",
+    "name": "Why Big Dogs Get Passed Over",
+    "summary": "A single-cohort Juniors (G5/G6) challenge in which students investigate whether big dogs really do wait longer for adoption at St. Hubert's, learn how selective breeding produced today's breeds, observe assigned real dogs to separate assumption from evidence, survey the community on why big dogs get overlooked, and turn what they learn into honest narrative profile cards clipped to each dog's kennel. The challenge opens on one real long-stay dog and culminates in printed kennel cards plus a cohort briefing to the St. Hubert's Board. Across eight weeks students move from reading adoption data without being fooled by it, to grounding a claim in evidence, to telling a true story that moves a stranger to act.",
+    "primaryGrades": ["G5", "G6"],
+    "buckets": ["Health", "Community"],
+    "terms": ["Fall"],
+    "parallelSlot": 1,
+    "duration": {
+      "weeks": 8,
+      "sessionsPerWeek": 10,
+      "minutesPerSession": 41,
+      "totalSessions": 73,
+      "yearStartWeek": 1,
+      "yearEndWeek": 8
+    },
+    "timeBudget": {
+      "budgetedMinutes": 2993,
+      "allocatedMinutes": 3010,
+      "deltaMinutes": 17,
+      "_allocatedNote": "Reconciled across all six parts: 73 sessions (including PS1 and the CTT) summing to 3010 minutes. Juniors land at 24.7% of the 8-week cohort baseline, above the 20% floor and near the 30% target.",
+      "cohortAllocation": {
+        "juniorsMinutes": 3010,
+        "seniorsMinutes": 0,
+        "juniorsPercent": 0.247,
+        "seniorsPercent": 0.0,
+        "targetLowMinutes": 2440,
+        "targetHighMinutes": 4270,
+        "weeklyBaselinePerCohort": 1525,
+        "_singleCohortNote": "This is a SINGLE-COHORT (Juniors G5/G6 only) challenge per the locked brief line 'Cohort 5/6 (This is not for 7/8).' The seniors 20% floor in the v2.9 BLOCKING EMIT CHECK does not apply because there is no Senior thread. seniorsMinutes=0 and seniorsPercent=0.0 are correct, not a budget failure. Only juniorsPercent must clear 0.20; planned at 0.250."
+      }
+    },
+    "drivingQuestion": "Do big dogs at St. Hubert's actually wait longer to be adopted than small dogs, and if they do, can we tell their stories honestly enough to change it?",
+    "deliverables": [
+      { "name": "Kennel-side narrative profile card", "description": "Each student produces a printed narrative profile card for one assigned long-stay big dog at St. Hubert's that grounds a claim about the dog in specific observed detail and is clipped to that dog's kennel for families walking the adoption bay." },
+      { "name": "St. Hubert's partner briefing", "description": "The cohort delivers a briefing to the St. Hubert's Board and adoption staff explaining the adoption-gap analysis, the campaign's reasoning, and recommendations beyond the cards themselves." }
+    ],
+    "audience": "Families walking the adoption kennels at St. Hubert's Animal Welfare Center, and the St. Hubert's Board and adoption staff who receive the closing briefing.",
+    "partners": [
+      { "name": "St. Hubert's Animal Welfare Center", "title": "Animal welfare partner and showcase host", "contact": "[Confirm]", "status": "Confirmed" }
+    ],
+    "showcasePinId": "Pin 6",
+    "standardsTriage": {
+      "core": ["6.RP.A.2", "6.RP.A.3", "6.SP.B.4", "6.SP.B.5", "MS-LS4-4", "MS-LS4-5", "MS-LS4-6", "3-LS3-1", "W.AW.6.1", "W.NW.6.3", "W.WR.6.5", "W.SE.6.6", "RI.AA.6.7", "SL.PI.6.4", "SL.UM.6.5"],
+      "adjacent": ["5.DL.A.1", "SL.PE.6.1"],
+      "outOfScope": ["7.RP.A.3", "W.AW.7.1", "MS-LS3-1", "MS-LS3-2"]
+    },
+    "roles": {
+      "preparation": ["Data reader", "Claim writer"],
+      "exploration": ["Breed researcher", "Dog observer", "Survey investigator"],
+      "presentation": ["Profile-card storyteller", "Shelter briefer"]
+    },
+    "preExistingKnowledge": [
+      { "assumption": "Students arrive able to read whole numbers and basic fractions and to compute simple division, the grade-5 number sense that grade-6 rate reasoning is built on.", "checkableBy": "Day 1" },
+      { "assumption": "Students can read a simple bar graph at the grade-4/5 level before the challenge teaches grade-6 statistical display and interpretation.", "checkableBy": "Day 1" },
+      { "assumption": "Students have participated in a structured discussion before, so the seminar norms taught in PS1 are a formalization rather than a first exposure.", "checkableBy": "PS1" }
+    ],
+    "enduringConcepts": [
+      { "id": "EC1", "name": "Rates over raw counts", "description": "A number can be true and still mislead; comparing groups of different sizes fairly requires rates, not raw counts.", "standards": ["6.RP.A.2", "6.RP.A.3", "6.SP.B.5"], "expectedFutureChallenges": ["Lunch Challenge", "Garden Systems"] },
+      { "id": "EC2", "name": "Inheritance and selection", "description": "Traits pass from parents to offspring with variation, and humans bred dogs by selecting traits over many generations, shaping body and behavior together.", "standards": ["3-LS3-1", "MS-LS4-4", "MS-LS4-5", "MS-LS4-6"], "expectedFutureChallenges": ["Garden Systems & Pollinator design"] },
+      { "id": "EC3", "name": "Observation versus inference", "description": "What you observe about a living thing and what you conclude about it are two different things, and only the observed belongs in an honest record.", "standards": ["SEP (Planning and Carrying Out Investigations)", "SEP (Argument from Evidence)"], "expectedFutureChallenges": ["Trails & Greenways"] },
+      { "id": "EC4", "name": "Evidence over assumption", "description": "A question is investigated by gathering unbiased evidence and testing beliefs against it, not by defending an assumption.", "standards": ["W.WR.6.5", "W.SE.6.6", "RI.AA.6.7", "6.SP.B.5"], "expectedFutureChallenges": ["AI & Modern Scams", "Things Everyone Knows That Aren't True"] },
+      { "id": "EC5", "name": "Claims grounded in evidence", "description": "A claim is only as good as the specific evidence behind it; general labels must be replaced with observed detail and claims must not exceed what the evidence supports.", "standards": ["W.AW.6.1", "RI.AA.6.7"], "expectedFutureChallenges": ["Speed Bumps", "Migration Stories"] },
+      { "id": "EC6", "name": "A true detail that moves someone", "description": "A specific true detail persuades where a general compliment does not, and showing character through a scene beats telling someone a dog is lovable.", "standards": ["W.NW.6.3", "W.WP.6.4"], "expectedFutureChallenges": ["Migration Stories"] }
+    ],
+    "bigIdeas": [
+      "A number can be true and still mislead; a rate tells you something a raw count cannot.",
+      "Dogs are one species wearing a thousand shapes because humans bred body and behavior together over many generations.",
+      "What you assume about a living thing and what you observe about it are two different things, and only one of them belongs in an honest story.",
+      "A specific true detail persuades a stranger where a general compliment does not."
+    ],
+    "essentialQuestions": [
+      "When is a difference real, and when is it just the way the numbers are arranged?",
+      "How much of what we 'see' in a dog is the dog, and how much is us?",
+      "What makes a true story about someone move a stranger to act?"
+    ],
+    "narrativeArc": {
+      "startingBelief": "Students walk in believing that big dogs sit in shelters longer because they are inherently harder to handle (hyper, too strong, maybe intimidating) and that the size they see in a kennel photo tells them what the dog is actually like.",
+      "discoveryMoment": {
+        "name": "The photo-versus-dog gap at the St. Hubert's observation visit",
+        "weekNumber": 5,
+        "artifactDescription": "Each student lays the written assumption they made from their assigned dog's intake photo beside the structured observation log they kept while watching the real dog, and finds the two do not match: the 'intimidating' dog hides at the back of the kennel, the 'hyper' dog leans quietly against them."
+      },
+      "endingCapability": [
+        { "description": "Argue from St. Hubert's adoption data whether a real big-dog adoption gap exists, using rates rather than raw counts.", "performanceExpectation": "SWBAT compare adoption rates for large and small dogs from St. Hubert's intake data and defend a written claim about whether a real gap exists, naming the hidden factor that raw counts conceal.", "standards": ["6.RP.A.3", "6.SP.B.5", "W.AW.6.1"], "facets": ["explanation", "application", "interpretation"] },
+        { "description": "Explain how domestication and selective breeding produced modern dog breeds from wolves.", "performanceExpectation": "SWBAT explain, using a specific breed, how inherited traits and human selective breeding produced that breed's appearance and behavior together.", "standards": ["MS-LS4-5", "MS-LS4-6", "3-LS3-1"], "facets": ["explanation", "application"] },
+        { "description": "Separate observation from inference while watching a real dog.", "performanceExpectation": "SWBAT maintain a structured observation log on an assigned St. Hubert's dog and distinguish recorded observations from interpretations drawn from them.", "standards": ["SEP (Planning and Carrying Out Investigations)", "SEP (Argument from Evidence)"], "facets": ["interpretation", "perspective", "self-knowledge"] },
+        { "description": "Investigate why big dogs are overlooked using unbiased survey evidence.", "performanceExpectation": "SWBAT write non-leading survey questions, summarize the responses, and test a common belief about big dogs against the evidence.", "standards": ["W.WR.6.5", "W.SE.6.6", "RI.AA.6.7", "6.SP.B.5"], "facets": ["application", "explanation", "perspective"] },
+        { "description": "Write a narrative profile card that grounds a claim about a dog in specific observed evidence.", "performanceExpectation": "SWBAT write a kennel-side narrative profile card for one named St. Hubert's dog that shows character through specific observed detail and claims only what the evidence supports.", "standards": ["W.NW.6.3", "W.AW.6.1", "W.WP.6.4"], "facets": ["explanation", "empathy", "application"] }
+      ],
+      "tensions": [
+        { "name": "Is the big-dog adoption gap real, or an artifact of how many big dogs enter the shelter to begin with?", "sessions": ["1.A.1", "1.D.1", "1.E.1", "1.E.2"] },
+        { "name": "When is a difference between big and small dogs a real handling cost, and when is it just bias?", "sessions": ["3.D.1", "4.D.1", "4.E.1"] },
+        { "name": "Does an honest, unflattering profile move adopters more than a sweet one?", "sessions": ["5.A.4", "5.A.5"] }
+      ]
+    },
+    "grasps": {
+      "goal": "Increase adoptions of long-stay big dogs at St. Hubert's by reframing the size that makes families hesitate.",
+      "role": "Student campaign team acting as the shelter's data analysts, dog observers, and storytellers.",
+      "audience": "Families walking the adoption kennels at St. Hubert's, plus the St. Hubert's Board and adoption staff at the briefing.",
+      "situation": "An eight-week challenge that opens on one real long-stay dog and culminates in printed kennel-side cards plus a partner briefing.",
+      "performance": "A narrative profile card clipped to each assigned dog's kennel, plus a cohort briefing to St. Hubert's explaining the adoption-gap analysis and the campaign's reasoning.",
+      "standards": "NJSLS argument writing W.AW.6.1, narrative writing W.NW.6.3, presentation SL.PI.6.4 and SL.UM.6.5, proportional reasoning 6.RP.A.2 and 6.RP.A.3, data display and summary 6.SP.B.4 and 6.SP.B.5, heredity and selection 3-LS3-1 and MS-LS4-4/5/6, plus the kennel-card rubric."
+    },
+    "whereto": {
+      "whereAndWhy": ["Pin 1"],
+      "hook": ["Pin 1"],
+      "equip": ["Pin 1", "Pin 2"],
+      "rethink": ["Pin 3"],
+      "evaluate": ["Pin 4", "Pin 6", "CTT"],
+      "tailor": ["Pin 1", "Pin 4"],
+      "organize": ["Pin 1", "Pin 2", "Pin 3", "Pin 4", "Pin 5", "Pin 6"]
+    },
+    "declaredStandardsManifest": ["6.RP.A.2", "6.RP.A.3", "6.SP.B.4", "6.SP.B.5", "3-LS3-1", "MS-LS4-4", "MS-LS4-5", "MS-LS4-6", "W.AW.6.1", "W.NW.6.3", "W.WR.6.5", "W.SE.6.6", "RI.AA.6.7", "SL.PI.6.4", "SL.UM.6.5"],
+    "declaredStandardsManifestStatus": "[Confirm] — derived from the brief's corrected Standards Check (2023 NJSLS-ELA codes, split science PEs) and the workbench inventory's tagged codes. SL.PE.6.1 and 5.DL.A.1 are listed as adjacent rather than centered. The four SEP science-practice tokens are deliberately excluded because they are NGSS practices, not coded NJSLS standards; the Act 3 observation work is anchored on those practices and flagged per session. 3-LS3-1 is a grade-3 NGSS PE used as on-band consolidation for this 5/6 cohort per the brief; flagged [Confirm — out of grade for a 6-anchored challenge, intentionally used as the only NGSS heredity anchor below middle school]."
+  },
+  "scopeDecisions": [
+    { "id": 1, "label": "Driving Question", "decision": "Do big dogs at St. Hubert's actually wait longer to be adopted than small dogs, and if so, can we tell their stories honestly enough to change it?", "status": "Decided", "acceptanceTest": "passed", "notes": "Not lookup-able; requires gathering and analyzing St. Hubert's data and producing original profiles." },
+    { "id": 2, "label": "Deliverable + Audience", "decision": "Kennel-side narrative profile cards for families at St. Hubert's, plus a briefing to the St. Hubert's Board and adoption staff.", "status": "Decided", "acceptanceTest": "passed", "notes": "Card display pending St. Hubert's confirmation per the brief; treated as Confirmed-with-pending-logistics." },
+    { "id": 3, "label": "Duration", "decision": "Eight weeks, Fall weeks 1-8, single Juniors cohort, roughly ten sessions per week.", "status": "[Assumed]", "acceptanceTest": "passed", "notes": "Week range from the canonical Fall schedule (Big Dogs Fall wk 1-8); single-cohort per the brief override." },
+    { "id": 4, "label": "Cohort differentiation", "decision": "Single cohort (Juniors G5/G6). No cross-cohort split. Within-cohort scaffolds planned for grade-5 readers on the grade-6 rate work.", "status": "Decided", "acceptanceTest": "passed", "notes": "Brief locks 'Cohort 5/6 (This is not for 7/8).' Canonical 'cohort-shared' label is overridden by the brief." },
+    { "id": 5, "label": "Pins (ISO dates)", "decision": "Six pins mapped to the six Acts; dates [Confirm] pending the Fall calendar and St. Hubert's visit scheduling.", "status": "[Confirm]", "acceptanceTest": "passed", "notes": "Showcase = Pin 6." },
+    { "id": 6, "label": "Roles by grade depth", "decision": "All roles calibrated to Juniors: concrete real-world contact (shelter visits, dog observation, community surveys) and tangible artifacts (cards).", "status": "Decided", "acceptanceTest": "passed", "notes": "Yardsticks Junior signature: classify, observe, real-world contact, tangible product." },
+    { "id": 7, "label": "Standards Triage core has named work output", "decision": "Each core standard ties to a named output: rates to the adoption-gap claim, breeding science to the Act 2 explanation, SEP to the observation log, writing to the profile card.", "status": "Decided", "acceptanceTest": "passed", "notes": null },
+    { "id": 8, "label": "Pre-existing knowledge checkable by Day 1", "decision": "Grade-5 number sense and basic graph reading assumed and checked by a Day-1/early diagnostic before grade-6 rate work is applied.", "status": "[Assumed]", "acceptanceTest": "passed", "notes": "Diagnostic placed in sub-unit 1.C, the first sub-unit that applies a retrieved math substrate." },
+    { "id": 9, "label": "Enduring Concepts 5-8 with ids", "decision": "Six enduring concepts EC1-EC6 declared with standards.", "status": "Decided", "acceptanceTest": "passed", "notes": null },
+    { "id": 10, "label": "CTT changes at least two of domain/problem type/deliverable format/time horizon", "decision": "Cold Transfer Task moves students to a novel animal-or-community dataset and a new written claim under time pressure, changing domain and problem context from the dog-profile work. Full CTT specified in Part 6.", "status": "[Assumed]", "acceptanceTest": "passed", "notes": "Placed yearWeek 7 (E-1), inside the challenge window." }
+  ],
+  "gate": {
+    "fiveParameters": [
+      { "parameter": "Developmentally Appropriate", "verdict": "Pass", "evidence": "The work leans on the Junior signature per Yardsticks: classifying and reading data, observing real dogs, interviewing the community, and producing a tangible card, all in concrete real-world frames rather than abstract analysis.", "subVerdicts": null },
+      { "parameter": "Growth Zone Challenge", "verdict": "Conditional Pass", "evidence": "The load-bearing standards are grade-6 math and middle-school science, a genuine reach-up for grade-5 students, so the challenge clears the growth-zone bar only if grade-5 scaffolds on the rate work are actually planned as the brief warns.", "subVerdicts": null },
+      { "parameter": "Relevance", "verdict": "Pass", "evidence": "A real shelter has real long-stay big dogs and a real adoption gap, and students see themselves in the question of whether first impressions are fair.", "subVerdicts": ["Yes — the adoption gap exists at St. Hubert's whether or not the cohort studies it, a specific real party.", "Yes — the named harmed party is the long-stay big dogs and the families who would have adopted them, not 'society'.", "Yes — students confront their own snap judgment about a dog from a photo before being told to."] },
+      { "parameter": "Authentic Audience and Impact", "verdict": "Pass", "evidence": "The cards are printed and clipped to real kennels for real adopting families, and the cohort briefs the actual St. Hubert's Board, so the work has a real audience and a real chance to change adoptions.", "subVerdicts": null },
+      { "parameter": "New Jersey Student Learning Standards alignment", "verdict": "Pass", "evidence": "The challenge centers grade-6 ratio and statistics standards, middle-school heredity and selection PEs, and 2023 NJSLS-ELA argument, narrative, research, and speaking standards, each tied to a named work output.", "subVerdicts": null }
+    ],
+    "diagnostics": [
+      { "item": "Daily Cold Retrieval with correction loop", "verdict": "Present", "evidence": "Each sub-unit carries a coldRetrievalSet of three spaced questions per active day, read during Standup, with the correction loop run at Standup and reinforced in Diagnostic sessions." },
+      { "item": "Fluency Gate at end of Exploration", "verdict": "Present", "evidence": "A Fluency Gate on the rate-and-evidence work is hosted on the Act 4 investigation sub-unit at the close of Exploration; full specification appears in Part 4." },
+      { "item": "5 to 8 Enduring Concepts for spaced review", "verdict": "Present", "evidence": "Six enduring concepts EC1-EC6 are declared with standards and expected future challenges for spacing." },
+      { "item": "Adolescent engagement protections", "verdict": "Present", "evidence": "Eleven-year-old resistance to revising earlier work is met with short revision rounds and public-private framing planned in Act 5, per the Yardsticks tension note." },
+      { "item": "Interleaved practice after the Fluency Gate", "verdict": "Partial", "evidence": "Rate reasoning recurs in Act 4 survey-data work after its Act 1 first-teach, interleaving math with ELA investigation; the full interleave schedule is finalized in Parts 4 and 5." },
+      { "item": "Multi-context Comparison during Exploration", "verdict": "[Confirm]", "evidence": "[Confirm]" },
+      { "item": "Per-student Cold Transfer Task in a novel context", "verdict": "Present", "evidence": "A per-student Cold Transfer Task on a novel dataset and a fresh written claim is placed in week 7; full specification appears in Part 6." }
+    ]
+  },
+  "preStage": [
+    {
+      "id": "PS1",
+      "objective": "Establish the seminar discussion norms students will use to surface and defend claims throughout the Big Dogs challenge.",
+      "observableMilestone": "Each student participates in one short norm-setting seminar and can name the five ground rules and demonstrate referring to the text when making a point.",
+      "description": "A single pre-stage Teach session that formalizes the Forge seminar protocol before Act 1 opens, so that the collaborative-discussion standard SL.PE.6.1 is explicitly taught rather than assumed when students start arguing about the adoption data.",
+      "standards": ["SL.PE.6.1"],
+      "hourTotal": { "value": 0.6, "rangeLow": 0.5, "rangeHigh": 0.75 },
+      "track": "5-6",
+      "grades": ["G5", "G6"],
+      "precedes": ["1.A"],
+      "locked": false,
+      "timeBudget": { "allocatedMinutes": 35 },
+      "standardsRole": { "firstTeaches": ["SL.PE.6.1"], "retrieves": [], "applies": [] },
+      "coldRetrievalSet": [
+        { "day": "Mon", "yearWeek": 1, "cohort": "juniors", "questions": [
+          { "prompt": "What does it mean to refer to the text when you make a point in a seminar?", "expectedAnswer": "Point to specific words you read" },
+          { "prompt": "Name one of the five seminar ground rules.", "expectedAnswer": "e.g. make space, take space" },
+          { "prompt": "Who should you speak to in a seminar, the Guide or the group?", "expectedAnswer": "The group" }
+        ] }
+      ],
+      "sessions": [
+        {
+          "id": "PS1.1", "yearWeek": 1, "day": "Mon", "slot": 1, "startTime": "9:45 AM", "duration": 35,
+          "title": "Seminar norms: speak to the text",
+          "durationRecipe": { "setupMin": 5, "cycleCount": 2, "minPerCycle": 10, "checkMin": 5, "debriefMin": 5, "justification": null },
+          "block": "Teach", "cohort": "juniors",
+          "lessonObjective": "Students will be able to follow the five Forge seminar ground rules and refer to a shared text when stating a claim about whether big dogs wait longer for adoption.",
+          "description": "Students learn the five seminar ground rules and practice the single hardest move, grounding a point in the text rather than in a feeling, which they will need the moment the adoption data sparks disagreement. The cognitive work is recognizing and applying a discussion norm, plain recall plus first use (Bloom: Understand to Apply; DOK 1-2). The artifact is each student's first text-grounded contribution recorded on the seminar tracking chart. It sits at the very front of the challenge because every later Discuss block, from the Act 1 claim debate to the Act 5 mentor-text seminars, assumes these norms are in place, and it honors the Junior appetite for clear, fair rules that make a group work.",
+          "cogLoadTag": "medium",
+          "track": "5-6", "grades": ["G5", "G6"], "standards": ["SL.PE.6.1"],
+          "standardsVerbatim": { "SL.PE.6.1": "[UNVERIFIED — paraphrase from brief: 2023 NJSLS-ELA Speaking, Participate and Engage, collaborative discussions; byte-exact text not retrievable from a source in hand]" },
+          "flags": ["STANDARD_TAG_UNSURE: SL.PE.6.1 — the 2023 NJSLS-ELA strand letters (PE = Participate and Engage) are taken from the brief's Standards Check; confirm the exact substandard against the NJSLS database."],
+          "prerequisites": [], "observableCheck": "Each student makes at least one contribution that refers to the shared opening text rather than to a personal feeling.", "buildsOn": [],
+          "guide": "[Confirm]", "rosenshineTag": "modeling",
+          "challengeConnection": "Feeds Pin 1 by establishing the discussion norms; the output (norm fluency) is consumed by session 1.A.1, the first prediction seminar, the next day.",
+          "developmentalNote": null, "materials": null,
+          "anticipatedCognitiveChallenges": ["Students will offer opinions without pointing to the text, treating 'speak to the text' as optional rather than the core move."],
+          "artifact": "The student records one text-grounded contribution on the seminar tracking chart, demonstrating the refer-to-the-text move.",
+          "movementBreak": true, "locked": false, "inventoryRefs": ["PS1.CI1"],
+          "juniorsOverride": null, "seniorsOverride": null
+        }
+      ],
+      "contentInventory": [
+        { "id": "PS1.CI1", "type": "skill", "item": "Five seminar ground rules and the refer-to-the-text move", "hours": 0.6, "loadTier": "low", "standards": ["SL.PE.6.1"], "enduringConceptRef": null, "notes": null }
+      ]
+    }
+  ],
+  "pins": [
+    {
+      "id": "Pin 1",
+      "name": "Adoption-Gap Analysis: The Data-Backed Claim",
+      "description": "Pin 1 is the Preparation-phase demonstration that opens the challenge on one real long-stay dog and ends with students defending a written, data-backed claim about whether big dogs truly wait longer at St. Hubert's. Students read the shelter's real tables and graphs, learn to compare groups by rate rather than raw count, and confront the hidden-factor trap that more big dogs entering the shelter could fake an adoption gap. The cohort and Guide are the audience for the claim presentation, with the St. Hubert's intake data as the partner-supplied material. It matters because the rest of the challenge rests on students believing the gap is real for evidence-based reasons, not because one sad story made them feel it was.",
+      "objective": "Students will defend a written claim about whether a real big-dog adoption gap exists at St. Hubert's, using adoption rates and naming the hidden factor that raw counts hide.",
+      "observableEvidence": "Each student produces a written, data-backed claim about the adoption gap supported by an adoption-rate computation, and presents the visual data and conclusion orally to the cohort.",
+      "date": "[Confirm]", "endDate": null, "endYearWeek": null,
+      "startTime": "9:45 AM", "durationMinutes": 50,
+      "pinDuration": "single-session",
+      "phase": "Preparation",
+      "track": "5-6", "grades": ["G5", "G6"],
+      "audience": "The Junior cohort and the Guide, working from St. Hubert's intake data.", "partnerId": 0, "standards": ["6.RP.A.3", "6.SP.B.5", "W.AW.6.1"], "locked": false,
+      "pinNote": "yearWeek range 1-2 follows the canonical Fall placement of Big Dogs at Fall weeks 1-8; Act 1 occupies the opening two-week Preparation window.",
+      "timeBudget": { "allocatedMinutes": 720 },
+      "subUnits": [
+        {
+          "id": "1.A", "objective": "Students surface and write a first prediction about whether their assigned long-stay St. Hubert's dog waits longer than small dogs, a prediction the rest of Act 1 will test against data.", "observableMilestone": "Each student writes a one-sentence prediction about the St. Hubert's adoption gap that names what evidence would confirm or disconfirm it.",
+          "tier": "Important", "campaignLean": "medium",
+          "campaignLeanJustification": "This sub-unit feeds the Pin 1 written-claim component by producing the prediction that the data-backed claim later confirms or overturns; the specific skill that crosses forward is framing a testable prediction about the St. Hubert's adoption gap.",
+          "targetDok": 2,
+          "targetDokRationale": "Students take the long-stay-dog hook and turn a felt impression into a written prediction with a named test, a familiar multi-step move rather than a routine one-step recall.",
+          "hourTotal": { "value": 1.0, "rangeLow": 0.9, "rangeHigh": 1.2 },
+          "sessionTarget": { "perCohortMin": 2, "perCohortMax": 3, "totalMin": 2, "totalMax": 3, "rationale": "One Hook plus one prediction seminar covers the driving-question opening for a single cohort; this is an Important framing sub-unit, not a heavy first-teach." },
+          "phase": "Preparation", "track": "5-6", "grades": ["G5", "G6"],
+          "standards": ["SL.PE.6.1"], "hostsFluencyGate": false, "locked": false,
+          "timeBudget": { "allocatedMinutes": 60 },
+          "standardsRole": { "firstTeaches": [], "retrieves": [{ "standardId": "SL.PE.6.1", "firstTaughtIn": "PS1" }], "applies": ["SL.PE.6.1"] },
+          "juniorsOverride": null, "seniorsOverride": null,
+          "coldRetrievalSet": [
+            { "day": "Tue", "yearWeek": 1, "cohort": "juniors", "questions": [
+              { "prompt": "What is one seminar ground rule you used yesterday?", "expectedAnswer": "e.g. listen before responding" },
+              { "prompt": "What does length-of-stay mean for a shelter dog?", "expectedAnswer": "How long it has waited to be adopted" },
+              { "prompt": "What makes a prediction testable?", "expectedAnswer": "You can gather evidence to check it" }
+            ] }
+          ],
+          "contentInventory": [
+            { "id": "1.A.CI1", "type": "experience", "item": "Hook: one real long-stay dog's story", "hours": 0.4, "loadTier": "low", "standards": [], "enduringConceptRef": null, "notes": "Guide tells the story of one real St. Hubert's long-stay dog." },
+            { "id": "1.A.CI2", "type": "skill", "item": "Writing a testable prediction about the adoption gap", "hours": 0.6, "loadTier": "medium", "standards": ["SL.PE.6.1"], "enduringConceptRef": "EC4", "notes": null }
+          ],
+          "sessions": [
+            {
+              "id": "1.A.0", "yearWeek": 1, "day": "Tue", "slot": 1, "startTime": "9:45 AM", "duration": 25,
+              "title": "One dog, one long wait",
+              "durationRecipe": { "setupMin": 0, "cycleCount": 2, "minPerCycle": 9, "checkMin": 4, "debriefMin": 3, "justification": null },
+              "block": "Hook", "cohort": "juniors",
+              "lessonObjective": "Students will be able to state why one real long-stay St. Hubert's dog's wait raises the question of whether big dogs are passed over.",
+              "description": "Students meet one real long-stay dog from St. Hubert's through the Guide's told story and feel the gap between one sad case and a possible pattern, with no resolution offered. The cognitive work is recognizing a question worth testing; students grasp the problem rather than analyze it yet (Bloom: Understand; DOK 1). The artifact is each student's one-line written wondering about why this dog has waited so long. It opens the whole challenge because every later data session exists to answer the question this dog raises, and it honors the Junior pull toward a concrete, real, named animal rather than an abstract statistic.",
+              "cogLoadTag": "light",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": [],
+              "standardsVerbatim": {},
+              "flags": [],
+              "prerequisites": [], "observableCheck": "Each student writes one sentence naming what they wonder about the long-stay dog's wait.", "buildsOn": ["PS1.1"],
+              "guide": "[Confirm]", "rosenshineTag": null,
+              "challengeConnection": "Feeds Pin 1 by raising the driving question; the wondering it produces is consumed by session 1.A.1, where students turn it into a testable prediction.",
+              "developmentalNote": "Keep the dog concrete and named; Juniors latch onto a specific animal, not a category.", "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will jump straight to a cause ('he's too big') instead of staying with the open question of whether the pattern is even real."],
+              "artifact": "The student writes one sentence naming what they wonder about why this specific long-stay dog has not been adopted.",
+              "movementBreak": false, "locked": false, "inventoryRefs": ["1.A.CI1"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "1.A.1", "yearWeek": 1, "day": "Tue", "slot": 2, "startTime": "10:20 AM", "duration": 35,
+              "title": "First prediction: do big dogs wait longer",
+              "durationRecipe": { "setupMin": 3, "cycleCount": 3, "minPerCycle": 8, "checkMin": 5, "debriefMin": 3, "justification": null },
+              "block": "Discuss", "cohort": "juniors",
+              "lessonObjective": "Students will be able to write a testable prediction about whether big dogs at St. Hubert's wait longer than small dogs and name what evidence would settle it.",
+              "description": "Students debate, under the seminar norms from PS1, whether one dog's long wait means big dogs in general wait longer, then each commits a written prediction to test. The cognitive work is moving from a shared impression to an individual testable claim, real reasoning along a mapped path (Bloom: Understand to Apply; DOK 2). The artifact is each student's written prediction naming the evidence that would confirm or disconfirm it. It sits here because the Act 1 data work only matters if students have a prediction of their own on the line, and it honors the eleven-year-old's appetite to argue an allegiance passionately while still being held to evidence.",
+              "cogLoadTag": "medium",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["SL.PE.6.1"],
+              "standardsVerbatim": { "SL.PE.6.1": "[UNVERIFIED — paraphrase from brief: 2023 NJSLS-ELA Speaking, Participate and Engage, collaborative discussions; byte-exact text not retrievable]" },
+              "flags": ["STANDARD_TAG_UNSURE: SL.PE.6.1 — confirm exact substandard against the NJSLS database."],
+              "tension": "Is the big-dog adoption gap real, or an artifact of how many big dogs enter the shelter to begin with?",
+              "bothSidesEvidence": { "sideA": { "position": "Big dogs really do wait longer to be adopted than small dogs at St. Hubert's.", "evidenceSources": ["St. Hubert's length-of-stay line graph", "the big-versus-small adoption-rate computation from session 1.C.2"] }, "sideB": { "position": "The apparent gap is an artifact of how many big dogs enter the shelter, not a difference in how often they get adopted.", "evidenceSources": ["St. Hubert's intake bar graph showing big-dog intake volume", "the hidden-factor reasoning from session 1.D.1"] } },
+              "prerequisites": ["PS1.1"], "observableCheck": "Each student's written prediction names both a direction (big dogs wait longer or not) and the evidence that would settle it.", "buildsOn": ["1.A.0"],
+              "guide": "[Confirm]", "rosenshineTag": "check for understanding",
+              "challengeConnection": "Feeds Pin 1 by putting each student's prediction on the line; the prediction is consumed by session 1.E.2, where the data-backed claim confirms or overturns it.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will write an unfalsifiable prediction ('big dogs are sad') that names no evidence that could check it."],
+              "artifact": "The student writes a one-sentence testable prediction about the big-dog adoption gap that names the evidence that would confirm or disconfirm it.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["1.A.CI2"],
+              "juniorsOverride": null, "seniorsOverride": null
+            }
+          ]
+        },
+        {
+          "id": "1.B", "objective": "Students learn to read and interpret the St. Hubert's tables and bar, line, and pie graphs well enough to pull out what the data says about big-versus-small-dog adoptions.", "observableMilestone": "Each student correctly extracts at least three facts from a St. Hubert's intake graph and states one conclusion the graph supports.",
+          "tier": "Enduring", "campaignLean": "heavy",
+          "campaignLeanJustification": "This sub-unit feeds the Pin 1 written-claim component directly: the data-reading skill is the evidence base for the adoption-gap claim, and students cannot defend the claim without first pulling accurate facts from the St. Hubert's graphs.",
+          "targetDok": 2,
+          "targetDokRationale": "Students read a St. Hubert's bar, line, or pie graph and extract specific adoption facts and a supported conclusion, a familiar multi-step interpretation rather than a one-step lookup.",
+          "hourTotal": { "value": 3.8, "rangeLow": 3.5, "rangeHigh": 4.2 },
+          "sessionTarget": { "perCohortMin": 5, "perCohortMax": 7, "totalMin": 5, "totalMax": 7, "rationale": "The brief's concept day 2 carries six lesson lines across two teaching arcs (how to read graphs, then three dataset-specific applications) plus a partner data visit, so this Enduring data sub-unit needs six to seven sessions for a single cohort." },
+          "phase": "Preparation", "track": "5-6", "grades": ["G5", "G6"],
+          "standards": ["6.SP.B.4", "5.DL.A.1"], "hostsFluencyGate": false, "locked": false,
+          "timeBudget": { "allocatedMinutes": 290 },
+          "standardsRole": { "firstTeaches": ["6.SP.B.4", "5.DL.A.1"], "retrieves": [], "applies": [] },
+          "juniorsOverride": null, "seniorsOverride": null,
+          "coldRetrievalSet": [
+            { "day": "Wed", "yearWeek": 1, "cohort": "juniors", "questions": [
+              { "prompt": "What does the height of a bar in a bar graph tell you?", "expectedAnswer": "How much or how many" },
+              { "prompt": "What is the difference between a bar graph and a pie chart?", "expectedAnswer": "Pie shows parts of a whole" },
+              { "prompt": "What was your prediction about big dogs from yesterday?", "expectedAnswer": "Student's own prediction" }
+            ] },
+            { "day": "Thu", "yearWeek": 1, "cohort": "juniors", "questions": [
+              { "prompt": "What does a line graph show that a bar graph does not?", "expectedAnswer": "Change over time" },
+              { "prompt": "Name one fact you pulled from yesterday's graph.", "expectedAnswer": "Student's extracted fact" },
+              { "prompt": "What is length-of-stay?", "expectedAnswer": "How long a dog waits to be adopted" }
+            ] }
+          ],
+          "contentInventory": [
+            { "id": "1.B.CI1", "type": "concept", "item": "Reading bar, line, and pie graphs", "hours": 1.2, "loadTier": "medium", "standards": ["6.SP.B.4"], "enduringConceptRef": "EC1", "notes": "Differentiate graph type by reader aptitude per the brief." },
+            { "id": "1.B.CI2", "type": "skill", "item": "Pulling specific information from a graph and drawing a conclusion", "hours": 0.8, "loadTier": "medium", "standards": ["6.SP.B.4", "5.DL.A.1"], "enduringConceptRef": "EC1", "notes": null },
+            { "id": "1.B.CI3", "type": "application", "item": "Three St. Hubert's / ASPCA datasets (bar, pie, line)", "hours": 1.2, "loadTier": "medium", "standards": ["6.SP.B.4", "5.DL.A.1"], "enduringConceptRef": "EC1", "notes": null },
+            { "id": "1.B.CI4", "type": "experience", "item": "St. Hubert's visit: real intake data", "hours": 0.6, "loadTier": "low", "standards": ["6.SP.B.4"], "enduringConceptRef": "EC1", "notes": "First St. Hubert's visit per the brief marker row." }
+          ],
+          "sessions": [
+            {
+              "id": "1.B.1", "yearWeek": 1, "day": "Wed", "slot": 1, "startTime": "9:45 AM", "duration": 35,
+              "title": "Bar, line, pie: reading graphs",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 2, "minPerCycle": 10, "checkMin": 5, "debriefMin": 5, "justification": null },
+              "block": "Teach", "cohort": "juniors",
+              "lessonObjective": "Students will be able to read a bar, line, and pie graph and say what kind of information each one is built to show.",
+              "description": "Students learn how bar, line, and pie graphs each display data differently and which adoption questions each one answers, the foundation for reading the St. Hubert's numbers honestly. The cognitive work is understanding and beginning to apply the conventions of each graph type, real reasoning along a mapped path (Bloom: Understand; DOK 2). The artifact is a labeled set of notes matching each graph type to the question it answers. It comes first in the data arc because the dataset-specific sessions that follow assume students can already tell a rate-over-time line graph from a parts-of-a-whole pie, and it honors the ten-year-old's strength in classifying and organizing.",
+              "cogLoadTag": "heavy",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["6.SP.B.4", "5.DL.A.1"],
+              "standardsVerbatim": { "6.SP.B.4": "[UNVERIFIED — paraphrase from brief: display numerical data in plots on a number line, including dot plots, histograms, and box plots; byte-exact NJSLS text not retrievable]", "5.DL.A.1": "[UNVERIFIED — code not retrievable; grade-5 NJSLS-Math Data Literacy strand per the inventory, byte-exact text not in hand]" },
+              "flags": ["STANDARD_TAG_UNSURE: 6.SP.B.4 — the standard's verb is 'display' (produce plots); this session is closer to reading/interpreting graphs, which may sit better under 6.SP.B.4's interpretation neighbors. Confirm the tag against the lesson's verb.", "STANDARD_TAG_UNSURE: 5.DL.A.1 — confirm this grade-5 Data Literacy code exists in the 2023 NJSLS-Math database and is in-band for grade 5."],
+              "prerequisites": [], "observableCheck": "Each student correctly matches all three graph types to the kind of question each answers on a quick sort.", "buildsOn": ["1.A.1"],
+              "guide": "[Confirm]", "rosenshineTag": "small steps",
+              "challengeConnection": "Feeds Pin 1 by teaching graph reading; its output (graph-type fluency) is consumed by sessions 1.B.4 through 1.B.6, the dataset-specific applications.",
+              "developmentalNote": "Plan a grade-5 scaffold: a graph-type reference card students keep at the desk.", "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will read a pie chart as if the biggest slice means the biggest number rather than the biggest share of a whole."],
+              "artifact": "The student produces a labeled note set matching bar, line, and pie graphs each to the adoption question it is built to answer.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["1.B.CI1"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "1.B.2", "yearWeek": 1, "day": "Wed", "slot": 2, "startTime": "10:25 AM", "duration": 35,
+              "title": "Graph facts: pull and conclude",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 2, "minPerCycle": 10, "checkMin": 5, "debriefMin": 5, "justification": null },
+              "block": "Teach", "cohort": "juniors",
+              "lessonObjective": "Students will be able to pull a specific fact from an adoption graph and state one conclusion that fact supports.",
+              "description": "Students practice extracting exact values from a graph and separating a fact the graph shows from a conclusion they draw, the move that keeps the later claim honest. The cognitive work is applying a reading procedure and beginning to interpret, real reasoning on a mapped path (Bloom: Apply; DOK 2). The artifact is a three-fact-plus-one-conclusion note pulled from a sample adoption graph. It follows the graph-types session because students must be able to pull a number before they apply it to the three St. Hubert's datasets, and it honors the Junior preference for precise, concrete extraction work.",
+              "cogLoadTag": "medium",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["6.SP.B.4"],
+              "standardsVerbatim": { "6.SP.B.4": "[UNVERIFIED — paraphrase from brief: display numerical data in plots; byte-exact NJSLS text not retrievable]" },
+              "flags": ["STANDARD_TAG_UNSURE: 6.SP.B.4 — reading/extracting may align more with the interpretation cluster than the display verb; confirm."],
+              "prerequisites": ["1.B.1"], "observableCheck": "Each student pulls three correct facts from the sample graph and labels which one statement is a conclusion rather than a fact.", "buildsOn": ["1.B.1"],
+              "guide": "[Confirm]", "rosenshineTag": "guided practice",
+              "challengeConnection": "Feeds Pin 1 by building fact-extraction; its output is consumed by sessions 1.B.4 through 1.B.6, which apply it to real datasets.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will blur a fact the graph shows with a conclusion they assume, writing 'big dogs are unwanted' as if the graph said it."],
+              "artifact": "The student writes three facts pulled from a sample adoption graph plus one labeled conclusion the facts support.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["1.B.CI2"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "1.B.3", "yearWeek": 1, "day": "Thu", "slot": 1, "startTime": "9:45 AM", "duration": 40,
+              "title": "Bar-graph dataset: St. Hubert's intake",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 3, "minPerCycle": 8, "checkMin": 5, "debriefMin": 6, "justification": null },
+              "block": "Production", "cohort": "juniors",
+              "lessonObjective": "Students will be able to read the St. Hubert's intake bar graph and extract the big-versus-small intake and adoption counts.",
+              "description": "Students apply their graph reading to a real St. Hubert's (or ASPCA) bar-graph dataset and pull the big-versus-small-dog counts that the adoption-gap question hinges on. The cognitive work is applying the extraction procedure to authentic, messier real data, mapped reasoning with a real object (Bloom: Apply; DOK 2). The artifact is a completed fact sheet of counts from the bar graph. It sits here because the rate work in sub-unit 1.C needs these raw counts as its inputs, and it honors the Junior motivation of handling real shelter numbers rather than textbook ones.",
+              "cogLoadTag": "medium",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["6.SP.B.4", "5.DL.A.1"],
+              "standardsVerbatim": { "6.SP.B.4": "[UNVERIFIED — paraphrase from brief; byte-exact NJSLS text not retrievable]", "5.DL.A.1": "[UNVERIFIED — code not retrievable]" },
+              "flags": ["UNVERIFIED_CONTENT_CLAIM: the specific St. Hubert's intake counts used here come from partner data the cohort gathers; the numbers are not pre-supplied and must be confirmed with the shelter."],
+              "prerequisites": ["1.B.2"], "observableCheck": "Each student's fact sheet lists the correct big-dog and small-dog intake and adoption counts from the bar graph.", "buildsOn": ["1.B.2"],
+              "guide": "[Confirm]", "rosenshineTag": "independent practice",
+              "challengeConnection": "Feeds Pin 1 by producing the raw counts; the counts are consumed by session 1.C.2, where students compute adoption rates from them.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will record an intake count as an adoption count, conflating dogs who arrived with dogs who left."],
+              "artifact": "The student completes a fact sheet of big-versus-small intake and adoption counts pulled from the St. Hubert's bar graph.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["1.B.CI3"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "1.B.4", "yearWeek": 1, "day": "Thu", "slot": 2, "startTime": "10:30 AM", "duration": 40,
+              "title": "Pie-chart dataset: adoptions by size",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 3, "minPerCycle": 8, "checkMin": 5, "debriefMin": 6, "justification": null },
+              "block": "Production", "cohort": "juniors",
+              "lessonObjective": "Students will be able to read a pie chart of adoptions by dog size and state each size's share of total adoptions.",
+              "description": "Students read a parts-of-a-whole pie chart of adoptions by size and translate slices into shares, the representation that most tempts the biggest-slice misread. The cognitive work is applying pie-chart interpretation to a real adoption breakdown, mapped reasoning (Bloom: Apply; DOK 2). The artifact is a share statement for each size category. It follows the bar-graph session so students meet a second representation of the same question, and it honors the Junior strength in seriation and parts-to-whole sorting.",
+              "cogLoadTag": "medium",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["6.SP.B.4", "5.DL.A.1"],
+              "standardsVerbatim": { "6.SP.B.4": "[UNVERIFIED — paraphrase from brief; byte-exact NJSLS text not retrievable]", "5.DL.A.1": "[UNVERIFIED — code not retrievable]" },
+              "flags": ["UNVERIFIED_CONTENT_CLAIM: the adoptions-by-size breakdown depends on St. Hubert's or ASPCA data not pre-supplied in the brief."],
+              "prerequisites": ["1.B.3"], "observableCheck": "Each student states the correct share of total adoptions for each size category from the pie chart.", "buildsOn": ["1.B.3"],
+              "guide": "[Confirm]", "rosenshineTag": "independent practice",
+              "challengeConnection": "Feeds Pin 1 by adding a share view of adoptions; consumed by session 1.D.2, where students compare big-versus-small fairly.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will read the largest pie slice as the largest count rather than the largest share of a whole that may itself be small."],
+              "artifact": "The student writes a per-size share statement of total adoptions read from the pie chart.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["1.B.CI3"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "1.B.5", "yearWeek": 1, "day": "Fri", "slot": 1, "startTime": "9:45 AM", "duration": 40,
+              "title": "Line-graph dataset: length-of-stay",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 3, "minPerCycle": 8, "checkMin": 5, "debriefMin": 6, "justification": null },
+              "block": "Production", "cohort": "juniors",
+              "lessonObjective": "Students will be able to read a line graph of length-of-stay over time and describe how big-dog and small-dog wait times change.",
+              "description": "Students read a line graph of length-of-stay over time and describe the trend in how long big versus small dogs wait, the representation that speaks most directly to the driving question. The cognitive work is applying line-graph interpretation to a change-over-time dataset, mapped reasoning (Bloom: Apply; DOK 2). The artifact is a written trend description for each size. It completes the three-dataset arc so students have read the gap question through count, share, and time, and it honors the Junior interest in tracking change in something they care about.",
+              "cogLoadTag": "medium",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["6.SP.B.4", "5.DL.A.1"],
+              "standardsVerbatim": { "6.SP.B.4": "[UNVERIFIED — paraphrase from brief; byte-exact NJSLS text not retrievable]", "5.DL.A.1": "[UNVERIFIED — code not retrievable]" },
+              "flags": ["UNVERIFIED_CONTENT_CLAIM: length-of-stay-over-time data depends on St. Hubert's records not pre-supplied in the brief."],
+              "prerequisites": ["1.B.4"], "observableCheck": "Each student writes a correct trend description for big-dog and small-dog length-of-stay from the line graph.", "buildsOn": ["1.B.4"],
+              "guide": "[Confirm]", "rosenshineTag": "independent practice",
+              "challengeConnection": "Feeds Pin 1 by adding the time view of the gap; consumed by session 1.E.1, where students fold all three views into a conclusion.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will describe a single high point as the trend instead of the overall direction of the line."],
+              "artifact": "The student writes a trend description of big-versus-small length-of-stay read from the line graph.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["1.B.CI3"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "1.B.6", "yearWeek": 2, "day": "Mon", "slot": 1, "startTime": "9:45 AM", "duration": 70,
+              "title": "St. Hubert's visit: real intake data",
+              "durationRecipe": { "setupMin": 10, "cycleCount": 6, "minPerCycle": 8, "checkMin": 7, "debriefMin": 5, "justification": "The first St. Hubert's visit needs a longer block because students rotate through six short data-gathering stations with shelter staff (intake board, length-of-stay log, size breakdown, adoption rate sheet, kennel walk, and a staff question round), each requiring its own capture before the next, and travel and setup add fixed overhead." },
+              "block": "Production", "cohort": "juniors",
+              "lessonObjective": "Students will be able to gather real big-versus-small intake and length-of-stay figures from St. Hubert's staff and records during the visit.",
+              "description": "Students visit St. Hubert's and gather the shelter's real intake, adoption, and length-of-stay figures firsthand, replacing sample data with the partner's own numbers. The cognitive work is applying their data-reading skills in an authentic, unscripted setting and capturing accurate records, mapped reasoning with real stakes (Bloom: Apply; DOK 2-3). The artifact is each student's completed field data sheet of St. Hubert's figures. It lands at the start of week two so the rate and claim work runs on real partner data, and it honors the eleven-year-old's appetite for a real-world adult task, gathering data alongside shelter staff.",
+              "cogLoadTag": "medium",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["6.SP.B.4"],
+              "standardsVerbatim": { "6.SP.B.4": "[UNVERIFIED — paraphrase from brief; byte-exact NJSLS text not retrievable]" },
+              "flags": ["UNVERIFIED_CONTENT_CLAIM: the visit assumes St. Hubert's will share intake/adoption/length-of-stay records and host a cohort visit; the brief lists the partner as confirmed but the visit logistics are [Confirm]."],
+              "prerequisites": ["1.B.5"], "observableCheck": "Each student's field data sheet records the shelter's actual big-versus-small intake and length-of-stay figures.", "buildsOn": ["1.B.5"],
+              "guide": "[Confirm]", "rosenshineTag": null,
+              "challengeConnection": "Feeds Pin 1 by sourcing the real data; consumed by sessions 1.C.2 and 1.E.2, where students compute rates and write the claim on St. Hubert's own numbers.",
+              "developmentalNote": "Pre-load the six station questions; Juniors gather better with a concrete question card in hand.", "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will record impressions of the dogs they meet instead of the numerical figures the stations ask for."],
+              "artifact": "The student completes a field data sheet of St. Hubert's real intake, adoption, and length-of-stay figures gathered during the visit.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["1.B.CI4"],
+              "juniorsOverride": null, "seniorsOverride": null
+            }
+          ]
+        },
+        {
+          "id": "1.C", "objective": "Students learn the difference between a raw count and a rate and compute the adoption rate for big and small dogs from the St. Hubert's figures.", "observableMilestone": "Each student correctly computes a big-dog and a small-dog adoption rate from the St. Hubert's counts and states what each rate means.",
+          "tier": "Enduring", "campaignLean": "heavy",
+          "campaignLeanJustification": "This sub-unit feeds the Pin 1 written-claim component because the adoption-gap claim must be argued in rates, not counts; the rate computation is the specific quantitative evidence that crosses into the student's claim.",
+          "targetDok": 2,
+          "targetDokRationale": "Students compute a big-dog adoption rate from St. Hubert's counts and interpret it against the small-dog rate, a familiar multi-step procedure applied to real data.",
+          "hourTotal": { "value": 1.9, "rangeLow": 1.7, "rangeHigh": 2.1 },
+          "sessionTarget": { "perCohortMin": 3, "perCohortMax": 4, "totalMin": 3, "totalMax": 4, "rationale": "First-teach of grade-6 unit rate carries the math fluency premium (a retrieve Diagnostic plus a Teach plus a practice cycle); three sessions for a single cohort." },
+          "phase": "Preparation", "track": "5-6", "grades": ["G5", "G6"],
+          "standards": ["6.RP.A.2"], "hostsFluencyGate": false, "locked": false,
+          "timeBudget": { "allocatedMinutes": 110 },
+          "standardsRole": { "firstTeaches": ["6.RP.A.2"], "retrieves": [{ "standardId": "5.NF.B.3", "firstTaughtIn": "pre-Forge" }], "applies": [] },
+          "juniorsOverride": null, "seniorsOverride": null,
+          "coldRetrievalSet": [
+            { "day": "Tue", "yearWeek": 2, "cohort": "juniors", "questions": [
+              { "prompt": "What is a unit rate in your own words?", "expectedAnswer": "How much per one" },
+              { "prompt": "How do you turn 4 out of 10 into a fraction?", "expectedAnswer": "4/10" },
+              { "prompt": "Why might a raw count mislead you when groups are different sizes?", "expectedAnswer": "Bigger group has more even at same rate" }
+            ] }
+          ],
+          "contentInventory": [
+            { "id": "1.C.CI1", "type": "diagnostic", "item": "Grade-5 fraction and division fluency re-check", "hours": 0.6, "loadTier": "low", "standards": ["5.NF.B.3"], "enduringConceptRef": "EC1", "notes": "Retrieve check before grade-6 rate work is applied." },
+            { "id": "1.C.CI2", "type": "concept", "item": "Percentage versus number; unit rate", "hours": 0.7, "loadTier": "high", "standards": ["6.RP.A.2"], "enduringConceptRef": "EC1", "notes": null },
+            { "id": "1.C.CI3", "type": "application", "item": "Compute big and small adoption rates from St. Hubert's counts", "hours": 0.6, "loadTier": "medium", "standards": ["6.RP.A.2"], "enduringConceptRef": "EC1", "notes": null }
+          ],
+          "sessions": [
+            {
+              "id": "1.C.0", "yearWeek": 2, "day": "Tue", "slot": 1, "startTime": "9:45 AM", "duration": 35,
+              "title": "Fraction fluency re-check",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 2, "minPerCycle": 10, "checkMin": 5, "debriefMin": 5, "justification": null },
+              "block": "Diagnostic", "cohort": "juniors",
+              "lessonObjective": "Students will be able to express a part-of-whole as a fraction and divide to find a quantity per one, recalling the grade-5 number sense the adoption-rate work needs.",
+              "description": "Students re-check the grade-5 fraction and division fluency that grade-6 rate reasoning is built on, with a correction loop on the patterns the check reveals before any rate is computed. The cognitive work is recalling and running a known procedure cold, plain retrieval with a fix-up loop (Bloom: Remember to Apply; DOK 1). The artifact is the completed diagnostic with each student's error pattern named. It sits first in the rate sub-unit because the brief warns grade-5 students will reach up on this math, and skipping the check would be difficulty without prior instruction; it honors the Junior need for a clear footing before a stretch.",
+              "cogLoadTag": "medium",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["5.NF.B.3"],
+              "standardsVerbatim": { "5.NF.B.3": "[UNVERIFIED — paraphrase: grade-5 NJSLS-Math, interpret a fraction as division of the numerator by the denominator; byte-exact text not retrievable]" },
+              "flags": ["PREREQ_UNCERTAIN: the cohort's actual grade-5 fraction/division fluency is unknown until this diagnostic runs; the rate sessions assume it and may need a correction-loop session inserted if the diagnostic flags broad gaps."],
+              "prerequisites": [], "observableCheck": "Each student completes the fraction-and-division check and the Guide records the cohort error pattern for the correction loop.", "buildsOn": ["1.B.6"],
+              "guide": "[Confirm]", "rosenshineTag": "daily review",
+              "challengeConnection": "Feeds Pin 1 by verifying the math substrate; its output (the cohort error pattern) is consumed by session 1.C.1, which adjusts the rate teach to the gaps found.",
+              "developmentalNote": "This is the retrieve Diagnostic for the challenge's only retrieved math substrate (5.NF.B.3) and is placed in 1.C, the first sub-unit that applies grade-6 rate work; flagged as an interpretation of the retrieval-challenge first-sub-unit rule since 1.A and 1.B apply no retrieved math.", "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will read 4 out of 10 and 40 out of 100 as different-sized quantities rather than the same rate."],
+              "artifact": "The student completes the fraction-and-division diagnostic with their individual error pattern named for the correction loop.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["1.C.CI1"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "1.C.1", "yearWeek": 2, "day": "Tue", "slot": 2, "startTime": "10:25 AM", "duration": 35,
+              "title": "Percentage versus number",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 2, "minPerCycle": 10, "checkMin": 5, "debriefMin": 5, "justification": null },
+              "block": "Teach", "cohort": "juniors",
+              "lessonObjective": "Students will be able to express an adoption count as a rate per one and explain why a percentage can tell a different story than a raw number.",
+              "description": "Students learn to turn a raw adoption count into a unit rate and see why the percentage, not the count, answers a fair-comparison question, the core math of the whole challenge. The cognitive work is understanding the count-versus-rate distinction and applying it to a first example, a deliberately heavy new-skill move (Bloom: Understand to Apply; DOK 2). The artifact is a worked example converting one size's counts into an adoption rate. It comes right after the diagnostic so the teach can target the gaps just found, and it honors the Junior reach-up the brief flags, with a grade-5 scaffold built in.",
+              "cogLoadTag": "heavy",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["6.RP.A.2"],
+              "standardsVerbatim": { "6.RP.A.2": "[UNVERIFIED — paraphrase from brief: understand the concept of a unit rate a/b associated with a ratio a:b with b not equal to 0, and use rate language; byte-exact NJSLS text not retrievable]" },
+              "flags": ["BAND_STRETCH: 6.RP.A.2 is a grade-6 standard taught to a 5/6 cohort; grade-5 students are reaching above band per the brief and need the planned scaffold."],
+              "prerequisites": ["1.C.0"], "observableCheck": "Each student correctly converts one size's adoption count into a rate per one in the guided example.", "buildsOn": ["1.C.0"],
+              "guide": "[Confirm]", "rosenshineTag": "small steps",
+              "challengeConnection": "Feeds Pin 1 by teaching the rate; consumed by session 1.C.2, where students compute big and small rates from St. Hubert's data.",
+              "developmentalNote": "Grade-5 scaffold: a rate-as-'per-one' sentence frame and a worked anchor example left visible.", "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will compare the two raw counts directly and conclude the bigger count means the worse outcome, skipping the rate."],
+              "artifact": "The student writes a worked example converting one dog-size's adoption counts into an adoption rate per one.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["1.C.CI2"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "1.C.2", "yearWeek": 2, "day": "Wed", "slot": 1, "startTime": "9:45 AM", "duration": 40,
+              "title": "Adoption-rate computation",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 3, "minPerCycle": 8, "checkMin": 5, "debriefMin": 6, "justification": null },
+              "block": "Production", "cohort": "juniors",
+              "lessonObjective": "Students will be able to compute the big-dog and small-dog adoption rates from the St. Hubert's counts and state what each rate means.",
+              "description": "Students compute the big-dog and small-dog adoption rates from the real St. Hubert's counts they gathered and put each rate into plain words. The cognitive work is applying the rate procedure to authentic data three times to fluency, mapped practice (Bloom: Apply; DOK 2). The artifact is a completed rate computation for each size with a one-sentence meaning. It follows the teach so the new skill is practiced on the partner's own numbers, and it honors the Junior satisfaction in a precise, finished calculation that feeds a real argument.",
+              "cogLoadTag": "medium",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["6.RP.A.2"],
+              "standardsVerbatim": { "6.RP.A.2": "[UNVERIFIED — paraphrase from brief; byte-exact NJSLS text not retrievable]" },
+              "flags": ["BAND_STRETCH: 6.RP.A.2 grade-6 rate work applied by a 5/6 cohort; monitor grade-5 students on the division step."],
+              "prerequisites": ["1.C.1", "1.B.6"], "observableCheck": "Each student computes correct big and small adoption rates and writes one sentence of meaning for each.", "buildsOn": ["1.C.1"],
+              "guide": "[Confirm]", "rosenshineTag": "guided practice",
+              "challengeConnection": "Feeds Pin 1 by producing the rate evidence; consumed by sessions 1.D.2 and 1.E.2, the fair comparison and the written claim.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will compute a rate but state its meaning as a raw count ('40 dogs') rather than as a per-one rate."],
+              "artifact": "The student computes the big-dog and small-dog adoption rates from St. Hubert's counts with a one-sentence meaning for each.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["1.C.CI3"],
+              "juniorsOverride": null, "seniorsOverride": null
+            }
+          ]
+        },
+        {
+          "id": "1.D", "objective": "Students learn to compare unequal-sized groups fairly by rate and to name the hidden factor (such as how many big dogs enter the shelter) that a raw count can hide.", "observableMilestone": "Each student compares big and small dogs by rate and names one hidden factor that could fake or mask an adoption gap.",
+          "tier": "Enduring", "campaignLean": "heavy",
+          "campaignLeanJustification": "This sub-unit feeds the Pin 1 written-claim component and the first declared tension by teaching the fair-comparison and hidden-factor move that the claim must survive; the specific reasoning that crosses forward is naming the intake-volume confound.",
+          "targetDok": 3,
+          "targetDokRationale": "Students decide whether the big-dog adoption gap is real by comparing rates and reasoning about whether intake volume is a hidden factor faking it, a non-routine judgment with more than one defensible path.",
+          "hourTotal": { "value": 1.3, "rangeLow": 1.2, "rangeHigh": 1.5 },
+          "sessionTarget": { "perCohortMin": 2, "perCohortMax": 3, "totalMin": 2, "totalMax": 3, "rationale": "First-teach of grade-6 rate comparison plus one applied fair-comparison cycle; two sessions for a single cohort at this DOK-3 target with the rate substrate already taught in 1.C." },
+          "phase": "Preparation", "track": "5-6", "grades": ["G5", "G6"],
+          "standards": ["6.RP.A.3"], "hostsFluencyGate": false, "locked": false,
+          "timeBudget": { "allocatedMinutes": 75 },
+          "standardsRole": { "firstTeaches": ["6.RP.A.3"], "retrieves": [], "applies": ["6.RP.A.2"] },
+          "juniorsOverride": null, "seniorsOverride": null,
+          "coldRetrievalSet": [
+            { "day": "Wed", "yearWeek": 2, "cohort": "juniors", "questions": [
+              { "prompt": "Why is comparing two raw counts unfair when the groups are different sizes?", "expectedAnswer": "Bigger group naturally has more" },
+              { "prompt": "What is a hidden factor?", "expectedAnswer": "Something behind the numbers that affects them" },
+              { "prompt": "What adoption rate did you compute for big dogs?", "expectedAnswer": "Student's computed rate" }
+            ] }
+          ],
+          "contentInventory": [
+            { "id": "1.D.CI1", "type": "concept", "item": "Comparing groups by rate; misleading comparisons; hidden factors", "hours": 0.8, "loadTier": "high", "standards": ["6.RP.A.3"], "enduringConceptRef": "EC1", "notes": null },
+            { "id": "1.D.CI2", "type": "application", "item": "Compare big versus small fairly and name the intake hidden factor", "hours": 0.5, "loadTier": "medium", "standards": ["6.RP.A.3"], "enduringConceptRef": "EC1", "notes": "Engages tension 1: is the gap real or an intake artifact." }
+          ],
+          "sessions": [
+            {
+              "id": "1.D.1", "yearWeek": 2, "day": "Wed", "slot": 2, "startTime": "10:30 AM", "duration": 35,
+              "title": "Misleading comparisons; hidden factors",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 2, "minPerCycle": 10, "checkMin": 5, "debriefMin": 5, "justification": null },
+              "block": "Teach", "cohort": "juniors",
+              "lessonObjective": "Students will be able to compare two unequal-sized dog groups by rate and explain how a hidden factor like intake volume could fake an adoption gap.",
+              "description": "Students learn that comparing groups of different sizes requires rates and that a hidden factor, such as far more big dogs entering the shelter, can make a count look like a gap that the rate does not support. The cognitive work is reasoning about a confound, strategic thinking where students must plan which comparison is fair (Bloom: Analyze; DOK 3). The artifact is a worked example showing a misleading raw-count comparison corrected by rate. It sits here because it is the engine of the first tension and the claim has to survive it, and it honors the eleven-year-old's readiness to challenge a too-easy conclusion.",
+              "cogLoadTag": "heavy",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["6.RP.A.3"],
+              "standardsVerbatim": { "6.RP.A.3": "[UNVERIFIED — paraphrase from brief: use ratio and rate reasoning to solve real-world problems, including comparing ratios with tables and reasoning about equivalent ratios; byte-exact NJSLS text not retrievable]" },
+              "flags": ["BAND_STRETCH: 6.RP.A.3 grade-6 rate reasoning applied by a 5/6 cohort; the hidden-factor reasoning is DOK-3 and may need a worked anchor for grade-5 students.", "UNVERIFIED_CONTENT_CLAIM: the specific claim that more big dogs enter shelters than small dogs is a real-world generalization the brief raises as a question; treat it as a hypothesis to test, not an established fact."],
+              "prerequisites": ["1.C.2"], "observableCheck": "Each student corrects a misleading raw-count comparison by rate and names one hidden factor in the worked example.", "buildsOn": ["1.C.2"],
+              "guide": "[Confirm]", "rosenshineTag": "modeling",
+              "challengeConnection": "Feeds Pin 1 and engages tension 1; consumed by session 1.E.1, where the conclusion must account for the hidden factor.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will accept that many big dogs remaining proves they are hard to adopt, missing that high intake could explain it without any gap in adoption rate."],
+              "artifact": "The student produces a worked example showing a misleading raw-count comparison corrected by rate, with one hidden factor named.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["1.D.CI1"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "1.D.2", "yearWeek": 2, "day": "Thu", "slot": 1, "startTime": "9:45 AM", "duration": 40,
+              "title": "Big versus small: compare by rate",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 3, "minPerCycle": 8, "checkMin": 5, "debriefMin": 6, "justification": null },
+              "block": "Production", "cohort": "juniors",
+              "lessonObjective": "Students will be able to use the St. Hubert's rates to judge whether the big-dog adoption gap is real and name the hidden factor they had to rule out.",
+              "description": "Students put the St. Hubert's big and small adoption rates side by side, judge whether a real gap exists, and write down the hidden factor they had to account for. The cognitive work is applying fair comparison to reach a defensible judgment, strategic reasoning with a real decision (Bloom: Analyze to Evaluate; DOK 3). The artifact is a fair-comparison finding stating whether the gap is real and which factor was ruled out. It sits here as the payoff of the rate arc and the input to the written claim, and it honors the Junior appetite to settle a fairness question with evidence in hand.",
+              "cogLoadTag": "medium",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["6.RP.A.3", "6.RP.A.2"],
+              "standardsVerbatim": { "6.RP.A.3": "[UNVERIFIED — paraphrase from brief; byte-exact NJSLS text not retrievable]", "6.RP.A.2": "[UNVERIFIED — paraphrase from brief; byte-exact NJSLS text not retrievable]" },
+              "flags": ["BAND_STRETCH: 6.RP.A.3 applied at DOK 3 by a 5/6 cohort; pair grade-5 students with the worked anchor from 1.D.1."],
+              "prerequisites": ["1.D.1"], "observableCheck": "Each student writes a fair-comparison finding that states whether the gap is real and names the hidden factor ruled out.", "buildsOn": ["1.D.1", "1.B.4"],
+              "guide": "[Confirm]", "rosenshineTag": "independent practice",
+              "challengeConnection": "Feeds Pin 1 by producing the gap finding; consumed directly by session 1.E.2, the written claim.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will declare a gap real without checking whether the intake hidden factor explains the raw difference."],
+              "artifact": "The student writes a fair-comparison finding stating whether the big-dog adoption gap is real and which hidden factor was ruled out.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["1.D.CI2"],
+              "juniorsOverride": null, "seniorsOverride": null
+            }
+          ]
+        },
+        {
+          "id": "1.E", "objective": "Students draw a conclusion from the St. Hubert's data and write and present a data-backed claim about whether a real big-dog adoption gap exists, the Act 1 evidence.", "observableMilestone": "Each student produces a written claim about the adoption gap supported by a rate and presents the visual data and conclusion orally.",
+          "tier": "Enduring", "campaignLean": "heavy",
+          "campaignLeanJustification": "This sub-unit is the Pin 1 deliverable itself: the written data-backed claim and its oral presentation, feeding the argument-writing strand that recurs through the profile cards in Act 5.",
+          "targetDok": 3,
+          "targetDokRationale": "Students construct and defend an original claim about the adoption gap from their own rate evidence, planning which data to lead with, a non-routine argument rather than a filled-in template.",
+          "hourTotal": { "value": 2.1, "rangeLow": 1.9, "rangeHigh": 2.3 },
+          "sessionTarget": { "perCohortMin": 3, "perCohortMax": 4, "totalMin": 3, "totalMax": 4, "rationale": "First-teach of grade-6 statistics summary and argument writing plus a presentation rehearsal; three sessions covering conclusion, claim, and oral presentation for a single cohort." },
+          "phase": "Preparation", "track": "5-6", "grades": ["G5", "G6"],
+          "standards": ["6.SP.B.5", "W.AW.6.1"], "hostsFluencyGate": false, "locked": false,
+          "timeBudget": { "allocatedMinutes": 130 },
+          "standardsRole": { "firstTeaches": ["6.SP.B.5", "W.AW.6.1"], "retrieves": [{ "standardId": "SL.PE.6.1", "firstTaughtIn": "PS1" }], "applies": ["6.RP.A.3", "SL.PE.6.1"] },
+          "juniorsOverride": null, "seniorsOverride": null,
+          "coldRetrievalSet": [
+            { "day": "Thu", "yearWeek": 2, "cohort": "juniors", "questions": [
+              { "prompt": "What is a claim?", "expectedAnswer": "A statement you back with evidence" },
+              { "prompt": "What is the difference between a claim and a fact?", "expectedAnswer": "A claim is argued from facts" },
+              { "prompt": "What did your fair comparison find about the gap?", "expectedAnswer": "Student's gap finding" }
+            ] },
+            { "day": "Fri", "yearWeek": 2, "cohort": "juniors", "questions": [
+              { "prompt": "Name one piece of evidence for your adoption-gap claim.", "expectedAnswer": "Student's rate or trend" },
+              { "prompt": "Why does a claim need evidence, not just an opinion?", "expectedAnswer": "Evidence makes it convincing and testable" },
+              { "prompt": "What makes a good oral presentation of data?", "expectedAnswer": "Clear visual, eye contact, pacing" }
+            ] }
+          ],
+          "contentInventory": [
+            { "id": "1.E.CI1", "type": "concept", "item": "Drawing a conclusion from summarized data", "hours": 0.7, "loadTier": "high", "standards": ["6.SP.B.5"], "enduringConceptRef": "EC1", "notes": null },
+            { "id": "1.E.CI2", "type": "skill", "item": "Writing a claim supported by data evidence", "hours": 0.8, "loadTier": "high", "standards": ["W.AW.6.1", "6.SP.B.5"], "enduringConceptRef": "EC5", "notes": null },
+            { "id": "1.E.CI3", "type": "skill", "item": "Presenting visual data and a conclusion orally", "hours": 0.6, "loadTier": "medium", "standards": ["SL.PE.6.1"], "enduringConceptRef": null, "notes": "Eye contact, pacing, projection per the brief's continuation row." }
+          ],
+          "sessions": [
+            {
+              "id": "1.E.1", "yearWeek": 2, "day": "Thu", "slot": 2, "startTime": "10:30 AM", "duration": 40,
+              "title": "Conclusion from the data",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 3, "minPerCycle": 8, "checkMin": 6, "debriefMin": 5, "justification": null },
+              "block": "Modeling", "cohort": "juniors",
+              "lessonObjective": "Students will be able to draw one conclusion about the big-dog adoption gap that their summarized St. Hubert's data actually supports.",
+              "description": "The Guide thinks aloud through summarizing the three data views into one defensible conclusion about the gap, then stops and hands the move to students. The cognitive work is synthesizing count, share, and trend evidence into a single supported conclusion, strategic reasoning with judgment about what the data will bear (Bloom: Analyze to Evaluate; DOK 3). The artifact is each student's one-sentence conclusion with the evidence it rests on named. It precedes the claim writing so students separate the conclusion from its wording, and it honors the Junior readiness for a real adult-style reasoning move modeled first.",
+              "cogLoadTag": "heavy",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["6.SP.B.5"],
+              "standardsVerbatim": { "6.SP.B.5": "[UNVERIFIED — paraphrase from brief: summarize numerical data sets in relation to their context; byte-exact NJSLS text not retrievable]" },
+              "flags": ["BAND_STRETCH: 6.SP.B.5 grade-6 data summary at DOK 3 for a 5/6 cohort; model the synthesis explicitly for grade-5 students."],
+              "prerequisites": ["1.D.2"], "observableCheck": "Each student writes one conclusion about the gap and names the specific data that supports it.", "buildsOn": ["1.D.2", "1.B.5"],
+              "guide": "[Confirm]", "rosenshineTag": "modeling",
+              "challengeConnection": "Feeds Pin 1 and engages tension 1; consumed by session 1.E.2, where the conclusion becomes a written claim.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will state a conclusion stronger than the data supports, claiming a large gap from a small or noisy difference."],
+              "artifact": "The student writes a one-sentence conclusion about the adoption gap with the supporting data named.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["1.E.CI1"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "1.E.2", "yearWeek": 2, "day": "Fri", "slot": 1, "startTime": "9:45 AM", "duration": 40,
+              "title": "Claim with evidence",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 3, "minPerCycle": 8, "checkMin": 5, "debriefMin": 6, "justification": null },
+              "block": "Production", "cohort": "juniors",
+              "lessonObjective": "Students will be able to write a claim about whether a real big-dog adoption gap exists, supported by a specific St. Hubert's rate and reasoning.",
+              "description": "Students write the Act 1 claim, stating whether a real gap exists and backing it with a specific rate and the hidden factor they ruled out, checking it against their week-one prediction. The cognitive work is constructing an evidence-grounded argument, strategic thinking where students choose which evidence carries the weight (Bloom: Apply to Create; DOK 3). The artifact is the written data-backed claim, the Act 1 evidence. It sits at the close of Act 1 because every later act builds on students believing the gap for evidence reasons, and it honors the grade-6 shift the brief names from opinion to claim-and-evidence.",
+              "cogLoadTag": "heavy",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["W.AW.6.1", "6.SP.B.5", "6.RP.A.3"],
+              "standardsVerbatim": { "W.AW.6.1": "[UNVERIFIED — quoted in brief as: write arguments on discipline-specific content to support claims with clear reasons and relevant evidence; flagged not byte-verified against NJSLS database]", "6.SP.B.5": "[UNVERIFIED — paraphrase from brief; byte-exact NJSLS text not retrievable]", "6.RP.A.3": "[UNVERIFIED — paraphrase from brief; byte-exact NJSLS text not retrievable]" },
+              "flags": ["BAND_STRETCH: W.AW.6.1 is grade-6 argument writing; grade-5 students reach up from the grade-5 'opinion' standard W.AW.5.1 per the brief's own note."],
+              "prerequisites": ["1.E.1", "1.A.1"], "observableCheck": "Each student's written claim states a position on the gap and cites at least one specific rate as evidence.", "buildsOn": ["1.E.1"],
+              "guide": "[Confirm]", "rosenshineTag": "independent practice",
+              "challengeConnection": "Is the Pin 1 deliverable; the claim is consumed by session 1.E.3 for oral presentation and revisited in Act 4 when survey evidence retests it.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will restate their original prediction as the claim without updating it to what the data actually showed."],
+              "artifact": "The student writes a data-backed claim about whether a real big-dog adoption gap exists, citing a specific St. Hubert's rate as evidence.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["1.E.CI2"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "1.E.3", "yearWeek": 2, "day": "Fri", "slot": 2, "startTime": "10:30 AM", "duration": 50,
+              "title": "Data presentation: pacing and projection",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 4, "minPerCycle": 8, "checkMin": 7, "debriefMin": 6, "justification": "Rehearsal needs four short presentation cycles so every student presents at least once and gets one round of peer feedback before re-presenting, which a single cycle cannot deliver." },
+              "block": "Rehearsal", "cohort": "juniors",
+              "lessonObjective": "Students will be able to present their visual adoption data and claim aloud with clear pacing, eye contact, and projection.",
+              "description": "Students rehearse presenting their visual data and claim aloud, studying a strong-versus-weak speaker model and practicing eye contact, pacing, and projection per the brief's presentation continuation row. The cognitive work is applying oral-presentation technique to their own argument, mapped practice with a performance goal (Bloom: Apply; DOK 2). The artifact is each student's rehearsed oral presentation of the data and claim. It closes Act 1 by turning the written claim into a spoken one and previews the Act 6 briefing, and it honors the eleven-year-old's appetite to speak passionately about something they have evidence for.",
+              "cogLoadTag": "medium",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["SL.PE.6.1"],
+              "standardsVerbatim": { "SL.PE.6.1": "[UNVERIFIED — paraphrase from brief; byte-exact NJSLS text not retrievable]" },
+              "flags": ["STANDARD_TAG_UNSURE: this rehearsal builds presentation skills that fully land on SL.PI.6.4 (present claims and findings), which is first-taught in Act 6; tagged SL.PE.6.1 here to avoid an orphan apply of SL.PI.6.4. Confirm the intended code."],
+              "prerequisites": ["1.E.2"], "observableCheck": "Each student presents their data and claim once with feedback on pacing, eye contact, and projection, then re-presents incorporating one fix.", "buildsOn": ["1.E.2"],
+              "guide": "[Confirm]", "rosenshineTag": "guided practice",
+              "challengeConnection": "Is the oral half of the Pin 1 evidence; the rehearsed presentation feeds the Act 6 briefing rehearsal in session 6 (specified in Part 6).",
+              "developmentalNote": "Use the brief's I-do/we-do/you-do good-versus-bad-speaker video model; Juniors calibrate well against a concrete contrast.", "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will read the data slide word for word instead of presenting the claim and using the visual as support."],
+              "artifact": "The student delivers a rehearsed oral presentation of their visual adoption data and data-backed claim with attention to pacing and projection.",
+              "movementBreak": false, "locked": false, "inventoryRefs": ["1.E.CI3"],
+              "juniorsOverride": null, "seniorsOverride": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_chunk": { "part": 1, "of": 6, "contains": ["challenge", "scopeDecisions", "gate", "preStage", "Pin 1"], "nextEmits": ["Pin 2", "Pin 3", "Pin 4", "Pin 5", "Pin 6", "coldTransferTask", "fitnessCheck", "selfVerification"] }
+}

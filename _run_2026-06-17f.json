@@ -1,0 +1,758 @@
+{
+  "2.2.8.MSC.5": {
+    "standardStatement": "Predict the impact of rules, etiquette, procedures, and sportsmanship on players' behavior in small groups and large teams during physical activities and games.",
+    "subject": "chpe",
+    "grade": "8",
+    "cells": {
+      "remember-1": {
+        "objective": "List the four terms rules, etiquette, procedures, and sportsmanship with a one-line meaning for each.",
+        "observableCheck": "Each student fills a four-box card with the term and a matching short meaning.",
+        "sampleTask": "Guide posts the four terms and a short meaning for each. Students copy the terms onto a four-box card and write the meaning from memory, then check against the posted set. Students mark any box they missed and fix it. The Guide reads the four meanings aloud so every card is complete before the next activity.",
+        "materials": ["four-box term cards", "posted term chart", "pencils"]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Describe in your own words how etiquette differs from a rule in a class game.",
+        "observableCheck": "Each student writes two sentences, one for rule and one for etiquette, that do not repeat the same idea.",
+        "sampleTask": "Guide gives a half-sheet with the words rule and etiquette. Students write one sentence describing each using a game the class plays, such as handball. Pairs check that the two sentences name different things, with rule as required and etiquette as expected courtesy. The Guide charts two clear student examples for each.",
+        "materials": ["half-sheet handout", "term chart", "pencils"]
+      },
+      "understand-2": {
+        "objective": "Explain why one procedure, such as the restart after a point, keeps a game moving.",
+        "observableCheck": "Each student writes a 'because' sentence linking the procedure to faster, fairer play.",
+        "sampleTask": "Each student picks one game procedure and writes 'this procedure helps the game because ...', naming a concrete result such as less arguing at the restart. Pairs read each other's sentence and mark whether the result is concrete. The Guide charts the three procedures students said help most and why.",
+        "materials": ["sentence-frame handout", "pencils"]
+      },
+      "understand-3": {
+        "objective": "Sort observed game behaviors into rule, etiquette, procedure, or sportsmanship.",
+        "observableCheck": "Each student places eight behavior cards into the four labeled columns on a mat.",
+        "sampleTask": "Guide hands pairs eight behavior cards, such as 'shakes hands after the game' and 'rotates to serve in order', plus a four-column mat. Pairs place each card and write one new card for the thinnest column. Pairs compare with a neighbor pair and settle any splits. The Guide names which column held the most cards and why.",
+        "materials": ["behavior cards", "four-column mat", "blank cards"]
+      },
+      "understand-4": {
+        "objective": "Summarize how good sportsmanship changes the mood of a team during a close game.",
+        "observableCheck": "Each student writes a three-sentence summary naming one sportsmanship act and its effect on teammates.",
+        "sampleTask": "Students watch a short class scrimmage clip or recall one from the prior period. Each writes a three-sentence summary that names one sportsmanship act, who did it, and how teammates responded. Pairs trade summaries and underline the effect sentence. The Guide reads two summaries that name a clear effect.",
+        "materials": ["scrimmage clip or recall prompt", "summary handout", "pencils"]
+      },
+      "apply-1": {
+        "objective": "Use one etiquette move correctly during a live small-group drill.",
+        "observableCheck": "A partner checks off the etiquette move on a card each time the student does it in the drill.",
+        "sampleTask": "Guide names one etiquette move for the day, such as calling your own line faults. Students run a small-group drill while a partner tallies each time the move happens. Partners swap roles after five minutes. The Guide collects the tally cards and names the move count for the class.",
+        "materials": ["tally cards", "drill equipment", "pencils"]
+      },
+      "apply-2": {
+        "objective": "Carry out the class restart procedure to begin and resume a small-sided game.",
+        "observableCheck": "Each group restarts play within ten seconds using the posted procedure steps.",
+        "sampleTask": "Guide posts the restart procedure as numbered steps. Groups play a small-sided game and use the steps to restart after each point. A rotating student timekeeper notes any restart that took longer than ten seconds and why. The Guide names the step groups missed most and reteaches it.",
+        "materials": ["posted procedure steps", "game equipment", "stopwatch"]
+      },
+      "apply-3": {
+        "objective": "Demonstrate two sportsmanship acts during a scrimmage and log when each happened.",
+        "observableCheck": "Each student records two sportsmanship acts they performed with the game moment for each.",
+        "sampleTask": "Students play a short scrimmage and aim for two sportsmanship acts, such as encouraging a teammate after a miss. After play, each writes the two acts and the moment each happened on a log. Pairs confirm they saw each other's acts. The Guide reads three logs that name a clear moment.",
+        "materials": ["sportsmanship log", "scrimmage equipment", "pencils"]
+      },
+      "apply-4": {
+        "objective": "Apply two game rules correctly while acting as a student official for one round.",
+        "observableCheck": "Each student official makes at least three calls that match the posted rule sheet during the round.",
+        "sampleTask": "Guide assigns student officials two rules to enforce and gives each a rule sheet. Officials run one round of play and make calls while a scorer notes whether each call matched the sheet. Officials and scorers swap for the next round. The Guide reviews any call that did not match and clarifies the rule.",
+        "materials": ["rule sheet", "scorer cards", "game equipment"]
+      },
+      "analyze-1": {
+        "objective": "Identify which behaviors break down more in a large team than in a small group.",
+        "observableCheck": "Each student marks three behaviors on a chart as more likely to break down in the large-team setting.",
+        "sampleTask": "Guide gives a chart listing six behaviors and two columns, small group and large team. Students mark where each behavior is more likely to break down based on two rounds they just played. Pairs compare marks and write one reason for their top pick. The Guide tallies the class marks and names the behavior most flagged for large teams.",
+        "materials": ["behavior chart", "two-round play notes", "pencils"]
+      },
+      "analyze-2": {
+        "objective": "Compare players' behavior in a three-on-three game with the same game played seven-on-seven.",
+        "observableCheck": "Each student completes a two-column comparison naming one behavior difference and a likely cause.",
+        "sampleTask": "Class plays the same game first as three-on-three, then as seven-on-seven. Each student fills a two-column sheet noting one behavior, such as how often players pass, in each version. Students write one sentence on what caused the difference, such as more players hiding effort in the larger team. Pairs check that the cause fits the behavior, and the Guide charts the strongest pairs.",
+        "materials": ["comparison sheet", "game equipment", "pencils"]
+      },
+      "analyze-3": {
+        "objective": "Analyze a game clip to find the cause of a sportsmanship breakdown.",
+        "observableCheck": "Each student names the trigger moment and the behavior that followed on a clip-analysis sheet.",
+        "sampleTask": "Guide plays a 60-second clip showing a behavior breakdown, such as arguing a call. Students mark the trigger moment and the behavior that followed on a timeline sheet. Pairs agree on the single trigger and write one rule or etiquette move that would have changed it. The Guide replays the clip and confirms the trigger the class found.",
+        "materials": ["game clip", "timeline analysis sheet", "pencils"]
+      },
+      "analyze-4": {
+        "objective": "Determine which single rule change would most affect player behavior in a class game.",
+        "observableCheck": "Each student ranks three rule changes by expected behavior impact and defends the top one.",
+        "sampleTask": "Guide lists three possible rule changes for a class game, such as requiring three passes before a shot. Students rank the three by how much each would change behavior and write one sentence defending the top pick. Pairs compare rankings and note any change of mind. The Guide tallies the top picks and names the change the class predicts will matter most.",
+        "materials": ["rule-change list", "ranking sheet", "pencils"]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Judge whether a proposed sportsmanship rule meets three posted criteria for a class game.",
+        "observableCheck": "Each student scores the proposed rule against each criterion and writes a keep-or-cut decision.",
+        "sampleTask": "Guide posts three criteria, such as fair, easy to follow, and improves mood. Students score a proposed rule, such as 'losing team chooses the next game', against each criterion on a scorecard. Each writes a one-sentence keep-or-cut decision tied to the scores. The Guide tallies decisions and names the criterion that split the class.",
+        "materials": ["criteria chart", "scorecard", "pencils"]
+      },
+      "evaluate-4": {
+        "objective": "Evaluate one team's behavior across a unit against a sportsmanship rubric and recommend one change.",
+        "observableCheck": "Each student assigns a rubric level and writes one recommendation backed by a game example.",
+        "sampleTask": "Guide gives a three-level sportsmanship rubric and each student's own game logs from the unit. Students rate their team's behavior, cite one game example for the rating, and write one recommendation for next unit. Pairs check that the example backs the rating. The Guide collects ratings and names the most common recommendation.",
+        "materials": ["sportsmanship rubric", "unit game logs", "pencils"]
+      },
+      "create-1": {
+        "objective": "Generate a class etiquette poster listing five expected courtesies for game day.",
+        "observableCheck": "Each student contributes at least one courtesy that the group adds to the poster.",
+        "sampleTask": "Groups brainstorm courtesies players expect from each other and pick the five clearest. Each group writes the five on a poster with a quick icon for each. Groups post and walk the room to mark courtesies that repeat across posters. The Guide builds one class list from the shared courtesies.",
+        "materials": ["poster paper", "markers", "sticky dots"]
+      },
+      "create-2": {
+        "objective": "Design a start-and-restart procedure for a new small-sided game.",
+        "observableCheck": "Each group produces a numbered procedure that another group can run without help.",
+        "sampleTask": "Groups invent a small-sided game and write a numbered procedure for starting and restarting play. Groups trade procedures and try to run the other group's restart cold. Each group notes any step that was unclear and the writers fix it. The Guide names the procedure that ran most smoothly and why.",
+        "materials": ["procedure template", "game equipment", "pencils"]
+      },
+      "create-3": {
+        "objective": "Develop a class sportsmanship contract that names three commitments and a check for each.",
+        "observableCheck": "Each group submits a contract with three commitments and a way to tell if each is being kept.",
+        "sampleTask": "Groups draft a sportsmanship contract with three commitments, such as 'we encourage after mistakes', and a visible check for each, such as a tally of encouragements. Groups present and the class votes the three commitments to adopt. Each student signs the adopted contract. The Guide posts it for the rest of the unit.",
+        "materials": ["contract template", "chart paper", "pencils"]
+      },
+      "create-4": {
+        "objective": "Create a modified game whose rules are predicted to improve behavior, then test the prediction.",
+        "observableCheck": "Each group runs its modified game and records whether the predicted behavior change happened.",
+        "sampleTask": "Groups modify a known game with one or two rules they predict will improve behavior, such as rotating captains each point. Each group writes the prediction, runs the game for one round, and tallies the target behavior. Groups report whether the prediction held and why. The Guide names the modification with the clearest behavior change.",
+        "materials": ["game equipment", "prediction-and-tally sheet", "pencils"]
+      }
+    }
+  },
+  "2.2.8.MSC.6": {
+    "standardStatement": "Demonstrate offensive, defensive, and cooperative strategies in a variety of games and settings.",
+    "subject": "chpe",
+    "grade": "8",
+    "cells": {
+      "remember-1": {
+        "objective": "Name one offensive, one defensive, and one cooperative strategy used in a class game.",
+        "observableCheck": "Each student writes one strategy under each of the three headings on a card.",
+        "sampleTask": "Guide posts the three headings offensive, defensive, and cooperative with one example each. Students write one strategy under each heading from memory, then check against the posted examples. Students fix any heading they left blank. The Guide reads one clear strategy per heading so every card is complete.",
+        "materials": ["three-heading cards", "posted strategy chart", "pencils"]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Describe what an offensive strategy is trying to do during a game.",
+        "observableCheck": "Each student writes one sentence naming the goal of an offensive strategy, such as creating open space.",
+        "sampleTask": "Guide gives a half-sheet with the word offense. Students write one sentence on what offense tries to do in a game they play, such as moving to open space for a pass. Pairs check that the sentence names a goal, not just an action. The Guide charts two clear goals from the class.",
+        "materials": ["half-sheet handout", "strategy chart", "pencils"]
+      },
+      "understand-2": {
+        "objective": "Explain why a defensive strategy works against a specific offensive move.",
+        "observableCheck": "Each student writes a 'because' sentence pairing a defense with the offense it stops.",
+        "sampleTask": "Each student picks one defensive strategy and writes 'this defense works against ... because ...', naming the offensive move it limits. Pairs read and mark whether the pairing makes sense. The Guide charts three defense-offense pairs the class agrees on.",
+        "materials": ["sentence-frame handout", "strategy chart", "pencils"]
+      },
+      "understand-3": {
+        "objective": "Classify game actions as offensive, defensive, or cooperative.",
+        "observableCheck": "Each student sorts nine action cards into the three categories on a mat.",
+        "sampleTask": "Guide hands pairs nine action cards, such as 'sets a screen' and 'calls for help on defense', and a three-column mat. Pairs place each action and write one new card for the thinnest column. Pairs compare with a neighbor pair and settle splits. The Guide names the actions that could fit more than one column and why.",
+        "materials": ["action cards", "three-column mat", "blank cards"]
+      },
+      "understand-4": {
+        "objective": "Connect a cooperative strategy to a better team result.",
+        "observableCheck": "Each student matches four cooperative strategies to four likely results on a worksheet.",
+        "sampleTask": "Students get a worksheet with four cooperative strategies on the left, such as 'talk before each play', and six results on the right. They draw lines from each strategy to its likely result and cross out extras. They write one sentence on the hardest match. Whole-class review settles it.",
+        "materials": ["matching worksheet", "pencils"]
+      },
+      "apply-1": {
+        "objective": "Execute one offensive strategy correctly in a small-sided game.",
+        "observableCheck": "A partner tallies each time the student runs the assigned offensive move during play.",
+        "sampleTask": "Guide assigns one offensive strategy, such as cutting to open space. Students play a small-sided game while a partner tallies each clean use of the move. Partners swap after five minutes. The Guide collects tallies and names the class count for the move.",
+        "materials": ["tally cards", "game equipment", "pencils"]
+      },
+      "apply-2": {
+        "objective": "Use a defensive strategy to limit an opponent during a round of play.",
+        "observableCheck": "Each student records how many times their defense stopped or slowed the offense.",
+        "sampleTask": "Guide names a defensive strategy, such as marking the open player. Students play one round and tally each time their defense stopped or slowed an attack. A scorer confirms the count. The Guide names the defense that worked best and why.",
+        "materials": ["defense tally sheet", "game equipment", "pencils"]
+      },
+      "apply-3": {
+        "objective": "Apply a cooperative strategy with teammates during a team game.",
+        "observableCheck": "Each team shows the cooperative move at least three times, logged by a rotating observer.",
+        "sampleTask": "Teams pick one cooperative strategy, such as calling the play before each point. A rotating observer logs each time the team uses it during the game. Teams aim for at least three clean uses. The Guide reviews the logs and names the team that cooperated most.",
+        "materials": ["observer log", "game equipment", "pencils"]
+      },
+      "apply-4": {
+        "objective": "Switch between offensive and defensive strategy as possession changes in a game.",
+        "observableCheck": "Each student is observed making at least two correct strategy switches during play.",
+        "sampleTask": "Guide sets a small-sided game where possession changes often. Students play while a partner notes each correct switch from offense to defense and back. Partners swap roles after one game. The Guide names the most common late or missed switch and reteaches the cue.",
+        "materials": ["switch-observation card", "game equipment", "pencils"]
+      },
+      "analyze-1": {
+        "objective": "Break down which strategy a team relied on most during one game.",
+        "observableCheck": "Each student tallies strategy use by type and names the most-used type.",
+        "sampleTask": "Students watch one team play or recall their own last game. Each tallies actions by type, offensive, defensive, or cooperative, on a chart. Students name the most-used type and write one sentence on why. Pairs compare tallies and the Guide charts the class pattern.",
+        "materials": ["strategy tally chart", "game or recall prompt", "pencils"]
+      },
+      "analyze-2": {
+        "objective": "Compare how a strategy works in a small-court game versus a full-court game.",
+        "observableCheck": "Each student completes a two-column comparison naming one difference and its cause.",
+        "sampleTask": "Class plays the same game on a small court, then full court. Each student fills a two-column sheet noting how one strategy, such as fast passing, worked in each setting. Students write one sentence on the cause of the difference, such as more space to defend on the full court. Pairs check the cause fits, and the Guide charts the strongest pairs.",
+        "materials": ["comparison sheet", "game equipment", "pencils"]
+      },
+      "analyze-3": {
+        "objective": "Analyze a game clip to find why one strategy failed.",
+        "observableCheck": "Each student names the moment the strategy broke and one cause on a clip sheet.",
+        "sampleTask": "Guide plays a 60-second clip where a strategy fails, such as an offense getting trapped. Students mark the moment it broke and write one cause, such as no one moving to support. Pairs agree on the single cause and name one fix. The Guide replays and confirms the cause.",
+        "materials": ["game clip", "clip-analysis sheet", "pencils"]
+      },
+      "analyze-4": {
+        "objective": "Determine which strategy a team should add to beat a specific opponent style.",
+        "observableCheck": "Each student picks one strategy to add and ties it to the opponent weakness it targets.",
+        "sampleTask": "Guide describes an opponent style, such as a team that crowds the ball. Students pick one strategy to add and write the opponent weakness it targets, such as open space on the far side. Pairs compare picks and note any change of mind. The Guide tallies picks and names the strategy the class favors.",
+        "materials": ["opponent-style card", "strategy list", "pencils"]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Judge whether a team's strategy choice fit the game situation using set criteria.",
+        "observableCheck": "Each student scores the choice against each criterion and writes a fit-or-misfit verdict.",
+        "sampleTask": "Guide posts three criteria, such as matched the opponent, used team strengths, and was simple to run. Students score one team's strategy choice from a game against each criterion. Each writes a one-sentence verdict on whether the choice fit. The Guide names the criterion that most teams missed.",
+        "materials": ["criteria chart", "scorecard", "pencils"]
+      },
+      "evaluate-4": {
+        "objective": "Evaluate a team's strategy use across a unit and recommend the one change with the most payoff.",
+        "observableCheck": "Each student names a rubric level and one recommendation backed by a game example.",
+        "sampleTask": "Guide gives a strategy-use rubric and each student's game logs from the unit. Students rate their team's strategy use, cite one game example, and recommend the single change with the most payoff. Pairs check the example backs the rating. The Guide names the most common recommendation.",
+        "materials": ["strategy rubric", "unit game logs", "pencils"]
+      },
+      "create-1": {
+        "objective": "Generate a one-page strategy menu listing two moves for each of the three strategy types.",
+        "observableCheck": "Each student lists six moves, two per type, that the group reviews for clarity.",
+        "sampleTask": "Students list two offensive, two defensive, and two cooperative moves they can run. Groups merge their lists into one menu and cut repeats. Groups post the menus and mark moves that appear on more than one menu. The Guide builds a class menu from the shared moves.",
+        "materials": ["strategy menu template", "markers", "sticky dots"]
+      },
+      "create-2": {
+        "objective": "Design a drill that practices one offensive and one defensive strategy at the same time.",
+        "observableCheck": "Each group produces a drill diagram another group can set up and run.",
+        "sampleTask": "Groups design a drill where one side runs an offensive move and the other a defensive move. Groups diagram the setup and write the steps. Groups trade and run each other's drill cold, noting any unclear step. The writers fix the step and the Guide names the drill that ran best.",
+        "materials": ["drill diagram template", "game equipment", "pencils"]
+      },
+      "create-3": {
+        "objective": "Develop a team game plan that assigns each player a strategy role.",
+        "observableCheck": "Each group submits a plan naming a role and a key move for every player.",
+        "sampleTask": "Groups write a game plan for an upcoming class game that gives each player one strategy role and a key move. Groups walk through the plan once at half speed. Each group revises any role that overlaps too much. The Guide reviews plans and names the clearest role split.",
+        "materials": ["game-plan template", "game equipment", "pencils"]
+      },
+      "create-4": {
+        "objective": "Create a new small-sided game that forces players to use all three strategy types, then test it.",
+        "observableCheck": "Each group runs its game and records whether all three strategy types appeared.",
+        "sampleTask": "Groups invent a small-sided game with rules that force offense, defense, and cooperation, such as requiring a pass to every teammate before scoring. Each group writes the rules, runs one round, and tallies which strategy types appeared. Groups report whether all three showed up and adjust a rule if one was missing. The Guide names the game that pulled out all three best.",
+        "materials": ["game equipment", "rules-and-tally sheet", "pencils"]
+      }
+    }
+  },
+  "2.2.8.MSC.7": {
+    "standardStatement": "Effectively manage emotions during physical activity (e.g., anger, frustration, excitement) in a safe manner to self and others.",
+    "subject": "chpe",
+    "grade": "8",
+    "cells": {
+      "remember-1": {
+        "objective": "List three emotions that come up during physical activity and one calming step for each.",
+        "observableCheck": "Each student fills a card with three emotions and a paired calming step.",
+        "sampleTask": "Guide posts three emotions, anger, frustration, and excitement, with one calming step each, such as a slow breath. Students copy the emotions and steps onto a card from memory, then check the posted set. Students fix any missing step. The Guide reads the three steps so every card is complete.",
+        "materials": ["emotion-step cards", "posted emotion chart", "pencils"]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Describe what frustration looks like in a player's body and actions during a game.",
+        "observableCheck": "Each student writes two body or action signs of frustration on a half-sheet.",
+        "sampleTask": "Guide gives a half-sheet with the word frustration. Students write two signs a teammate would notice, such as a clenched jaw or a thrown ball. Pairs check that the signs are things you can see, not guesses. The Guide charts the clearest visible signs.",
+        "materials": ["half-sheet handout", "emotion chart", "pencils"]
+      },
+      "understand-2": {
+        "objective": "Explain why an unmanaged emotion can make play unsafe for self or others.",
+        "observableCheck": "Each student writes a 'because' sentence linking a strong emotion to a safety risk.",
+        "sampleTask": "Each student picks one emotion and writes 'this emotion can make play unsafe because ...', naming a concrete risk such as swinging equipment too hard. Pairs read and mark whether the risk is concrete. The Guide charts the risks students name most.",
+        "materials": ["sentence-frame handout", "pencils"]
+      },
+      "understand-3": {
+        "objective": "Classify calming steps as before, during, or after a triggering moment.",
+        "observableCheck": "Each student sorts eight calming-step cards into the three timing columns on a mat.",
+        "sampleTask": "Guide hands pairs eight calming-step cards, such as 'count to five' and 'talk to the Guide after', and a three-column mat labeled before, during, after. Pairs place each step and write one new card for the thinnest column. Pairs compare with a neighbor pair and settle splits. The Guide names which timing held the most steps.",
+        "materials": ["calming-step cards", "three-column mat", "blank cards"]
+      },
+      "understand-4": {
+        "objective": "Connect a specific trigger to a calming step that fits it.",
+        "observableCheck": "Each student matches four triggers to four calming steps on a worksheet.",
+        "sampleTask": "Students get a worksheet with four triggers on the left, such as 'a bad call against me', and six calming steps on the right. They draw lines from each trigger to a step that fits and cross out extras. They write one sentence on the hardest match. Whole-class review settles it.",
+        "materials": ["matching worksheet", "pencils"]
+      },
+      "apply-1": {
+        "objective": "Use one calming step in the moment during a competitive drill.",
+        "observableCheck": "A partner notes each time the student uses the calming step when a trigger shows.",
+        "sampleTask": "Guide names one calming step, such as a slow breath after a miss. Students run a competitive drill while a partner watches for triggers and notes whether the step was used. Partners swap after five minutes. The Guide collects notes and names how often the step was used.",
+        "materials": ["observation cards", "drill equipment", "pencils"]
+      },
+      "apply-2": {
+        "objective": "Carry out a reset routine after a setback during a scrimmage.",
+        "observableCheck": "Each student completes the posted reset routine at least once after a setback in play.",
+        "sampleTask": "Guide posts a three-step reset routine, such as breathe, name the feeling, choose the next move. Students play a scrimmage and run the routine after any setback. A rotating observer marks each completed reset. The Guide names the step students skip most and reteaches it.",
+        "materials": ["posted reset routine", "scrimmage equipment", "observer cards"]
+      },
+      "apply-3": {
+        "objective": "Apply a calming step to help a teammate who is frustrated during a game.",
+        "observableCheck": "Each student records one time they helped a teammate reset and what they said or did.",
+        "sampleTask": "Students play a team game and watch for a frustrated teammate. Each tries one supportive calming move, such as a quick word or a reset cue. After play, each writes what they did and how the teammate responded. The Guide reads three logs that name a clear response.",
+        "materials": ["support log", "game equipment", "pencils"]
+      },
+      "apply-4": {
+        "objective": "Channel excitement into safe, controlled play after scoring.",
+        "observableCheck": "Each student shows a controlled celebration and a fast return to position, noted by a partner.",
+        "sampleTask": "Guide sets a rule that celebrations stay safe and players return to position within five seconds. Students play a game while a partner notes whether each celebration stayed safe and the return was quick. Partners swap roles. The Guide names the class pattern and praises specific safe celebrations.",
+        "materials": ["partner-observation card", "game equipment", "stopwatch"]
+      },
+      "analyze-1": {
+        "objective": "Identify your own most common trigger during physical activity.",
+        "observableCheck": "Each student names one repeating trigger and the situations where it shows up.",
+        "sampleTask": "Students review their game logs or recall recent classes. Each names the trigger that shows up most, such as losing a close point, and lists two situations where it appears. Pairs ask one clarifying question about each other's trigger. The Guide tallies the class's most common triggers.",
+        "materials": ["game logs or recall prompt", "trigger sheet", "pencils"]
+      },
+      "analyze-2": {
+        "objective": "Compare how excitement and frustration each change your play.",
+        "observableCheck": "Each student completes a two-column comparison naming one effect of each emotion.",
+        "sampleTask": "Each student fills a two-column sheet on how excitement and how frustration each change their play, such as rushing shots when excited. Students write one sentence on which emotion is harder to manage and why. Pairs compare and mark any shared pattern. The Guide charts the harder emotion for the class.",
+        "materials": ["comparison sheet", "pencils"]
+      },
+      "analyze-3": {
+        "objective": "Analyze a game clip to find the trigger and the choice the player made.",
+        "observableCheck": "Each student marks the trigger moment and the player's response on a timeline sheet.",
+        "sampleTask": "Guide plays a 60-second clip where a player reacts to a setback. Students mark the trigger moment and the response on a timeline. Pairs agree on the single trigger and name a safer choice. The Guide replays and confirms the trigger.",
+        "materials": ["game clip", "timeline analysis sheet", "pencils"]
+      },
+      "analyze-4": {
+        "objective": "Determine which calming step would help you most in your hardest moment.",
+        "observableCheck": "Each student picks one calming step and ties it to the trigger it best fits.",
+        "sampleTask": "Students name their hardest emotional moment in activity and review four calming steps. Each picks the one step that best fits the moment and writes why. Pairs compare picks and note any change of mind. The Guide tallies picks and names the step the class chose most.",
+        "materials": ["calming-step list", "decision sheet", "pencils"]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Judge whether a reset routine met three criteria for being usable in a real game.",
+        "observableCheck": "Each student scores the routine against each criterion and writes a keep-or-change decision.",
+        "sampleTask": "Guide posts three criteria, such as fast, safe, and easy to remember. Students score a reset routine against each criterion on a scorecard after trying it in a drill. Each writes a one-sentence keep-or-change decision. The Guide names the criterion that split the class.",
+        "materials": ["criteria chart", "scorecard", "pencils"]
+      },
+      "evaluate-4": {
+        "objective": "Evaluate your own emotion management across a unit and recommend one focus for next unit.",
+        "observableCheck": "Each student rates themselves on a rubric and names one focus backed by a game example.",
+        "sampleTask": "Guide gives an emotion-management rubric and each student's logs from the unit. Students rate their own management, cite one game example, and name one focus for next unit. Pairs check the example backs the rating. The Guide collects ratings and notes the most common focus.",
+        "materials": ["self-rating rubric", "unit logs", "pencils"]
+      },
+      "create-1": {
+        "objective": "Generate a personal cue card with three calming steps in your own words.",
+        "observableCheck": "Each student produces a cue card with three steps they can read in five seconds.",
+        "sampleTask": "Students write three calming steps in their own words on a small cue card, short enough to read fast. Pairs read each other's cards and time the read. Each trims any step that takes too long. The Guide collects cards to laminate for game days.",
+        "materials": ["cue card stock", "markers", "stopwatch"]
+      },
+      "create-2": {
+        "objective": "Design a class signal that lets a player ask for a quick reset without stopping the game.",
+        "observableCheck": "Each group produces a signal and a short rule for when to use it.",
+        "sampleTask": "Groups invent a non-verbal signal a player can use to ask for a reset, plus a one-line rule for when it applies. Groups demonstrate the signal and the class votes one to try. Each student practices the signal once in a drill. The Guide posts the chosen signal.",
+        "materials": ["chart paper", "markers", "drill equipment"]
+      },
+      "create-3": {
+        "objective": "Develop a team agreement for keeping play safe when emotions run high.",
+        "observableCheck": "Each group submits an agreement with three rules and a check for each.",
+        "sampleTask": "Groups draft a safe-play agreement with three rules, such as 'no slamming equipment', and a way to tell if each is kept. Groups present and the class votes the three rules to adopt. Each student signs the adopted agreement. The Guide posts it for the unit.",
+        "materials": ["agreement template", "chart paper", "pencils"]
+      },
+      "create-4": {
+        "objective": "Create a high-pressure drill with built-in reset moments, then test whether it lowers blowups.",
+        "observableCheck": "Each group runs its drill and records whether reset moments were used and blowups dropped.",
+        "sampleTask": "Groups design a high-pressure drill that builds in a reset moment, such as a forced breath after every point. Each group runs the drill for one round and tallies reset use and any unsafe blowups. Groups report whether the resets lowered blowups and adjust the timing if needed. The Guide names the drill design that kept play safest.",
+        "materials": ["game equipment", "drill-and-tally sheet", "stopwatch"]
+      }
+    }
+  },
+  "2.2.8.N.1": {
+    "standardStatement": "Analyze how culture, health status, age and access to healthy foods can influence personal eating habits.",
+    "subject": "chpe",
+    "grade": "8",
+    "cells": {
+      "remember-1": {
+        "objective": "List the four factors culture, health status, age, and access that shape eating habits.",
+        "observableCheck": "Each student writes the four factors with a one-word example for each on a card.",
+        "sampleTask": "Guide posts the four factors with a short example each. Students write the four factors and one example from memory, then check the posted set. Students fix any factor they missed. The Guide reads the four examples so every card is complete.",
+        "materials": ["four-factor cards", "posted factor chart", "pencils"]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Describe how culture can shape what foods a family eats most often.",
+        "observableCheck": "Each student writes two sentences giving a culture-based food example and its source.",
+        "sampleTask": "Guide gives a half-sheet with the word culture. Students write two sentences naming a food choice tied to culture, such as a holiday dish, and where the habit came from. Pairs check the example ties to culture, not just taste. The Guide charts two clear examples.",
+        "materials": ["half-sheet handout", "factor chart", "pencils"]
+      },
+      "understand-2": {
+        "objective": "Explain why limited access to fresh food can change eating habits.",
+        "observableCheck": "Each student writes a 'because' sentence linking low access to a habit change.",
+        "sampleTask": "Each student writes 'low access changes eating habits because ...', naming a concrete result such as relying on shelf-stable food when no store is near. Pairs read and mark whether the result is concrete. The Guide charts the results students name most.",
+        "materials": ["sentence-frame handout", "pencils"]
+      },
+      "understand-3": {
+        "objective": "Classify example eating habits by the factor that most influences each.",
+        "observableCheck": "Each student sorts eight habit cards into the four factor columns on a mat.",
+        "sampleTask": "Guide hands pairs eight habit cards, such as 'eats more protein after sports' and 'cooks family recipes weekly', and a four-column mat for the factors. Pairs place each card and write one new card for the thinnest column. Pairs compare with a neighbor pair and settle splits. The Guide names habits that fit more than one factor and why.",
+        "materials": ["habit cards", "four-column mat", "blank cards"]
+      },
+      "understand-4": {
+        "objective": "Connect each factor to one concrete way it shows up in a teen's day.",
+        "observableCheck": "Each student matches four factors to four daily situations on a worksheet.",
+        "sampleTask": "Students get a worksheet with the four factors on the left and six daily situations on the right, such as 'no time to cook before practice'. They draw lines from each factor to a situation and cross out extras. They write one sentence on the hardest match. Whole-class review settles it.",
+        "materials": ["matching worksheet", "pencils"]
+      },
+      "apply-1": {
+        "objective": "Use the four factors to label the influences in one day of a sample food log.",
+        "observableCheck": "Each student tags each meal in the sample log with at least one factor.",
+        "sampleTask": "Guide gives a one-day sample food log for a fictional teen. Students tag each meal with the factor that best explains it, such as access for a fast-food lunch. Pairs compare tags and resolve any meal they tagged differently. The Guide reviews and confirms two tricky tags.",
+        "materials": ["sample food log", "factor key", "pencils"]
+      },
+      "apply-2": {
+        "objective": "Apply the factors to explain your own breakfast choices for three days.",
+        "observableCheck": "Each student names the main factor behind each of three breakfasts on a chart.",
+        "sampleTask": "Students record three days of breakfast or recall them. Each names the main factor behind each choice and writes one note, such as age driving appetite. Pairs ask one question about each other's chart. The Guide tallies the factor that drove breakfast most for the class.",
+        "materials": ["breakfast chart", "factor key", "pencils"]
+      },
+      "apply-3": {
+        "objective": "Apply the factors to a peer interview and chart the influences you hear.",
+        "observableCheck": "Each student records a partner's eating influences mapped to the four factors.",
+        "sampleTask": "Students interview a partner with three set questions about food choices. Each maps the partner's answers to the four factors on a chart. Partners check that their answers were placed correctly. The Guide names the factor that came up most across interviews.",
+        "materials": ["interview question card", "factor chart", "pencils"]
+      },
+      "apply-4": {
+        "objective": "Apply the factors to choose which influence a teen could change most easily.",
+        "observableCheck": "Each student picks one changeable factor for a sample teen and gives one step.",
+        "sampleTask": "Guide gives a short profile of a sample teen. Students pick the one factor the teen could most realistically change and write one step to do it. Pairs compare picks and note any change of mind. The Guide tallies the picks and names the most-chosen factor.",
+        "materials": ["teen profile card", "decision sheet", "pencils"]
+      },
+      "analyze-1": {
+        "objective": "Break down which factor most influences a sample teen's eating across a week.",
+        "observableCheck": "Each student tallies factor influence by meal and names the leading factor.",
+        "sampleTask": "Guide gives a one-week sample food log. Students tag each meal with its main factor and tally the counts. Students name the leading factor and write one sentence on the evidence. Pairs compare tallies and the Guide charts the class result.",
+        "materials": ["one-week sample log", "factor tally chart", "pencils"]
+      },
+      "analyze-2": {
+        "objective": "Compare how access shapes eating in two neighborhoods with different food options.",
+        "observableCheck": "Each student completes a two-column comparison naming one habit difference and its cause.",
+        "sampleTask": "Guide gives two short neighborhood profiles, one with a nearby grocery and one without. Students fill a two-column sheet on one likely eating difference and its cause. Pairs check the cause ties to access, not income alone. The Guide charts the strongest pairs.",
+        "materials": ["neighborhood profiles", "comparison sheet", "pencils"]
+      },
+      "analyze-3": {
+        "objective": "Analyze a data table to find how age groups differ in one eating habit.",
+        "observableCheck": "Each student names the age group with the highest value and one likely reason.",
+        "sampleTask": "Guide gives a small table of an eating habit by age group, such as daily fruit servings. Students find the highest and lowest groups and write one likely reason for the gap. Pairs agree on the single clearest reason. The Guide confirms the reading of the table.",
+        "materials": ["age-group data table", "analysis sheet", "pencils"]
+      },
+      "analyze-4": {
+        "objective": "Determine which two factors interact most in a sample teen's eating pattern.",
+        "observableCheck": "Each student names a factor pair and explains how the two work together.",
+        "sampleTask": "Guide gives a sample teen's week of eating. Students name the two factors that interact most, such as age and access, and write how they combine. Pairs compare pairs and defend their choice. The Guide names the interaction the class found strongest.",
+        "materials": ["sample week log", "analysis sheet", "pencils"]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Judge whether a claim about food and culture is supported by the given evidence.",
+        "observableCheck": "Each student rates the claim supported or not and cites the evidence used.",
+        "sampleTask": "Guide gives a claim, such as 'culture is the only factor that matters', plus a short data card. Students rate the claim supported, partly supported, or not supported and cite the evidence. Each writes one sentence defending the rating. The Guide names the rating the class chose most and the evidence behind it.",
+        "materials": ["claim card", "data card", "rating sheet"]
+      },
+      "evaluate-4": {
+        "objective": "Evaluate which factor a school could most affect to improve student eating and justify it.",
+        "observableCheck": "Each student picks one factor for the school to target and backs it with evidence.",
+        "sampleTask": "Students review the class data on the four factors. Each picks the one factor a school can most affect, such as access through the cafeteria, and writes a justification with evidence. Pairs check the justification uses class data. The Guide tallies picks and names the factor the class would target.",
+        "materials": ["class data summary", "justification sheet", "pencils"]
+      },
+      "create-1": {
+        "objective": "Generate a factor map showing the four influences on your own eating.",
+        "observableCheck": "Each student produces a map with at least one personal example per factor.",
+        "sampleTask": "Students draw a four-branch map with one branch per factor. Each adds at least one personal example to every branch, such as age under one branch. Pairs review for a missing branch. The Guide displays two clear maps.",
+        "materials": ["map template", "markers", "pencils"]
+      },
+      "create-2": {
+        "objective": "Design a survey that measures how access affects eating habits in your grade.",
+        "observableCheck": "Each group produces five questions that each tie to a measurable habit.",
+        "sampleTask": "Groups write five survey questions about food access and eating habits. Groups trade surveys and check that each question measures something countable. Writers fix any vague question. The Guide picks the clearest set to run with the grade.",
+        "materials": ["survey template", "pencils", "factor chart"]
+      },
+      "create-3": {
+        "objective": "Develop a one-page explainer that teaches a younger student how four factors shape eating.",
+        "observableCheck": "Each group produces an explainer with one plain example per factor.",
+        "sampleTask": "Groups write a one-page explainer for a fifth grader covering the four factors with one plain example each. Groups read a peer group's explainer and mark anything a fifth grader would not understand. Writers simplify those parts. The Guide names the clearest explainer.",
+        "materials": ["explainer template", "markers", "pencils"]
+      },
+      "create-4": {
+        "objective": "Create a case study of a fictional teen whose habits clearly show all four factors, then test it on a peer.",
+        "observableCheck": "Each group produces a case study and a reader correctly tags all four factors.",
+        "sampleTask": "Groups write a short case study of a fictional teen whose week shows all four factors at work. Groups trade case studies and a reader tags each factor where it appears. Writers revise any factor a reader could not find. The Guide names the case study that showed all four most clearly.",
+        "materials": ["case-study template", "factor key", "pencils"]
+      }
+    }
+  },
+  "2.2.8.N.2": {
+    "standardStatement": "Identify skills and healthy behaviors that can support adolescents in losing, gaining, or maintaining healthy weights.",
+    "subject": "chpe",
+    "grade": "8",
+    "cells": {
+      "remember-1": {
+        "objective": "List four healthy behaviors that support managing weight at a healthy level.",
+        "observableCheck": "Each student writes four behaviors on a card without naming any unsafe method.",
+        "sampleTask": "Guide posts four healthy behaviors, such as regular activity and balanced meals. Students write the four from memory, then check the posted set. Students fix any behavior they missed. The Guide reads the four so every card is complete and notes that skipping meals is not on the list.",
+        "materials": ["behavior cards", "posted behavior chart", "pencils"]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Describe why steady habits matter more than quick fixes for healthy weight.",
+        "observableCheck": "Each student writes two sentences contrasting a steady habit with a quick fix.",
+        "sampleTask": "Guide gives a half-sheet with steady habit and quick fix. Students write one sentence on each, such as daily walking versus skipping meals. Pairs check the two sentences name different approaches. The Guide charts two clear contrasts and flags any unsafe quick fix to avoid.",
+        "materials": ["half-sheet handout", "behavior chart", "pencils"]
+      },
+      "understand-2": {
+        "objective": "Explain how regular activity supports a healthy weight.",
+        "observableCheck": "Each student writes a 'because' sentence linking activity to a body effect.",
+        "sampleTask": "Each student writes 'regular activity supports a healthy weight because ...', naming a concrete effect such as building muscle that uses energy. Pairs read and mark whether the effect is concrete and accurate. The Guide charts the clearest effects and corrects any myth.",
+        "materials": ["sentence-frame handout", "pencils"]
+      },
+      "understand-3": {
+        "objective": "Classify behaviors as supporting healthy weight or working against it.",
+        "observableCheck": "Each student sorts eight behavior cards into a healthy and an unhealthy column.",
+        "sampleTask": "Guide hands pairs eight behavior cards, such as 'drinks water with meals' and 'skips breakfast to cut calories', and a two-column mat. Pairs place each card and write one reason for any card they found tricky. Pairs compare with a neighbor pair and settle splits. The Guide names the cards most often misplaced and corrects them.",
+        "materials": ["behavior cards", "two-column mat", "pencils"]
+      },
+      "understand-4": {
+        "objective": "Connect a healthy-weight goal to the skill that supports it.",
+        "observableCheck": "Each student matches four goals to four supporting skills on a worksheet.",
+        "sampleTask": "Students get a worksheet with four goals on the left, such as 'gain muscle for a sport', and six skills on the right, such as goal setting or meal planning. They draw lines from each goal to a skill and cross out extras. They write one sentence on the hardest match. Whole-class review settles it.",
+        "materials": ["matching worksheet", "pencils"]
+      },
+      "apply-1": {
+        "objective": "Use a goal-setting frame to write one healthy-weight behavior goal.",
+        "observableCheck": "Each student writes a goal that names the behavior, the amount, and the days.",
+        "sampleTask": "Guide gives a goal frame with behavior, amount, and days. Students write one healthy-weight behavior goal, such as walking 20 minutes on five days. Pairs check the goal names all three parts. The Guide reads two complete goals.",
+        "materials": ["goal-setting frame", "pencils"]
+      },
+      "apply-2": {
+        "objective": "Apply a tracking tool to log one healthy behavior across three days.",
+        "observableCheck": "Each student records three days of one behavior with amounts on a tracker.",
+        "sampleTask": "Students pick one healthy behavior and use a simple tracker for three days, or fill a sample tracker in class. Each records the amount each day. Pairs review trackers for missing entries. The Guide names what made tracking easy or hard.",
+        "materials": ["behavior tracker", "pencils"]
+      },
+      "apply-3": {
+        "objective": "Apply the behaviors to fix one unhealthy choice in a sample teen's day.",
+        "observableCheck": "Each student rewrites one choice in the sample day with a healthier behavior.",
+        "sampleTask": "Guide gives a sample teen's day with one clearly unhealthy choice, such as a skipped meal. Students rewrite that one choice with a healthier behavior and note why it is safer. Pairs compare rewrites. The Guide reads two rewrites that keep the change realistic.",
+        "materials": ["sample day card", "rewrite sheet", "pencils"]
+      },
+      "apply-4": {
+        "objective": "Apply a refusal or help-seeking skill to a pressure scenario about an unsafe weight method.",
+        "observableCheck": "Each pair performs a short role-play using the skill and names the skill used.",
+        "sampleTask": "Guide gives a scenario where a peer pushes an unsafe weight method. Pairs role-play using a refusal or a help-seeking skill and name which they used. Pairs swap roles so each practices the skill. The Guide highlights two strong, safe responses.",
+        "materials": ["scenario cards", "skill reference sheet", "pencils"]
+      },
+      "analyze-1": {
+        "objective": "Break down which behaviors in a sample plan actually support a healthy weight.",
+        "observableCheck": "Each student marks each plan item as supportive or not and explains the cuts.",
+        "sampleTask": "Guide gives a sample weight plan mixing healthy and unsafe items. Students mark each item supportive or not and write one reason for each cut. Pairs compare marks and resolve splits. The Guide names the unsafe items that students must catch.",
+        "materials": ["sample plan card", "analysis sheet", "pencils"]
+      },
+      "analyze-2": {
+        "objective": "Compare a fad diet with a steady-behavior approach for a teen athlete.",
+        "observableCheck": "Each student completes a two-column comparison naming one risk and one benefit of each.",
+        "sampleTask": "Guide describes a fad diet and a steady-behavior approach. Students fill a two-column sheet with one risk and one benefit of each. Pairs check the risks are accurate, not guesses. The Guide charts the clearest contrasts.",
+        "materials": ["approach cards", "comparison sheet", "pencils"]
+      },
+      "analyze-3": {
+        "objective": "Analyze a teen's goal and behaviors to find the gap blocking progress.",
+        "observableCheck": "Each student names the missing or weak behavior that explains the stalled goal.",
+        "sampleTask": "Guide gives a teen's healthy-weight goal and a list of their current behaviors. Students find the gap, such as no strength work for a muscle goal, and name it. Pairs agree on the single clearest gap. The Guide confirms the gap and the behavior that fills it.",
+        "materials": ["goal-and-behavior card", "analysis sheet", "pencils"]
+      },
+      "analyze-4": {
+        "objective": "Determine which two behaviors give a teen the most support for one goal.",
+        "observableCheck": "Each student ranks behaviors and defends the top two for the goal.",
+        "sampleTask": "Guide names one healthy-weight goal. Students rank five behaviors by how much each supports the goal and defend the top two. Pairs compare rankings and note any change of mind. The Guide tallies and names the top two for the class.",
+        "materials": ["behavior list", "ranking sheet", "pencils"]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Judge whether a weight-management plan is safe using three posted criteria.",
+        "observableCheck": "Each student scores the plan against each criterion and writes a safe-or-unsafe verdict.",
+        "sampleTask": "Guide posts three criteria, such as no skipped meals, includes activity, and is steady over time. Students score a sample plan against each criterion. Each writes a one-sentence safe-or-unsafe verdict. The Guide names the criterion the plan failed most and why it matters.",
+        "materials": ["criteria chart", "sample plan", "scorecard"]
+      },
+      "evaluate-4": {
+        "objective": "Evaluate two teen plans and recommend the safer one with reasons.",
+        "observableCheck": "Each student picks the safer plan and gives two reasons tied to the criteria.",
+        "sampleTask": "Guide gives two sample plans for teens with the same goal. Students rate both against the safety criteria and recommend the safer plan with two reasons. Pairs check the reasons tie to the criteria. The Guide names the plan the class chose and the deciding reason.",
+        "materials": ["two sample plans", "criteria chart", "recommendation sheet"]
+      },
+      "create-1": {
+        "objective": "Generate a personal list of five healthy behaviors you can start this month.",
+        "observableCheck": "Each student lists five behaviors that are specific and safe.",
+        "sampleTask": "Students list five healthy behaviors they could start, each specific enough to do, such as adding a vegetable at dinner. Pairs check each behavior is specific and safe. Each trims any vague or unsafe item. The Guide collects lists and names common starters.",
+        "materials": ["behavior list template", "pencils"]
+      },
+      "create-2": {
+        "objective": "Design a one-week behavior plan with a goal, daily actions, and a tracker.",
+        "observableCheck": "Each student produces a plan with a clear goal and trackable daily actions.",
+        "sampleTask": "Students write a one-week plan with one healthy-weight goal, daily actions, and a simple tracker. Pairs trade plans and check each action is trackable. Writers fix any action that cannot be measured. The Guide names two strong plans.",
+        "materials": ["plan template", "tracker", "pencils"]
+      },
+      "create-3": {
+        "objective": "Develop a peer tip sheet on safe ways to reach a healthy weight.",
+        "observableCheck": "Each group produces a tip sheet with five safe tips and zero unsafe ones.",
+        "sampleTask": "Groups write a tip sheet of five safe, realistic tips for teens managing weight. Groups swap sheets and flag any tip that could be unsafe. Writers replace flagged tips. The Guide approves sheets and posts the clearest.",
+        "materials": ["tip sheet template", "markers", "pencils"]
+      },
+      "create-4": {
+        "objective": "Create a 30-second public service message promoting one healthy behavior, then test it on peers.",
+        "observableCheck": "Each group performs its message and peers can name the behavior it promotes.",
+        "sampleTask": "Groups script a 30-second public service message promoting one healthy behavior, such as eating breakfast. Groups perform for another group, who names the behavior and rates the message clear or not. Writers revise based on the feedback. The Guide names the message peers understood fastest.",
+        "materials": ["script template", "timer", "pencils"]
+      }
+    }
+  },
+  "2.2.8.N.3": {
+    "standardStatement": "Design sample nutritional plans for families with different lifestyles, resources, special needs, and cultural backgrounds; then consider the similarities and differences among the plans.",
+    "subject": "chpe",
+    "grade": "8",
+    "cells": {
+      "remember-1": {
+        "objective": "List the four family factors lifestyle, resources, special needs, and cultural background.",
+        "observableCheck": "Each student writes the four factors with a one-word example for each on a card.",
+        "sampleTask": "Guide posts the four family factors with a short example each. Students write the four factors and one example from memory, then check the posted set. Students fix any factor they missed. The Guide reads the four so every card is complete.",
+        "materials": ["four-factor cards", "posted factor chart", "pencils"]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Describe how a family's resources can shape the meals they plan.",
+        "observableCheck": "Each student writes two sentences linking a resource level to a meal choice.",
+        "sampleTask": "Guide gives a half-sheet with the word resources. Students write two sentences on how a tight food budget or a full pantry shapes meal choices. Pairs check the sentences tie to resources, not taste alone. The Guide charts two clear examples.",
+        "materials": ["half-sheet handout", "factor chart", "pencils"]
+      },
+      "understand-2": {
+        "objective": "Explain why a special need, such as a food allergy, changes a family's plan.",
+        "observableCheck": "Each student writes a 'because' sentence linking one special need to a plan change.",
+        "sampleTask": "Each student writes 'a family changes its plan because ...', naming one special need such as a peanut allergy and the change it forces. Pairs read and mark whether the change is concrete. The Guide charts the changes students name most.",
+        "materials": ["sentence-frame handout", "pencils"]
+      },
+      "understand-3": {
+        "objective": "Classify sample meal choices by the family factor that best explains each.",
+        "observableCheck": "Each student sorts eight meal cards into the four factor columns on a mat.",
+        "sampleTask": "Guide hands pairs eight meal-choice cards, such as 'budget rice and beans' and 'gluten-free swap', and a four-column mat for the factors. Pairs place each card and write one new card for the thinnest column. Pairs compare with a neighbor pair and settle splits. The Guide names cards that fit more than one factor and why.",
+        "materials": ["meal-choice cards", "four-column mat", "blank cards"]
+      },
+      "understand-4": {
+        "objective": "Connect each family factor to one realistic meal-plan adjustment.",
+        "observableCheck": "Each student matches four factors to four plan adjustments on a worksheet.",
+        "sampleTask": "Students get a worksheet with the four factors on the left and six plan adjustments on the right, such as 'batch-cook for a busy schedule'. They draw lines from each factor to an adjustment and cross out extras. They write one sentence on the hardest match. Whole-class review settles it.",
+        "materials": ["matching worksheet", "pencils"]
+      },
+      "apply-1": {
+        "objective": "Use a balanced-plate guide to build one day of meals for a sample family.",
+        "observableCheck": "Each student fills a one-day plan that includes each food group named on the guide.",
+        "sampleTask": "Guide gives a balanced-plate guide and a short family profile. Students plan breakfast, lunch, and dinner that hit each food group on the guide. Pairs check that every group appears. The Guide reviews two plans for balance.",
+        "materials": ["balanced-plate guide", "family profile card", "plan sheet"]
+      },
+      "apply-2": {
+        "objective": "Apply a budget limit to adjust a meal plan for a family with tight resources.",
+        "observableCheck": "Each student revises a plan to fit a posted budget and lists the swaps made.",
+        "sampleTask": "Guide gives a meal plan and a daily food budget. Students swap items to fit the budget and list each swap, such as canned for fresh. Pairs check the revised plan stays balanced. The Guide names swaps that kept both budget and nutrition.",
+        "materials": ["meal plan", "price list", "budget card"]
+      },
+      "apply-3": {
+        "objective": "Apply a special-need constraint to adjust a meal plan safely.",
+        "observableCheck": "Each student revises a plan to meet the constraint and flags any unsafe item removed.",
+        "sampleTask": "Guide gives a plan and a special need, such as a dairy allergy. Students remove or swap any unsafe item and note the replacement. Pairs check no unsafe item remains. The Guide confirms the plan now meets the constraint.",
+        "materials": ["meal plan", "special-need card", "swap sheet"]
+      },
+      "apply-4": {
+        "objective": "Apply a cultural preference to shape a day's meals for a sample family.",
+        "observableCheck": "Each student includes at least two culturally fitting dishes that stay balanced.",
+        "sampleTask": "Guide gives a family's cultural background. Students plan a day's meals with at least two dishes that fit the culture while staying balanced. Pairs check both balance and fit. The Guide reads two plans that honor culture and nutrition.",
+        "materials": ["cultural profile card", "balanced-plate guide", "plan sheet"]
+      },
+      "analyze-1": {
+        "objective": "Break down which factor drove each choice in a sample family's plan.",
+        "observableCheck": "Each student tags each meal in the plan with the factor that shaped it.",
+        "sampleTask": "Guide gives a completed family meal plan with notes. Students tag each meal with the factor that shaped it and tally the counts. Students name the factor that drove the plan most. Pairs compare tags and the Guide charts the result.",
+        "materials": ["sample family plan", "factor tally chart", "pencils"]
+      },
+      "analyze-2": {
+        "objective": "Compare two family plans to find one similarity and one difference and their causes.",
+        "observableCheck": "Each student names one shared element and one different element with a cause for each.",
+        "sampleTask": "Guide gives two family plans built for different factors. Students name one similarity, such as both hitting vegetables, and one difference, such as different proteins, and the cause of each. Pairs check causes tie to the family factors. The Guide charts the strongest pairs.",
+        "materials": ["two family plans", "comparison sheet", "pencils"]
+      },
+      "analyze-3": {
+        "objective": "Analyze three family plans to find which nutrition needs all three meet.",
+        "observableCheck": "Each student lists the shared needs met across all three plans with evidence.",
+        "sampleTask": "Guide gives three plans built for different families. Students mark which food groups or needs all three meet and list them. Pairs agree on the shared set. The Guide confirms the common needs and notes one that a plan missed.",
+        "materials": ["three family plans", "analysis sheet", "pencils"]
+      },
+      "analyze-4": {
+        "objective": "Determine which single factor forces the biggest change across plans.",
+        "observableCheck": "Each student names the factor with the most impact and backs it with two plan examples.",
+        "sampleTask": "Students review a set of family plans built for the four factors. Each names the factor that forced the biggest change and cites two plan examples. Pairs compare picks and defend them. The Guide names the factor the class found most powerful.",
+        "materials": ["plan set", "analysis sheet", "pencils"]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Judge whether a family plan meets three criteria for balance, fit, and feasibility.",
+        "observableCheck": "Each student scores the plan against each criterion and writes a pass-or-revise verdict.",
+        "sampleTask": "Guide posts three criteria, balance, fit to the family, and feasible with the resources. Students score one sample plan against each criterion. Each writes a one-sentence pass-or-revise verdict. The Guide names the criterion the plan missed and the fix.",
+        "materials": ["criteria chart", "sample plan", "scorecard"]
+      },
+      "evaluate-4": {
+        "objective": "Evaluate two plans for the same family and recommend the stronger one with reasons.",
+        "observableCheck": "Each student picks the stronger plan and gives two reasons tied to the criteria.",
+        "sampleTask": "Guide gives two plans for one family profile. Students score both against the criteria and recommend the stronger plan with two reasons. Pairs check the reasons tie to the criteria. The Guide names the class choice and the deciding reason.",
+        "materials": ["two plans", "criteria chart", "recommendation sheet"]
+      },
+      "create-1": {
+        "objective": "Generate a one-day balanced plan for an assigned family profile.",
+        "observableCheck": "Each student produces a plan that names meals and hits each food group.",
+        "sampleTask": "Each student draws a family profile card and builds a one-day balanced plan that names breakfast, lunch, dinner, and a snack. Pairs check every food group appears. Each fixes any gap. The Guide displays two clear plans.",
+        "materials": ["family profile cards", "balanced-plate guide", "plan sheet"]
+      },
+      "create-2": {
+        "objective": "Design a three-day plan for a family with two factors set, then label where each factor shows.",
+        "observableCheck": "Each student produces a plan and marks at least one meal driven by each factor.",
+        "sampleTask": "Guide assigns two factors, such as a tight budget and a cultural background. Students design a three-day plan and label one meal that each factor shaped. Pairs check both factors are visible. The Guide names a plan that balanced both.",
+        "materials": ["factor cards", "plan template", "pencils"]
+      },
+      "create-3": {
+        "objective": "Develop a plan for a family with a special need and write a note explaining the key swaps.",
+        "observableCheck": "Each student produces a safe plan and a note naming each swap and why.",
+        "sampleTask": "Guide gives a family with one special need, such as diabetes-friendly meals. Students build a safe plan and write a short note naming each swap and the reason. Pairs check the plan meets the need. The Guide confirms two plans are safe.",
+        "materials": ["special-need profile", "plan template", "note sheet"]
+      },
+      "create-4": {
+        "objective": "Create plans for three different families, then write a comparison of what stayed the same and what changed.",
+        "observableCheck": "Each group submits three plans and a comparison naming shared and differing elements.",
+        "sampleTask": "Groups build three short plans for families with different factors. Groups write a comparison naming what stayed the same, such as hitting vegetables, and what changed, such as the protein or grain. Groups present and the class adds one more similarity or difference. The Guide names the comparison that explained the differences best.",
+        "materials": ["three profile cards", "plan templates", "comparison sheet"]
+      }
+    }
+  }
+}

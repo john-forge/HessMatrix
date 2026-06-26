@@ -1,0 +1,131 @@
+{
+ "2.2.8.LF.2": {
+  "schema_version": 1,
+  "standardCode": "2.2.8.LF.2",
+  "standardStatement": "Explain the importance of assuming responsibility for personal health behaviors through physical activity throughout one’s lifetime.",
+  "subject": "chpe",
+  "grade": "8",
+  "generatedAt": "2026-06-17T17:06:45.136727Z",
+  "cells": {
+   "remember-1": {
+    "objective": "List five personal health behaviors tied to physical activity that a person controls day to day.",
+    "observableCheck": "Each student writes five behaviors on an index card and reads two aloud.",
+    "sampleTask": "Guide asks: name behaviors a person decides on themselves that involve movement, such as walking instead of riding, stretching before bed, or joining a weekend game. Each student writes five on an index card. Cards go in a pile and Guide reads several aloud. The class builds a shared list on the board.",
+    "materials": ["index cards", "board"]
+   },
+   "remember-2": null,
+   "remember-3": null,
+   "remember-4": null,
+   "understand-1": {
+    "objective": "Explain what assuming responsibility for a health behavior means in plain words.",
+    "observableCheck": "Each student writes a one-sentence definition and gives one example.",
+    "sampleTask": "Students write one sentence defining what it means to take responsibility for a health behavior, then give one example from their own week. Pairs read both and decide if the example fits the definition. Guide collects three clear pairings and reads them to the class. The class agrees on a shared definition to post.",
+    "materials": ["lined paper", "board"]
+   },
+   "understand-2": {
+    "objective": "Describe why physical activity habits matter across a whole lifetime, not just during school years.",
+    "observableCheck": "Each student writes two reasons a habit started now could matter at age sixty.",
+    "sampleTask": "Guide poses the question: why would a habit you build at thirteen still matter at sixty? Each student writes two reasons. Pairs combine into a stronger pair of reasons. Guide charts the reasons by category, such as health, money, and independence, and names which category came up most.",
+    "materials": ["lined paper", "chart paper"]
+   },
+   "understand-3": {
+    "objective": "Explain how one daily choice connects to a long-term health outcome using a cause-and-effect chain.",
+    "observableCheck": "Each student draws a three-link chain from a daily choice to a long-term outcome.",
+    "sampleTask": "Each student picks one daily choice, such as walking to school, and draws a three-box chain showing how it could lead to a long-term outcome. Each arrow needs a short label naming the link. Pairs check that each arrow actually follows from the box before it. Guide collects two chains with the clearest links.",
+    "materials": ["chain diagram handout"]
+   },
+   "understand-4": {
+    "objective": "Summarize the case for personal responsibility in health behavior in a short paragraph.",
+    "observableCheck": "Each student writes a paragraph that states the claim and supports it with two reasons.",
+    "sampleTask": "Students write a paragraph answering why each person should take charge of their own activity habits. The paragraph must state a claim and back it with two reasons from class discussion. Pairs underline the claim and the two reasons in each other's writing. Guide flags any paragraph missing a clear claim.",
+    "materials": ["lined paper"]
+   },
+   "apply-1": {
+    "objective": "Apply the idea of responsibility by logging personal activity choices for one day.",
+    "observableCheck": "Each student fills a one-day log with at least four activity choices and who decided each.",
+    "sampleTask": "Guide hands out a one-day activity log. Students record at least four moments where movement was a choice and mark whether they decided or someone else did. The next day, students bring the log and count their own decisions. Guide tallies how many decisions the class made for themselves.",
+    "materials": ["one-day activity log"]
+   },
+   "apply-2": {
+    "objective": "Use a goal-setting template to turn one responsibility into a concrete weekly plan.",
+    "observableCheck": "Each student writes a weekly plan with a specific action, days, and a way to check it.",
+    "sampleTask": "Each student picks one activity behavior to own and fills a goal template with the action, the days they will do it, and how they will know they did it. The plan must be specific enough that a parent could check it. Pairs test each other's plan for the check step. Guide collects three plans with measurable checks.",
+    "materials": ["goal-setting template"]
+   },
+   "apply-3": {
+    "objective": "Explain to a peer how taking responsibility for one habit would change their week.",
+    "observableCheck": "The listening partner restates the plan and names the one change it requires.",
+    "sampleTask": "Pairs take turns explaining the weekly plan from Apply-2. The listener restates the plan and names the single biggest change it requires in the speaker's week. They switch roles. Guide circulates and notes one pair whose restatement was accurate.",
+    "materials": ["weekly plans from Apply-2"]
+   },
+   "apply-4": {
+    "objective": "Build a one-page commitment card a student could post at home to track a chosen habit.",
+    "observableCheck": "Each student turns in a card with the habit, daily checkboxes, and a reason to keep going.",
+    "sampleTask": "Each student designs a commitment card for one activity habit, with daily checkboxes for a week and a written reason that would keep them going on a hard day. The card must be something they would actually post. Pairs swap cards and check the reason is personal, not generic. Guide reviews three cards for usability.",
+    "materials": ["commitment card template", "markers"]
+   },
+   "analyze-1": {
+    "objective": "Distinguish, in a set of statements, which describe taking responsibility and which describe blaming circumstances.",
+    "observableCheck": "Each student sorts eight statements into two labeled columns.",
+    "sampleTask": "Guide hands out eight statements about activity, such as I did not have time and I moved my workout to the morning. Students sort them into takes responsibility and blames circumstances. Pairs compare sorts and argue any disputed card. Guide reveals the intended sort and discusses the two trickiest statements.",
+    "materials": ["statement cards", "sorting mat"]
+   },
+   "analyze-2": {
+    "objective": "Compare a responsible weekly plan with a vague intention to find what makes one workable.",
+    "observableCheck": "Each pair lists three features the workable plan has that the vague one lacks.",
+    "sampleTask": "Pairs get two sample plans for the same goal, one specific and one vague. They list three features the workable plan has that the vague one lacks, such as named days or a check step. Pairs decide which plan would survive a busy week. Guide collects the lists and names the feature cited most.",
+    "materials": ["two sample plans"]
+   },
+   "analyze-3": {
+    "objective": "Trace which barrier most often breaks a student's activity plan and where in the week it hits.",
+    "observableCheck": "Each student marks on a week grid where their plan is most likely to break and names the barrier.",
+    "sampleTask": "Students map their weekly plan onto a seven-day grid and mark the day and time the plan is most likely to fail. They name the barrier, such as homework load or no equipment. Pairs suggest one adjustment for the weak spot. Guide charts the most common barrier across the class.",
+    "materials": ["week grid handout"]
+   },
+   "analyze-4": {
+    "objective": "Analyze how personal responsibility and outside support each contribute to keeping an activity habit.",
+    "observableCheck": "Each student completes a two-part chart separating what the person controls from what support provides.",
+    "sampleTask": "Students fill a chart with two parts, what the person controls and what support from family or coaches provides, for keeping one activity habit. They mark which part carries more weight for them. Pairs compare and note where support could cover a personal weak spot. Guide names one example where support and responsibility worked together.",
+    "materials": ["two-part chart handout"]
+   },
+   "evaluate-1": null,
+   "evaluate-2": null,
+   "evaluate-3": {
+    "objective": "Judge whether a peer's weekly plan is realistic and owned by the student, citing parts of the plan.",
+    "observableCheck": "Each student writes a verdict on a peer plan with two cited parts supporting it.",
+    "sampleTask": "Students swap the plans from Apply-2 and score them on a rubric for specific, realistic, and self-owned. Each reviewer writes a verdict and cites two parts of the plan that earned or lost points. The reviewer names one change that would raise the weakest score. Guide checks three reviews against the rubric.",
+    "materials": ["peer plans", "three-point rubric"]
+   },
+   "evaluate-4": {
+    "objective": "Defend a position on whether schools or individuals carry more of the duty for lifelong activity.",
+    "observableCheck": "Each student states a position and backs it with two reasons in a short written stance.",
+    "sampleTask": "Guide poses the question: who carries more duty for lifelong activity, schools or individuals? Each student writes a stance with a clear position and two reasons. Students form two sides and trade their strongest reason. Guide records the reason from each side that the other side found hardest to answer.",
+    "materials": ["stance handout", "lined paper"]
+   },
+   "create-1": {
+    "objective": "Produce a personal pledge listing three activity behaviors the student will own this term.",
+    "observableCheck": "Each student turns in a signed pledge naming three specific behaviors.",
+    "sampleTask": "Each student writes a short pledge naming three activity behaviors they will take responsibility for this term and signs it. Each behavior must be specific enough to check. Pairs read each other's pledge and confirm the behaviors are not vague. Guide files the pledges to revisit later in the term.",
+    "materials": ["pledge template"]
+   },
+   "create-2": {
+    "objective": "Design a habit tracker that a peer could use for a month to hold themselves accountable.",
+    "observableCheck": "Each student submits a tracker with daily marks, a weekly check, and a restart rule.",
+    "sampleTask": "Each student designs a one-month habit tracker for an activity behavior, including daily marks, a weekly check, and a rule for restarting after a missed day. The restart rule is the part many trackers skip. Pairs test whether the restart rule is clear. Guide collects two trackers that handle a missed day well.",
+    "materials": ["tracker template", "rulers"]
+   },
+   "create-3": {
+    "objective": "Create a short public service announcement script arguing for owning your activity habits for life.",
+    "observableCheck": "Each pair produces a thirty-second script with a claim and one memorable line.",
+    "sampleTask": "Pairs write a thirty-second public service announcement script that argues for taking charge of your own activity for life. The script needs a clear claim and one line a listener would remember. Pairs read the script aloud to time it. Guide selects two scripts to be read to the class and notes the strongest lines.",
+    "materials": ["script template", "timer"]
+   },
+   "create-4": {
+    "objective": "Develop a lifelong activity roadmap that maps habits a person could keep at three life stages.",
+    "observableCheck": "Each student submits a roadmap naming a realistic activity for teen, adult, and older-adult stages.",
+    "sampleTask": "Each student builds a roadmap with three life stages and one realistic activity for each, with a note on what makes it doable at that stage. The roadmap must show how a habit could carry forward or change shape over time. Pairs check that each stage's activity fits that stage. Guide reviews three roadmaps for realism.",
+    "materials": ["roadmap template"]
+   }
+  }
+ }
+}

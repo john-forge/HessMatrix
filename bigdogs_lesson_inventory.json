@@ -1,0 +1,182 @@
+{
+  "audit_input_meta": {
+    "source_document": "https://docs.google.com/document/d/1xXm4j5bwzFRcI019pSRXc_0ikvAEDhQKiK08CoPuUUU/edit",
+    "source_extracted_at": "2026-06-25",
+    "njsls_schema_target": "1.1",
+    "intended_audit_prompt": "COVERAGE + GAP AUDIT — for heat-map ingestion into the curriculum workbench",
+    "structural_note": "Each row in the doc's Lesson Hypothesis table represents a CONCEPT DAY, not a single lesson. The Lesson Content column lists discrete lessons in a linked list (L1, L2, L3, ...). Below, concept_days[] preserves the day-level structure, and lessons[] flattens the linked list so every L# is a first-class lesson. Standards tagged at the concept-day level inherit down to each child lesson unless the lesson overrides."
+  },
+  "challenge": {
+    "title": "Why Big Dogs Get Passed Over",
+    "partner": "St. Hubert's Animal Welfare Center",
+    "cohort": "Juniors G5/G6",
+    "cohort_doc_text": "Cohort 5/6 (This is not for 7/8)",
+    "in_scope_band": {
+      "grades": ["5", "6", "MS", "3-5"],
+      "subjects": ["ela", "math", "science", "social_studies", "csdt", "clks", "chpe"]
+    },
+    "authentic_impact": "Students will produce narrative profile cards for individual big dogs, written for the families walking the adoption kennels at St. Hubert's, by turning each dog's real history and observed behavior into a short, honest story that reframes the size that made adopters hesitate. The cards are printed and clipped to each dog's kennel. The cohort then briefs St. Hubert's, handing off the cards and explaining the thinking behind the campaign."
+  },
+  "acts": [
+    { "act": 1, "title": "Is This Even True?", "core_question": "Is this even true?", "evidence_produced": "Initial analysis of adoption data and a written claim about whether a real adoption gap exists." },
+    { "act": 2, "title": "How a Wolf Became Both a Great Dane and a German Shepherd", "core_question": "How did dogs become dogs?", "evidence_produced": "Explanation of how domestication and selective breeding produced modern dog breeds." },
+    { "act": 3, "title": "Meet Your Dog", "core_question": "What's your dog actually like?", "evidence_produced": "A written assumption based on the dog's photo, a structured observation log, and a comparison of the two." },
+    { "act": 4, "title": "Why Do People Pass Them By?", "core_question": "Why do people pass them by?", "evidence_produced": "Survey findings, evidence checks, and conclusions supported by data." },
+    { "act": 5, "title": "Telling the Truth So It Moves Someone", "core_question": "How do stories move people?", "evidence_produced": "Draft profile cards and reader feedback." },
+    { "act": 6, "title": "The Cards Go Up", "core_question": "What do we owe the shelter?", "evidence_produced": "Final profile cards and partner briefing." }
+  ],
+  "concept_days_total": 26,
+  "concept_days": [
+    { "ord": 1, "act": 1, "concept_progression": "Meet the long-stay dog; write a first prediction", "topic": "Driving question", "evidence_drives_at": "A prediction to test later", "standards": ["SL.PE.6.1"], "standards_raw": "SL.PE.6.1", "child_lesson_count": 1 },
+    { "ord": 2, "act": 1, "concept_progression": "Read and interpret the shelter's tables and bar graphs", "topic": "Reading and interpreting tables and graphs", "evidence_drives_at": "Extract info from tables and graphs. What information can they gather from the website.", "standards": ["6.SP.B.4"], "standards_raw": "[6.SP](http://6.sp).B.4 5.DL.A.1", "standards_raw_note": "Upper table also tags 5.DL.A.1; markdown link wrapper on 6.SP.B.4", "child_lesson_count": 3 },
+    { "ord": 3, "act": 1, "concept_progression": "Counts vs. rates; calculate an adoption rate", "topic": "Raw counts vs. rates; unit rates", "evidence_drives_at": "Calculate adoption rates", "standards": ["6.RP.A.2"], "standards_raw": "6.RP.A.2", "child_lesson_count": 1 },
+    { "ord": 4, "act": 1, "concept_progression": "Compare unequal groups by rate; spot the hidden factor", "topic": "Comparing groups; misleading comparisons; hidden factors", "evidence_drives_at": "Compare fairly; name the hidden factor", "standards": ["6.RP.A.3"], "standards_raw": "6.RP.A.3", "child_lesson_count": 1 },
+    { "ord": 5, "act": 1, "concept_progression": "Write a data-backed claim (Act 1 evidence)", "topic": "Defending a conclusion with data", "evidence_drives_at": "Defend a conclusion using data", "standards": ["6.SP.B.5", "W.AW.6.1"], "standards_raw": "6.SP.B.5, [W.AW](http://w.aw).6.1", "standards_raw_note": "Markdown link wrapper on W.AW.6.1", "child_lesson_count": 2, "expanded_doc_sub_row_for_act1_evidence_presentation": "Practice presenting the visual data and oral presentation of the analysis of adoption data. Confirmation of big dog gap. Focus: Practicing eye contact, pacing, and projection. I do: video of good speaker vs video of bad speaker. We do: what do we notice about each - discussion. You do: now you put it into practice. (Doc sub-row attached to day 5 in the upper table; not assigned its own L# so it inherits L1+L2 above OR represents an additional uncounted lesson — flag for guide decision)" },
+    { "ord": 6, "act": 2, "concept_progression": "Same species? Write a first explanation to revise", "topic": "Driving question", "evidence_drives_at": "A starting explanation of how a chihuahua and a great dane are the same animal", "standards": ["SL.PE.6.1"], "standards_raw": "[SL.PE](http://sl.pe).6.1 NONE (intro)", "standards_raw_note": "Markdown link wrapper + 'NONE (intro)' annotation", "child_lesson_count": 1 },
+    { "ord": 7, "act": 2, "concept_progression": "Inheritance and variation", "topic": "Inheritance; variation", "evidence_drives_at": "Explain inheritance; identify variation. L4 and L5 same day.", "standards": ["3-LS3-1"], "standards_raw": "3-LS3-1MS-LS4-4", "standards_raw_note": "Doubled codes with no separator in upper table; Section 6 keeps only 3-LS3-1. 3-LS3-1 is a grade-3 PE not in the 5-8 database.", "child_lesson_count": 5 },
+    { "ord": 8, "act": 2, "concept_progression": "Wolf to dog (fox story told aloud)", "topic": "Domestication; natural selection", "evidence_drives_at": "Explain how domestication changed wolves", "standards": ["MS-LS4-4"], "standards_raw": "MS-LS4-4", "child_lesson_count": 1 },
+    { "ord": 9, "act": 2, "concept_progression": "Bred for a job (border collie reading)", "topic": "Selective breeding; Explain the breeds (Act 2 evidence)", "evidence_drives_at": "Tie a breed trait to its original job", "standards": ["MS-LS4-5"], "standards_raw": "MS-LS4-5", "child_lesson_count": 2 },
+    { "ord": 10, "act": 2, "concept_progression": "Model a trait spreading over generations", "topic": "Traits over generations; polygenic inheritance", "evidence_drives_at": "Model a trait becoming more common", "standards": ["MS-LS4-6"], "standards_raw": "MS-LS4-6MS-LS4-5", "standards_raw_note": "Doubled codes with no separator in upper table; Section 6 keeps only MS-LS4-6", "child_lesson_count": 3 },
+    { "ord": 11, "act": 2, "concept_progression": "Explain the breeds (Act 2 evidence) — Dog Breed traits and role specialization", "topic": "Synthesis", "evidence_drives_at": "The Act 2 explanation - Explanation of how domestication and selective breeding produced modern dog breeds and define linked behaviors for specific breeds", "standards": ["MS-LS4-5", "MS-LS4-6"], "standards_raw": "MS-LS4-5, MS-LS4-6", "child_lesson_count": 2 },
+    { "ord": 12, "act": 3, "concept_progression": "Write the photo assumption - What assumptions might people make about this dog?", "topic": "Naming an assumption", "evidence_drives_at": "State the photo assumption", "standards": ["SL.PE.6.1"], "standards_raw": "SEP (Asking Questions); SL.PE.6.1", "standards_raw_note": "SEP (Asking Questions) is a NGSS practice anchor, not a NJSLS code", "child_lesson_count": 2 },
+    { "ord": 13, "act": 3, "concept_progression": "Observation vs. inference (Horowitz aloud)", "topic": "Observation vs. inference", "evidence_drives_at": "Separate observed from concluded", "standards": [], "standards_raw": "SEP (Constructing Explanations)", "standards_raw_note": "SEP practice label only; no NJSLS code", "child_lesson_count": 1 },
+    { "ord": 14, "act": 3, "concept_progression": "Meet the dog; keep an observation log", "topic": "Observation logs; recording objectively", "evidence_drives_at": "Maintain a structured log", "standards": [], "standards_raw": "SEP (Planning and Carrying Out Investigations)", "standards_raw_note": "SEP practice label only; no NJSLS code", "child_lesson_count": 2 },
+    { "ord": 15, "act": 3, "concept_progression": "Assumption vs. reality (Act 3 evidence)", "topic": "Comparing assumed vs. observed - How were first impressions right or wrong?", "evidence_drives_at": "Revise when observations contradict", "standards": [], "standards_raw": "SEP (Argument from Evidence)", "standards_raw_note": "SEP practice label only; no NJSLS code", "child_lesson_count": 2 },
+    { "ord": 16, "act": 4, "concept_progression": "Write a testable hypothesis", "topic": "Testable hypotheses", "evidence_drives_at": "Write a testable hypothesis", "standards": [], "standards_raw": "SEP (Asking Questions)", "standards_raw_note": "SEP practice label only; no NJSLS code", "child_lesson_count": 2 },
+    { "ord": 17, "act": 4, "concept_progression": "Design non-leading survey/interview questions", "topic": "Unbiased survey questions", "evidence_drives_at": "Write non-leading questions", "standards": ["W.WR.6.5"], "standards_raw": "W.WR.6.5", "child_lesson_count": 3 },
+    { "ord": 18, "act": 4, "concept_progression": "Gather, tally, and summarize responses", "topic": "Collecting/organizing; summarizing", "evidence_drives_at": "Organize and summarize results", "standards": ["W.SE.6.6", "6.SP.B.5"], "standards_raw": "W.SE.6.6, 6.SP.B.5", "child_lesson_count": 4, "expanded_detail_section_named_in_doc": "Line 18", "expanded_detail_doc_block_summary": "1. Clean the Data (Filter and Prepare) — Remove anomalies; Calculate response rate. 2. Visualize the Data — Choose the right chart; Calculate summary statistics (mean/median/mode). 3. Identify Themes (Analyze Text Responses) — Thematic coding; Word clouds. 4. Draw Conclusions — Connecting questions; Action planning." },
+    { "ord": 19, "act": 4, "concept_progression": "Test beliefs against facts (Act 4 evidence)", "topic": "Supported vs. unsupported claims; testing explanations", "evidence_drives_at": "Evaluate evidence; spot overreach; revise a belief", "standards": ["RI.AA.6.7"], "standards_raw": "RI.AA.6.7", "child_lesson_count": 2 },
+    { "ord": 20, "act": 4, "concept_progression": "The 'prove it' move: label (preconceptions) to evidence", "topic": "Labels (preconceptions) vs. specific details; the 'prove it' move", "evidence_drives_at": "Replace labels with observed detail. ('The things we're seeing in the survey - this is why they're not true or why this is true.' The validity of the reasons.)", "standards": ["W.AW.6.1"], "standards_raw": "W.AW.6.1", "child_lesson_count": 3, "child_lesson_count_note": "L1, L2, plus an explicit Seminar lesson named in the doc" },
+    { "ord": 21, "act": 4, "concept_progression": "Claim only what you saw. Final analysis.", "topic": "Claiming only what evidence supports; overclaiming", "evidence_drives_at": "Spot and fix overclaiming - grounding in evidence 'What can you support with evidence?'", "standards": ["W.AW.6.1", "RI.AA.6.7"], "standards_raw": "W.AW.6.1, RI.AA.6.7", "child_lesson_count": 1 },
+    { "ord": 22, "act": 5, "concept_progression": "What makes a story (Eddie + Billie mentor texts)", "topic": "Story structure; hooks/endings; details", "evidence_drives_at": "Pick the strongest moment; structure a profile. Take your position. Study your audience. Research both sides. Structure your text. Support your argument. Persuasive paragraph - write an opinion statement (topic), reasons (body paragraph), conclusion (reiterating opinion statement). Add a conclusion.", "evidence_vocab_drift_flag": "Reintroduces 'opinion statement' (K-5 vocab) which Anand's Standards Check retired for grade 6 in favor of 'argument' and 'claim'", "standards": ["W.NW.6.3"], "standards_raw": "[W.NW](http://w.nw).6.3", "standards_raw_note": "Markdown link wrapper on W.NW.6.3", "child_lesson_count": 4 },
+    { "ord": 23, "act": 5, "concept_progression": "Show, don't tell; sequence the profile", "topic": "Showing vs. telling; sequencing and pacing", "evidence_drives_at": "Show character in scenes; build the sequence", "standards": ["W.NW.6.3"], "standards_raw": "W.NW.6.3", "child_lesson_count": 4, "expanded_detail_section_named_in_doc": "Lines 23,24,25", "expanded_detail_doc_block_summary": "1. Media Literacy & Analysis (Anatomy of an Ad; Identifying Target Audience). 2. Persuasive Writing Techniques (Emotional Appeal Pathos; Persuasive Devices). 3. Drafting the Content (Writing from the Dog's Perspective; Highlighting the USP). 4. Publishing & Design (Call to Action; Final Presentation/Design)." },
+    { "ord": 24, "act": 5, "concept_progression": "Draft, test on a reader, revise (Act 5 evidence)", "topic": "Revising on reader feedback", "evidence_drives_at": "Revise from reader feedback", "standards": ["W.WP.6.4"], "standards_raw": "W.WP.6.4", "child_lesson_count": 2 },
+    { "ord": 25, "act": 6, "concept_progression": "Finalize the card", "topic": "Grounding + story synthesis", "evidence_drives_at": "Create the final profile card. Doc also notes: Explanation and Presentation of Cards; Recommendations to solve the Big Dog Challenge.", "standards": ["W.NW.6.3", "W.AW.6.1"], "standards_raw": "W.NW.6.3, W.AW.6.1", "child_lesson_count": 1 },
+    { "ord": 26, "act": 6, "concept_progression": "Brief St. Hubert's (Act 6 evidence)", "topic": "Presenting findings and recommendations", "evidence_drives_at": "Final cards and partner briefing", "standards": ["SL.PI.6.4", "SL.UM.6.5"], "standards_raw": "SL.PI.6.4, SL.UM.6.5", "child_lesson_count": 1 }
+  ],
+  "lessons_total": 56,
+  "lessons": [
+    { "lesson_ord": 1, "concept_day_ord": 1, "act": 1, "title": "Meet the long-stay dog; write a first prediction", "doc_text": "(no L# subdivision in doc; concept day = the lesson)", "standards_inherited": ["SL.PE.6.1"] },
+
+    { "lesson_ord": 2, "concept_day_ord": 2, "act": 1, "sub": "L1", "title": "Introduce the data", "doc_text": "L1: Introduce the data", "standards_inherited": ["6.SP.B.4"] },
+    { "lesson_ord": 3, "concept_day_ord": 2, "act": 1, "sub": "L2", "title": "Introduce graphs (bar, line, pie)", "doc_text": "L2: introduce graphs (bar, line, pie)", "standards_inherited": ["6.SP.B.4"] },
+    { "lesson_ord": 4, "concept_day_ord": 2, "act": 1, "sub": "L3", "title": "Interpret graphs", "doc_text": "L3: interpret graphs", "standards_inherited": ["6.SP.B.4"] },
+
+    { "lesson_ord": 5, "concept_day_ord": 3, "act": 1, "sub": "L1", "title": "Percentage vs number", "doc_text": "L1: Percentage vs number", "standards_inherited": ["6.RP.A.2"] },
+
+    { "lesson_ord": 6, "concept_day_ord": 4, "act": 1, "sub": "L1", "title": "How the presentation of information can be misleading; what else are hidden factors", "doc_text": "L1: How the presentation of information can be misleading; what else are hidden factors", "standards_inherited": ["6.RP.A.3"] },
+
+    { "lesson_ord": 7, "concept_day_ord": 5, "act": 1, "sub": "L1", "title": "How to draw the conclusion", "doc_text": "L1: how to draw the conclusion", "standards_inherited": ["6.SP.B.5", "W.AW.6.1"] },
+    { "lesson_ord": 8, "concept_day_ord": 5, "act": 1, "sub": "L2", "title": "How to write up claim with evidence", "doc_text": "L2: how to write up claim with evidence", "standards_inherited": ["6.SP.B.5", "W.AW.6.1"] },
+
+    { "lesson_ord": 9, "concept_day_ord": 6, "act": 2, "sub": "L1", "title": "Species vs breeds", "doc_text": "L1: species vs breeds", "standards_inherited": ["SL.PE.6.1"] },
+
+    { "lesson_ord": 10, "concept_day_ord": 7, "act": 2, "sub": "L1", "title": "Genes", "doc_text": "L1: Genes", "standards_inherited": ["3-LS3-1"] },
+    { "lesson_ord": 11, "concept_day_ord": 7, "act": 2, "sub": "L2", "title": "Traits - Dominant vs Recessive", "doc_text": "L2: Traits - Dominant vs Recessive", "standards_inherited": ["3-LS3-1"] },
+    { "lesson_ord": 12, "concept_day_ord": 7, "act": 2, "sub": "L3", "title": "Inheritance - how traits are passed down", "doc_text": "L3: Inheritance - how traits are passed down", "standards_inherited": ["3-LS3-1"] },
+    { "lesson_ord": 13, "concept_day_ord": 7, "act": 2, "sub": "L4", "title": "Variation - How traits vary in the same species", "doc_text": "L4: Variation - How traits vary in the same species", "standards_inherited": ["3-LS3-1"], "doc_pacing_note": "L4 and L5 same day" },
+    { "lesson_ord": 14, "concept_day_ord": 7, "act": 2, "sub": "L5", "title": "Punnett Squares", "doc_text": "L5: Punnett Squares", "standards_inherited": ["3-LS3-1"], "doc_pacing_note": "L4 and L5 same day" },
+
+    { "lesson_ord": 15, "concept_day_ord": 8, "act": 2, "sub": "L1", "title": "What is natural selection", "doc_text": "L1: What is natural selection", "standards_inherited": ["MS-LS4-4"] },
+
+    { "lesson_ord": 16, "concept_day_ord": 9, "act": 2, "sub": "L1", "title": "Read and discuss border collie reading", "doc_text": "L1: Read and discuss border collie reading", "standards_inherited": ["MS-LS4-5"] },
+    { "lesson_ord": 17, "concept_day_ord": 9, "act": 2, "sub": "L2", "title": "Research specific breed traits and summarize findings", "doc_text": "L2: Research specific breed traits and summarize findings", "standards_inherited": ["MS-LS4-5"] },
+
+    { "lesson_ord": 18, "concept_day_ord": 10, "act": 2, "sub": "L1", "title": "Polygenic Inheritance", "doc_text": "L1: Polygenic Inheritance", "standards_inherited": ["MS-LS4-6"] },
+    { "lesson_ord": 19, "concept_day_ord": 10, "act": 2, "sub": "L2", "title": "Adaptation - how some traits increase survival over time", "doc_text": "L2: Adaptation - how some traits increase survival over time", "standards_inherited": ["MS-LS4-6"] },
+    { "lesson_ord": 20, "concept_day_ord": 10, "act": 2, "sub": "L3", "title": "Breeding dogs for polygenic traits (size, weight, behavior)", "doc_text": "L3: Breeding dogs for polygenic traits (size, weight, behavior)", "standards_inherited": ["MS-LS4-6"] },
+
+    { "lesson_ord": 21, "concept_day_ord": 11, "act": 2, "sub": "L1", "title": "Research the roles of specific breeds", "doc_text": "L1: Research the roles of specific breeds", "standards_inherited": ["MS-LS4-5", "MS-LS4-6"] },
+    { "lesson_ord": 22, "concept_day_ord": 11, "act": 2, "sub": "L2", "title": "Connect the traits (appearance and behavior) that were bred for these roles", "doc_text": "L2: Connect the traits (appearance and behavior) that were bred for these roles", "standards_inherited": ["MS-LS4-5", "MS-LS4-6"] },
+
+    { "lesson_ord": 23, "concept_day_ord": 12, "act": 3, "sub": "L1", "title": "Define assumption vs observation (picture of dog activity)", "doc_text": "L1: (picture of dog) Define assumption vs observation (activity - 'What would someone assume about this dog? What do we observe?')", "standards_inherited": ["SL.PE.6.1"] },
+    { "lesson_ord": 24, "concept_day_ord": 12, "act": 3, "sub": "L2", "title": "Forming a hypothesis based on animal traits and behavior", "doc_text": "L2: Forming a hypothesis based on animal traits and behavior: why do you think big dogs are adopted less frequently?", "standards_inherited": ["SL.PE.6.1"] },
+
+    { "lesson_ord": 25, "concept_day_ord": 13, "act": 3, "sub": "L1", "title": "What makes a good observation? (Practices of good observation)", "doc_text": "L1: What makes a good observation? (Practices of good observation)", "standards_inherited": [] },
+
+    { "lesson_ord": 26, "concept_day_ord": 14, "act": 3, "sub": "L1", "title": "Observing animal behavior - What does it tell us? (ethology)", "doc_text": "L1: Observing animal behavior - What does it tell us? (ethology)", "standards_inherited": [] },
+    { "lesson_ord": 27, "concept_day_ord": 14, "act": 3, "sub": "L2", "title": "Designing observation experiments for our dogs", "doc_text": "L2: Designing observation experiments for our dogs (What behaviors are we looking for?) (must include appearance and energy level)", "standards_inherited": [] },
+
+    { "lesson_ord": 28, "concept_day_ord": 15, "act": 3, "sub": "L1", "title": "Identifying patterns in animal behavior - Identifying patterns in our observational logs", "doc_text": "L1: Identifying patterns in animal behavior - Identifying patterns in our observational logs (What did we notice?)", "standards_inherited": [] },
+    { "lesson_ord": 29, "concept_day_ord": 15, "act": 3, "sub": "L2", "title": "Drawing inferences from the patterns; compare to initial assumptions", "doc_text": "L2: Drawing inferences from the patterns; compare to initial assumptions", "standards_inherited": [] },
+
+    { "lesson_ord": 30, "concept_day_ord": 16, "act": 4, "sub": "L1", "title": "Introduce and model how to create a testable hypothesis", "doc_text": "L1: Introduce and Model how to create a testable hypothesis", "standards_inherited": [] },
+    { "lesson_ord": 31, "concept_day_ord": 16, "act": 4, "sub": "L2", "title": "What can we prove / test for — brainstorm testable reasons people might have for not adopting big dogs", "doc_text": "L2: What can we prove / test for - brainstorm reasons people might have that keep them from adopting big dogs (distinguish which ones are testable and which ones are not), then choose one and create the hypothesis together. (you do: students write their own for the challenge)", "standards_inherited": [] },
+
+    { "lesson_ord": 32, "concept_day_ord": 17, "act": 4, "sub": "L1", "title": "Why are surveys useful? Qualitative vs. Quantitative", "doc_text": "L1: Why are surveys useful? Qualitative vs. Quantitative", "standards_inherited": ["W.WR.6.5"] },
+    { "lesson_ord": 33, "concept_day_ord": 17, "act": 4, "sub": "L2", "title": "How to write good survey questions (avoid leading questions, avoid testing friends; must include cost, appearance, energy level)", "doc_text": "L2: (writing unbiased questions) How to write good survey questions (Best practices in surveying - avoid leading questions, avoid testing friends) (must include cost, appearance, energy level)", "standards_inherited": ["W.WR.6.5"] },
+    { "lesson_ord": 34, "concept_day_ord": 17, "act": 4, "sub": "L3", "title": "Sampling and respondent pool: who should complete the survey, how many people", "doc_text": "L3: Sampling and respondent pool: Who should complete the survey? How many people should complete it (survey sample)?", "standards_inherited": ["W.WR.6.5"] },
+
+    { "lesson_ord": 35, "concept_day_ord": 18, "act": 4, "sub": "L1", "title": "Cleaning data (strong response vs weak response)", "doc_text": "L1: Cleaning data - (Strong response vs weak response)", "standards_inherited": ["W.SE.6.6", "6.SP.B.5"] },
+    { "lesson_ord": 36, "concept_day_ord": 18, "act": 4, "sub": "L2", "title": "Visualize data - dot plot", "doc_text": "L2: Visualize data - dot plot", "standards_inherited": ["W.SE.6.6", "6.SP.B.5"] },
+    { "lesson_ord": 37, "concept_day_ord": 18, "act": 4, "sub": "L3", "title": "Charting data (pie charts, line charts - quantitative)", "doc_text": "L3: Charting data (charts - pie charts, line charts - quantitative)", "standards_inherited": ["W.SE.6.6", "6.SP.B.5"] },
+    { "lesson_ord": 38, "concept_day_ord": 18, "act": 4, "sub": "L4", "title": "Identifying themes (patterns - qualitative)", "doc_text": "L4: Identifying themes (patterns - qualitative)", "standards_inherited": ["W.SE.6.6", "6.SP.B.5"] },
+
+    { "lesson_ord": 39, "concept_day_ord": 19, "act": 4, "sub": "L1", "title": "Informal introduction to correlation vs causation", "doc_text": "L1: Informal introduction to correlation vs causation", "standards_inherited": ["RI.AA.6.7"] },
+    { "lesson_ord": 40, "concept_day_ord": 19, "act": 4, "sub": "L2", "title": "Revising hypothesis against data from observation and survey", "doc_text": "L2: Revising hypothesis against data from observation and survey", "standards_inherited": ["RI.AA.6.7"] },
+
+    { "lesson_ord": 41, "concept_day_ord": 20, "act": 4, "sub": "L1", "title": "How to identify good resources", "doc_text": "L1: How to identify good resources", "standards_inherited": ["W.AW.6.1"] },
+    { "lesson_ord": 42, "concept_day_ord": 20, "act": 4, "sub": "L2", "title": "Identifying supporting evidence in the resource for supporting the hypothesis", "doc_text": "L2: Identifying supporting evidence in the resource for supporting the hypothesis", "standards_inherited": ["W.AW.6.1"] },
+    { "lesson_ord": 43, "concept_day_ord": 20, "act": 4, "sub": "Seminar", "title": "Seminar: question and defend your claims (Explore facts from databases — dog bites, fatalities, cost using medication and food costs, housing restrictions, size vs breed energy levels)", "doc_text": "Seminar: question and defend your claims. Explore Facts using Data Base for dog bites and fatalities, cost using medication and food costs, restrictions on pet allowance in housing, size of dog vs. breed energy levels.", "standards_inherited": ["W.AW.6.1"] },
+
+    { "lesson_ord": 44, "concept_day_ord": 21, "act": 4, "sub": "L1", "title": "How to support a claim with evidence or falsify claims", "doc_text": "L1: How to support a claim with evidence or falsify claims", "standards_inherited": ["W.AW.6.1", "RI.AA.6.7"] },
+
+    { "lesson_ord": 45, "concept_day_ord": 22, "act": 5, "sub": "L1", "title": "Based on your findings, what are people assuming about our chosen dog that are true and what things aren't true (pick a dog)", "doc_text": "L1: Based on your findings - what are people assuming about our chosen dog that are true and what things aren't true (pick a dog)", "standards_inherited": ["W.NW.6.3"] },
+    { "lesson_ord": 46, "concept_day_ord": 22, "act": 5, "sub": "L2", "title": "Introduction to story structure", "doc_text": "L2: Introduction to story structure", "standards_inherited": ["W.NW.6.3"] },
+    { "lesson_ord": 47, "concept_day_ord": 22, "act": 5, "sub": "L3", "title": "Writing to seminar — read Eddie the Terrible blog and discuss what makes it persuasive", "doc_text": "L3: Writing to Seminar: read Eddie the Terrible blog and discussion what makes it persuasive", "standards_inherited": ["W.NW.6.3"] },
+    { "lesson_ord": 48, "concept_day_ord": 22, "act": 5, "sub": "L4", "title": "Identifying elements of a persuasive narrative", "doc_text": "L4: Identifying elements of a persuasive narrative", "standards_inherited": ["W.NW.6.3"] },
+
+    { "lesson_ord": 49, "concept_day_ord": 23, "act": 5, "sub": "L1", "title": "Anatomy of an Ad", "doc_text": "L1: Anatomy of an Ad", "standards_inherited": ["W.NW.6.3"] },
+    { "lesson_ord": 50, "concept_day_ord": 23, "act": 5, "sub": "L2", "title": "Identifying Target Audience", "doc_text": "L2: Identifying Target Audience", "standards_inherited": ["W.NW.6.3"] },
+    { "lesson_ord": 51, "concept_day_ord": 23, "act": 5, "sub": "L3", "title": "Emotional Appeal (Pathos)", "doc_text": "L3: Emotional Appeal (Pathos)", "standards_inherited": ["W.NW.6.3"] },
+    { "lesson_ord": 52, "concept_day_ord": 23, "act": 5, "sub": "L4", "title": "Persuasive Devices", "doc_text": "L4: Persuasive Devices", "standards_inherited": ["W.NW.6.3"] },
+
+    { "lesson_ord": 53, "concept_day_ord": 24, "act": 5, "sub": "L1", "title": "Modeling how to draft your dog card — what perspective, how you want to write it", "doc_text": "L1: Modeling how to draft your dog card - What perspective, how you want to write it", "standards_inherited": ["W.WP.6.4"] },
+    { "lesson_ord": 54, "concept_day_ord": 24, "act": 5, "sub": "L2", "title": "Peer review of drafts (re-norm kind, specific, helpful to start class)", "doc_text": "L2: Peer review of drafts (re-norm kind, specific, helpful to start class)", "standards_inherited": ["W.WP.6.4"] },
+
+    { "lesson_ord": 55, "concept_day_ord": 25, "act": 6, "title": "Finalize the card — draft revisions (put it all together)", "doc_text": "Draft revisions (put it all together)", "standards_inherited": ["W.NW.6.3", "W.AW.6.1"] },
+
+    { "lesson_ord": 56, "concept_day_ord": 26, "act": 6, "title": "Brief St. Hubert's", "doc_text": "(no L# subdivision in doc; concept day = the lesson)", "standards_inherited": ["SL.PI.6.4", "SL.UM.6.5"] }
+  ],
+  "untagged_act6_rows_from_upper_table": [
+    { "act": 6, "title": "Evaluating Speakers", "evidence_drives_at": "Summarize the points of a speaker / explain how each claim is supported by evidence", "standards_raw": "", "audit_hint": "On-target listening-strand match in the workbench database is SL.ES.6.3" },
+    { "act": 6, "title": "Sequencing presentations logically", "evidence_drives_at": "", "doc_text": "L1: Presenting data. L2: (empty in doc).", "standards_raw": "", "audit_hint": "SL.PI.6.4 ('sequencing ideas logically') is already tagged on day 26; this row may be a sub-lesson of day 26 rather than a standalone" },
+    { "act": 6, "title": "Speaking well", "evidence_drives_at": "Pace, tonality, eye contact, pronunciation", "standards_raw": "", "audit_hint": "SL.PI.6.4 literally names 'eye contact, adequate volume, and clear pronunciation'; 'pace' and 'tonality' sit outside the standard's text" }
+  ],
+  "ghosts_and_notation_drift_known": [
+    { "code_as_written": "3-LS3-1", "appears_in_concept_days": [7], "applies_to_lessons": [10, 11, 12, 13, 14], "reason": "Grade 3 PE; not in window.NJSLS_STANDARDS (5-8 band only)" },
+    { "code_as_written": "SEP (Asking Questions)", "appears_in_concept_days": [12, 16], "reason": "NGSS Science and Engineering Practice anchor, not a NJSLS code" },
+    { "code_as_written": "SEP (Constructing Explanations)", "appears_in_concept_days": [13], "reason": "NGSS Science and Engineering Practice anchor, not a NJSLS code" },
+    { "code_as_written": "SEP (Planning and Carrying Out Investigations)", "appears_in_concept_days": [14], "reason": "NGSS Science and Engineering Practice anchor, not a NJSLS code" },
+    { "code_as_written": "SEP (Argument from Evidence)", "appears_in_concept_days": [15], "reason": "NGSS Science and Engineering Practice anchor, not a NJSLS code" },
+    { "code_as_written": "[6.SP](http://6.sp).B.4", "appears_in_concept_days": [2], "reason": "Markdown link wrapper from Google Doc export; resolves to 6.SP.B.4 after stripping" },
+    { "code_as_written": "[W.AW](http://w.aw).6.1", "appears_in_concept_days": [5], "reason": "Markdown link wrapper from Google Doc export; resolves to W.AW.6.1 after stripping" },
+    { "code_as_written": "[SL.PE](http://sl.pe).6.1NONE (intro)", "appears_in_concept_days": [6], "reason": "Markdown link wrapper + 'NONE (intro)' annotation; resolves to SL.PE.6.1 after stripping" },
+    { "code_as_written": "3-LS3-1MS-LS4-4", "appears_in_concept_days": [7], "reason": "Doubled codes with no separator in upper table" },
+    { "code_as_written": "MS-LS4-6MS-LS4-5", "appears_in_concept_days": [10], "reason": "Doubled codes with no separator in upper table" },
+    { "code_as_written": "[W.NW](http://w.nw).6.3", "appears_in_concept_days": [22], "reason": "Markdown link wrapper from Google Doc export; resolves to W.NW.6.3 after stripping" }
+  ],
+  "all_njsls_codes_tagged_unique_sorted": [
+    "3-LS3-1",
+    "6.RP.A.2",
+    "6.RP.A.3",
+    "6.SP.B.4",
+    "6.SP.B.5",
+    "MS-LS4-4",
+    "MS-LS4-5",
+    "MS-LS4-6",
+    "RI.AA.6.7",
+    "SL.PE.6.1",
+    "SL.PI.6.4",
+    "SL.UM.6.5",
+    "W.AW.6.1",
+    "W.NW.6.3",
+    "W.SE.6.6",
+    "W.WP.6.4",
+    "W.WR.6.5"
+  ],
+  "all_njsls_codes_tagged_unique_sorted_count": 17,
+  "code_from_upper_table_dropped_from_section_6": [
+    { "code": "5.DL.A.1", "concept_day": 2, "doc_note": "Upper table tagged 5.DL.A.1 alongside 6.SP.B.4 for the shelter-tables concept day; Section 6 keeps only 6.SP.B.4. 5.DL.A.1 is the on-target Data Literacy standard for interpreting visualizations." }
+  ]
+}

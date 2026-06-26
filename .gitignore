@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# macOS / OS junk
+.DS_Store
+
+# Temp + lock files
+*.tmp
+.~lock.*#
+
+# Local backups
+*.bak.*.json

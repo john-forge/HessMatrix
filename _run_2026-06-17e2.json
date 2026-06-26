@@ -1,0 +1,518 @@
+{
+  "2.2.8.MSC.1": {
+    "schema_version": 1,
+    "standardCode": "2.2.8.MSC.1",
+    "standardStatement": "Explain and demonstrate the transition of movement skills from isolated settings (e.g., skill practice) into applied settings (e.g., games, sports, dance, recreational activities).",
+    "subject": "chpe",
+    "grade": "8",
+    "generatedAt": "GENAT",
+    "cells": {
+      "remember-1": {
+        "objective": "Name the parts of one movement skill in the order they happen.",
+        "observableCheck": "Each student writes the steps of one skill in sequence on a card.",
+        "sampleTask": "Guide names one skill the class has practiced, such as a chest pass or an overhand throw. Each student writes the steps in order on a card, from set-up to follow-through. Cards go up and the Guide reads back a correct sequence. Students fix any step they had out of order.",
+        "materials": ["index cards", "class board", "pencils"]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Describe the difference between an isolated drill and an applied game setting.",
+        "observableCheck": "Each student writes one sentence for each setting and one way they differ.",
+        "sampleTask": "Guide gives a half-sheet with two boxes, isolated and applied. Students write what a skill looks like in each box, then write one sentence on the main difference, such as a defender being present. Pairs check that each box names a real condition. The Guide reads two clear contrasts aloud.",
+        "materials": ["two-box half-sheet", "pencils"]
+      },
+      "understand-2": {
+        "objective": "Explain why a skill changes when a defender or a partner enters the setting.",
+        "observableCheck": "Each student writes a 'because' sentence naming what the added person forces the mover to do.",
+        "sampleTask": "Each student picks one skill and writes 'this skill changes in a game because [the defender or partner forces ...]'. The reason must name a specific adjustment, such as faster decisions or shielding the ball. Pairs read each other's sentences and mark whether the adjustment is named. The Guide charts the adjustments students found.",
+        "materials": ["sentence-frame handout", "pencils"]
+      },
+      "understand-3": {
+        "objective": "Classify movement situations as isolated practice or applied play.",
+        "observableCheck": "Each student sorts eight situation cards into the two settings on a mat.",
+        "sampleTask": "Guide hands pairs eight situation cards describing a mover doing a skill. Pairs place each card under isolated or applied and write one card of their own for the thinner column. Pairs compare with a neighbor pair and resolve splits. The Guide names which situations were hardest to place and why.",
+        "materials": ["situation cards", "two-column mat", "blank cards"]
+      },
+      "understand-4": {
+        "objective": "Connect a drill cue to the game moment where that cue pays off.",
+        "observableCheck": "Each student matches four practice cues to four game moments on a worksheet.",
+        "sampleTask": "Students get a worksheet with four practice cues on the left, such as 'eyes up', and six game moments on the right. They draw lines from each cue to the moment where it matters and cross out the two extras. They write one sentence on the hardest match. Whole-class review settles the matches.",
+        "materials": ["matching worksheet", "pencils"]
+      },
+      "apply-1": {
+        "objective": "Demonstrate one isolated skill on cue to a clear form standard.",
+        "observableCheck": "The Guide observes each student perform the skill and checks three form points.",
+        "sampleTask": "At a station, each student performs one skill, such as a dribble or a bump pass, ten times while a partner checks three posted form points and tallies clean reps. The performer then names which form point slipped most. Partners swap roles. The Guide circulates and confirms two tallies per pair.",
+        "materials": ["station equipment for the skill", "posted form-point card", "tally sheet"]
+      },
+      "apply-2": {
+        "objective": "Demonstrate the same skill inside a small-sided game while keeping the form points.",
+        "observableCheck": "A partner tallies how many game reps held the three form points.",
+        "sampleTask": "Pairs join a three-on-three small-sided game for five minutes. One partner plays while the other watches one named skill and tallies reps that held the form points from Apply-1. They switch so each plays and observes. Each student writes which form point was hardest to keep once a defender appeared. The Guide keeps the games short and rotating.",
+        "materials": ["small-sided game space", "pinnies", "tally sheet"]
+      },
+      "apply-3": {
+        "objective": "Apply a verbal cue mid-game to fix a slipping skill in real time.",
+        "observableCheck": "Each student names the cue they used and reports whether the next rep improved.",
+        "sampleTask": "In the next small-sided round, each player picks one cue word to say to themselves when their skill slips, drawn from the Understand-4 matches. After the round they write the cue they used and one rep where it helped. Partners confirm they heard or saw the cue applied. The Guide collects the cue words that worked.",
+        "materials": ["small-sided game space", "cue-word cards", "note cards"]
+      },
+      "apply-4": {
+        "objective": "Carry a skill through three settings of rising pressure without losing the form points.",
+        "observableCheck": "Each student records form-point success across solo, partner, and game settings on one sheet.",
+        "sampleTask": "Students run the same skill through three stations: alone, with a passive partner, and in live play. A peer records form-point success at each station on one tracking sheet. Students mark the setting where form first broke down. Pairs discuss what changed between the last clean setting and the first broken one. The Guide collects the tracking sheets.",
+        "materials": ["three-station setup", "transfer tracking sheet", "equipment"]
+      },
+      "analyze-1": {
+        "objective": "Identify the exact point in a game clip where a skill broke down.",
+        "observableCheck": "Each student marks the breakdown moment on a clip timeline and names the skill.",
+        "sampleTask": "Guide plays a short game clip twice. Students mark on a simple timeline strip the moment a skill broke down and write which skill it was. They add one sentence on what the player faced at that moment. Pairs compare marks and the Guide replays the moment to confirm.",
+        "materials": ["short game clip", "timeline strips", "pencils"]
+      },
+      "analyze-2": {
+        "objective": "Compare a player's drill form to their game form to find what changed.",
+        "observableCheck": "Each student completes a two-column chart listing form in drill versus form in game.",
+        "sampleTask": "Using the Apply tracking sheets, students fill a two-column chart for one skill, drill form on the left and game form on the right. They circle the one form point that changed most under pressure. They write one sentence on why that point is the first to go. Pairs compare circles and the Guide takes two.",
+        "materials": ["transfer tracking sheets", "two-column chart", "pencils"]
+      },
+      "analyze-3": {
+        "objective": "Trace which game condition caused a skill to transfer poorly.",
+        "observableCheck": "Each student names the condition and links it to the specific form breakdown.",
+        "sampleTask": "Students study a peer's game-rep tally and pick the condition that hurt the skill most, such as time pressure or a tight defender. They write how that condition caused the specific breakdown they saw. They add the one practice change that would prepare for it. Pairs compare conditions and the Guide charts them.",
+        "materials": ["peer game tallies", "condition list", "note cards"]
+      },
+      "analyze-4": {
+        "objective": "Break down how force, timing, and decision-making interact when a skill moves into a game.",
+        "observableCheck": "Each student produces a one-page diagram linking the three factors to one skill's game performance.",
+        "sampleTask": "Students draw a one-page diagram with one skill in the center and force, timing, and decision-making around it. Arrows show where one factor changes another in live play, such as a rushed decision throwing off timing. Each arrow gets a label. Pairs add one missed arrow. The Guide collects the diagrams.",
+        "materials": ["plain paper", "rulers", "colored pens"]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Judge which of two practice designs better prepares a skill for game transfer and defend the choice.",
+        "observableCheck": "Each student picks one design and writes two reasons tied to game conditions.",
+        "sampleTask": "Guide describes two practice plans for the same skill, one isolated and repetitive, one with built-in pressure. Students pick the one that transfers better and write two reasons that name real game conditions. They name one thing the losing design still does well. Pairs trade and score each other on a two-point rubric for evidence and fairness.",
+        "materials": ["two practice-plan cards", "two-point rubric"]
+      },
+      "evaluate-4": {
+        "objective": "Assess a player's full transfer record and recommend the next practice focus.",
+        "observableCheck": "Each student writes a recommendation naming one practice focus with two reasons from the record.",
+        "sampleTask": "Students review a peer's tracking sheets and analysis from the lesson and write a short recommendation for what that player should practice next. The recommendation names one focus and two reasons drawn from where the skill broke down. They name the game condition the focus targets. The Guide pairs students to deliver recommendations and collects them.",
+        "materials": ["peer transfer records", "recommendation half-sheet"]
+      },
+      "create-1": {
+        "objective": "Draft one coaching cue under six words that helps a skill survive game pressure.",
+        "observableCheck": "Each student writes one short cue tied to a named skill.",
+        "sampleTask": "Students pick one skill and write a single cue, under six words, that a teammate could say to hold form in a game. They write it large on a quarter sheet. Pairs test whether the cue is short enough to say mid-play. The Guide posts the cues by skill.",
+        "materials": ["quarter sheets", "markers"]
+      },
+      "create-2": {
+        "objective": "Produce a small-sided game rule tweak that forces one target skill to appear more often.",
+        "observableCheck": "Each student writes one rule tweak and predicts how it raises the skill's frequency.",
+        "sampleTask": "Students invent one rule tweak for a small-sided game that makes a target skill happen more, such as requiring three passes before a shot. They write the rule and one sentence predicting its effect. Pairs check that the rule actually forces the skill, not just slows play. Students refine the rule before turning in.",
+        "materials": ["rule-tweak half-sheet", "pencils"]
+      },
+      "create-3": {
+        "objective": "Design a three-station progression that moves one skill from isolated to applied.",
+        "observableCheck": "Each group produces a station card naming the skill demand and the added pressure at each step.",
+        "sampleTask": "Groups of three design a three-station progression for one skill, where each station adds pressure: alone, with a partner, then in live play. The station card names what the mover does and the pressure added at each step. Groups walk another group through the cards in two minutes and take one question. Groups fix the weakest station before the Guide collects.",
+        "materials": ["station planning cards", "markers", "timer"]
+      },
+      "create-4": {
+        "objective": "Construct a full practice-to-game plan for one skill that names cues, drills, and a game test.",
+        "observableCheck": "Each group submits a plan with a drill, a pressure step, a cue, and a game-based check.",
+        "sampleTask": "Groups build a one-page plan that takes one skill from drill to game. The plan names the isolated drill, the pressure step, the in-game cue, and how they would test transfer in real play. Groups present the plan and the class scores whether the game test truly checks transfer. The Guide keeps the highest-scoring plan as the class artifact.",
+        "materials": ["practice-to-game plan template", "scoring sheet", "markers"]
+      }
+    }
+  },
+  "2.2.8.MSC.2": {
+    "schema_version": 1,
+    "standardCode": "2.2.8.MSC.2",
+    "standardStatement": "Demonstrate control of motion in relationship between force, flow, time, and space in interactive dynamic environments.",
+    "subject": "chpe",
+    "grade": "8",
+    "generatedAt": "GENAT",
+    "cells": {
+      "remember-1": {
+        "objective": "Name the four movement concepts force, flow, time, and space.",
+        "observableCheck": "Each student writes all four concepts on a card from memory.",
+        "sampleTask": "Guide posts the prompt: 'Name the four ways we describe how a body moves.' Students write the four on a card. Cards go up and the Guide reads each concept with a one-line meaning. Students fix any they missed or mislabeled.",
+        "materials": ["index cards", "class board", "pencils"]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Describe what each of the four concepts means using a movement example.",
+        "observableCheck": "Each student writes a one-line meaning and one example for each concept.",
+        "sampleTask": "Guide gives a four-box half-sheet, one box per concept. Students write a short meaning and one movement example in each box, such as a hard kick for force. Pairs check that each example fits its concept and not a neighbor concept. The Guide reads one clean example per box.",
+        "materials": ["four-box half-sheet", "pencils"]
+      },
+      "understand-2": {
+        "objective": "Explain how changing force changes the result of a movement.",
+        "observableCheck": "Each student writes a 'because' sentence linking a force change to a movement result.",
+        "sampleTask": "Each student writes 'when I add force to [a movement], the result changes because ...'. The reason names a concrete result, such as the ball traveling farther or control dropping. Pairs read and mark whether the result is concrete. The Guide charts how force traded against control in students' examples.",
+        "materials": ["sentence-frame handout", "pencils"]
+      },
+      "understand-3": {
+        "objective": "Classify sample movements by which concept they most depend on.",
+        "observableCheck": "Each student sorts eight movement cards under the four concepts on a mat.",
+        "sampleTask": "Guide hands pairs eight movement cards and a four-column mat. Pairs place each movement under the concept it most depends on and write one card for the thinnest column. Pairs compare with a neighbor pair and resolve splits. The Guide names a movement that depends on two concepts at once.",
+        "materials": ["movement cards", "four-column mat", "blank cards"]
+      },
+      "understand-4": {
+        "objective": "Connect a change in space or time to the adjustment a mover must make.",
+        "observableCheck": "Each student matches four space or time changes to four required adjustments on a worksheet.",
+        "sampleTask": "Students get a worksheet with four changes, such as a shrinking playing area, on the left and six adjustments on the right. They draw lines to the adjustment each change forces and cross out the extras. They write one sentence on the hardest match. Whole-class review settles it.",
+        "materials": ["matching worksheet", "pencils"]
+      },
+      "apply-1": {
+        "objective": "Demonstrate controlled force in a target task such as a soft toss to a near goal.",
+        "observableCheck": "A partner tallies how many tosses land in the target zone.",
+        "sampleTask": "At a station, each student makes ten controlled tosses or strikes at a near target, aiming for soft, accurate landings rather than power. A partner tallies how many land in the target zone. The thrower names whether they used too much or too little force. Partners switch and the Guide confirms two tallies.",
+        "materials": ["targets or hoops", "soft balls", "tally sheet"]
+      },
+      "apply-2": {
+        "objective": "Demonstrate control of flow by linking two movements without a pause.",
+        "observableCheck": "A partner confirms whether the two movements connected smoothly.",
+        "sampleTask": "Students pick two movements, such as a catch and a quick pass, and perform them linked five times with no pause between. A partner watches and marks each rep as smooth or broken. The performer names what caused any break. Partners switch and the Guide spot-checks pairs.",
+        "materials": ["balls or beanbags", "flow checklist", "pencils"]
+      },
+      "apply-3": {
+        "objective": "Apply a deliberate change in timing to beat a moving partner to a spot.",
+        "observableCheck": "Each student reports whether the timing change won the spot and how.",
+        "sampleTask": "In a one-on-one move-to-space drill, each student tries to reach an open cone before a partner by changing their timing, speeding up or delaying a start. After three rounds they write whether the timing change worked and which spot it won. Partners confirm the result. The Guide collects the timing tactics that succeeded.",
+        "materials": ["cones", "open space", "note cards"]
+      },
+      "apply-4": {
+        "objective": "Control force, flow, time, and space together while moving through a dynamic obstacle course.",
+        "observableCheck": "A peer scores the run on all four concepts using a four-row rubric.",
+        "sampleTask": "Students run a short obstacle course that demands a hard throw, a smooth transition, a timed move past a mover, and tight use of space. A peer scores the run on a four-row rubric, one row per concept. The runner names the concept that cost them most. Pairs discuss one fix and rerun once. The Guide collects rubrics.",
+        "materials": ["obstacle course equipment", "four-row rubric", "pencils"]
+      },
+      "analyze-1": {
+        "objective": "Identify which concept a player controlled worst in a short clip.",
+        "observableCheck": "Each student names the weakest concept and the moment it showed.",
+        "sampleTask": "Guide plays a short movement clip twice. Students name which of the four concepts the mover controlled worst and the moment it showed. They add one sentence on the cost of that loss. Pairs compare and the Guide replays the moment.",
+        "materials": ["short movement clip", "note cards", "pencils"]
+      },
+      "analyze-2": {
+        "objective": "Compare two performers on the same task to find who controlled space better.",
+        "observableCheck": "Each student completes a two-column chart and circles the better space-controller.",
+        "sampleTask": "Students watch or recall two performers on the same task and fill a two-column chart on how each used space. They circle the better one and write one defending sentence naming a specific moment. Pairs challenge the circle. The Guide takes two defenses.",
+        "materials": ["two-column chart", "task reference", "pencils"]
+      },
+      "analyze-3": {
+        "objective": "Trace how a loss of flow led to a loss of control later in a movement.",
+        "observableCheck": "Each student maps the chain from the flow break to the control loss.",
+        "sampleTask": "Students study a flow checklist from Apply-2 that shows a break and write the chain: the break, what it forced next, and the control loss that followed. They add the one fix at the break point. Pairs compare chains and the Guide charts common break points.",
+        "materials": ["flow checklists", "chain-mapping half-sheet", "pencils"]
+      },
+      "analyze-4": {
+        "objective": "Break down how all four concepts interact in one dynamic game moment.",
+        "observableCheck": "Each student produces a one-page diagram linking the four concepts to one game moment.",
+        "sampleTask": "Students pick one game moment and draw a one-page diagram with the four concepts around it. Arrows show where one concept forced a change in another, such as tight space cutting available time. Each arrow gets a label. Pairs add one missed arrow. The Guide collects the diagrams.",
+        "materials": ["plain paper", "rulers", "colored pens"]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Judge which of two movers showed better overall control in a dynamic setting and defend it.",
+        "observableCheck": "Each student picks one mover and cites evidence from at least two of the four concepts.",
+        "sampleTask": "Guide shows or describes two movers handling the same dynamic task. Students pick the one with better overall control and defend it with evidence from at least two concepts. They name the one concept where the loser was actually stronger. Pairs trade and score each other on a two-point rubric for evidence and fairness.",
+        "materials": ["two performance descriptions", "two-point rubric"]
+      },
+      "evaluate-4": {
+        "objective": "Assess your own four-concept control record and recommend the concept to train first.",
+        "observableCheck": "Each student writes a recommendation naming one concept with two reasons from their scores.",
+        "sampleTask": "Students review their Apply-4 rubric and analysis and write a short recommendation for the one concept to train first. The recommendation gives two reasons drawn from specific scores. They name the dynamic setting where that concept hurt most. The Guide sorts recommendations by concept and reports the class pattern.",
+        "materials": ["completed rubrics", "recommendation half-sheet"]
+      },
+      "create-1": {
+        "objective": "Draft one movement challenge that targets a single concept.",
+        "observableCheck": "Each student writes one challenge naming the concept it trains.",
+        "sampleTask": "Students write one short movement challenge, such as 'reach the far cone using the least force', and name the concept it trains. They write it on a quarter sheet. Pairs check that the challenge truly targets the named concept. The Guide posts challenges by concept.",
+        "materials": ["quarter sheets", "markers"]
+      },
+      "create-2": {
+        "objective": "Produce a partner drill that forces a deliberate change in timing or space.",
+        "observableCheck": "Each student writes a drill with rules that require the timing or space change.",
+        "sampleTask": "Students design a partner drill whose rules make a mover change timing or use space differently, such as a tag rule that rewards delayed starts. They write the rules and name which concept the rule trains. Pairs test that the rule forces the change. Students refine before turning in.",
+        "materials": ["drill-design half-sheet", "pencils"]
+      },
+      "create-3": {
+        "objective": "Design a dynamic obstacle course that demands all four concepts in sequence.",
+        "observableCheck": "Each group produces a course map labeling which concept each station trains.",
+        "sampleTask": "Groups of three design an obstacle course where four stations each demand a different concept. The course map labels each station with its concept and the task. Groups walk another group through the course in two minutes and take one question. Groups fix the weakest station before the Guide collects the maps.",
+        "materials": ["course planning sheet", "markers", "timer"]
+      },
+      "create-4": {
+        "objective": "Construct a small-game design where controlling all four concepts decides who wins.",
+        "observableCheck": "Each group submits game rules that tie scoring to control of force, flow, time, and space.",
+        "sampleTask": "Groups build a small game whose rules reward control of all four concepts, such as points for soft accurate passes and for reaching space first. The rules sheet names how each concept earns or loses points. Groups teach the game to another group in three minutes and play one round. The class scores which game best rewards control, and the Guide keeps the top design.",
+        "materials": ["game-design template", "scoring sheet", "equipment"]
+      }
+    }
+  },
+  "2.2.8.MSC.3": {
+    "schema_version": 1,
+    "standardCode": "2.2.8.MSC.3",
+    "standardStatement": "Create and demonstrate planned movement sequences, individually and with others, based on tempo, beat, rhythm, music, and physical activities (e.g., creative, cultural, social, fitness aerobics, dance, yoga).",
+    "subject": "chpe",
+    "grade": "8",
+    "generatedAt": "GENAT",
+    "cells": {
+      "remember-1": {
+        "objective": "Name the terms tempo, beat, and rhythm and clap one example of each.",
+        "observableCheck": "Each student writes the three terms and claps a beat on the Guide's cue.",
+        "sampleTask": "Guide posts the three terms and gives a one-line meaning for each. Students write the terms on a card, then clap a steady beat together and a simple rhythm on the Guide's count. The Guide checks that the room holds the beat. Students mark which term they still confuse.",
+        "materials": ["index cards", "class board", "a steady music track"]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Describe how tempo and beat differ using a movement example.",
+        "observableCheck": "Each student writes one sentence distinguishing tempo from beat with an example.",
+        "sampleTask": "Guide gives a half-sheet asking students to explain how tempo and beat differ. Students write one sentence and one movement example, such as the same step done fast or slow. Pairs check that the example shows tempo, not just a different move. The Guide reads two clear contrasts.",
+        "materials": ["half-sheet handout", "music track", "pencils"]
+      },
+      "understand-2": {
+        "objective": "Explain why matching movement to the beat makes a sequence look planned.",
+        "observableCheck": "Each student writes a 'because' sentence linking on-beat movement to a planned look.",
+        "sampleTask": "Each student writes 'movement on the beat looks planned because ...', naming a concrete effect such as the group moving together. Pairs read and mark whether the effect is concrete. The Guide charts the effects students named and links them to the idea of timing.",
+        "materials": ["sentence-frame handout", "music track"]
+      },
+      "understand-3": {
+        "objective": "Classify movement styles by the rhythm pattern each one uses.",
+        "observableCheck": "Each student sorts six style cards by rhythm feel on a mat.",
+        "sampleTask": "Guide hands pairs six style cards, such as aerobics, a cultural folk step, and yoga flow, and a mat with rhythm headers like steady, flowing, and sharp. Pairs place each style and write one note on why. Pairs compare with a neighbor pair and resolve splits. The Guide names a style that fits two rhythm feels.",
+        "materials": ["style cards", "rhythm-feel mat", "pencils"]
+      },
+      "understand-4": {
+        "objective": "Connect a piece of music to the movement style that fits its rhythm.",
+        "observableCheck": "Each student matches four short tracks to four movement styles on a worksheet.",
+        "sampleTask": "Guide plays four short clips. Students write next to each clip which of six listed styles fits its rhythm and cross out the two extras. They write one sentence on the clue that decided the hardest match. Whole-class review confirms the matches.",
+        "materials": ["four short music clips", "matching worksheet", "pencils"]
+      },
+      "apply-1": {
+        "objective": "Demonstrate a four-count movement on the beat of a steady track.",
+        "observableCheck": "A partner confirms whether each count landed on the beat.",
+        "sampleTask": "Guide plays a steady track. Each student performs a simple four-count move, such as step-touch, trying to land each count on the beat. A partner watches and marks each count as on or off. The performer names which count drifted. Partners switch and the Guide keeps the track running.",
+        "materials": ["steady music track", "on-beat checklist", "open space"]
+      },
+      "apply-2": {
+        "objective": "Demonstrate a planned eight-count sequence solo using two different moves.",
+        "observableCheck": "A partner checks that the sequence holds eight counts and uses two moves.",
+        "sampleTask": "Students build and perform an eight-count solo sequence using at least two distinct moves on the beat. A partner counts aloud and marks whether all eight counts were filled and both moves appeared. The performer names the count that was hardest to hold. Partners switch. The Guide spot-checks two pairs.",
+        "materials": ["music track", "eight-count checklist", "open space"]
+      },
+      "apply-3": {
+        "objective": "Apply tempo changes to the same sequence to give it a slow and a fast version.",
+        "observableCheck": "Each student performs both versions and names what changed besides speed.",
+        "sampleTask": "Students take their eight-count sequence and perform it once slow and once at a faster tempo on the matching track. They write what got harder in the fast version besides speed, such as keeping moves clean. A partner confirms both versions stayed on beat. The Guide collects the notes on what tempo changed.",
+        "materials": ["two tempo tracks", "note cards", "open space"]
+      },
+      "apply-4": {
+        "objective": "Combine individual sequences with a partner into one synced sequence.",
+        "observableCheck": "A second pair confirms whether the two performers stayed synced through the sequence.",
+        "sampleTask": "Pairs merge their eight-count solos into one synced sequence, choosing where to match and where to mirror. They rehearse and then perform for a second pair, who marks where the two fell out of sync. Performers name the transition that caused the slip and fix it. The Guide watches two performances.",
+        "materials": ["music track", "sync checklist", "open space"]
+      },
+      "analyze-1": {
+        "objective": "Identify the count where a recorded sequence fell off the beat.",
+        "observableCheck": "Each student marks the off-beat count on a count strip.",
+        "sampleTask": "Guide plays a short sequence clip twice over a counted track. Students mark on a count strip the count where the mover fell off the beat. They write one sentence on what the mover did at that count. Pairs compare marks and the Guide replays to confirm.",
+        "materials": ["sequence clip", "count strips", "pencils"]
+      },
+      "analyze-2": {
+        "objective": "Compare two sequences to determine which uses rhythm more clearly.",
+        "observableCheck": "Each student completes a two-column chart and circles the clearer sequence.",
+        "sampleTask": "Students watch or recall two short sequences and fill a two-column chart on how each uses rhythm. They circle the clearer one and write one defending sentence naming a specific moment. Pairs challenge the circle. The Guide takes two defenses.",
+        "materials": ["two-column chart", "sequence reference", "pencils"]
+      },
+      "analyze-3": {
+        "objective": "Trace how one missed transition threw off the rest of a partner sequence.",
+        "observableCheck": "Each student maps the chain from the missed transition to the later slip.",
+        "sampleTask": "Students study a sync checklist from Apply-4 that shows a break and map the chain: the missed transition, what it forced, and the later slip. They name the one fix at the transition. Pairs compare chains and the Guide charts common trouble transitions.",
+        "materials": ["sync checklists", "chain-mapping half-sheet", "pencils"]
+      },
+      "analyze-4": {
+        "objective": "Break down how tempo, beat, and partner timing interact in one synced sequence.",
+        "observableCheck": "Each student produces a one-page diagram linking the three factors to the sequence's success.",
+        "sampleTask": "Students draw a one-page diagram with their synced sequence in the center and tempo, beat, and partner timing around it. Arrows show where one factor changed another, such as a faster tempo widening the partner gap. Each arrow gets a label. Pairs add one missed arrow. The Guide collects the diagrams.",
+        "materials": ["plain paper", "rulers", "colored pens"]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Judge which of two sequences better fits its music and defend the verdict.",
+        "observableCheck": "Each student picks one sequence and cites two specific timing or style reasons.",
+        "sampleTask": "Guide shows two sequences set to the same track. Students judge which fits the music better and defend it with two reasons about timing or style match. They name one thing the weaker sequence did well. Pairs trade and score each other on a two-point rubric for evidence and fairness.",
+        "materials": ["two sequence clips", "two-point rubric"]
+      },
+      "evaluate-4": {
+        "objective": "Assess your own synced sequence against a rubric and recommend the one change to rehearse next.",
+        "observableCheck": "Each student writes a recommendation naming one change with two reasons from the rubric.",
+        "sampleTask": "Students score their synced sequence on a posted rubric for beat, transitions, and partner sync, then write the one change to rehearse next. The recommendation gives two reasons tied to specific rubric rows. They name the moment that change would fix. The Guide sorts recommendations and reports common targets.",
+        "materials": ["sequence rubric", "recommendation half-sheet"]
+      },
+      "create-1": {
+        "objective": "Draft a four-count move that fits a given beat.",
+        "observableCheck": "Each student writes a four-count move in words and counts it out.",
+        "sampleTask": "Students write a single four-count move in words, one action per count, that fits the class beat. They count it aloud once to a partner. Pairs check that each count has one clear action. The Guide collects strong four-counts to seed longer sequences.",
+        "materials": ["count-card half-sheet", "music track", "pencils"]
+      },
+      "create-2": {
+        "objective": "Produce an eight-count solo sequence notated so another student could perform it.",
+        "observableCheck": "Each student turns in an eight-count notation a peer can read and try.",
+        "sampleTask": "Students write an eight-count solo sequence using simple notation, one action per count, clear enough that a peer could perform it cold. A partner reads the notation and attempts the sequence without coaching. The writer fixes any count the partner could not follow. The Guide collects the cleaned notations.",
+        "materials": ["notation template", "music track", "pencils"]
+      },
+      "create-3": {
+        "objective": "Design a partner sequence that blends two movement styles on one track.",
+        "observableCheck": "Each pair produces a notated sequence that names where each style appears.",
+        "sampleTask": "Pairs design a sixteen-count sequence that blends two styles, such as aerobics and a folk step, on one track. The notation marks where each style appears and where the partners sync. The pair performs it for another pair, who names the smoothest blend point and the roughest. Pairs fix the rough point before the Guide collects.",
+        "materials": ["notation template", "music track", "open space"]
+      },
+      "create-4": {
+        "objective": "Construct a group routine for four people built around tempo and rhythm changes.",
+        "observableCheck": "Each group submits a routine plan marking formation, tempo changes, and counts.",
+        "sampleTask": "Groups of four build a thirty-two-count routine that uses at least one tempo change and one formation change, tied to the music. The plan marks counts, formations, and where the tempo shifts. Groups perform for the class, which scores how clearly the routine used tempo and rhythm. The Guide keeps the highest-scoring routine plan as the class artifact.",
+        "materials": ["routine planning sheet", "music track", "open space"]
+      }
+    }
+  },
+  "2.2.8.MSC.4": {
+    "schema_version": 1,
+    "standardCode": "2.2.8.MSC.4",
+    "standardStatement": "Analyze, and correct movements and apply to refine movement skills.",
+    "subject": "chpe",
+    "grade": "8",
+    "generatedAt": "GENAT",
+    "cells": {
+      "remember-1": {
+        "objective": "Name the form points the class uses to judge one movement skill.",
+        "observableCheck": "Each student lists the posted form points for one skill on a card.",
+        "sampleTask": "Guide names one skill and posts its form points. Students copy the form points onto a card from memory first, then check against the posted list. Cards go up and students mark any point they missed. The Guide reads the full set so every student leaves with the checklist.",
+        "materials": ["index cards", "posted form-point chart", "pencils"]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Describe what a movement error looks like for one form point.",
+        "observableCheck": "Each student writes one sentence describing the error tied to a form point.",
+        "sampleTask": "Guide gives a half-sheet listing three form points. Students write what the error looks like when each point is missed, such as a dropped elbow on a throw. Pairs check that each description names what the body actually does. The Guide reads one clear error per point.",
+        "materials": ["half-sheet handout", "form-point chart", "pencils"]
+      },
+      "understand-2": {
+        "objective": "Explain why a named error reduces the success of a movement.",
+        "observableCheck": "Each student writes a 'because' sentence linking an error to a worse result.",
+        "sampleTask": "Each student picks one error and writes 'this error hurts the skill because ...', naming a concrete result such as the throw losing accuracy. Pairs read and mark whether the result is concrete. The Guide charts the errors that hurt results most.",
+        "materials": ["sentence-frame handout", "pencils"]
+      },
+      "understand-3": {
+        "objective": "Classify observed errors as set-up, execution, or follow-through problems.",
+        "observableCheck": "Each student sorts eight error cards into the three phases on a mat.",
+        "sampleTask": "Guide hands pairs eight error cards and a three-column mat labeled set-up, execution, and follow-through. Pairs place each error and write one card of their own for the thinnest column. Pairs compare with a neighbor pair and resolve splits. The Guide names the phase that held the most errors.",
+        "materials": ["error cards", "three-column mat", "blank cards"]
+      },
+      "understand-4": {
+        "objective": "Connect a specific error to the correction cue that fixes it.",
+        "observableCheck": "Each student matches four errors to four correction cues on a worksheet.",
+        "sampleTask": "Students get a worksheet with four errors on the left and six cues on the right, such as 'follow through to the target'. They draw lines from each error to its fix and cross out the extras. They write one sentence on the hardest match. Whole-class review settles it.",
+        "materials": ["matching worksheet", "pencils"]
+      },
+      "apply-1": {
+        "objective": "Spot one form error in a partner's live attempt and name it.",
+        "observableCheck": "Each student names one real error their partner made during ten attempts.",
+        "sampleTask": "Pairs take turns performing one skill ten times while the other watches against the form-point chart. The watcher names the one clearest error they saw and points to which form point it broke. The performer says whether they felt it. Pairs switch and the Guide confirms two error calls.",
+        "materials": ["skill equipment", "form-point chart", "note cards"]
+      },
+      "apply-2": {
+        "objective": "Use a correction cue to fix a partner's named error on the next attempts.",
+        "observableCheck": "A partner tallies whether the error shrank over five cued attempts.",
+        "sampleTask": "Building on Apply-1, the watcher gives the matching cue from Understand-4. The performer does five more attempts with the cue while the watcher tallies whether the error shrank, stayed, or grew. The performer names what the cue made them change. Pairs switch and the Guide spot-checks tallies.",
+        "materials": ["skill equipment", "cue cards", "tally sheet"]
+      },
+      "apply-3": {
+        "objective": "Apply self-correction by using a checklist to fix your own most common error.",
+        "observableCheck": "Each student records error counts before and after self-cuing on one sheet.",
+        "sampleTask": "Students perform a skill five times, mark their most common error on a checklist, then perform five more while self-cuing the fix. They record error counts before and after on one sheet. They write one sentence on whether self-cuing worked. Pairs compare results and the Guide collects sheets.",
+        "materials": ["self-check sheet", "skill equipment", "pencils"]
+      },
+      "apply-4": {
+        "objective": "Carry a corrected skill into a small-sided game and check whether the fix holds.",
+        "observableCheck": "A peer tallies whether the corrected form point held during game play.",
+        "sampleTask": "Students take their corrected skill into a short small-sided game while a peer tracks whether the fixed form point holds under game pressure. After play, the student names whether the old error returned and when. Pairs discuss one reason the fix did or did not hold. The Guide collects the game tallies.",
+        "materials": ["small-sided game space", "pinnies", "tally sheet"]
+      },
+      "analyze-1": {
+        "objective": "Identify the single error that appears most across a set of attempts.",
+        "observableCheck": "Each student reads an error tally and names the most frequent error.",
+        "sampleTask": "Guide displays a tally of errors collected across the class for one skill. Students name the most frequent error and the rarest. They write one sentence on why the top error is so common. Pairs compare and the Guide confirms the count.",
+        "materials": ["class error tally", "note cards"]
+      },
+      "analyze-2": {
+        "objective": "Compare a before clip to an after clip to determine whether the correction worked.",
+        "observableCheck": "Each student completes a two-column chart and states whether the error was fixed.",
+        "sampleTask": "Guide shows a before and after clip of the same mover. Students fill a two-column chart noting the form point in each clip and circle whether the error was fixed, reduced, or unchanged. They write one sentence of evidence. Pairs compare verdicts and the Guide replays the key moment.",
+        "materials": ["before and after clips", "two-column chart", "pencils"]
+      },
+      "analyze-3": {
+        "objective": "Trace which earlier phase error caused a later breakdown in a movement.",
+        "observableCheck": "Each student names the root-phase error and links it to the later breakdown.",
+        "sampleTask": "Students study a movement breakdown where a set-up error led to a follow-through failure. They name the root-phase error and map how it forced the later breakdown. They write the one fix that addresses the root, not the symptom. Pairs compare and the Guide charts root errors.",
+        "materials": ["movement breakdown clip or description", "chain-mapping half-sheet"]
+      },
+      "analyze-4": {
+        "objective": "Break down how several form points interact so that fixing one shifts another.",
+        "observableCheck": "Each student produces a one-page diagram showing how form points affect each other.",
+        "sampleTask": "Students draw a one-page diagram of one skill's form points with arrows showing where fixing one point changes another, such as a wider base steadying the throw. Each arrow gets a label. Pairs add one missed arrow. The Guide collects the diagrams as the analysis artifact.",
+        "materials": ["plain paper", "rulers", "colored pens"]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Judge which of two corrections better fixed a movement and defend the choice.",
+        "observableCheck": "Each student picks one correction and cites two pieces of evidence from the attempts.",
+        "sampleTask": "Guide describes two corrections tried on the same error with their result tallies. Students pick the better correction and defend it with two pieces of evidence from the tallies. They name one case where the other correction might win. Pairs trade and score each other on a two-point rubric for evidence and fairness.",
+        "materials": ["two correction result cards", "two-point rubric"]
+      },
+      "evaluate-4": {
+        "objective": "Assess your own correction record and recommend the next form point to target.",
+        "observableCheck": "Each student writes a recommendation naming one form point with two reasons from their data.",
+        "sampleTask": "Students review their self-check and game tallies and write a short recommendation for the next form point to target. The recommendation gives two reasons drawn from specific counts. They name the setting where that error costs most. The Guide sorts recommendations by form point and reports the pattern.",
+        "materials": ["self-check sheets", "game tallies", "recommendation half-sheet"]
+      },
+      "create-1": {
+        "objective": "Draft one correction cue under six words for a common error.",
+        "observableCheck": "Each student writes one short cue tied to a named error.",
+        "sampleTask": "Students pick one common error and write a single cue, under six words, that a teammate could say to fix it. They write it large on a quarter sheet. Pairs test whether the cue is short and clear enough to use mid-attempt. The Guide posts the cues by error.",
+        "materials": ["quarter sheets", "markers"]
+      },
+      "create-2": {
+        "objective": "Produce a simple error-and-fix card for one skill that a peer could coach from.",
+        "observableCheck": "Each student turns in a card pairing one error with its observable sign and its fix.",
+        "sampleTask": "Students build a coaching card for one skill that names one error, the sign a watcher would see, and the cue that fixes it. A partner uses the card to coach a live attempt without extra help. The writer revises any part the partner could not use. The Guide collects the usable cards.",
+        "materials": ["coaching-card template", "skill equipment", "pencils"]
+      },
+      "create-3": {
+        "objective": "Design a peer-feedback routine that catches and corrects errors during practice.",
+        "observableCheck": "Each group produces a routine card naming the watch points, the cue step, and the recheck.",
+        "sampleTask": "Groups of three design a short peer-feedback routine for one skill: what the watcher looks for, when the cue is given, and how the fix gets rechecked. The routine card lays out the three steps. Groups run another group through the routine in two minutes and take one question. Groups fix the weakest step before the Guide collects.",
+        "materials": ["routine planning card", "skill equipment", "timer"]
+      },
+      "create-4": {
+        "objective": "Construct a refinement plan that takes one skill from common error to game-ready over several practices.",
+        "observableCheck": "Each student submits a plan with dated steps tying corrections to checks.",
+        "sampleTask": "Students build a refinement plan for one skill across several practices, where each step names the error targeted, the correction, and how they will check it. The plan ends with a game-based test of whether the skill is ready. Pairs read each other's plans and flag any step with no check attached. Students fix flagged steps before the Guide collects the plan.",
+        "materials": ["refinement plan template", "form-point chart", "pencils"]
+      }
+    }
+  }
+}

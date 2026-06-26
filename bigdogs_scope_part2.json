@@ -1,0 +1,491 @@
+{
+  "_chunk": { "part": 2, "of": 6, "challengeId": "why-big-dogs-get-passed-over", "contains": ["Pin 2"], "nextEmits": ["Pin 3", "Pin 4", "Pin 5", "Pin 6", "coldTransferTask", "fitnessCheck", "selfVerification"] },
+  "pins": [
+    {
+      "id": "Pin 2",
+      "name": "Wolf to Breeds: The Domestication Explanation",
+      "description": "Pin 2 is the science arc that answers how one species became both a Great Dane and a German Shepherd, ending with each student building an explanation of how domestication and selective breeding produced modern dog breeds. Students learn that traits are inherited with variation, that humans bred dogs by selecting traits over many generations, and that body and behavior were shaped together. The cohort and Guide are the audience for the wolf-to-dog explanation, which uses only images and datasets per the brief's deliverable. It matters because the campaign's later claim that a big dog's behavior is bred, not random, rests on students understanding how breeding works.",
+      "objective": "Students will explain, using a specific breed, how inherited traits and human selective breeding produced that breed's appearance and behavior together.",
+      "observableEvidence": "Each student contributes to an explanation of the journey from wolf to dog, built from images and datasets, that ties a named breed's traits to the job it was bred for.",
+      "date": "[Confirm]", "endDate": null, "endYearWeek": null,
+      "startTime": "9:45 AM", "durationMinutes": 70,
+      "pinDuration": "half-day",
+      "phase": "Exploration",
+      "track": "5-6", "grades": ["G5", "G6"],
+      "audience": "The Junior cohort and the Guide.", "partnerId": null, "standards": ["MS-LS4-5", "MS-LS4-6", "3-LS3-1"], "locked": false,
+      "pinNote": "yearWeek range 3-4 follows Act 1's weeks 1-2 in the canonical Big Dogs Fall window; the science act needs the second of the eight weeks' early run because its explanation feeds the Act 3 observation framing.",
+      "timeBudget": { "allocatedMinutes": 700 },
+      "subUnits": [
+        {
+          "id": "2.A", "objective": "Students write a first explanation of how a Chihuahua and a Great Dane can be the same species, an explanation Act 2 will revise.", "observableMilestone": "Each student writes a starting explanation of how a Chihuahua and a Great Dane are the same animal, to be revised as the science arc proceeds.",
+          "tier": "Important", "campaignLean": "medium",
+          "campaignLeanJustification": "This sub-unit feeds the Pin 2 wolf-to-dog explanation by capturing each student's pre-science explanation, the baseline the final explanation must improve on; the skill that crosses forward is committing a revisable explanation in writing.",
+          "targetDok": 2,
+          "targetDokRationale": "Students turn the same-species puzzle into a written starting explanation with a named mechanism guess, a familiar multi-step move rather than recall.",
+          "hourTotal": { "value": 0.6, "rangeLow": 0.5, "rangeHigh": 0.8 },
+          "sessionTarget": { "perCohortMin": 1, "perCohortMax": 2, "totalMin": 1, "totalMax": 2, "rationale": "One driving-question seminar that produces a revisable explanation; an Important framing sub-unit for a single cohort." },
+          "phase": "Preparation", "track": "5-6", "grades": ["G5", "G6"],
+          "standards": ["SL.PE.6.1"], "hostsFluencyGate": false, "locked": false,
+          "timeBudget": { "allocatedMinutes": 35 },
+          "standardsRole": { "firstTeaches": [], "retrieves": [{ "standardId": "SL.PE.6.1", "firstTaughtIn": "PS1" }], "applies": ["SL.PE.6.1"] },
+          "juniorsOverride": null, "seniorsOverride": null,
+          "coldRetrievalSet": [
+            { "day": "Mon", "yearWeek": 3, "cohort": "juniors", "questions": [
+              { "prompt": "What is the difference between a species and a breed?", "expectedAnswer": "Breeds are varieties within one species" },
+              { "prompt": "Name one trait that varies between dog breeds.", "expectedAnswer": "Size, coat, ear shape, etc." },
+              { "prompt": "What claim did you write about the adoption gap in Act 1?", "expectedAnswer": "Student's Act 1 claim" }
+            ] }
+          ],
+          "contentInventory": [
+            { "id": "2.A.CI1", "type": "skill", "item": "Writing a revisable starting explanation (species vs breeds)", "hours": 0.6, "loadTier": "medium", "standards": ["SL.PE.6.1"], "enduringConceptRef": "EC2", "notes": null }
+          ],
+          "sessions": [
+            {
+              "id": "2.A.1", "yearWeek": 3, "day": "Mon", "slot": 1, "startTime": "9:45 AM", "duration": 35,
+              "title": "Species versus breeds: first explanation",
+              "durationRecipe": { "setupMin": 3, "cycleCount": 3, "minPerCycle": 8, "checkMin": 5, "debriefMin": 3, "justification": null },
+              "block": "Production", "cohort": "juniors",
+              "lessonObjective": "Students will be able to write a starting explanation of how a Chihuahua and a Great Dane can be the same species, naming the mechanism they think is responsible.",
+              "description": "Students confront the puzzle that a Chihuahua and a Great Dane are one species and write a first explanation they will revise as the science arc gives them the mechanism. The cognitive work is articulating a prior model under the seminar norms, real reasoning on a mapped path (Bloom: Understand; DOK 2). The artifact is each student's written starting explanation, the baseline for the Act 2 evidence. It opens the science act because revising a committed explanation is more powerful than building one from nothing, and it honors the eleven-year-old's willingness to advance a bold idea and defend it.",
+              "cogLoadTag": "medium",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["SL.PE.6.1"],
+              "standardsVerbatim": { "SL.PE.6.1": "[UNVERIFIED — paraphrase from brief: 2023 NJSLS-ELA Speaking, Participate and Engage, collaborative discussions; byte-exact text not retrievable]" },
+              "flags": ["STANDARD_TAG_UNSURE: SL.PE.6.1 — confirm exact substandard against the NJSLS database."],
+              "prerequisites": ["PS1.1"], "observableCheck": "Each student's starting explanation names a mechanism (such as breeding or genes) it can later test.", "buildsOn": ["1.E.2"],
+              "guide": "[Confirm]", "rosenshineTag": "check for understanding",
+              "challengeConnection": "Feeds Pin 2 by capturing the pre-science baseline; the explanation is consumed by session 2.F.2, where students revise it into the Act 2 explanation.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will treat different breeds as different species because they look so unlike."],
+              "artifact": "The student writes a revisable starting explanation of how a Chihuahua and a Great Dane are the same animal, naming a candidate mechanism.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["2.A.CI1"],
+              "juniorsOverride": null, "seniorsOverride": null
+            }
+          ]
+        },
+        {
+          "id": "2.B", "objective": "Students learn how traits are inherited from parents with variation, using genes, dominant and recessive traits, and Punnett squares applied to dog traits.", "observableMilestone": "Each student uses a dog-trait example to explain how a trait passes from parents to offspring and shows one case of variation within a litter.",
+          "tier": "Enduring", "campaignLean": "heavy",
+          "campaignLeanJustification": "This sub-unit feeds the Pin 2 explanation by supplying the inheritance mechanism the breed explanation depends on; the specific content that crosses forward is how a named dog trait passes from parents to offspring with variation.",
+          "targetDok": 2,
+          "targetDokRationale": "Students explain how a specific dog trait is inherited and identify variation in a litter, a familiar multi-step explanation applied to dog examples rather than abstract genetics.",
+          "hourTotal": { "value": 3.0, "rangeLow": 2.7, "rangeHigh": 3.3 },
+          "sessionTarget": { "perCohortMin": 5, "perCohortMax": 6, "totalMin": 5, "totalMax": 6, "rationale": "The brief's concept day 7 carries five lesson lines (genes, dominant/recessive, inheritance, variation, Punnett squares); first-teach of the heredity anchor for a single cohort needs five to six interleaved teach-and-practice sessions." },
+          "phase": "Preparation", "track": "5-6", "grades": ["G5", "G6"],
+          "standards": ["3-LS3-1"], "hostsFluencyGate": false, "locked": false,
+          "timeBudget": { "allocatedMinutes": 185 },
+          "standardsRole": { "firstTeaches": ["3-LS3-1"], "retrieves": [], "applies": [] },
+          "juniorsOverride": null, "seniorsOverride": null,
+          "coldRetrievalSet": [
+            { "day": "Tue", "yearWeek": 3, "cohort": "juniors", "questions": [
+              { "prompt": "What is a gene, in your own words?", "expectedAnswer": "Instructions for a trait" },
+              { "prompt": "What does it mean for a trait to be inherited?", "expectedAnswer": "Passed from parents to offspring" },
+              { "prompt": "What did you guess in your first species-versus-breed explanation?", "expectedAnswer": "Student's starting explanation" }
+            ] },
+            { "day": "Thu", "yearWeek": 3, "cohort": "juniors", "questions": [
+              { "prompt": "What is the difference between a dominant and a recessive trait?", "expectedAnswer": "Dominant shows when present; recessive needs two copies" },
+              { "prompt": "What does variation within a litter mean?", "expectedAnswer": "Puppies differ from each other" },
+              { "prompt": "What does a Punnett square help you predict?", "expectedAnswer": "Possible offspring traits" }
+            ] }
+          ],
+          "contentInventory": [
+            { "id": "2.B.CI1", "type": "concept", "item": "Genes as instructions for traits", "hours": 0.6, "loadTier": "high", "standards": ["3-LS3-1"], "enduringConceptRef": "EC2", "notes": null },
+            { "id": "2.B.CI2", "type": "concept", "item": "Dominant and recessive traits", "hours": 0.6, "loadTier": "high", "standards": ["3-LS3-1"], "enduringConceptRef": "EC2", "notes": null },
+            { "id": "2.B.CI3", "type": "concept", "item": "Inheritance: how traits pass down", "hours": 0.6, "loadTier": "high", "standards": ["3-LS3-1"], "enduringConceptRef": "EC2", "notes": null },
+            { "id": "2.B.CI4", "type": "concept", "item": "Variation within a species and Punnett squares", "hours": 1.2, "loadTier": "high", "standards": ["3-LS3-1"], "enduringConceptRef": "EC2", "notes": "Brief notes L4 (variation) and L5 (Punnett) run the same day." }
+          ],
+          "sessions": [
+            {
+              "id": "2.B.1", "yearWeek": 3, "day": "Tue", "slot": 1, "startTime": "9:45 AM", "duration": 35,
+              "title": "Genes: instructions for traits",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 2, "minPerCycle": 10, "checkMin": 5, "debriefMin": 5, "justification": null },
+              "block": "Teach", "cohort": "juniors",
+              "lessonObjective": "Students will be able to explain that genes carry the instructions for a dog's traits and are passed from parents to offspring.",
+              "description": "Students learn that genes are the instructions behind a dog's traits and the unit that passes from parent to puppy, the foundation of the whole inheritance arc. The cognitive work is understanding a new mechanism through dog examples, a deliberately heavy first-teach (Bloom: Understand; DOK 2). The artifact is a labeled gene-to-trait diagram for a dog trait such as coat color. It comes first because dominant-recessive and Punnett work assume the gene concept, and it honors the Junior strength in classifying and labeling concrete instructions.",
+              "cogLoadTag": "heavy",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["3-LS3-1"],
+              "standardsVerbatim": { "3-LS3-1": "[UNVERIFIED — paraphrase from brief: analyze and interpret data to provide evidence that organisms have traits inherited from parents and that variation of these traits exists in a group of similar organisms; byte-exact NGSS text not retrievable]" },
+              "flags": ["BAND_STRETCH: 3-LS3-1 is a grade-3 NGSS performance expectation used here as the only below-middle-school heredity anchor for a 5/6 cohort, per the brief's Standards Check; it is taught as consolidation, intentionally below band.", "UNVERIFIED_CONTENT_CLAIM: the genes-as-instructions model is taught from general science knowledge; confirm the cohort-appropriate framing against a vetted science text before teaching."],
+              "prerequisites": ["2.A.1"], "observableCheck": "Each student labels a gene-to-trait diagram for one dog trait correctly.", "buildsOn": ["2.A.1"],
+              "guide": "[Confirm]", "rosenshineTag": "small steps",
+              "challengeConnection": "Feeds Pin 2 by teaching genes; consumed by sessions 2.B.2 through 2.B.4, the dominant-recessive, inheritance, and Punnett work.",
+              "developmentalNote": "Grade-5 scaffold: a concrete trait card (floppy versus erect ears) to anchor the abstraction.", "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will treat a gene as a tiny version of the trait itself rather than as an instruction."],
+              "artifact": "The student labels a gene-to-trait diagram for one dog trait, showing genes as inherited instructions.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["2.B.CI1"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "2.B.2", "yearWeek": 3, "day": "Tue", "slot": 2, "startTime": "10:30 AM", "duration": 40,
+              "title": "Trait sort: dominant and recessive",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 3, "minPerCycle": 8, "checkMin": 5, "debriefMin": 6, "justification": null },
+              "block": "Production", "cohort": "juniors",
+              "lessonObjective": "Students will be able to sort dog traits as dominant or recessive and explain what each label means for offspring.",
+              "description": "Students apply the dominant-recessive idea by sorting real dog traits and predicting which show up more often in puppies, practicing the concept rather than hearing it twice. The cognitive work is applying the dominance rule to concrete cases, mapped practice (Bloom: Apply; DOK 2). The artifact is a completed trait-sort with a one-sentence rationale per trait. It follows the genes teach and interleaves practice before the next concept, satisfying the no-back-to-back-instruction rule, and it honors the Junior love of classification and seriation.",
+              "cogLoadTag": "medium",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["3-LS3-1"],
+              "standardsVerbatim": { "3-LS3-1": "[UNVERIFIED — paraphrase from brief; byte-exact NGSS text not retrievable]" },
+              "flags": ["UNVERIFIED_CONTENT_CLAIM: assigning specific dog traits as dominant or recessive is a simplification; confirm the examples used are genetically accurate before teaching, as real coat-color genetics is polygenic."],
+              "prerequisites": ["2.B.1"], "observableCheck": "Each student sorts the trait set correctly and justifies two of the dominant-recessive labels.", "buildsOn": ["2.B.1"],
+              "guide": "[Confirm]", "rosenshineTag": "guided practice",
+              "challengeConnection": "Feeds Pin 2 by practicing dominance; consumed by session 2.B.4, the Punnett-square work.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will assume a dominant trait is the better or more common-in-the-world trait rather than the one expressed when present."],
+              "artifact": "The student completes a dominant-versus-recessive dog-trait sort with a rationale for each label.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["2.B.CI2"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "2.B.3", "yearWeek": 3, "day": "Wed", "slot": 1, "startTime": "9:45 AM", "duration": 35,
+              "title": "Inheritance: traits passed down",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 2, "minPerCycle": 10, "checkMin": 5, "debriefMin": 5, "justification": null },
+              "block": "Teach", "cohort": "juniors",
+              "lessonObjective": "Students will be able to explain how a dog trait passes from parents to offspring across one generation.",
+              "description": "Students learn how traits move from parents to puppies across a generation, connecting the gene and dominance ideas into a single inheritance picture. The cognitive work is understanding the inheritance pathway through a dog example, a heavy concept move (Bloom: Understand; DOK 2). The artifact is a one-generation inheritance trace for a chosen trait. It sits after the dominance practice so students have the pieces to assemble, and it honors the ten-year-old's appetite for following a clear, ordered process.",
+              "cogLoadTag": "heavy",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["3-LS3-1"],
+              "standardsVerbatim": { "3-LS3-1": "[UNVERIFIED — paraphrase from brief; byte-exact NGSS text not retrievable]" },
+              "flags": ["BAND_STRETCH: 3-LS3-1 below-band consolidation anchor."],
+              "prerequisites": ["2.B.2"], "observableCheck": "Each student traces one trait from parents to offspring correctly across a single generation.", "buildsOn": ["2.B.2"],
+              "guide": "[Confirm]", "rosenshineTag": "small steps",
+              "challengeConnection": "Feeds Pin 2 by teaching inheritance; consumed by session 2.B.4 and by the selective-breeding work in 2.D.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will expect offspring to be an exact blend of both parents rather than inheriting discrete traits."],
+              "artifact": "The student produces a one-generation inheritance trace for a chosen dog trait.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["2.B.CI3"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "2.B.4", "yearWeek": 3, "day": "Wed", "slot": 2, "startTime": "10:30 AM", "duration": 40,
+              "title": "Punnett squares: predict the puppies",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 3, "minPerCycle": 8, "checkMin": 5, "debriefMin": 6, "justification": null },
+              "block": "Production", "cohort": "juniors",
+              "lessonObjective": "Students will be able to use a Punnett square to predict possible offspring traits for one dog cross.",
+              "description": "Students build Punnett squares for a dog cross and read off the possible puppy traits, turning the inheritance idea into a prediction tool. The cognitive work is applying a procedure to predict outcomes, mapped practice (Bloom: Apply; DOK 2). The artifact is a completed Punnett square with the predicted trait ratios stated. It interleaves practice after the inheritance teach and closes the heredity sub-unit, and it honors the Junior satisfaction in a precise, rule-based grid they can complete and check.",
+              "cogLoadTag": "medium",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["3-LS3-1"],
+              "standardsVerbatim": { "3-LS3-1": "[UNVERIFIED — paraphrase from brief; byte-exact NGSS text not retrievable]" },
+              "flags": ["BAND_STRETCH: Punnett-square single-gene modeling is typically a middle-school move; for a 5/6 cohort anchored at 3-LS3-1 this is a reach-up, flagged for grade-5 scaffolding.", "UNVERIFIED_CONTENT_CLAIM: single-gene Punnett examples for dog traits oversimplify polygenic reality; confirm chosen examples are defensible single-gene cases."],
+              "prerequisites": ["2.B.3"], "observableCheck": "Each student completes one Punnett square correctly and states the predicted trait ratio.", "buildsOn": ["2.B.3"],
+              "guide": "[Confirm]", "rosenshineTag": "guided practice",
+              "challengeConnection": "Feeds Pin 2 by making inheritance predictive; consumed by the polygenic work in session 2.E.1, which contrasts single-gene with many-gene traits.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will read a Punnett square as a guarantee of outcomes rather than a set of possibilities."],
+              "artifact": "The student completes a Punnett square for one dog cross and states the predicted trait ratio.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["2.B.CI4"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "2.B.5", "yearWeek": 3, "day": "Thu", "slot": 1, "startTime": "9:45 AM", "duration": 35,
+              "title": "Variation within a litter",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 2, "minPerCycle": 10, "checkMin": 5, "debriefMin": 5, "justification": null },
+              "block": "Teach", "cohort": "juniors",
+              "lessonObjective": "Students will be able to identify variation within a litter of the same species and explain why offspring differ.",
+              "description": "Students learn that puppies in one litter vary even with the same parents, the variation half of the heredity standard that the later selection work depends on. The cognitive work is understanding within-group variation through a litter example, a heavy concept move (Bloom: Understand; DOK 2). The artifact is a labeled litter image marking observed variation. It sits at the close of the heredity sub-unit because selection in Act 2's later sub-units acts on this variation, and it honors the Junior pull toward noticing fine differences among similar things.",
+              "cogLoadTag": "heavy",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["3-LS3-1"],
+              "standardsVerbatim": { "3-LS3-1": "[UNVERIFIED — paraphrase from brief; byte-exact NGSS text not retrievable]" },
+              "flags": ["BAND_STRETCH: 3-LS3-1 below-band consolidation anchor."],
+              "prerequisites": ["2.B.4"], "observableCheck": "Each student marks at least three points of variation in a single-litter image.", "buildsOn": ["2.B.4"],
+              "guide": "[Confirm]", "rosenshineTag": "check for understanding",
+              "challengeConnection": "Feeds Pin 2 by teaching variation; consumed by session 2.C.1, where natural selection acts on variation.",
+              "developmentalNote": "Brief notes variation (L4) and Punnett (L5) run the same day; here variation anchors the day after the Punnett practice to keep one concept per session.", "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will attribute litter differences only to age or environment, missing inherited variation."],
+              "artifact": "The student labels a single-litter image marking three points of inherited variation.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["2.B.CI4"],
+              "juniorsOverride": null, "seniorsOverride": null
+            }
+          ]
+        },
+        {
+          "id": "2.C", "objective": "Students learn what natural selection is and how domestication changed wolves into early dogs over generations.", "observableMilestone": "Each student writes an explanation of how domestication changed wolves, naming the trait that was selected and why.",
+          "tier": "Enduring", "campaignLean": "heavy",
+          "campaignLeanJustification": "This sub-unit feeds the Pin 2 explanation by supplying the domestication mechanism that opens the wolf-to-dog story; the content that crosses forward is how selection on a trait like tameness changed wolves.",
+          "targetDok": 3,
+          "targetDokRationale": "Students construct an explanation of how domestication changed wolves by reasoning from selection on inherited variation, a non-routine explanation rather than a recalled definition.",
+          "hourTotal": { "value": 1.6, "rangeLow": 1.4, "rangeHigh": 1.8 },
+          "sessionTarget": { "perCohortMin": 2, "perCohortMax": 3, "totalMin": 2, "totalMax": 3, "rationale": "A hook plus a first-teach of natural selection plus a short domestication-explanation production; first-teach of MS-LS4-4 for a single cohort." },
+          "phase": "Preparation", "track": "5-6", "grades": ["G5", "G6"],
+          "standards": ["MS-LS4-4"], "hostsFluencyGate": false, "locked": false,
+          "timeBudget": { "allocatedMinutes": 100 },
+          "standardsRole": { "firstTeaches": ["MS-LS4-4"], "retrieves": [], "applies": ["3-LS3-1"] },
+          "juniorsOverride": null, "seniorsOverride": null,
+          "coldRetrievalSet": [
+            { "day": "Fri", "yearWeek": 3, "cohort": "juniors", "questions": [
+              { "prompt": "What is variation within a species?", "expectedAnswer": "Members differ from each other" },
+              { "prompt": "What does it mean to select a trait?", "expectedAnswer": "Choose animals with that trait to breed" },
+              { "prompt": "What is domestication?", "expectedAnswer": "Taming and breeding wild animals over generations" }
+            ] }
+          ],
+          "contentInventory": [
+            { "id": "2.C.CI1", "type": "experience", "item": "Hook: the silver fox experiment (told aloud)", "hours": 0.4, "loadTier": "low", "standards": [], "enduringConceptRef": "EC2", "notes": "Guide read-aloud per the brief; domestication visible in real time." },
+            { "id": "2.C.CI2", "type": "concept", "item": "Natural selection and domestication", "hours": 1.2, "loadTier": "high", "standards": ["MS-LS4-4"], "enduringConceptRef": "EC2", "notes": null }
+          ],
+          "sessions": [
+            {
+              "id": "2.C.0", "yearWeek": 3, "day": "Fri", "slot": 1, "startTime": "9:45 AM", "duration": 25,
+              "title": "Silver fox experiment",
+              "durationRecipe": { "setupMin": 0, "cycleCount": 2, "minPerCycle": 9, "checkMin": 4, "debriefMin": 3, "justification": null },
+              "block": "Hook", "cohort": "juniors",
+              "lessonObjective": "Students will be able to state how breeding foxes for tameness alone produced doglike traits, raising the question of how selection works.",
+              "description": "The Guide tells the story of the decades-long Siberian experiment that bred wild foxes for tameness alone and accidentally produced floppy ears, wagging tails, and spotted coats, making domestication visible in real time. The cognitive work is recognizing a startling pattern that demands explanation, with no resolution offered (Bloom: Understand; DOK 1). The artifact is each student's one-line wondering about why selecting for tameness changed the foxes' looks. It opens the domestication sub-unit because the puzzle motivates the natural-selection teach that follows, and it honors the Junior love of a big, true, almost unbelievable story.",
+              "cogLoadTag": "light",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": [],
+              "standardsVerbatim": {},
+              "flags": ["UNVERIFIED_CONTENT_CLAIM: the silver fox experiment details (decades-long Siberian study, breeding for tameness producing floppy ears and spotted coats) are recounted from general knowledge and the brief; confirm specifics against the source text 'How to Tame a Fox' before telling, per the brief's note that the book has not yet been read."],
+              "prerequisites": ["2.B.5"], "observableCheck": "Each student writes one sentence wondering why selecting for tameness changed the foxes' appearance.", "buildsOn": ["2.B.5"],
+              "guide": "[Confirm]", "rosenshineTag": null,
+              "challengeConnection": "Feeds Pin 2 by motivating selection; the wondering is consumed by session 2.C.1, the natural-selection teach.",
+              "developmentalNote": "Tell it as a story, not an assignment, per the brief.", "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will assume the foxes chose to change rather than that breeders selected which foxes reproduced."],
+              "artifact": "The student writes a one-line wondering about why breeding foxes for tameness changed their appearance.",
+              "movementBreak": false, "locked": false, "inventoryRefs": ["2.C.CI1"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "2.C.1", "yearWeek": 3, "day": "Fri", "slot": 2, "startTime": "10:20 AM", "duration": 35,
+              "title": "Natural selection and domestication",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 2, "minPerCycle": 10, "checkMin": 5, "debriefMin": 5, "justification": null },
+              "block": "Teach", "cohort": "juniors",
+              "lessonObjective": "Students will be able to explain how selecting a trait over generations changed wolves into early dogs.",
+              "description": "Students learn how selection on inherited variation, whether by nature or by humans choosing the tamest wolves, changed wolves into early dogs over many generations. The cognitive work is understanding the selection mechanism and connecting it to the fox story, a heavy concept move (Bloom: Understand to Analyze; DOK 2-3). The artifact is a written explanation of one trait selected during domestication and why. It follows the hook so the puzzle has an answer, and it honors the eleven-year-old's readiness to grasp a powerful idea about how living things change.",
+              "cogLoadTag": "heavy",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["MS-LS4-4"],
+              "standardsVerbatim": { "MS-LS4-4": "[UNVERIFIED — paraphrase from brief: construct an explanation based on evidence that describes how genetic variations of traits in a population increase some individuals' probability of surviving and reproducing in a specific environment; byte-exact NGSS text not retrievable]" },
+              "flags": ["BAND_STRETCH: MS-LS4-4 is a middle-school NGSS PE taught to a 5/6 cohort, a genuine reach-up the brief flags; plan grade-5 scaffolds.", "UNVERIFIED_CONTENT_CLAIM: the wolf-to-dog domestication account is taught from general knowledge; confirm the cohort-appropriate version against a vetted source."],
+              "prerequisites": ["2.C.0"], "observableCheck": "Each student writes a correct explanation of one trait selected during domestication and the reason it spread.", "buildsOn": ["2.C.0"],
+              "guide": "[Confirm]", "rosenshineTag": "modeling",
+              "challengeConnection": "Feeds Pin 2 by teaching selection; consumed by the selective-breeding sub-unit 2.D and the polygenic sub-unit 2.E.",
+              "developmentalNote": "This is the Act 2 domestication evidence in seed form; students expand it in 2.F.", "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will describe individual wolves changing within their lifetimes rather than the population changing across generations."],
+              "artifact": "The student writes an explanation of one trait selected during domestication and why it became more common.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["2.C.CI2"],
+              "juniorsOverride": null, "seniorsOverride": null
+            }
+          ]
+        },
+        {
+          "id": "2.D", "objective": "Students learn that humans bred dogs for jobs by selecting traits, using the border collie reading to tie a breed trait to its original work.", "observableMilestone": "Each student ties one named breed's trait to the job it was bred for, with evidence from research.",
+          "tier": "Enduring", "campaignLean": "heavy",
+          "campaignLeanJustification": "This sub-unit feeds the Pin 2 explanation and the campaign's core reframe by establishing that a breed's behavior was bred for a job; the content that crosses forward is the trait-to-job link the profile cards later use to explain a big dog's behavior.",
+          "targetDok": 3,
+          "targetDokRationale": "Students argue from the border collie reading and breed research that a named trait was bred for a specific job, a non-routine evidence-based explanation.",
+          "hourTotal": { "value": 1.4, "rangeLow": 1.2, "rangeHigh": 1.6 },
+          "sessionTarget": { "perCohortMin": 2, "perCohortMax": 3, "totalMin": 2, "totalMax": 3, "rationale": "First-teach of selective breeding plus a research-and-summarize production using the border collie reading; two sessions for a single cohort." },
+          "phase": "Exploration", "track": "5-6", "grades": ["G5", "G6"],
+          "standards": ["MS-LS4-5"], "hostsFluencyGate": false, "locked": false,
+          "timeBudget": { "allocatedMinutes": 80 },
+          "standardsRole": { "firstTeaches": ["MS-LS4-5"], "retrieves": [], "applies": ["MS-LS4-4"] },
+          "juniorsOverride": null, "seniorsOverride": null,
+          "coldRetrievalSet": [
+            { "day": "Mon", "yearWeek": 4, "cohort": "juniors", "questions": [
+              { "prompt": "What is selective breeding?", "expectedAnswer": "Humans choosing which animals reproduce for a trait" },
+              { "prompt": "What job were border collies bred to do?", "expectedAnswer": "Herding" },
+              { "prompt": "How is selective breeding different from natural selection?", "expectedAnswer": "Humans, not nature, choose the trait" }
+            ] }
+          ],
+          "contentInventory": [
+            { "id": "2.D.CI1", "type": "concept", "item": "Selective breeding for a job (border collie reading)", "hours": 0.8, "loadTier": "high", "standards": ["MS-LS4-5"], "enduringConceptRef": "EC2", "notes": "Assigned border collie reading per the brief." },
+            { "id": "2.D.CI2", "type": "application", "item": "Research a breed's traits and tie them to a job", "hours": 0.6, "loadTier": "medium", "standards": ["MS-LS4-5"], "enduringConceptRef": "EC2", "notes": null }
+          ],
+          "sessions": [
+            {
+              "id": "2.D.1", "yearWeek": 4, "day": "Mon", "slot": 1, "startTime": "9:45 AM", "duration": 40,
+              "title": "Selective breeding: bred for a job",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 3, "minPerCycle": 8, "checkMin": 6, "debriefMin": 5, "justification": null },
+              "block": "Teach", "cohort": "juniors",
+              "lessonObjective": "Students will be able to explain how humans bred dogs for jobs by selecting traits, using the border collie's herding drive as the example.",
+              "description": "Students read and discuss the border collie profile and learn that the herding drive is a toned-down hunting instinct humans bred for a job, the clearest case of trait-meets-purpose. The cognitive work is understanding selective breeding and analyzing the reading for the trait-to-job link, a heavy move (Bloom: Understand to Analyze; DOK 2-3). The artifact is a marked-up reading naming the bred trait and the job it serves. It sits after natural selection because human selection is the special case students now apply, and it honors the eleven-year-old's engagement with a vivid, real working animal.",
+              "cogLoadTag": "heavy",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["MS-LS4-5"],
+              "standardsVerbatim": { "MS-LS4-5": "[UNVERIFIED — quoted in brief as: technologies that have changed the way humans influence the inheritance of desired traits; flagged not byte-verified against the full NGSS PE text]" },
+              "flags": ["BAND_STRETCH: MS-LS4-5 middle-school NGSS PE taught to a 5/6 cohort, a reach-up per the brief.", "UNVERIFIED_CONTENT_CLAIM: the claim that the border collie herding drive is a toned-down hunting instinct is drawn from the brief's framing of the assigned reading; confirm against the actual Newsweek border-collie article."],
+              "prerequisites": ["2.C.1"], "observableCheck": "Each student marks the border collie reading to name the bred trait and the job it serves.", "buildsOn": ["2.C.1"],
+              "guide": "[Confirm]", "rosenshineTag": "guided practice",
+              "challengeConnection": "Feeds Pin 2 by teaching selective breeding; consumed by session 2.D.2 and by the profile-card behavior explanations in Act 5.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will say a breed 'just knows' its job rather than that the behavior was bred over generations."],
+              "artifact": "The student marks the border collie reading to identify the bred trait and the job it was selected for.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["2.D.CI1"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "2.D.2", "yearWeek": 4, "day": "Mon", "slot": 2, "startTime": "10:35 AM", "duration": 40,
+              "title": "Breed research: trait meets job",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 3, "minPerCycle": 8, "checkMin": 5, "debriefMin": 6, "justification": null },
+              "block": "Production", "cohort": "juniors",
+              "lessonObjective": "Students will be able to research one breed's traits and summarize how each trait connects to the job it was bred for.",
+              "description": "Students research a chosen breed and summarize how its physical and behavioral traits connect to the job it was bred to do, applying the selective-breeding idea to a new case. The cognitive work is researching and synthesizing the trait-to-job link, mapped applied reasoning (Bloom: Apply to Analyze; DOK 2-3). The artifact is a short breed research summary tying traits to a job. It follows the selective-breeding teach to interleave applied work, and it honors the Junior strength in organizing and presenting findings about a concrete subject.",
+              "cogLoadTag": "medium",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["MS-LS4-5"],
+              "standardsVerbatim": { "MS-LS4-5": "[UNVERIFIED — quoted in brief; not byte-verified against full NGSS PE text]" },
+              "flags": ["UNVERIFIED_CONTENT_CLAIM: students' breed-trait-to-job claims depend on outside research sources; quality and accuracy vary, so the session must include a source-check move."],
+              "prerequisites": ["2.D.1"], "observableCheck": "Each student's summary names at least two breed traits and the job each connects to.", "buildsOn": ["2.D.1"],
+              "guide": "[Confirm]", "rosenshineTag": "independent practice",
+              "challengeConnection": "Feeds Pin 2 by producing breed research; consumed by session 2.F.1, the role-specialization synthesis.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will list breed traits without connecting any of them to a function or job."],
+              "artifact": "The student writes a breed research summary tying at least two traits to the job they were bred for.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["2.D.CI2"],
+              "juniorsOverride": null, "seniorsOverride": null
+            }
+          ]
+        },
+        {
+          "id": "2.E", "objective": "Students learn that many traits like size and temperament come from many genes (polygenic) and model how such a trait becomes more common across generations.", "observableMilestone": "Each student models how a polygenic trait such as size becomes more common across several generations of breeding.",
+          "tier": "Enduring", "campaignLean": "medium",
+          "campaignLeanJustification": "This sub-unit feeds the Pin 2 explanation by accounting for why size and temperament, the very traits the campaign reframes, are polygenic; the content that crosses forward is that a big dog's size and behavior were bred gradually, not switched on.",
+          "targetDok": 3,
+          "targetDokRationale": "Students model a polygenic trait becoming more common over generations, reasoning about gradual change across a population, a non-routine modeling task.",
+          "hourTotal": { "value": 1.4, "rangeLow": 1.2, "rangeHigh": 1.6 },
+          "sessionTarget": { "perCohortMin": 2, "perCohortMax": 3, "totalMin": 2, "totalMax": 3, "rationale": "First-teach of polygenic inheritance plus a modeling production of a trait spreading; two sessions for a single cohort, with the single-gene Punnett substrate already taught in 2.B." },
+          "phase": "Exploration", "track": "5-6", "grades": ["G5", "G6"],
+          "standards": ["MS-LS4-6"], "hostsFluencyGate": false, "locked": false,
+          "timeBudget": { "allocatedMinutes": 75 },
+          "standardsRole": { "firstTeaches": ["MS-LS4-6"], "retrieves": [], "applies": ["MS-LS4-5", "3-LS3-1"] },
+          "juniorsOverride": null, "seniorsOverride": null,
+          "coldRetrievalSet": [
+            { "day": "Wed", "yearWeek": 4, "cohort": "juniors", "questions": [
+              { "prompt": "What does polygenic mean?", "expectedAnswer": "A trait controlled by many genes" },
+              { "prompt": "Name a dog trait that comes from many genes.", "expectedAnswer": "Size, weight, or behavior" },
+              { "prompt": "How does a selected trait become more common over time?", "expectedAnswer": "Animals with it reproduce more across generations" }
+            ] }
+          ],
+          "contentInventory": [
+            { "id": "2.E.CI1", "type": "concept", "item": "Polygenic inheritance; adaptation over time", "hours": 0.8, "loadTier": "high", "standards": ["MS-LS4-6"], "enduringConceptRef": "EC2", "notes": "Brief flags this as a good vocabulary and morphology opportunity." },
+            { "id": "2.E.CI2", "type": "application", "item": "Model a polygenic trait becoming more common (size, weight, behavior)", "hours": 0.6, "loadTier": "medium", "standards": ["MS-LS4-6", "MS-LS4-5"], "enduringConceptRef": "EC2", "notes": null }
+          ],
+          "sessions": [
+            {
+              "id": "2.E.1", "yearWeek": 4, "day": "Wed", "slot": 1, "startTime": "9:45 AM", "duration": 35,
+              "title": "Polygenic traits: many genes, one size",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 2, "minPerCycle": 10, "checkMin": 5, "debriefMin": 5, "justification": null },
+              "block": "Teach", "cohort": "juniors",
+              "lessonObjective": "Students will be able to explain that traits like size and temperament come from many genes, not one, and so vary on a smooth range.",
+              "description": "Students learn that size, weight, and temperament are polygenic, set by many genes acting together, which is why they vary on a range rather than in two clean categories. The cognitive work is understanding polygenic inheritance by contrasting it with the single-gene Punnett work, a heavy concept move (Bloom: Understand to Analyze; DOK 2-3). The artifact is a labeled comparison of a single-gene trait and a polygenic trait. It sits here because the campaign's central traits (size, behavior) are polygenic and the explanation must say so, and it honors the Junior appetite for new precise vocabulary like polygenic and morphology.",
+              "cogLoadTag": "heavy",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["MS-LS4-6"],
+              "standardsVerbatim": { "MS-LS4-6": "[UNVERIFIED — paraphrase from brief: use mathematical representations to support explanations of how natural selection may lead to increases and decreases of specific traits in populations over time; byte-exact NGSS text not retrievable]" },
+              "flags": ["BAND_STRETCH: MS-LS4-6 middle-school NGSS PE taught to a 5/6 cohort, a reach-up per the brief.", "UNVERIFIED_CONTENT_CLAIM: the polygenic basis of dog size and temperament is taught from general knowledge; confirm the cohort-appropriate explanation against a vetted source."],
+              "prerequisites": ["2.B.4"], "observableCheck": "Each student correctly contrasts one single-gene trait with one polygenic trait on a smooth-versus-categorical range.", "buildsOn": ["2.B.4", "2.D.1"],
+              "guide": "[Confirm]", "rosenshineTag": "small steps",
+              "challengeConnection": "Feeds Pin 2 by explaining polygenic traits; consumed by session 2.E.2, the trait-spreading model, and by the Act 5 behavior explanations.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will expect size to follow a one-gene dominant-recessive pattern like the Punnett examples."],
+              "artifact": "The student produces a labeled comparison of a single-gene trait and a polygenic trait.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["2.E.CI1"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "2.E.2", "yearWeek": 4, "day": "Wed", "slot": 2, "startTime": "10:30 AM", "duration": 40,
+              "title": "Trait spread: model the generations",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 3, "minPerCycle": 8, "checkMin": 5, "debriefMin": 6, "justification": null },
+              "block": "Production", "cohort": "juniors",
+              "lessonObjective": "Students will be able to model how a polygenic trait such as size becomes more common across several generations of selective breeding.",
+              "description": "Students build a simple multi-generation model showing how breeders selecting larger dogs each generation push the average size up over time, making the abstract idea visible. The cognitive work is modeling gradual change across generations, strategic reasoning that students must structure (Bloom: Apply to Analyze; DOK 3). The artifact is a generation-by-generation model of a trait becoming more common. It follows the polygenic teach so the new idea is immediately applied, and it honors the Junior love of building a concrete model with working parts.",
+              "cogLoadTag": "medium",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["MS-LS4-6", "MS-LS4-5"],
+              "standardsVerbatim": { "MS-LS4-6": "[UNVERIFIED — paraphrase from brief; byte-exact NGSS text not retrievable]", "MS-LS4-5": "[UNVERIFIED — quoted in brief; not byte-verified]" },
+              "flags": ["BAND_STRETCH: MS-LS4-6 modeling at DOK 3 for a 5/6 cohort; provide a structured model template for grade-5 students."],
+              "prerequisites": ["2.E.1"], "observableCheck": "Each student's model correctly shows the selected trait's average shifting across at least three generations.", "buildsOn": ["2.E.1"],
+              "guide": "[Confirm]", "rosenshineTag": "independent practice",
+              "challengeConnection": "Feeds Pin 2 by modeling trait spread; consumed by session 2.F.2, the Act 2 explanation synthesis.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will model size jumping in one generation rather than shifting gradually across many."],
+              "artifact": "The student builds a generation-by-generation model of a polygenic trait becoming more common under selection.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["2.E.CI2"],
+              "juniorsOverride": null, "seniorsOverride": null
+            }
+          ]
+        },
+        {
+          "id": "2.F", "objective": "Students research dog breed roles and connect appearance and behavior traits to those roles, then build the Act 2 explanation of the journey from wolf to dog.", "observableMilestone": "Each student contributes a researched trait-to-role link to the cohort's wolf-to-dog explanation built from images and datasets.",
+          "tier": "Enduring", "campaignLean": "heavy",
+          "campaignLeanJustification": "This sub-unit is the Pin 2 deliverable: the wolf-to-dog explanation that the campaign's later behavior claims rest on; the content that crosses forward is the documented link from a breed's traits to its role.",
+          "targetDok": 3,
+          "targetDokRationale": "Students synthesize inheritance, selection, and breed research into an explanation tying traits to roles in the wolf-to-dog journey, a non-routine synthesis across the act's sessions.",
+          "hourTotal": { "value": 2.0, "rangeLow": 1.8, "rangeHigh": 2.3 },
+          "sessionTarget": { "perCohortMin": 3, "perCohortMax": 4, "totalMin": 3, "totalMax": 4, "rationale": "Research roles, connect traits to roles, and build the images-and-datasets explanation; a synthesis sub-unit applying already-taught standards, three sessions for a single cohort." },
+          "phase": "Exploration", "track": "5-6", "grades": ["G5", "G6"],
+          "standards": ["MS-LS4-5", "MS-LS4-6"], "hostsFluencyGate": false, "locked": false,
+          "timeBudget": { "allocatedMinutes": 150 },
+          "standardsRole": { "firstTeaches": [], "retrieves": [], "applies": ["MS-LS4-5", "MS-LS4-6"] },
+          "juniorsOverride": null, "seniorsOverride": null,
+          "coldRetrievalSet": [
+            { "day": "Thu", "yearWeek": 4, "cohort": "juniors", "questions": [
+              { "prompt": "Name one breed and the role it was bred for.", "expectedAnswer": "Student's breed and role" },
+              { "prompt": "How does behavior get bred, not just appearance?", "expectedAnswer": "Behavior traits are inherited and selected too" },
+              { "prompt": "What is the Act 2 explanation supposed to show?", "expectedAnswer": "How wolves became today's breeds" }
+            ] }
+          ],
+          "contentInventory": [
+            { "id": "2.F.CI1", "type": "application", "item": "Research roles of specific breeds", "hours": 0.7, "loadTier": "medium", "standards": ["MS-LS4-5"], "enduringConceptRef": "EC2", "notes": null },
+            { "id": "2.F.CI2", "type": "application", "item": "Connect appearance and behavior traits to bred roles", "hours": 0.6, "loadTier": "medium", "standards": ["MS-LS4-5", "MS-LS4-6"], "enduringConceptRef": "EC2", "notes": null },
+            { "id": "2.F.CI3", "type": "deliverable", "item": "Wolf-to-dog explanation built from images and datasets (Act 2 evidence)", "hours": 0.7, "loadTier": "high", "standards": ["MS-LS4-5", "MS-LS4-6"], "enduringConceptRef": "EC2", "notes": "Brief deliverable: present the journey from wolf to dog using only images and datasets." }
+          ],
+          "sessions": [
+            {
+              "id": "2.F.1", "yearWeek": 4, "day": "Thu", "slot": 1, "startTime": "9:45 AM", "duration": 40,
+              "title": "Breed roles: research the specialists",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 3, "minPerCycle": 8, "checkMin": 5, "debriefMin": 6, "justification": null },
+              "block": "Production", "cohort": "juniors",
+              "lessonObjective": "Students will be able to research the roles of specific dog breeds and record what each was bred to do.",
+              "description": "Students research a set of specialist breeds and record the role each was bred for, gathering the cases the cohort explanation will draw on. The cognitive work is researching and organizing role evidence, mapped applied reasoning (Bloom: Apply; DOK 2). The artifact is a breed-role research card per student. It sits here to feed the trait-to-role synthesis that follows, and it honors the Junior strength in classification and collecting organized facts about real animals.",
+              "cogLoadTag": "medium",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["MS-LS4-5"],
+              "standardsVerbatim": { "MS-LS4-5": "[UNVERIFIED — quoted in brief; not byte-verified]" },
+              "flags": ["UNVERIFIED_CONTENT_CLAIM: breed-role claims depend on student research sources; include a source-credibility check."],
+              "prerequisites": ["2.E.2"], "observableCheck": "Each student's research card names the breed, its role, and one trait that fits the role.", "buildsOn": ["2.D.2"],
+              "guide": "[Confirm]", "rosenshineTag": "independent practice",
+              "challengeConnection": "Feeds Pin 2 by collecting role evidence; consumed by session 2.F.2, the trait-to-role connection.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will record a breed's modern popularity instead of the job it was originally bred for."],
+              "artifact": "The student completes a breed-role research card naming the breed, its bred role, and a fitting trait.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["2.F.CI1"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "2.F.2", "yearWeek": 4, "day": "Thu", "slot": 2, "startTime": "10:35 AM", "duration": 40,
+              "title": "Trait-to-role: connect appearance and behavior",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 3, "minPerCycle": 8, "checkMin": 5, "debriefMin": 6, "justification": null },
+              "block": "Production", "cohort": "juniors",
+              "lessonObjective": "Students will be able to connect a breed's appearance and behavior traits to the role it was bred for and revise their week-three starting explanation.",
+              "description": "Students link each breed's appearance and behavior traits to its bred role and use the link to revise the species-versus-breed explanation they wrote at the start of Act 2. The cognitive work is synthesizing inheritance and selection into a trait-to-role argument and revising a prior model, strategic reasoning (Bloom: Analyze to Evaluate; DOK 3). The artifact is a revised explanation connecting traits to roles. It sits here as the synthesis before the final build, and it honors the eleven-year-old's growth in revising an idea once the evidence is in, framed as a skill rather than a correction.",
+              "cogLoadTag": "medium",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["MS-LS4-5", "MS-LS4-6"],
+              "standardsVerbatim": { "MS-LS4-5": "[UNVERIFIED — quoted in brief; not byte-verified]", "MS-LS4-6": "[UNVERIFIED — paraphrase from brief; byte-exact not retrievable]" },
+              "flags": [],
+              "prerequisites": ["2.F.1", "2.A.1"], "observableCheck": "Each student's revised explanation connects at least two traits to a bred role and names what changed from the starting explanation.", "buildsOn": ["2.F.1"],
+              "guide": "[Confirm]", "rosenshineTag": "guided practice",
+              "challengeConnection": "Feeds Pin 2 by synthesizing the trait-to-role link; consumed by session 2.F.3, the explanation build, and revisited in Act 5 behavior cards.",
+              "developmentalNote": "Frame revision as leveling up the explanation, not fixing a wrong one, per the Yardsticks note on eleven-year-old resistance to revising prior work.", "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will connect appearance to role but leave behavior unexplained, missing that behavior was bred too."],
+              "artifact": "The student writes a revised wolf-to-breed explanation connecting traits to bred roles, naming what changed from the starting version.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["2.F.CI2"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "2.F.3", "yearWeek": 4, "day": "Fri", "slot": 1, "startTime": "9:45 AM", "duration": 70,
+              "title": "Wolf-to-dog explanation: images and data",
+              "durationRecipe": { "setupMin": 10, "cycleCount": 6, "minPerCycle": 8, "checkMin": 7, "debriefMin": 5, "justification": "The Act 2 deliverable build needs a longer block because students assemble a multi-part explanation using only images and datasets, working through six short build stages (wolf baseline, variation, selection, domestication, breeding for jobs, modern breeds), each requiring a chosen image or dataset and a caption before the next stage connects to it." },
+              "block": "Production", "cohort": "juniors",
+              "lessonObjective": "Students will be able to build their portion of an explanation of the journey from wolf to dog using only images and datasets, tying a named breed's traits to its role.",
+              "description": "Students build the Act 2 deliverable, an explanation of how domestication and selective breeding produced modern breeds, told entirely through images and datasets per the brief, with each student owning a named breed's trait-to-role segment. The cognitive work is constructing an evidence-only explanation across the act's concepts, sustained synthesis (Bloom: Create; DOK 3-4). The artifact is each student's images-and-data explanation segment, the Act 2 evidence. It closes the science act and is the Pin 2 demonstration, and it honors the twelve-year-old-adjacent appetite for a visible product built from real evidence.",
+              "cogLoadTag": "heavy",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["MS-LS4-5", "MS-LS4-6"],
+              "standardsVerbatim": { "MS-LS4-5": "[UNVERIFIED — quoted in brief; not byte-verified]", "MS-LS4-6": "[UNVERIFIED — paraphrase from brief; byte-exact not retrievable]" },
+              "flags": ["ARTIFACT_UNCERTAIN: an images-and-data explanation could be assembled by arranging visuals without the student performing the inheritance-and-selection reasoning the standards name; the auditor should check that each caption states the mechanism, not just labels the image."],
+              "prerequisites": ["2.F.2"], "observableCheck": "Each student's explanation segment ties a named breed's traits to its role using at least one image and one dataset with mechanism captions.", "buildsOn": ["2.F.2", "2.C.1", "2.E.2"],
+              "guide": "[Confirm]", "rosenshineTag": null,
+              "challengeConnection": "Is the Pin 2 deliverable; the explanation feeds the Act 3 observation framing (a dog's behavior is bred, so worth watching closely) and the Act 5 behavior cards.",
+              "developmentalNote": "Images-and-data-only constraint pushes students to show the mechanism rather than tell it; supply a caption frame that asks for the mechanism.", "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will arrange attractive images without captions that state the inheritance-and-selection mechanism, producing a gallery rather than an explanation."],
+              "artifact": "The student builds an images-and-datasets explanation segment tying a named breed's traits to its bred role across the wolf-to-dog journey.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["2.F.CI3"],
+              "juniorsOverride": null, "seniorsOverride": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,968 @@
+{
+  "meta": {
+    "source_inventory": "bigdogs_lesson_inventory_v2.json",
+    "builder": "build_bigdogs_v916_backfill.js",
+    "built_at": "2026-06-26",
+    "target_prompt_version": "v2.9.16",
+    "description": "v2.9.16 backfill sidecar for Big Dogs. Contains the declared standards manifest (challenge-level), per-session artifact authored from the lesson title and concept progression, and per-session standardsVerbatim looked up from the NJSLS database. Apply to a v2.9.16 scope via merge on lesson_ord."
+  },
+  "challenge": {
+    "title": "Why Big Dogs Get Passed Over",
+    "partner": "St. Hubert's Animal Welfare Center",
+    "cohort": "Cohort 5/6 (This is not for 7/8)",
+    "declaredStandardsManifest": [
+      "6.RP.A.2",
+      "6.RP.A.3",
+      "6.SP.B.4",
+      "6.SP.B.5",
+      "MS-LS3-2",
+      "MS-LS4-4",
+      "MS-LS4-5",
+      "MS-LS4-6",
+      "W.AW.6.1",
+      "W.NW.6.3",
+      "W.WR.6.5",
+      "W.WP.6.4",
+      "SL.PI.6.4"
+    ],
+    "declaredStandardsManifestStatus": "Manifest authored 2026-06-26 from bigdogs_texture_v9.md + source doc STANDARDS CHECK + boss-facing organized doc. Excludes 3-LS3-1 (GHOST: grade 3, replaced by MS-LS3-2). Excludes 5.DL.A.1 (data literacy code that the source dropped from Section 6). Includes W.SE.6.6 was considered but DEMOTED — the audit STRETCH on L35-L38 (survey responses are not multi-source print/digital evidence) means W.SE.6.6 is not centered, only incidentally used. RI.AA.6.7 and SL.PE.6.1 also considered but DEMOTED — both audit-flagged as STRETCH on the writing-side and solo-write lessons; better treated as retrieve roles in the year coverage map. 13 codes total."
+  },
+  "sessions_backfill": [
+    {
+      "lesson_ord": 1,
+      "concept_day_ord": 1,
+      "act": 1,
+      "sub": null,
+      "title_for_verification": "Meet the long-stay dog; write a first prediction",
+      "artifact": "The student writes one paragraph predicting whether the assigned long-stay dog at St. Hubert's has waited unusually long for a big dog, naming the specific behavior or trait that drives the prediction.",
+      "standards_for_verification": [
+        "SL.PE.6.1"
+      ],
+      "standardsVerbatim": {
+        "SL.PE.6.1": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 6 topics, texts, and issues, building on others’ ideas and expressing their own clearly."
+      }
+    },
+    {
+      "lesson_ord": 2,
+      "concept_day_ord": 2,
+      "act": 1,
+      "sub": "L1",
+      "title_for_verification": "Introducing the data - “How can we use this information?”",
+      "artifact": "The student extracts five rows from St. Hubert's intake dataset and writes a two-sentence summary of what the rows show, naming the dog count, the time window, and one pattern noticed.",
+      "standards_for_verification": [
+        "6.SP.B.4",
+        "5.DL.A.1"
+      ],
+      "standardsVerbatim": {
+        "6.SP.B.4": "Display numerical data in plots on a number line, including dot plots, histograms, and box plots.",
+        "5.DL.A.1": "Understand how different visualizations can highlight different aspects of data. Ask questions and interpret data visualizations to describe and analyze patterns."
+      }
+    },
+    {
+      "lesson_ord": 3,
+      "concept_day_ord": 2,
+      "act": 1,
+      "sub": "L2",
+      "title_for_verification": "Learn how to read graphs (bar, line, pie) - How to pull information from graphs - differentiate graphs by aptitude level",
+      "artifact": "The student identifies which of bar, line, and pie best fits St. Hubert's adoption-rate dataset and writes one sentence defending the choice based on the data type (categorical vs continuous).",
+      "standards_for_verification": [
+        "6.SP.B.4",
+        "5.DL.A.1"
+      ],
+      "standardsVerbatim": {
+        "6.SP.B.4": "Display numerical data in plots on a number line, including dot plots, histograms, and box plots.",
+        "5.DL.A.1": "Understand how different visualizations can highlight different aspects of data. Ask questions and interpret data visualizations to describe and analyze patterns."
+      }
+    },
+    {
+      "lesson_ord": 4,
+      "concept_day_ord": 2,
+      "act": 1,
+      "sub": "L3",
+      "title_for_verification": "Interpret graphs - drawing conclusions",
+      "artifact": "The student interprets one provided St. Hubert's adoption-rate bar graph and writes one sentence stating what the graph implies about big-dog adoption rates, distinguishing what is shown from what is inferred.",
+      "standards_for_verification": [
+        "6.SP.B.4",
+        "5.DL.A.1"
+      ],
+      "standardsVerbatim": {
+        "6.SP.B.4": "Display numerical data in plots on a number line, including dot plots, histograms, and box plots.",
+        "5.DL.A.1": "Understand how different visualizations can highlight different aspects of data. Ask questions and interpret data visualizations to describe and analyze patterns."
+      }
+    },
+    {
+      "lesson_ord": 5,
+      "concept_day_ord": 2,
+      "act": 1,
+      "sub": "L1",
+      "title_for_verification": "Introduce dataset for bar graph (ASPCA or St Huberts)",
+      "artifact": "The student builds a bar graph from one ASPCA or St. Hubert's dataset, labeling axes and selecting the bar grouping that makes the big-vs-small adoption comparison visible.",
+      "standards_for_verification": [
+        "6.SP.B.4",
+        "5.DL.A.1"
+      ],
+      "standardsVerbatim": {
+        "6.SP.B.4": "Display numerical data in plots on a number line, including dot plots, histograms, and box plots.",
+        "5.DL.A.1": "Understand how different visualizations can highlight different aspects of data. Ask questions and interpret data visualizations to describe and analyze patterns."
+      }
+    },
+    {
+      "lesson_ord": 6,
+      "concept_day_ord": 2,
+      "act": 1,
+      "sub": "L2",
+      "title_for_verification": "Introduce dataset for Pie Chart (ASPCA or St Huberts)",
+      "artifact": "The student builds a pie chart from one ASPCA or St. Hubert's dataset showing the proportion of adopted dogs by size bucket (small, medium, large, extra-large), labeling each wedge with its percentage.",
+      "standards_for_verification": [
+        "6.SP.B.4",
+        "5.DL.A.1"
+      ],
+      "standardsVerbatim": {
+        "6.SP.B.4": "Display numerical data in plots on a number line, including dot plots, histograms, and box plots.",
+        "5.DL.A.1": "Understand how different visualizations can highlight different aspects of data. Ask questions and interpret data visualizations to describe and analyze patterns."
+      }
+    },
+    {
+      "lesson_ord": 7,
+      "concept_day_ord": 2,
+      "act": 1,
+      "sub": "L3",
+      "title_for_verification": "Introduce dataset for Line graph (ASPCA or St Huberts)",
+      "artifact": "The student builds a line graph from one ASPCA or St. Hubert's dataset showing adoption-rate change over time for one size bucket, naming the time window on the x-axis and the rate scale on the y-axis.",
+      "standards_for_verification": [
+        "6.SP.B.4",
+        "5.DL.A.1"
+      ],
+      "standardsVerbatim": {
+        "6.SP.B.4": "Display numerical data in plots on a number line, including dot plots, histograms, and box plots.",
+        "5.DL.A.1": "Understand how different visualizations can highlight different aspects of data. Ask questions and interpret data visualizations to describe and analyze patterns."
+      }
+    },
+    {
+      "lesson_ord": 8,
+      "concept_day_ord": 3,
+      "act": 1,
+      "sub": "L1",
+      "title_for_verification": "Percentage vs number",
+      "artifact": "The student computes the adoption rate for big dogs and the adoption rate for small dogs from St. Hubert's intake table, expressing each as a percentage and as a ratio to one decimal place.",
+      "standards_for_verification": [
+        "6.RP.A.2"
+      ],
+      "standardsVerbatim": {
+        "6.RP.A.2": "Understand the concept of a unit rate *a*/*b* associated with a ratio *a*:*b* with *b* ≠0, and use rate language in the context of a ratio relationship. For example, \"This recipe has a ratio of 3 cups of flour to 4 cups of sugar, so there is ¾-cup of flour for each cup of sugar.\" \"We paid \\$75 for 15 hamburgers, which is a rate of \\$5 per hamburger.\" (Clarification: Expectations for unit rates in this grade are limited to non-complex fractions.)"
+      }
+    },
+    {
+      "lesson_ord": 9,
+      "concept_day_ord": 4,
+      "act": 1,
+      "sub": "L1",
+      "title_for_verification": "How the presentation of information can be misleading;what else are hidden factors",
+      "artifact": "The student reads two presentations of the same St. Hubert's intake data (raw counts vs adoption rates) and writes one sentence naming the hidden factor that flips which dog size 'looks worse.'",
+      "standards_for_verification": [
+        "6.RP.A.3"
+      ],
+      "standardsVerbatim": {
+        "6.RP.A.3": "Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations."
+      }
+    },
+    {
+      "lesson_ord": 10,
+      "concept_day_ord": 5,
+      "act": 1,
+      "sub": "L1",
+      "title_for_verification": "how to draw the conclusion",
+      "artifact": "The student writes the conclusion sentence of a data-backed claim about big-dog adoption rates at St. Hubert's, beginning 'The data shows...' and citing one rate computation as evidence.",
+      "standards_for_verification": [
+        "6.SP.B.5",
+        "W.AW.6.1"
+      ],
+      "standardsVerbatim": {
+        "6.SP.B.5": "Summarize numerical data sets in relation to their context, such as by:",
+        "W.AW.6.1": "Write arguments on discipline-specific content (e.g., social studies, science, math, technical subjects, English/Language Arts) to support claims with clear reasons and relevant evidence."
+      }
+    },
+    {
+      "lesson_ord": 11,
+      "concept_day_ord": 5,
+      "act": 1,
+      "sub": "L2",
+      "title_for_verification": "how to write up claim with evidence",
+      "artifact": "The student writes a two-sentence claim-with-evidence paragraph naming whether the adoption gap exists at St. Hubert's, supported by the specific rate computed on Day 3.",
+      "standards_for_verification": [
+        "6.SP.B.5",
+        "W.AW.6.1"
+      ],
+      "standardsVerbatim": {
+        "6.SP.B.5": "Summarize numerical data sets in relation to their context, such as by:",
+        "W.AW.6.1": "Write arguments on discipline-specific content (e.g., social studies, science, math, technical subjects, English/Language Arts) to support claims with clear reasons and relevant evidence."
+      }
+    },
+    {
+      "lesson_ord": 12,
+      "concept_day_ord": 6,
+      "act": 2,
+      "sub": "L1",
+      "title_for_verification": "species vs breeds",
+      "artifact": "The student writes one paragraph explaining how a chihuahua and a great dane are the same species despite their visible differences, naming one trait they share at the species level.",
+      "standards_for_verification": [
+        "SL.PE.6.1"
+      ],
+      "standardsVerbatim": {
+        "SL.PE.6.1": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 6 topics, texts, and issues, building on others’ ideas and expressing their own clearly."
+      }
+    },
+    {
+      "lesson_ord": 13,
+      "concept_day_ord": 7,
+      "act": 2,
+      "sub": "L1",
+      "title_for_verification": "Genes",
+      "artifact": "The student labels a diagram of a dog cell, identifying the chromosome, the gene, and one named allele pair the student can cite from the lesson (e.g., coat-color or ear-shape gene).",
+      "standards_for_verification": [
+        "3-LS3-1M",
+        "S-LS4-4"
+      ],
+      "standardsVerbatim": {
+        "3-LS3-1M": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]",
+        "S-LS4-4": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]"
+      }
+    },
+    {
+      "lesson_ord": 14,
+      "concept_day_ord": 7,
+      "act": 2,
+      "sub": "L2",
+      "title_for_verification": "Traits - Dominant vs Recessive",
+      "artifact": "The student completes one Punnett square for a single-gene trait (e.g., coat color) given one heterozygous and one homozygous parent, predicting the offspring ratio.",
+      "standards_for_verification": [
+        "3-LS3-1M",
+        "S-LS4-4"
+      ],
+      "standardsVerbatim": {
+        "3-LS3-1M": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]",
+        "S-LS4-4": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]"
+      }
+    },
+    {
+      "lesson_ord": 15,
+      "concept_day_ord": 7,
+      "act": 2,
+      "sub": "L3",
+      "title_for_verification": "Inheritance - how traits are passed down",
+      "artifact": "The student writes two sentences explaining how a recessive trait can skip a generation, using one specific dog breed example named in the lesson.",
+      "standards_for_verification": [
+        "3-LS3-1M",
+        "S-LS4-4"
+      ],
+      "standardsVerbatim": {
+        "3-LS3-1M": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]",
+        "S-LS4-4": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]"
+      }
+    },
+    {
+      "lesson_ord": 16,
+      "concept_day_ord": 7,
+      "act": 2,
+      "sub": "L4",
+      "title_for_verification": "Variation - How traits vary in the same species",
+      "artifact": "The student lists three variations of one trait (e.g., coat length, ear shape, tail carriage) observed across one breed group, and one sentence naming why the variation exists.",
+      "standards_for_verification": [
+        "3-LS3-1M",
+        "S-LS4-4"
+      ],
+      "standardsVerbatim": {
+        "3-LS3-1M": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]",
+        "S-LS4-4": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]"
+      }
+    },
+    {
+      "lesson_ord": 17,
+      "concept_day_ord": 7,
+      "act": 2,
+      "sub": "L5",
+      "title_for_verification": "Punnit Squares",
+      "artifact": "The student completes a Punnett square for a single-gene trait and uses the offspring ratio to predict what percentage of a 100-puppy litter would express the recessive trait.",
+      "standards_for_verification": [
+        "3-LS3-1M",
+        "S-LS4-4"
+      ],
+      "standardsVerbatim": {
+        "3-LS3-1M": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]",
+        "S-LS4-4": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]"
+      }
+    },
+    {
+      "lesson_ord": 18,
+      "concept_day_ord": 8,
+      "act": 2,
+      "sub": "L1",
+      "title_for_verification": "What is natural selection",
+      "artifact": "The student writes one paragraph explaining how natural selection acts on wild-wolf populations (the contrast case), naming one trait that increases survival in a named environment.",
+      "standards_for_verification": [
+        "S-LS4-4"
+      ],
+      "standardsVerbatim": {
+        "S-LS4-4": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]"
+      }
+    },
+    {
+      "lesson_ord": 19,
+      "concept_day_ord": 9,
+      "act": 2,
+      "sub": "L1",
+      "title_for_verification": "Read and discuss border collie reading",
+      "artifact": "The student writes one paragraph summarizing one observation from the border collie reading that ties a specific breed trait (low-stalk crouch, eye contact, herding circle) back to wolf hunting behavior.",
+      "standards_for_verification": [
+        "S-LS4-5"
+      ],
+      "standardsVerbatim": {
+        "S-LS4-5": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]"
+      }
+    },
+    {
+      "lesson_ord": 20,
+      "concept_day_ord": 9,
+      "act": 2,
+      "sub": "L2",
+      "title_for_verification": "Research specific breed traits and summarize findings",
+      "artifact": "The student writes a one-paragraph trait profile for one assigned breed, naming three traits and pairing each with the original job the breed was bred for.",
+      "standards_for_verification": [
+        "S-LS4-5"
+      ],
+      "standardsVerbatim": {
+        "S-LS4-5": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]"
+      }
+    },
+    {
+      "lesson_ord": 21,
+      "concept_day_ord": 10,
+      "act": 2,
+      "sub": "L1",
+      "title_for_verification": "Polygenic Inheritance",
+      "artifact": "The student writes two sentences distinguishing single-gene inheritance (Punnett square traits) from polygenic inheritance (size, weight, behavior) using one named example of each.",
+      "standards_for_verification": [
+        "S-LS4-6M",
+        "S-LS4-5"
+      ],
+      "standardsVerbatim": {
+        "S-LS4-6M": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]",
+        "S-LS4-5": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]"
+      }
+    },
+    {
+      "lesson_ord": 22,
+      "concept_day_ord": 10,
+      "act": 2,
+      "sub": "L2",
+      "title_for_verification": "Adaptation - how some traits increase survival over time",
+      "artifact": "The student writes one paragraph explaining how one named trait (e.g., wolf cold-tolerance, border collie herding drive) becomes more common across generations through differential survival or selective breeding.",
+      "standards_for_verification": [
+        "S-LS4-6M",
+        "S-LS4-5"
+      ],
+      "standardsVerbatim": {
+        "S-LS4-6M": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]",
+        "S-LS4-5": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]"
+      }
+    },
+    {
+      "lesson_ord": 23,
+      "concept_day_ord": 10,
+      "act": 2,
+      "sub": "L3",
+      "title_for_verification": "Breeding dogs for polygenic traits (size, weight, behavior)",
+      "artifact": "The student writes one paragraph explaining how the size of a Great Dane or the small frame of a Chihuahua emerged through generations of selective breeding, naming polygenic inheritance as the mechanism.",
+      "standards_for_verification": [
+        "S-LS4-6M",
+        "S-LS4-5"
+      ],
+      "standardsVerbatim": {
+        "S-LS4-6M": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]",
+        "S-LS4-5": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]"
+      }
+    },
+    {
+      "lesson_ord": 24,
+      "concept_day_ord": 11,
+      "act": 2,
+      "sub": "L1",
+      "title_for_verification": "Research the roles of specific breeds",
+      "artifact": "The student writes a one-paragraph profile for one assigned working breed (border collie, Newfoundland, livestock guardian) naming the original job and three traits selectively bred to support it.",
+      "standards_for_verification": [
+        "S-LS4-5",
+        "S-LS4-6"
+      ],
+      "standardsVerbatim": {
+        "S-LS4-5": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]",
+        "S-LS4-6": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]"
+      }
+    },
+    {
+      "lesson_ord": 25,
+      "concept_day_ord": 11,
+      "act": 2,
+      "sub": "L2",
+      "title_for_verification": "Connect the traits (appearance and behavior) that were bred for these roles",
+      "artifact": "The student writes one paragraph for the Act 2 evidence document explaining how domestication and selective breeding produced one named modern breed from wolf ancestors, citing one trait-to-role link.",
+      "standards_for_verification": [
+        "S-LS4-5",
+        "S-LS4-6"
+      ],
+      "standardsVerbatim": {
+        "S-LS4-5": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]",
+        "S-LS4-6": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]"
+      }
+    },
+    {
+      "lesson_ord": 26,
+      "concept_day_ord": 12,
+      "act": 3,
+      "sub": "L1",
+      "title_for_verification": "(picture of dog)Define assumption vs observation (activity -”What would someone assume about this dog? (video) What do we observe?”)",
+      "artifact": "The student writes the photo-assumption paragraph: from the photo alone, three specific predictions about the assigned dog's energy, temperament, and behavior — written before meeting the dog.",
+      "standards_for_verification": [
+        "SEP",
+        "SL.PE.6.1"
+      ],
+      "standardsVerbatim": {
+        "SEP": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]",
+        "SL.PE.6.1": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 6 topics, texts, and issues, building on others’ ideas and expressing their own clearly."
+      }
+    },
+    {
+      "lesson_ord": 27,
+      "concept_day_ord": 12,
+      "act": 3,
+      "sub": "L2",
+      "title_for_verification": "Forming a hypothesis based on animal traits and behavior: why do you think big dogs are adopted less frequently?",
+      "artifact": "The student writes one testable hypothesis sentence about why families pass over the assigned dog, formatted 'If X is true, then we would expect to see Y when the dog is observed.'",
+      "standards_for_verification": [
+        "SEP",
+        "SL.PE.6.1"
+      ],
+      "standardsVerbatim": {
+        "SEP": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]",
+        "SL.PE.6.1": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 6 topics, texts, and issues, building on others’ ideas and expressing their own clearly."
+      }
+    },
+    {
+      "lesson_ord": 28,
+      "concept_day_ord": 13,
+      "act": 3,
+      "sub": "L1",
+      "title_for_verification": "What makes a good observation? (Practices of good observation)",
+      "artifact": "The student writes one paragraph distinguishing what counts as observation (what the dog did) from what counts as inference (what it meant), giving one example of each from a watched video clip.",
+      "standards_for_verification": [
+        "SEP"
+      ],
+      "standardsVerbatim": {
+        "SEP": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]"
+      }
+    },
+    {
+      "lesson_ord": 29,
+      "concept_day_ord": 14,
+      "act": 3,
+      "sub": "L1",
+      "title_for_verification": "Observing animal behavior - What does it tell us? (ethology)",
+      "artifact": "The student writes one paragraph defining one behavior they would look for in the kennel visit (pacing, leaning, hiding, tail position) and naming what observation would count as evidence for it.",
+      "standards_for_verification": [
+        "SEP"
+      ],
+      "standardsVerbatim": {
+        "SEP": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]"
+      }
+    },
+    {
+      "lesson_ord": 30,
+      "concept_day_ord": 14,
+      "act": 3,
+      "sub": "L2",
+      "title_for_verification": "Designing observation experiments for our dogs (What behaviors are we looking for?)(must include appearance and energy level)",
+      "artifact": "The student writes an observation-experiment plan naming the assigned dog, three behaviors to log (must include appearance and energy level), and the duration of observation.",
+      "standards_for_verification": [
+        "SEP"
+      ],
+      "standardsVerbatim": {
+        "SEP": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]"
+      }
+    },
+    {
+      "lesson_ord": 31,
+      "concept_day_ord": 15,
+      "act": 3,
+      "sub": "L1",
+      "title_for_verification": "Identifying patterns in animal behavior - Identifying patterns in our observational logs (What did we notice?)",
+      "artifact": "The student records ten observation-log entries on the assigned dog during the kennel visit, each entry timestamped and separated into observed-vs-inferred columns.",
+      "standards_for_verification": [
+        "SEP"
+      ],
+      "standardsVerbatim": {
+        "SEP": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]"
+      }
+    },
+    {
+      "lesson_ord": 32,
+      "concept_day_ord": 15,
+      "act": 3,
+      "sub": "L2",
+      "title_for_verification": "Drawing inferences from the patterns; compare to initial assumptions",
+      "artifact": "The student writes one paragraph comparing the photo-assumption (from Day 12) to the observation-log entries, naming three places the assumption was wrong and one place it was right.",
+      "standards_for_verification": [
+        "SEP"
+      ],
+      "standardsVerbatim": {
+        "SEP": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]"
+      }
+    },
+    {
+      "lesson_ord": 33,
+      "concept_day_ord": 16,
+      "act": 4,
+      "sub": "L1",
+      "title_for_verification": "Introduce and Model how to create a testable hypothesis",
+      "artifact": "The student writes one testable hypothesis sentence about why families pass over big dogs, formatted 'If X is the reason, then we would expect Y in the survey results.'",
+      "standards_for_verification": [
+        "SEP"
+      ],
+      "standardsVerbatim": {
+        "SEP": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]"
+      }
+    },
+    {
+      "lesson_ord": 34,
+      "concept_day_ord": 16,
+      "act": 4,
+      "sub": "L2",
+      "title_for_verification": "What can we prove / test for - brainstorm reasons people might have that keep them from adopting big dogs (distinguish which ones are testable and which ones are not), then choose one and create the hypothesis together. (you do: students write their own for the challenge)",
+      "artifact": "The student writes a two-column list naming three testable beliefs (can be surveyed) and three untestable beliefs (cannot be surveyed), drawn from class brainstorm.",
+      "standards_for_verification": [
+        "SEP"
+      ],
+      "standardsVerbatim": {
+        "SEP": "[UNVERIFIED — code not in NJSLS database; check for typos or out-of-band PE]"
+      }
+    },
+    {
+      "lesson_ord": 35,
+      "concept_day_ord": 17,
+      "act": 4,
+      "sub": "L1",
+      "title_for_verification": "Why are surveys useful? Qualitative vs. Quantitative",
+      "artifact": "The student writes two example survey questions, one qualitative (open-ended) and one quantitative (Likert or yes/no), about big-dog adoption hesitation.",
+      "standards_for_verification": [
+        "W.WR.6.5"
+      ],
+      "standardsVerbatim": {
+        "W.WR.6.5": "Conduct short research projects to answer a question, drawing on several sources and refocusing the inquiry when appropriate."
+      }
+    },
+    {
+      "lesson_ord": 36,
+      "concept_day_ord": 17,
+      "act": 4,
+      "sub": "L2",
+      "title_for_verification": "(writing unbiased questions) How to write good survey questions (Best practices in surveying - avoid leading questions, avoid testing friends(must include cost, appearance, energy level)",
+      "artifact": "The student rewrites three leading survey questions into non-leading ones, demonstrating the technique on a checklist that must include cost, appearance, and energy level.",
+      "standards_for_verification": [
+        "W.WR.6.5"
+      ],
+      "standardsVerbatim": {
+        "W.WR.6.5": "Conduct short research projects to answer a question, drawing on several sources and refocusing the inquiry when appropriate."
+      }
+    },
+    {
+      "lesson_ord": 37,
+      "concept_day_ord": 17,
+      "act": 4,
+      "sub": "L3",
+      "title_for_verification": "Sampling and respondent pool: Who should complete the survey? How many people should complete it (survey sample) )",
+      "artifact": "The student writes a one-paragraph sampling plan naming who should complete the survey, how many respondents are needed, and one sentence on how respondents will be recruited.",
+      "standards_for_verification": [
+        "W.WR.6.5"
+      ],
+      "standardsVerbatim": {
+        "W.WR.6.5": "Conduct short research projects to answer a question, drawing on several sources and refocusing the inquiry when appropriate."
+      }
+    },
+    {
+      "lesson_ord": 38,
+      "concept_day_ord": 18,
+      "act": 4,
+      "sub": "L1",
+      "title_for_verification": "Cleaning data - (Strong response vs weak response)",
+      "artifact": "The student walks one batch of 20 survey responses and marks each as strong or weak response, naming the criterion they used (effort, specificity, completeness).",
+      "standards_for_verification": [
+        "W.SE.6.6",
+        "6.SP.B.5"
+      ],
+      "standardsVerbatim": {
+        "W.SE.6.6": "Gather relevant information from multiple print and digital sources; assess the credibility of each source; and quote or paraphrase the data and conclusions of others while avoiding plagiarism and providing basic bibliographic information for sources.",
+        "6.SP.B.5": "Summarize numerical data sets in relation to their context, such as by:"
+      }
+    },
+    {
+      "lesson_ord": 39,
+      "concept_day_ord": 18,
+      "act": 4,
+      "sub": "L2",
+      "title_for_verification": "Visualize data - dot plot",
+      "artifact": "The student draws a dot plot by hand for one named survey question using the cleaned responses, naming the scale and labeling the median.",
+      "standards_for_verification": [
+        "W.SE.6.6",
+        "6.SP.B.5"
+      ],
+      "standardsVerbatim": {
+        "W.SE.6.6": "Gather relevant information from multiple print and digital sources; assess the credibility of each source; and quote or paraphrase the data and conclusions of others while avoiding plagiarism and providing basic bibliographic information for sources.",
+        "6.SP.B.5": "Summarize numerical data sets in relation to their context, such as by:"
+      }
+    },
+    {
+      "lesson_ord": 40,
+      "concept_day_ord": 18,
+      "act": 4,
+      "sub": "L3",
+      "title_for_verification": "Charting data (charts - pie charts, line charts - quantitative)",
+      "artifact": "The student draws one pie chart and one line chart from the cleaned survey data by hand, naming the data type each chart fits.",
+      "standards_for_verification": [
+        "W.SE.6.6",
+        "6.SP.B.5"
+      ],
+      "standardsVerbatim": {
+        "W.SE.6.6": "Gather relevant information from multiple print and digital sources; assess the credibility of each source; and quote or paraphrase the data and conclusions of others while avoiding plagiarism and providing basic bibliographic information for sources.",
+        "6.SP.B.5": "Summarize numerical data sets in relation to their context, such as by:"
+      }
+    },
+    {
+      "lesson_ord": 41,
+      "concept_day_ord": 18,
+      "act": 4,
+      "sub": "L4",
+      "title_for_verification": "Creating charts using excel",
+      "artifact": "The student builds one Excel chart (bar, line, or pie) from the cleaned survey data, manually entering the data into a spreadsheet and selecting the chart type, then writing one sentence on what Excel handled and what the student decided.",
+      "standards_for_verification": [
+        "W.SE.6.6",
+        "6.SP.B.5"
+      ],
+      "standardsVerbatim": {
+        "W.SE.6.6": "Gather relevant information from multiple print and digital sources; assess the credibility of each source; and quote or paraphrase the data and conclusions of others while avoiding plagiarism and providing basic bibliographic information for sources.",
+        "6.SP.B.5": "Summarize numerical data sets in relation to their context, such as by:"
+      }
+    },
+    {
+      "lesson_ord": 42,
+      "concept_day_ord": 18,
+      "act": 4,
+      "sub": "L5",
+      "title_for_verification": "Identifying themes (patterns - qualitative)",
+      "artifact": "The student walks the open-response survey answers and codes them into three named themes (e.g., cost, space, fear), writing one sentence per theme summarizing the pattern.",
+      "standards_for_verification": [
+        "W.SE.6.6",
+        "6.SP.B.5"
+      ],
+      "standardsVerbatim": {
+        "W.SE.6.6": "Gather relevant information from multiple print and digital sources; assess the credibility of each source; and quote or paraphrase the data and conclusions of others while avoiding plagiarism and providing basic bibliographic information for sources.",
+        "6.SP.B.5": "Summarize numerical data sets in relation to their context, such as by:"
+      }
+    },
+    {
+      "lesson_ord": 43,
+      "concept_day_ord": 19,
+      "act": 4,
+      "sub": "L1",
+      "title_for_verification": "Informal introduction to correlation vs causation",
+      "artifact": "The student writes one paragraph distinguishing correlation from causation using one finding from the survey data (e.g., 'apartment dwellers report cost concern more often, but the data does not show apartment-dwelling causes cost concern').",
+      "standards_for_verification": [
+        "RI.AA.6.7"
+      ],
+      "standardsVerbatim": {
+        "RI.AA.6.7": "Trace the development of and evaluate the argument and specific claims in a text, distinguishing claims that are supported by reasons and evidence from claims that are not."
+      }
+    },
+    {
+      "lesson_ord": 44,
+      "concept_day_ord": 19,
+      "act": 4,
+      "sub": "L2",
+      "title_for_verification": "Revising hypothesis against data from observation and survey",
+      "artifact": "The student writes a revised hypothesis sentence using the survey + observation data, naming one belief the original hypothesis got wrong.",
+      "standards_for_verification": [
+        "RI.AA.6.7"
+      ],
+      "standardsVerbatim": {
+        "RI.AA.6.7": "Trace the development of and evaluate the argument and specific claims in a text, distinguishing claims that are supported by reasons and evidence from claims that are not."
+      }
+    },
+    {
+      "lesson_ord": 45,
+      "concept_day_ord": 20,
+      "act": 4,
+      "sub": "L1",
+      "title_for_verification": "How to identify good resources",
+      "artifact": "The student writes a one-paragraph evaluation of three named information sources (e.g., ASPCA blog, peer-reviewed study, breeder website) ranking them by credibility with one-sentence justification each.",
+      "standards_for_verification": [
+        "W.AW.6.1"
+      ],
+      "standardsVerbatim": {
+        "W.AW.6.1": "Write arguments on discipline-specific content (e.g., social studies, science, math, technical subjects, English/Language Arts) to support claims with clear reasons and relevant evidence."
+      }
+    },
+    {
+      "lesson_ord": 46,
+      "concept_day_ord": 20,
+      "act": 4,
+      "sub": "L2",
+      "title_for_verification": "Identifying supporting evidence in the resource for supporting the hypothesis",
+      "artifact": "The student writes a one-paragraph extract from one assigned source naming three pieces of evidence that support or falsify the hypothesis from Day 19.",
+      "standards_for_verification": [
+        "W.AW.6.1"
+      ],
+      "standardsVerbatim": {
+        "W.AW.6.1": "Write arguments on discipline-specific content (e.g., social studies, science, math, technical subjects, English/Language Arts) to support claims with clear reasons and relevant evidence."
+      }
+    },
+    {
+      "lesson_ord": 47,
+      "concept_day_ord": 20,
+      "act": 4,
+      "sub": "Seminar",
+      "title_for_verification": "question and defend your claims",
+      "artifact": "The student writes a one-paragraph Seminar position statement defending one claim with two pieces of database evidence (dog bites, fatalities, cost data, housing restrictions, or breed energy levels) and one anticipated counter-argument.",
+      "standards_for_verification": [
+        "W.AW.6.1"
+      ],
+      "standardsVerbatim": {
+        "W.AW.6.1": "Write arguments on discipline-specific content (e.g., social studies, science, math, technical subjects, English/Language Arts) to support claims with clear reasons and relevant evidence."
+      }
+    },
+    {
+      "lesson_ord": 48,
+      "concept_day_ord": 21,
+      "act": 4,
+      "sub": "L1",
+      "title_for_verification": "How to support a claim with evidence or falsify claims",
+      "artifact": "The student writes a one-paragraph claim-with-evidence statement showing one belief from Day 16 has been falsified (with evidence) or supported (with evidence), naming the source.",
+      "standards_for_verification": [
+        "W.AW.6.1",
+        "RI.AA.6.7"
+      ],
+      "standardsVerbatim": {
+        "W.AW.6.1": "Write arguments on discipline-specific content (e.g., social studies, science, math, technical subjects, English/Language Arts) to support claims with clear reasons and relevant evidence.",
+        "RI.AA.6.7": "Trace the development of and evaluate the argument and specific claims in a text, distinguishing claims that are supported by reasons and evidence from claims that are not."
+      }
+    },
+    {
+      "lesson_ord": 49,
+      "concept_day_ord": 22,
+      "act": 5,
+      "sub": "L1",
+      "title_for_verification": "Based on your findings - what are people assuming about our chosen dog that are true and what things aren't true (pick a dog)",
+      "artifact": "The student writes a two-column comparison for the assigned dog: assumptions families make from the photo (Day 12) versus what the observation log proved true and false (Day 15).",
+      "standards_for_verification": [
+        "W.NW.6.3"
+      ],
+      "standardsVerbatim": {
+        "W.NW.6.3": "Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences."
+      }
+    },
+    {
+      "lesson_ord": 50,
+      "concept_day_ord": 22,
+      "act": 5,
+      "sub": "L2",
+      "title_for_verification": "Introduction to story structure",
+      "artifact": "The student labels one Eddie-the-Terrible-style draft narrative with the four story elements: setup, complication, turn, payoff — naming one sentence from the draft as evidence of each.",
+      "standards_for_verification": [
+        "W.NW.6.3"
+      ],
+      "standardsVerbatim": {
+        "W.NW.6.3": "Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences."
+      }
+    },
+    {
+      "lesson_ord": 51,
+      "concept_day_ord": 22,
+      "act": 5,
+      "sub": "L3",
+      "title_for_verification": "Writing to",
+      "artifact": "The student writes a one-paragraph Seminar response naming three persuasive moves Ann Handley used in the Eddie-the-Terrible post and one move that would not transfer to the assigned dog's profile card.",
+      "standards_for_verification": [
+        "W.NW.6.3"
+      ],
+      "standardsVerbatim": {
+        "W.NW.6.3": "Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences."
+      }
+    },
+    {
+      "lesson_ord": 52,
+      "concept_day_ord": 22,
+      "act": 5,
+      "sub": "Seminar",
+      "title_for_verification": "read Eddie the Terrible blog and discussion what makes it persuasive",
+      "artifact": "The student writes a one-paragraph Seminar response specifically on the Eddie-the-Terrible reading, naming what makes the listing persuasive and one move the assigned dog's card should borrow.",
+      "standards_for_verification": [
+        "W.NW.6.3"
+      ],
+      "standardsVerbatim": {
+        "W.NW.6.3": "Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences."
+      }
+    },
+    {
+      "lesson_ord": 53,
+      "concept_day_ord": 22,
+      "act": 5,
+      "sub": "L4",
+      "title_for_verification": "Identifying elements of a persuasive narrative",
+      "artifact": "The student writes a checklist of four elements of a persuasive narrative profile (named character detail, evidence-anchored claim, emotional moment, call to action) and pairs each with one example from the Billie Jean mentor text.",
+      "standards_for_verification": [
+        "W.NW.6.3"
+      ],
+      "standardsVerbatim": {
+        "W.NW.6.3": "Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences."
+      }
+    },
+    {
+      "lesson_ord": 54,
+      "concept_day_ord": 23,
+      "act": 5,
+      "sub": "L1",
+      "title_for_verification": "Anatomy of an Ad:",
+      "artifact": "The student labels one shelter ad's components (catchy headline, body copy, slogan, logo, call to action), then writes a one-sentence critique naming which component is strongest.",
+      "standards_for_verification": [
+        "W.NW.6.3"
+      ],
+      "standardsVerbatim": {
+        "W.NW.6.3": "Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences."
+      }
+    },
+    {
+      "lesson_ord": 55,
+      "concept_day_ord": 23,
+      "act": 5,
+      "sub": "L2",
+      "title_for_verification": "Identifying Target Audience",
+      "artifact": "The student writes one paragraph naming the target audience for the assigned dog's profile card (e.g., young families, retirees, first-time owners) and three word choices that would shift if the audience changed.",
+      "standards_for_verification": [
+        "W.NW.6.3"
+      ],
+      "standardsVerbatim": {
+        "W.NW.6.3": "Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences."
+      }
+    },
+    {
+      "lesson_ord": 56,
+      "concept_day_ord": 23,
+      "act": 5,
+      "sub": "L3",
+      "title_for_verification": "Emotional Appeal (Pathos)",
+      "artifact": "The student rewrites one plain description (e.g., 'he is a good dog') into one sentence using sensory-rich pathos-driven language about the assigned dog, citing one observation-log entry as the anchor.",
+      "standards_for_verification": [
+        "W.NW.6.3"
+      ],
+      "standardsVerbatim": {
+        "W.NW.6.3": "Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences."
+      }
+    },
+    {
+      "lesson_ord": 57,
+      "concept_day_ord": 23,
+      "act": 5,
+      "sub": "L4",
+      "title_for_verification": "Persuasive Devices",
+      "artifact": "The student drafts one slogan and one rhetorical-question opener for the assigned dog's card, demonstrating one named persuasive device (alliteration, repetition, rhetorical question, or call-to-emotion).",
+      "standards_for_verification": [
+        "W.NW.6.3"
+      ],
+      "standardsVerbatim": {
+        "W.NW.6.3": "Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences."
+      }
+    },
+    {
+      "lesson_ord": 58,
+      "concept_day_ord": 24,
+      "act": 5,
+      "sub": "L1",
+      "title_for_verification": "Modeling how to draft your dog card - What perspective, how you want to write it",
+      "artifact": "The student drafts the full first-pass profile card for the assigned dog (under 100 words), written in either first-person dog perspective or third-person, naming the leading detail and the call to action.",
+      "standards_for_verification": [
+        "W.WP.6.4"
+      ],
+      "standardsVerbatim": {
+        "W.WP.6.4": "With some guidance and support from peers and adults, develop and strengthen writing as needed by planning; flexibly making editing and revision choices; sustaining effort to fit composition needs and purposes; and attempting to address purpose and audience."
+      }
+    },
+    {
+      "lesson_ord": 59,
+      "concept_day_ord": 24,
+      "act": 5,
+      "sub": "L2",
+      "title_for_verification": "Peer review of drafts (re-norm kind, specific, helpful to start class)",
+      "artifact": "The student writes a peer-review response on one classmate's draft using the kind-specific-helpful protocol, naming two strengths and one specific revision proposal.",
+      "standards_for_verification": [
+        "W.WP.6.4"
+      ],
+      "standardsVerbatim": {
+        "W.WP.6.4": "With some guidance and support from peers and adults, develop and strengthen writing as needed by planning; flexibly making editing and revision choices; sustaining effort to fit composition needs and purposes; and attempting to address purpose and audience."
+      }
+    },
+    {
+      "lesson_ord": 60,
+      "concept_day_ord": 25,
+      "act": 6,
+      "sub": null,
+      "title_for_verification": "Finalize the card",
+      "artifact": "The student delivers the final clean print-ready profile card for the assigned dog (under 100 words, leading detail named, call to action included), with one revision-log sentence naming the most significant change from the Day 24 draft.",
+      "standards_for_verification": [
+        "W.NW.6.3",
+        "W.AW.6.1"
+      ],
+      "standardsVerbatim": {
+        "W.NW.6.3": "Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+        "W.AW.6.1": "Write arguments on discipline-specific content (e.g., social studies, science, math, technical subjects, English/Language Arts) to support claims with clear reasons and relevant evidence."
+      }
+    },
+    {
+      "lesson_ord": 61,
+      "concept_day_ord": 27,
+      "act": 6,
+      "sub": null,
+      "title_for_verification": "Brief St. Hubert's (Act 6 evidence)",
+      "artifact": "The student delivers a two-minute partner briefing to St. Hubert's staff naming what the cohort learned about the adoption gap, the campaign-card strategy chosen, and one recommendation beyond the cards themselves.",
+      "standards_for_verification": [
+        "SL.PI.6.4",
+        "SL.UM.6.5"
+      ],
+      "standardsVerbatim": {
+        "SL.PI.6.4": "Present claims and findings, sequencing ideas logically and using pertinent descriptions, facts, and details to accentuate main ideas or themes; use appropriate speaking behaviors (e.g., eye contact, adequate volume, and clear pronunciation).",
+        "SL.UM.6.5": "Include multimedia components (e.g., graphics, images, music, sound) and visual displays in presentations to clarify information."
+      }
+    }
+  ],
+  "reconciliation": {
+    "sessions_with_artifact": 61,
+    "sessions_with_confirm_artifact": 0,
+    "sessions_total": 61,
+    "manifest_codes_count": 13,
+    "tagged_codes_count": 20,
+    "codes_in_manifest_but_not_tagged": [
+      "MS-LS3-2",
+      "MS-LS4-4",
+      "MS-LS4-5",
+      "MS-LS4-6"
+    ],
+    "codes_tagged_but_not_in_manifest": [
+      "3-LS3-1M",
+      "5.DL.A.1",
+      "RI.AA.6.7",
+      "S-LS4-4",
+      "S-LS4-5",
+      "S-LS4-6",
+      "S-LS4-6M",
+      "SEP",
+      "SL.PE.6.1",
+      "SL.UM.6.5",
+      "W.SE.6.6"
+    ]
+  }
+}

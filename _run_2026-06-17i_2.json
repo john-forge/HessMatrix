@@ -1,0 +1,260 @@
+{
+ "2.3.5.DSDT.5": {
+  "schema_version": 1,
+  "standardCode": "2.3.5.DSDT.5",
+  "standardStatement": "Identify the various types of resources that are available in the community and online to assist individuals who struggle with alcohol, tobacco, and drug use/abuse (e.g., school nurse, counselor, peer leadership group).",
+  "subject": "chpe",
+  "grade": "5",
+  "generatedAt": "2026-06-17T20:39:02.696250Z",
+  "cells": {
+   "remember-1": {
+    "objective": "List four resources, in school or online, that help people who struggle with alcohol, tobacco, or drugs.",
+    "observableCheck": "Each student writes four resources on a card.",
+    "sampleTask": "Guide asks: 'Where can someone turn for help with drinking, smoking, or drugs?' Each student writes four resources on a card, drawing on school and online options. Cards go on the board sorted into school, community, and online columns.",
+    "materials": ["index cards", "class board"]
+   },
+   "remember-2": null,
+   "remember-3": null,
+   "remember-4": null,
+   "understand-1": {
+    "objective": "Describe what each resource offers and who it is meant to serve.",
+    "observableCheck": "Each student writes one sentence per resource naming the help it gives.",
+    "sampleTask": "Using the class resource list, students write a one-sentence description for four resources naming what each does and who it serves. Pairs trade and check that each sentence names a concrete service rather than just 'help.'",
+    "materials": ["resource list", "writing handout"]
+   },
+   "understand-2": {
+    "objective": "Explain the difference between a resource for the person using substances and a resource for a worried family member.",
+    "observableCheck": "Each student sorts six resources by who they serve and explains one borderline case.",
+    "sampleTask": "Guide gives six resource cards. Students sort each by whether it mainly helps the person using or the worried family member, and pick one that could help both. They write one sentence explaining the both-case. The class reviews and settles disagreements.",
+    "materials": ["resource cards", "sorting mat"]
+   },
+   "understand-3": {
+    "objective": "Summarize what makes a resource trustworthy so a student can tell a real help line from a fake one.",
+    "observableCheck": "Each student writes a two-part rule for spotting a trustworthy resource and tests it on an example.",
+    "sampleTask": "Students examine three real resources and two fake or scam-like ones. They draft a two-part rule for telling trustworthy from untrustworthy and test it against a sixth example the Guide reveals. Pairs compare rules and keep the one that works best.",
+    "materials": ["resource examples handout", "rule worksheet"]
+   },
+   "understand-4": {
+    "objective": "Describe how the best resource changes with the situation, comparing a quick question, an emergency, and ongoing support.",
+    "observableCheck": "Each student matches each of three needs to a fitting resource on a chart.",
+    "sampleTask": "Guide hands out a chart with three needs: a quick question, an emergency, and weeks of support. Students name a fitting resource for each and why it fits. Students circle the need they found hardest to match and write one sentence on why it was harder than the others.",
+    "materials": ["needs chart", "resource list"]
+   },
+   "apply-1": {
+    "objective": "Use a resource list to find the right contact for a single described need.",
+    "observableCheck": "Each student names the correct resource and its contact for one scenario.",
+    "sampleTask": "Guide reads one short scenario, such as a student wanting to ask a private question about a parent's drinking. Students scan a resource list and write the best resource and how to reach it. The class shares answers and the Guide confirms the best match.",
+    "materials": ["resource list", "scenario card"]
+   },
+   "apply-2": {
+    "objective": "Carry out a search of an approved resource page to locate one service and its hours.",
+    "observableCheck": "Each pair records a service name, what it offers, and when it is available from an approved page.",
+    "sampleTask": "Pairs use a printed screenshot or approved page from a real help organization. They find one service, write what it offers and its hours, and note how a kid would start. Pairs report their finding and the Guide lists the services on the board.",
+    "materials": ["approved resource page printouts", "recording sheet"]
+   },
+   "apply-3": {
+    "objective": "Choose the best resource for a layered scenario and justify why it beats two other options.",
+    "observableCheck": "Each student picks one resource and gives two reasons it fits better than the alternatives.",
+    "sampleTask": "Guide gives pairs a scenario with three possible resources, only one of which truly fits. Students pick one and write two reasons it beats the others. The class compares picks and discusses why matching the resource to the exact need matters.",
+    "materials": ["scenario card", "resource options sheet"]
+   },
+   "apply-4": {
+    "objective": "Build a personal resource card listing a school contact, a community contact, and one safe online option.",
+    "observableCheck": "Each student completes a card with three reachable resources and how to reach each.",
+    "sampleTask": "Students fill a resource card with one school resource, one community resource, and one safe online option, plus how to reach each. They check each contact against the class resource list. Students keep the card and the Guide spot-checks for one online option that is genuinely safe.",
+    "materials": ["blank resource cards", "verified resource list"]
+   },
+   "analyze-1": {
+    "objective": "Sort a mixed pile of resources by whether they serve the school, the wider community, or online users.",
+    "observableCheck": "Each student places each resource in the correct setting column.",
+    "sampleTask": "Guide gives nine resource cards. Students sort each into school, community, or online columns and flag any that fit more than one. Pairs compare and resolve any card sorted differently using the resource descriptions.",
+    "materials": ["resource cards", "three-column mat"]
+   },
+   "analyze-2": {
+    "objective": "Compare an online resource and an in-person resource and identify what each does better.",
+    "observableCheck": "Each student lists one advantage of each on a comparison sheet.",
+    "sampleTask": "Guide presents one online help line and one in-person counselor. Students complete a comparison sheet listing one thing each does better, such as speed or privacy. Pairs agree on which they would try first for a scary situation and explain why.",
+    "materials": ["comparison sheet"]
+   },
+   "analyze-3": {
+    "objective": "Trace how a student would move from a first resource to a deeper one when the problem is bigger than expected.",
+    "observableCheck": "Each group maps a referral path from one resource to the next and labels each step.",
+    "sampleTask": "Groups map a path showing how a school nurse might refer a student onward to a counselor and then to a community program. They label what each step adds. Groups post their paths and the class checks that no step skips a needed handoff.",
+    "materials": ["chart paper", "markers"]
+   },
+   "analyze-4": {
+    "objective": "Examine the full set of available resources and identify which kinds of help are well covered and which are thin.",
+    "observableCheck": "Each group produces a coverage chart marking one well-covered area and one thin area.",
+    "sampleTask": "Groups chart the resources they have found by the kind of help each gives. They mark one kind of help that is well covered and one that is thin for fifth graders. Groups present and the class drafts one question to ask the school about the thin area.",
+    "materials": ["chart paper", "resource list", "markers"]
+   },
+   "evaluate-1": null,
+   "evaluate-2": null,
+   "evaluate-3": {
+    "objective": "Judge whether a chosen resource fits a described need and defend the verdict with details from the scenario.",
+    "observableCheck": "Each student rates the fit and cites two scenario details that justify the rating.",
+    "sampleTask": "Guide hands out a scenario where a student picks a resource that does not match the real need. Students rate the choice as a good or poor fit and quote two details that support the rating. Pairs that disagree argue it out using the scenario text.",
+    "materials": ["scenario handout", "rating slip"]
+   },
+   "evaluate-4": {
+    "objective": "Critique a community resource directory for kids and recommend which entries to keep, cut, or add.",
+    "observableCheck": "Each group produces a review naming one entry to keep, one to cut, and one to add, each with a reason.",
+    "sampleTask": "Groups review a sample resource directory written for families. They complete a keep, cut, add form with a reason for each, judging whether a fifth grader could actually use each entry. Groups present and the class agrees on the single most useful entry to add.",
+    "materials": ["sample directory", "keep-cut-add form"]
+   },
+   "create-1": {
+    "objective": "Write the name and contact for one resource a student could share with a friend today.",
+    "observableCheck": "Each student produces one resource entry on a card.",
+    "sampleTask": "Guide asks each student to write one resource, its contact, and one line on what it helps with, on a small card. Students check the contact against the class list. Volunteers read theirs and the class posts three by the door.",
+    "materials": ["cards", "verified resource list"]
+   },
+   "create-2": {
+    "objective": "Storyboard a short scene where a student uses a resource and gets connected to help.",
+    "observableCheck": "Each pair turns in a three-panel storyboard showing the need, the resource used, and the help received.",
+    "sampleTask": "Pairs draw a three-panel storyboard: the need, contacting the resource, and getting connected. Each panel needs one line of dialogue. Pairs trade and confirm the middle panel names a real resource.",
+    "materials": ["storyboard sheet", "markers"]
+   },
+   "create-3": {
+    "objective": "Design a resource map poster that matches common situations to the right place to turn for each.",
+    "observableCheck": "Each group produces a poster pairing at least four situations with fitting resources and contacts.",
+    "sampleTask": "Groups build a poster with four situations down one side and the best resource and contact across from each. Each pairing needs one line on why it fits. Groups hang posters and walk the room to confirm contacts are real and reachable.",
+    "materials": ["poster paper", "markers", "verified resource list"]
+   },
+   "create-4": {
+    "objective": "Produce a short resource guide the group could hand to new students at the school.",
+    "observableCheck": "Each group turns in a one-page guide listing at least four verified resources with contacts and what each offers.",
+    "sampleTask": "Groups design a one-page resource guide for students new to the school. The guide needs four verified resources, contacts, and one line each on what they offer. Groups proof each other's guides for accuracy and the Guide checks the contacts before any sharing.",
+    "materials": ["guide template", "verified resource list", "markers"]
+   }
+  }
+ },
+ "2.3.5.HCDM.1": {
+  "schema_version": 1,
+  "standardCode": "2.3.5.HCDM.1",
+  "standardStatement": "Identify conditions that may keep the human body from working properly, and the ways in which the body responds.",
+  "subject": "chpe",
+  "grade": "5",
+  "generatedAt": "2026-06-17T20:39:02.696250Z",
+  "cells": {
+   "remember-1": {
+    "objective": "Name four conditions that can keep the body from working properly, such as infection, injury, poor nutrition, and lack of sleep.",
+    "observableCheck": "Each student lists four conditions on a card.",
+    "sampleTask": "Guide asks: 'What kinds of things can stop the body from working the way it should?' Each student writes four on a card. Cards go on the board grouped into illness, injury, and habits.",
+    "materials": ["index cards", "class board"]
+   },
+   "remember-2": null,
+   "remember-3": null,
+   "remember-4": null,
+   "understand-1": {
+    "objective": "Match each condition to the way the body responds to it.",
+    "observableCheck": "Each student pairs four conditions with four body responses on a worksheet.",
+    "sampleTask": "Guide hands out a worksheet with conditions in one column, such as a cut or a fever, and body responses in the other, such as clotting or sweating. Students draw lines to match. The class reviews and the Guide explains any pair students found tricky.",
+    "materials": ["matching worksheet"]
+   },
+   "understand-2": {
+    "objective": "Explain why a body response like a fever or swelling is a sign the body is defending itself.",
+    "observableCheck": "Each student writes two sentences explaining what one body response is doing for the person.",
+    "sampleTask": "Guide describes two responses, a fever and swelling around a sprain. Each student writes two sentences explaining what each response is doing to protect or repair the body. Pairs trade and underline the clearest explanation.",
+    "materials": ["response handout", "writing sheet"]
+   },
+   "understand-3": {
+    "objective": "Summarize the general pattern of how the body responds to a problem so it holds across several conditions.",
+    "observableCheck": "Each student writes one rule describing what the body tends to do when something goes wrong.",
+    "sampleTask": "Students review four condition-and-response pairs and look for what the responses have in common, such as trying to fight, repair, or signal. They write one rule that fits all four. Pairs test the rule against a fifth pair the Guide reveals.",
+    "materials": ["condition-response handout", "rule worksheet"]
+   },
+   "understand-4": {
+    "objective": "Describe how the body's response differs between a short problem like a cut and a longer one like a chronic illness.",
+    "observableCheck": "Each student completes a chart comparing short-term and long-term responses.",
+    "sampleTask": "Guide gives a two-column chart for a short problem and a long one. Students fill in how the body responds to each and how long it lasts. Students circle the difference they find most important and write one sentence on why it matters more than the others.",
+    "materials": ["comparison chart", "pencils"]
+   },
+   "apply-1": {
+    "objective": "Label a body-response diagram with the correct response for a given condition.",
+    "observableCheck": "Each student places four response labels correctly on a diagram.",
+    "sampleTask": "Guide hands out a simple body diagram and four labels, such as fever, clotting, sneezing, and swelling. Students place each label next to where it happens for a named condition. The class checks placements together.",
+    "materials": ["body diagram", "label set"]
+   },
+   "apply-2": {
+    "objective": "Use the idea of body responses to predict what would happen after a described event, like a bee sting.",
+    "observableCheck": "Each student writes the likely body response and the order it would happen.",
+    "sampleTask": "Guide describes an event such as a bee sting or scraped knee. In pairs, students write the body responses they would expect and the order they would happen. Pairs share and the class builds one agreed sequence on the board.",
+    "materials": ["event cards", "sequence sheet"]
+   },
+   "apply-3": {
+    "objective": "Choose which body response in a scenario signals a person should get help and justify the choice.",
+    "observableCheck": "Each student marks the warning response and gives one reason it calls for help.",
+    "sampleTask": "Guide gives a scenario listing several body responses, one of which is serious. In pairs, students mark which response means it is time to get an adult or a doctor and write one reason. The class compares and the Guide confirms the warning sign.",
+    "materials": ["scenario card", "decision slip"]
+   },
+   "apply-4": {
+    "objective": "Build a quick-reference chart that pairs common conditions with the body's response and the right first action.",
+    "observableCheck": "Each student completes a chart linking at least four conditions to a response and a first action.",
+    "sampleTask": "Students fill a chart with four conditions, the body's response to each, and a sensible first action such as rest, clean the wound, or tell an adult. They check each first action with a partner. Students keep the chart for the health corner.",
+    "materials": ["reference chart", "pencils"]
+   },
+   "analyze-1": {
+    "objective": "Sort body responses into helpful repair signals and signals that something is seriously wrong.",
+    "observableCheck": "Each student places each response in the repair or warning column.",
+    "sampleTask": "Guide gives eight body-response cards. Students sort each into helpful repair or serious warning columns and flag any that could be both. Pairs compare and resolve differences using what they know about each response.",
+    "materials": ["response cards", "two-column mat"]
+   },
+   "analyze-2": {
+    "objective": "Compare how the body responds to two different conditions and identify what the responses have in common.",
+    "observableCheck": "Each student lists the responses to each condition and names one shared feature.",
+    "sampleTask": "Guide presents two conditions, such as the flu and a cut. Students list the body's response to each on a comparison sheet and name one feature both share. Pairs agree on the shared feature and report it out.",
+    "materials": ["comparison sheet"]
+   },
+   "analyze-3": {
+    "objective": "Trace a body's response over time from the first signal to recovery and find the point where help would speed healing.",
+    "observableCheck": "Each group maps the response over time and marks where outside help fits.",
+    "sampleTask": "Groups map how the body responds to one condition from the first signal through recovery. They mark the point where rest, medicine, or a doctor would help most and write why. Groups post their maps and the class compares the points they marked.",
+    "materials": ["chart paper", "markers"]
+   },
+   "analyze-4": {
+    "objective": "Examine a set of conditions and group them by how the body responds, then explain the grouping.",
+    "observableCheck": "Each group sorts conditions into response-based groups and writes the rule behind each group.",
+    "sampleTask": "Groups receive eight condition cards and sort them into groups based on how the body responds, not by name. They write the rule behind each group. Groups present their groupings and the class looks for groupings that more than one team found.",
+    "materials": ["condition cards", "chart paper", "markers"]
+   },
+   "evaluate-1": null,
+   "evaluate-2": null,
+   "evaluate-3": {
+    "objective": "Judge whether a person in a scenario read their body's signals correctly and defend the verdict with details.",
+    "observableCheck": "Each student rates the person's reading and cites two scenario details that justify it.",
+    "sampleTask": "Guide hands out a scenario where a person ignores a serious body signal. Students rate whether the person read the signal correctly and quote two details that support the rating. Pairs that disagree argue it out using the text.",
+    "materials": ["scenario handout", "rating slip"]
+   },
+   "evaluate-4": {
+    "objective": "Critique a health poster about body signals and recommend what to keep, cut, or fix for accuracy.",
+    "observableCheck": "Each group produces a review naming one accurate part, one to cut, and one to fix.",
+    "sampleTask": "Groups review a sample health poster about what body signals mean. They complete a keep, cut, fix form with a reason for each, checking each claim for accuracy. Groups present and the class agrees on the single most important fix.",
+    "materials": ["sample poster", "keep-cut-fix form"]
+   },
+   "create-1": {
+    "objective": "Write one true statement pairing a condition with the body's response to it.",
+    "observableCheck": "Each student produces one condition-response statement on a card.",
+    "sampleTask": "Guide asks each student to write one true sentence linking a condition to how the body responds, such as 'When you get a cut, the blood forms a clot to stop bleeding.' Students copy it onto a card. Volunteers read theirs and the class checks each for accuracy.",
+    "materials": ["cards", "markers"]
+   },
+   "create-2": {
+    "objective": "Storyboard a short scene showing the body responding to a condition step by step.",
+    "observableCheck": "Each pair turns in a three-panel storyboard tracing one body response in order.",
+    "sampleTask": "Pairs draw a three-panel storyboard showing what happens in the body after a condition such as a cold or a sprain. Each panel needs a caption. Pairs trade and check that the panels are in the right order.",
+    "materials": ["storyboard sheet", "markers"]
+   },
+   "create-3": {
+    "objective": "Design a body-defense poster that matches common conditions to the body's response and one healthy habit that helps.",
+    "observableCheck": "Each group produces a poster pairing at least four conditions with a response and a supportive habit.",
+    "sampleTask": "Groups build a poster linking four conditions to the body's response and one habit that supports recovery, such as rest or fluids. Each pairing needs one line of explanation. Groups hang posters and walk the room to check the responses are accurate.",
+    "materials": ["poster paper", "markers"]
+   },
+   "create-4": {
+    "objective": "Produce a short illustrated guide that teaches younger students how their body protects and repairs itself.",
+    "observableCheck": "Each group turns in a one-page illustrated guide covering at least three body responses in kid-friendly words.",
+    "sampleTask": "Groups design a one-page illustrated guide for younger students explaining three ways the body protects or repairs itself. Each response needs a picture and a simple caption. Groups proof each other's guides for accuracy and the Guide checks the wording fits a younger reader.",
+    "materials": ["guide template", "markers"]
+   }
+  }
+ }
+}

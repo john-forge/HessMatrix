@@ -1,0 +1,3812 @@
+[
+  {
+    "code": "2.1.5.CHSS.1",
+    "statement": "Identify health services and resources available and determine how each assist in addressing needs and emergencies in a school and in the community (e.g., counselors, medical professionals).",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.1.5.CHSS.2",
+    "statement": "Describe how business, non-profit organizations, and individuals can work cooperatively to address health problems that are affected by global issues, including climate change.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.1.5.CHSS.3",
+    "statement": "Describe strategies that are useful for individuals who are feeling sadness, anger, anxiety, or stress.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.1.5.EH.1",
+    "statement": "Discuss the impact of one\u2019s feelings and thoughts that lead to healthy and unhealthy behaviors.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.1.5.EH.2",
+    "statement": "Explain how to cope with rejection, loss, difficult learning situations and/or separation from family or others.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.1.5.EH.3",
+    "statement": "Identify different feelings and emotions that people may experience and how they might express these emotions (e.g., anger, fear, happiness, sadness, hopelessness, anxiety).",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.1.5.EH.4",
+    "statement": "Identify behaviors that help to deal with difficult situations that can occur at home, in school, and/or in the community and where to go for assistance.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.1.5.PGD.1",
+    "statement": "Identify effective personal health strategies and behaviors that reduce illness, prevent injuries, and maintain or enhance one\u2019s wellness (e.g., adequate sleep, balanced nutrition, ergonomics, regular physical activity).",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.1.5.PGD.2",
+    "statement": "Examine how the body changes during puberty and how these changes influence personal self-care.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.1.5.PGD.3",
+    "statement": "Explain the physical, social, and emotional changes that occur during puberty and adolescence and why the onset and progression of puberty can vary.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.1.5.PGD.4",
+    "statement": "Explain common human sexual development and the role of hormones (e.g., romantic and sexual feelings, masturbation, mood swings, timing of pubertal onset).",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.1.5.PGD.5",
+    "statement": "Identify trusted adults, including family members, caregivers, school staff, and health care professionals, whom students can talk to about relationships and ask questions about puberty and adolescent health.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.1.5.PP.1",
+    "statement": "Explain the relationship between sexual intercourse and human reproduction.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.1.5.PP.2",
+    "statement": "Explain the range of ways pregnancy can occur (e.g., IVF, surrogacy).",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.1.5.SSH.1",
+    "statement": "Describe gender-role stereotypes and their potential impact on self and others.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.1.5.SSH.2",
+    "statement": "Differentiate between sexual orientation and gender identity.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.1.5.SSH.3",
+    "statement": "Demonstrate ways to promote dignity and respect for all people (e.g. sexual orientation, gender identity and expression, race, ethnicity, socio-economic status, differing ability, immigration status, family configuration).",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.1.5.SSH.4",
+    "statement": "Describe how families can share common values, offer emotional support, and set boundaries and limits.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.1.5.SSH.5",
+    "statement": "Explain the importance of communication with family members, caregivers and other trusted adults about a variety of topics.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.1.5.SSH.6",
+    "statement": "Describe the characteristics of healthy versus unhealthy relationships among friends and with family members.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.1.5.SSH.7",
+    "statement": "Define teasing, harassment and bullying and provide examples of inappropriate behaviors that are harmful to others.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.1.8.CHSS.1",
+    "statement": "Identify professionals at school and in the community available to assist with health conditions and emergencies, sexual health services, life skills training and describe how they can be accessed (e.g., suicide prevention, CPR/AED, breast self-examination, traumatic stress).",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.CHSS.2",
+    "statement": "Describe the state and federal laws related to age of consent, minors\u2019 ability to consent to health care, confidentiality in a healthcare setting, child pornography, sexting, safe haven and sex trafficking.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.CHSS.3",
+    "statement": "Identify the state and federal laws related to minors' access to sexual healthcare services, including pregnancy and STIs/HIV prevention, testing, care, and treatment.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.CHSS.4",
+    "statement": "Identify community resources and/or other sources of support, such as trusted adults, including family members, caregivers, and school staff, that students can go to if they are or someone they know is being sexually harassed, abused, assaulted, exploited, or trafficked.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.CHSS.5",
+    "statement": "Identify medically accurate sources of information about STIs, including HIV, such as local STIs /HIV prevention, steps to obtain PrEP and PEP, testing, and treatment resources.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.CHSS.6",
+    "statement": "Develop an advocacy plan regarding a health issue and share this information in an appropriate setting.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.CHSS.7",
+    "statement": "Collaborate with other students to develop a strategy to address health issues related to climate change.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.CHSS.8",
+    "statement": "Analyze difficult situations that might lead to feelings sadness, anxiety and or depression and identify individuals, agencies or places in the community where assistance may be available.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.EH.1",
+    "statement": "Compare and contrast stress management strategies that are used to address various types of stress-induced situations (e.g., academics, family, personal relationships, finances, celebrations, violence).",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.EH.2",
+    "statement": "Analyze how personal attributes, resiliency, and protective factors support mental and emotional health.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.PGD.1",
+    "statement": "Explain how appropriate health care can promote personal health.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.PGD.2",
+    "statement": "Analyze how genetics and family history can impact personal health.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.PGD.3",
+    "statement": "Describe the human reproductive systems, the external and internal body parts and their functions, and the natural variations that exist in human bodies.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.PGD.4",
+    "statement": "Analyze the relationship between healthy behaviors and personal health.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.PP.1",
+    "statement": "Describe pregnancy testing, the signs of pregnancy, and pregnancy options, including parenting, abortion, and adoption.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.PP.2",
+    "statement": "Summarize the stages of pregnancy from fertilization to birth.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.PP.3",
+    "statement": "Identify prenatal practices that support a healthy pregnancy and identify where to find medically accurate sources of information about prenatal care.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.PP.4",
+    "statement": "Predict challenges that may be faced by adolescent parents and their families.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.PP.5",
+    "statement": "Identify resources to assist with parenting.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.SSH.1",
+    "statement": "Differentiate between gender identity, gender expression and sexual orientation.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.SSH.2",
+    "statement": "Develop a plan for the school to promote dignity and respect for people of all genders, gender identities, gender expressions, and sexual orientations in the school community.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.SSH.3",
+    "statement": "Demonstrate communication skills that will support healthy relationships",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.SSH.4",
+    "statement": "Compare and contrast the characteristics of healthy and unhealthy relationships.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.SSH.5",
+    "statement": "Analyze the similarities and differences between friendships, romantic relationships and sexual relationships.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.SSH.6",
+    "statement": "Examine how culture influences the way families cope with traumatic situations, crisis, and change.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.SSH.7",
+    "statement": "Identify factors that are important in deciding whether and when to engage in sexual behaviors.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.SSH.8",
+    "statement": "Identify factors that can affect the ability to give or perceive consent to sexual activity (e.g., body image, self-esteem, alcohol, other substances).",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.SSH.9",
+    "statement": "Define vaginal, oral, and anal sex.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.SSH.10",
+    "statement": "Identify short and long-term contraception and safer sex methods that are effective and describe how to access and use them (e.g., abstinence, condom).",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.1.8.SSH.11",
+    "statement": "Develop a plan to eliminate or reduce risk of unintended pregnancy and STIs (including HIV).",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.2.5.LF.1",
+    "statement": "Explain the need to engage in physical activities on a voluntary basis for emotional and physical enjoyment.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.2.5.LF.2",
+    "statement": "Develop a movement vocabulary that is flexible and adaptable for personal physical activity and wellness.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.2.5.LF.3",
+    "statement": "Proactively engage in movement and physical activity for enjoyment individually or with others.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.2.5.LF.4",
+    "statement": "Perform and increase the range of motion in dynamic stretching and breathing exercises (e.g., dynamic cardiovascular warm-up exercises, martial arts, aerobics, yoga).",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.2.5.LF.5",
+    "statement": "Describe how community resources could be used to support participation in a variety of physical activities, sports and wellness.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.2.5.MSC.1",
+    "statement": "Demonstrate body management skills and control when moving in relation to others, objects, and boundaries in personal and general space (e.g., coordination, balance, flexibility, agility).",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.2.5.MSC.2",
+    "statement": "Explain and demonstrate movement sequences, individually and with others, in response to various tempos, rhythms, and musical styles.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.2.5.MSC.3",
+    "statement": "Demonstrate and perform movement skills with developmentally appropriate control in isolated settings (e.g., skill practice) and applied settings (e.g., games, sports, dance, recreational activities).",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.2.5.MSC.4",
+    "statement": "Develop the necessary body control to improve stability and balance during movement and physical activity.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.2.5.MSC.5",
+    "statement": "Correct movement skills and analyze concepts in response to external feedback and self-evaluation with understanding and demonstrating how the change improves performance.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.2.5.MSC.6",
+    "statement": "Execute appropriate behaviors and etiquette while participating as a player and viewing as an observer during physical activity, games, and other events, contributes to a safe environment.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.2.5.MSC.7",
+    "statement": "Apply specific rules, strategies, and procedures for specific physical activity, games, and sports in a safe active environment.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.2.5.N.1",
+    "statement": "Explain how healthy eating provides energy, helps to maintain healthy weight, lowers risk of disease, and keeps body systems functioning effectively.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.2.5.N.2",
+    "statement": "Create a healthy meal based on nutritional content, value, calories, and cost.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.2.5.N.3",
+    "statement": "Develop a plan to attain a personal nutrition health goal that addresses strengths, needs, and culture.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.2.5.PF.1",
+    "statement": "Identify the physical, social, emotional, and intellectual benefits of regular physical activity that effect personal health.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.2.5.PF.2",
+    "statement": "Accept and respect others of all skill levels and abilities during participation.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.2.5.PF.3",
+    "statement": "Participate in moderate to vigorous age-appropriate physical fitness activities and build the skills that address each component of health-related fitness (e.g., endurance, strength, speed, agility, flexibility, balance).",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.2.5.PF.4",
+    "statement": "Develop a short term and/or a long-term health-related fitness goal (e.g., cardiorespiratory endurance 'heart & lungs', muscular strength, muscular endurance, flexibility, body composition, nutrition) to evaluate personal health.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.2.5.PF.5",
+    "statement": "Determine how different factors influence personal fitness and other healthy lifestyle choices (e.g., heredity, physical activity, nutrition, sleep, technology).",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.2.8.LF.1",
+    "statement": "Develop and build an effective movement and physical fitness vocabulary for self, peers, and family members that can enhance wellness.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.2.8.LF.2",
+    "statement": "Explain the importance of assuming responsibility for personal health behaviors through physical activity throughout one\u2019s lifetime.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.2.8.LF.3",
+    "statement": "Explore by leading self and others to experience and participate in different cultures' physical fitness activities.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.2.8.LF.4",
+    "statement": "Identify and recognize factors that generate positive emotions from participating in movement and physical fitness activities.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.2.8.LF.5",
+    "statement": "Engages in a variety of physical activities (e.g., aerobic-fitness, strengthen, endurance-fitness activities) using technology and cross-training, and lifetime activities.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.2.8.LF.6",
+    "statement": "Develop a strategy to overcome barriers that allows for a visit in the community that promotes physical activities.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.2.8.LF.7",
+    "statement": "Evaluate personal attributes as they relate to career options in physical activity and health professions.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.2.8.MSC.1",
+    "statement": "Explain and demonstrate the transition of movement skills from isolated settings (e.g., skill practice) into applied settings (e.g., games, sports, dance, recreational activities).",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.2.8.MSC.2",
+    "statement": "Demonstrate control of motion in relationship between force, flow, time, and space in interactive dynamic environments.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.2.8.MSC.3",
+    "statement": "Create and demonstrate planned movement sequences, individually and with others, based on tempo, beat, rhythm, music, and physical activities (e.g., creative, cultural, social, fitness aerobics, dance, yoga).",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.2.8.MSC.4",
+    "statement": "Analyze, and correct movements and apply to refine movement skills.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.2.8.MSC.5",
+    "statement": "Predict the impact of rules, etiquette, procedures, and sportsmanship on players' behavior in small groups and large teams during physical activities and games.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.2.8.MSC.6",
+    "statement": "Demonstrate offensive, defensive, and cooperative strategies in a variety of games and settings.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.2.8.MSC.7",
+    "statement": "Effectively manage emotions during physical activity (e.g., anger, frustration, excitement) in a safe manner to self and others.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.2.8.N.1",
+    "statement": "Analyze how culture, health status, age and access to healthy foods can influence personal eating habits.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.2.8.N.2",
+    "statement": "Identify skills and healthy behaviors that can support adolescents in losing, gaining, or maintaining healthy weights.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.2.8.N.3",
+    "statement": "Design sample nutritional plans for families with different lifestyles, resources, special needs, and cultural backgrounds; then consider the similarities and differences among the plans.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.2.8.N.4",
+    "statement": "Assess personal nutritional health and consider opportunities to improve health and performance (e.g., sports drinks, supplements, balance nutrition).",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.2.8.PF.1",
+    "statement": "Summarize the short and long-term physical, social, mental, and emotional health benefits of regular physical fitness activity.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.2.8.PF.2",
+    "statement": "Recognize and involve others of all ability levels into a physical activity.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.2.8.PF.3",
+    "statement": "Execute the primary principals of training (FITT) and technology for the purpose of modifying personal levels of fitness (e.g., pedometers, heart rate monitors, health tracking systems, wearable technology, virtual classes, exergames).",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.2.8.PF.4",
+    "statement": "Implement and assess the effectiveness of a fitness plan based on health data, the assessment of one's personal fitness levels and monitor health/fitness indicators before, during, and after the workout program.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.2.8.PF.5",
+    "statement": "Use evidence to predict how factors such as health status, body composition, interests, environmental conditions, healthy eating, anabolic steroids, physical activity, and lifestyle behaviors impact personal fitness and health.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.5.ATD.1",
+    "statement": "Identify products that contain alcohol, tobacco, and drugs and explain potential unhealthy effects (e.g., substance disorder, cancer).",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.3.5.ATD.2",
+    "statement": "Describe health concerns associated with e-cigarettes, vaping products, inhalants, alcohol, opioids and other drugs, and non-prescribed cannabis products.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.3.5.ATD.3",
+    "statement": "Describe the behaviors of people who struggle with the use of alcohol and drugs and identify the type of assistance that is available.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.3.5.DSDT.1",
+    "statement": "Differentiate between drug use, misuse, abuse, and, prescription and illicit drugs.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.3.5.DSDT.2",
+    "statement": "Identify signs and evaluate evidence that a person might have an alcohol, tobacco, and/or drug use problem.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.3.5.DSDT.3",
+    "statement": "Demonstrate effective refusal skills of alcohol, e-cigarettes, vaping products, cannabis products, opioids, and other substances that can negatively impact health.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.3.5.DSDT.4",
+    "statement": "Demonstrate strategies for seeking assistance for someone impacted by an individual who is struggling with the use/abuse of alcohol or drugs.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.3.5.DSDT.5",
+    "statement": "Identify the various types of resources that are available in the community and online to assist individuals who struggle with alcohol, tobacco, and drug use/abuse (e.g., school nurse, counselor, peer leadership group).",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.3.5.HCDM.1",
+    "statement": "Identify conditions that may keep the human body from working properly, and the ways in which the body responds.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.3.5.HCDM.2",
+    "statement": "Describe how to prevent the spread of communicable and infection diseases and conditions (e.g., Lyme Disease, influenza)",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.3.5.HCDM.3",
+    "statement": "Examine how mental health can impact one\u2019s wellness (e.g., depression, anxiety, stress, phobias).",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.3.5.PS.1",
+    "statement": "Develop strategies to reduce the risk of injuries at home, school, and in the community.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.3.5.PS.2",
+    "statement": "Demonstrate first aid procedures for choking, bleeding, burns, poisoning, and stroke (F.A.S.T.).",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.3.5.PS.3",
+    "statement": "Examine the impact of unsafe behaviors when traveling in motor vehicles and when using other modes of transportation.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.3.5.PS.4",
+    "statement": "Develop strategies to safely communicate through digital media with respect.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.3.5.PS.5",
+    "statement": "Communicate personal boundaries and demonstrate ways to respect other people\u2019s personal boundaries.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.3.5.PS.6",
+    "statement": "Identify strategies a person could use to call attention to or leave an uncomfortable or dangerous situation, including bullying, teasing, teen dating violence, sexual harassment, sexual assault, and sexual abuse.",
+    "subject": "chpe",
+    "grade": "5"
+  },
+  {
+    "code": "2.3.8.ATD.1",
+    "statement": "Examine how the use of alcohol, tobacco, and other drugs by adolescents has impacted their lives and the lives of family members socially, emotionally, and physically.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.8.ATD.2",
+    "statement": "Relate the use of alcohol and other drugs to decision-making, consent, and risk for sexual assault and abuse.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.8.ATD.3",
+    "statement": "Determine the factors that contribute to different rules, laws, and policies in schools, communities, and states regarding alcohol, tobacco (including e-cigarettes, vaping, cannabis products), and other drugs.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.8.ATD.4",
+    "statement": "Explain the impact of alcohol and other drugs on areas of the brain that control vision, sleep, coordination, reaction time, judgment, and memory.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.8.ATD.5",
+    "statement": "Analyze how the influence of peers and different social settings (e.g., home, school, party) can result in positive and/or negative outcomes.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.8.DSDT.1",
+    "statement": "Summarize the signs and symptoms of alcohol, tobacco, and drug disorders.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.8.DSDT.2",
+    "statement": "Compare and contrast the various services that are available for individuals affected by substance disorders in the community and at the state level.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.8.DSDT.3",
+    "statement": "Determine the impact that alcohol and drugs can have on an individual\u2019s social, emotional, and physical well-being.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.8.DSDT.4",
+    "statement": "Examine how alcohol and drug disorders can impact the social, emotional, and physical lives of friends and family members.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.8.DSDT.5",
+    "statement": "Compare and contrast the various services that are available for family members and others affected by substance disorders in the community and at the state level.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.8.HCDM.1",
+    "statement": "Justify how the use of universal precautions, sanitation and waste disposal, proper food handling and storage, and environmental controls can prevent diseases and health conditions.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.8.HCDM.2",
+    "statement": "Determine the role of genetics in being susceptible to disease and health conditions and identify the types of behavior that might reduce the risk factors.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.8.HCDM.3",
+    "statement": "Describe behaviors which may contribute to or prevent a person from being susceptible to disease and illness (e.g., cardiovascular, stroke, hepatitis, sexually transmitted infections (STIs), HIV/AIDS, breast cancer, HPV, testicular cancer).",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.8.HCDM.4",
+    "statement": "Describe the signs, symptoms, and potential impacts of STIs (including HIV).",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.8.HCDM.5",
+    "statement": "Compare and contrast behaviors, including abstinence, to determine the potential risk of pregnancy and/or STIs (including HIV) transmission.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.8.HCDM.6",
+    "statement": "Explain how the immune system fights disease.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.8.HCDM.7",
+    "statement": "Explain how certain methods of disease prevention, treatment strategies, and appropriate medicine use promote health-enhancing behaviors.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.8.PS.1",
+    "statement": "Assess the degree of risk in a variety of situations, and identify strategies needed to reduce deliberate and non-deliberate injuries to self and others (e.g., digital safety, sexting, dating violence, domestic violence, gang violence, human trafficking, nonconsensual sexual encounters, other threats of violence).",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.8.PS.2",
+    "statement": "Define sexual consent and sexual agency.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.8.PS.3",
+    "statement": "Define interpersonal and sexual violence and describe their impacts on sexual health (e.g., sexual harassment, sexual assault, sexual abuse, incest, rape, domestic violence, coercion, dating violence).",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.8.PS.4",
+    "statement": "Describe strategies that sex traffickers/exploiters employ to recruit youth.",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.8.PS.5",
+    "statement": "Determine the effectiveness of laws designed to keep children and adolescents healthy and safe (e.g., consent, child pornography, human trafficking, parental notification, drugs).",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.8.PS.6",
+    "statement": "Demonstrate strategies to use social media safely, legally, and respectfully (e.g., sexting, sextortion).",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "2.3.8.PS.7",
+    "statement": "Evaluate the impact of technology and social media on relationships (e.g., consent, communication, respect).",
+    "subject": "chpe",
+    "grade": "8"
+  },
+  {
+    "code": "3-5-ETS1-1",
+    "statement": "Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost.",
+    "subject": "science",
+    "grade": "5"
+  },
+  {
+    "code": "3-5-ETS1-2",
+    "statement": "Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem.",
+    "subject": "science",
+    "grade": "5"
+  },
+  {
+    "code": "3-5-ETS1-3",
+    "statement": "Plan and carry out fair tests in which variables are controlled and failure points are considered to identify aspects of a model or prototype that can be improved.",
+    "subject": "science",
+    "grade": "5"
+  },
+  {
+    "code": "5-ESS1-1",
+    "statement": "Support an argument that differences in the apparent brightness of the sun compared to other stars is due to their relative distances from Earth.",
+    "subject": "science",
+    "grade": "5"
+  },
+  {
+    "code": "5-ESS1-2",
+    "statement": "Represent data in graphical displays to reveal patterns of daily changes in length and direction of shadows, day and night, and the seasonal appearance of some stars in the night sky.",
+    "subject": "science",
+    "grade": "5"
+  },
+  {
+    "code": "5-ESS2-1",
+    "statement": "Develop a model using an example to describe ways the geosphere, biosphere, hydrosphere, and/or atmosphere interact.",
+    "subject": "science",
+    "grade": "5"
+  },
+  {
+    "code": "5-ESS2-2",
+    "statement": "Describe and graph the amounts of salt water and fresh water in various reservoirs to provide evidence about the distribution of water on Earth.",
+    "subject": "science",
+    "grade": "5"
+  },
+  {
+    "code": "5-ESS3-1",
+    "statement": "Obtain and combine information about ways individual communities use science ideas to protect the Earth\u2019s resources, environment, and address climate change issues.",
+    "subject": "science",
+    "grade": "5"
+  },
+  {
+    "code": "5-LS1-1",
+    "statement": "Support an argument that plants get the materials they need for growth chiefly from air and water.",
+    "subject": "science",
+    "grade": "5"
+  },
+  {
+    "code": "5-LS2-1",
+    "statement": "Develop a model to describe the movement of matter among plants, animals, decomposers, and the environment.",
+    "subject": "science",
+    "grade": "5"
+  },
+  {
+    "code": "5-PS1-1",
+    "statement": "Develop a model to describe that matter is made of particles too small to be seen.",
+    "subject": "science",
+    "grade": "5"
+  },
+  {
+    "code": "5-PS1-2",
+    "statement": "Measure and graph quantities to provide evidence that regardless of the type of change that occurs when heating, cooling, or mixing substances, the total weight of matter is conserved.",
+    "subject": "science",
+    "grade": "5"
+  },
+  {
+    "code": "5-PS1-3",
+    "statement": "Make observations and measurements to identify materials based on their properties.",
+    "subject": "science",
+    "grade": "5"
+  },
+  {
+    "code": "5-PS1-4",
+    "statement": "Conduct an investigation to determine whether the mixing of two or more substances results in new substances.",
+    "subject": "science",
+    "grade": "5"
+  },
+  {
+    "code": "5-PS2-1",
+    "statement": "Support an argument that the gravitational force exerted by Earth on objects is directed down.",
+    "subject": "science",
+    "grade": "5"
+  },
+  {
+    "code": "5-PS3-1",
+    "statement": "Use models to describe that energy in animals\u2019 food (used for body repair, growth, motion, and to maintain body warmth) was once energy from the sun.",
+    "subject": "science",
+    "grade": "5"
+  },
+  {
+    "code": "5.DL.A.1",
+    "statement": "Understand how different visualizations can highlight different aspects of data. Ask questions and interpret data visualizations to describe and analyze patterns.",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.DL.A.2",
+    "statement": "Develop strategies to collect, organize and represent data of various types and from various sources. Communicate results digitally through a data visual (e.g. chart, storyboard, video presentation).",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.DL.A.3",
+    "statement": "Collect and clean data to be analyzable (e.g., make sure each entry is formatted correctly, deal with missing or incomplete data).",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.DL.A.4",
+    "statement": "Using appropriate visualizations (i.e. double line plot, double bar graph), analyze data across samples.",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.DL.B.5",
+    "statement": "Make a line plot to display a data set of measurements in fractions of a unit (\u00bd, \u00bc, \u215b). Use operations on fractions for this grade to solve problems involving information presented in line plots. For example, given different measurements of liquid in identical beakers, find the amount of liquid each beaker would contain if the total amount in all the beakers were redistributed equally.",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.G.A.1",
+    "statement": "Use a pair of perpendicular number lines, called axes, to define a coordinate system, with the intersection of the lines (the origin) arranged to coincide with the 0 on each line and a given point in the plane located by using an ordered pair of numbers, called its coordinates. Understand that the first number indicates how far to travel from the origin in the direction of one axis, and the second number indicates how far to travel in the direction of the second axis, with the convention that the names of the two axes and the coordinates correspond (e.g., *x*-axis and *x*-coordinate, *y*-axis and *y*-coordinate).",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.G.A.2",
+    "statement": "Represent real world and mathematical problems by graphing points in the first quadrant of the coordinate plane, and interpret coordinate values of points in the context of the situation.",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.G.B.3",
+    "statement": "Understand that attributes belonging to a category of two-dimensional figures also belong to all subcategories of that category. For example, all rectangles have four right angles and squares are rectangles, so all squares have four right angles.",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.G.B.4",
+    "statement": "Classify two-dimensional figures in a hierarchy based on properties.",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.M.A.1",
+    "statement": "Convert among different-sized standard measurement units within a given measurement system (e.g., convert 5 cm to 0.05 m), and use these conversions in solving multi-step, real world problems.",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.M.B.2",
+    "statement": "Recognize volume as an attribute of solid figures and understand concepts of volume measurement.",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.M.B.3",
+    "statement": "Measure volumes by counting unit cubes, using cubic cm, cubic in, cubic ft, and non-standard units.",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.M.B.4",
+    "statement": "Relate volume to the operations of multiplication and addition and solve real world and mathematical problems involving volume.",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.NBT.A.1",
+    "statement": "Recognize that in a multi-digit number, a digit in one place represents 10 times as much as it represents in the place to its right and \\(\\frac{1}{10}\\)of what it represents in the place to its left.",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.NBT.A.2",
+    "statement": "Explain patterns in the number of zeros of the product when multiplying a number by powers of 10, and explain patterns in the placement of the decimal point when a decimal is multiplied or divided by a power of 10. Use whole-number exponents to denote powers of 10.",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.NBT.A.3",
+    "statement": "Read, write, and compare decimals to thousandths.",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.NBT.A.4",
+    "statement": "Use place value understanding to round decimals to any place.",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.NBT.B.5",
+    "statement": "With accuracy and efficiency, multiply multi-digit whole numbers using the standard algorithm.",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.NBT.B.6",
+    "statement": "Find whole-number quotients of whole numbers with up to four-digit dividends and two-digit divisors, using strategies based on place value, the properties of operations, and/or the relationship between multiplication and division. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.NBT.B.7",
+    "statement": "Add, subtract, multiply, and divide decimals to hundredths, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.NF.A.1",
+    "statement": "Add and subtract fractions with unlike denominators (including mixed numbers) by replacing given fractions with equivalent fractions in such a way as to produce an equivalent sum or difference of fractions with like denominators. For example, \\(\\frac{2}{3} + \\frac{5}{4} = \\frac{8}{12} + \\frac{15}{12} = \\frac{23}{12}\\). (In general, \\(\\frac{a}{b} + \\frac{c}{d} = \\frac{(ad + bc)}{bd}\\)).",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.NF.A.2",
+    "statement": "Solve word problems involving addition and subtraction of fractions referring to the same whole, including cases of unlike denominators, e.g., by using visual fraction models or equations to represent the problem. Use benchmark fractions and number sense of fractions to estimate mentally and assess the reasonableness of answers. For example, recognize an incorrect result \\(\\frac{2}{5} + \\frac{1}{2} = \\frac{3}{7}\\) , by observing that \\(\\frac{3}{7} < \\frac{1}{2}\\) .",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.NF.B.3",
+    "statement": "Interpret a fraction as division of the numerator by the denominator (i.e., \\(\\frac{a}{b} = a \\div b\\)). Solve word problems involving division of whole numbers leading to answers in the form of fractions or mixed numbers, e.g., by using visual fraction models or equations to represent the problem. For example, interpret \\(\\frac{3}{4}\\) as the result of dividing 3 by 4, noting that \\(\\frac{3}{4}\\) multiplied by 4 equals 3, and that when 3 wholes are shared equally among 4 people each person has a share of size \\(\\frac{3}{4}\\) . If 9 people want to share a 50-pound sack of rice equally by weight, how many pounds of rice should each person get? Between what two whole numbers does your answer lie?",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.NF.B.4",
+    "statement": "Apply and extend previous understandings of multiplication to multiply a fraction or whole number by a fraction.",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.NF.B.5",
+    "statement": "Interpret multiplication as scaling (resizing), by:",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.NF.B.6",
+    "statement": "Solve real world problems involving multiplication of fractions and mixed numbers, e.g., by using visual fraction models or equations to represent the problem.",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.NF.B.7",
+    "statement": "Apply and extend previous understandings of division to divide unit fractions by whole numbers and whole numbers by unit fractions.",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.OA.A.1",
+    "statement": "Use parentheses, brackets, or braces in numerical expressions, and evaluate expressions with these symbols.",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.OA.A.2",
+    "statement": "Write simple expressions that record calculations with numbers, and interpret numerical expressions without evaluating them. For example, express the calculation \"add 8 and 7, then multiply by 2\" as \\(2 \\times (8 + 7)\\) . Recognize that \\(3 \\times (18932 + 921)\\) is three times as large as \\(18932 + 921\\) without having to calculate the indicated sum or product.",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "5.OA.B.3",
+    "statement": "Generate two numerical patterns using two given rules. Identify apparent relationships between corresponding terms. Form ordered pairs consisting of corresponding terms from the two patterns, and graph the ordered pairs on a coordinate plane. For example, given the rule \"Add 3\" and the starting number 0, and given the rule \"Add 6\" and the starting number 0, generate terms in the resulting sequences, and observe that the terms in one sequence are twice the corresponding terms in the other sequence. Explain informally why this is so.",
+    "subject": "math",
+    "grade": "5"
+  },
+  {
+    "code": "6.EE.A.1",
+    "statement": "Write and evaluate numerical expressions involving whole-number exponents.",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.EE.A.2",
+    "statement": "Write, read, and evaluate expressions in which letters stand for numbers.",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.EE.A.3",
+    "statement": "Apply the properties of operations to generate equivalent expressions. For example, apply the distributive property to the expression \\(3(2 + x)\\) to produce the equivalent expression\\(6 + 3x\\) apply the distributive property to the expression \\(24x + 18y\\)to produce the equivalent expression \\(6(4x + 3y)\\) ; apply properties of operations to \\(y + y + y\\) to produce the equivalent expression \\(3y\\).",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.EE.A.4",
+    "statement": "Identify when two expressions are equivalent (i.e., when the two expressions name the same number regardless of which value is substituted into them). For example, the expressions \\(y + y + y\\) and \\(3y\\)are equivalent because they name the same number regardless of which number \\(y\\) stands for.",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.EE.B.5",
+    "statement": "Understand solving an equation or inequality as a process of answering a question: which values from a specified set, if any, make the equation or inequality true? Use substitution to determine whether a given number in a specified set makes an equation or inequality true.",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.EE.B.6",
+    "statement": "Use variables to represent numbers and write expressions when solving a real-world or mathematical problem; understand that a variable can represent an unknown number, or, depending on the purpose at hand, any number in a specified set.",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.EE.B.7",
+    "statement": "Solve real-world and mathematical problems by writing and solving equations of the form\\ \\(x + p\\) and \\(px = q\\)for cases in which \\(p\\), \\(q\\) and \\(x\\) are all nonnegative rational numbers.",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.EE.B.8",
+    "statement": "Write an inequality of the form \\(x > c\\) or \\(x < c\\) to represent a constraint or condition in a real-world or mathematical problem. Recognize that inequalities of the form \\(x > c\\)or \\(x < c\\)have infinitely many solutions; represent solutions of such inequalities on number line diagrams.",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.EE.C.9",
+    "statement": "Use variables to represent two quantities in a real-world problem that change in relationship to one another; write an equation to express one quantity, thought of as the dependent variable, in terms of the other quantity, thought of as the independent variable. Analyze the relationship between the dependent and independent variables using graphs and tables, and relate these to the equation. For example, in a problem involving motion at constant speed, list and graph ordered pairs of distances and times, and write the equation \\(d = 65t\\) to represent the relationship between distance and time.",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.G.A.1",
+    "statement": "Find the area of right triangles, other triangles, special quadrilaterals, and polygons by composing into rectangles or decomposing into triangles and other shapes; apply these techniques in the context of solving real-world and mathematical problems.",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.G.A.2",
+    "statement": "Find the volume of a right rectangular prism with fractional edge lengths by packing it with unit cubes of the appropriate unit fraction edge lengths, and show that the volume is the same as would be found by multiplying the edge lengths of the prism. Apply the formulas \\(V = lwh\\)and \\(V = Bh\\)to find volumes of right rectangular prisms with fractional edge lengths in the context of solving real-world and mathematical problems.",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.G.A.3",
+    "statement": "Draw polygons in the coordinate plane given coordinates for the vertices; use coordinates to find the length of a side joining points with the same first coordinate or the same second coordinate. Apply these techniques in the context of solving real-world and mathematical problems.",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.G.A.4",
+    "statement": "Represent three-dimensional figures (e.g., pyramid, triangular prism, rectangular prism) using nets made up of rectangles and triangles, and use the nets to find the surface area of these figures. Apply these techniques in the context of solving real-world and mathematical problems.",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.NS.A.1",
+    "statement": "Interpret and compute quotients of fractions, and solve word problems involving division of fractions by fractions, e.g., by using visual fraction models and equations to represent the problem. For example, create a story context for \\(\\frac{2}{3} \\div \\frac{3}{4}\\) and use a visual fraction model to show the quotient; use the relationship between multiplication and division to explain that \\(\\frac{2}{3} \\div \\frac{3}{4} = \\frac{8}{9}\\) because \\(\\frac{3}{4}\\) of \\(\\frac{8}{9}\\) is \\(\\frac{2}{3}\\). (In general, \\(\\frac{a}{b} \\div \\frac{c}{d} = \\frac{ad}{bc}\\) ). How much chocolate will each person get if 3 people share\\(\\frac{1}{2}\\) lb. of chocolate equally? How many \\(\\frac{3}{4}\\) cup servings are in \\(\\frac{2}{3}\\) of a cup of yogurt? How wide is a rectangular strip of land with length\\(\\frac{3}{4}\\) mi and area \\(\\frac{1}{2}\\) square mi?",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.NS.B.2",
+    "statement": "With accuracy and efficiency**,** divide multi-digit numbers using the standard algorithm.",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.NS.B.3",
+    "statement": "With accuracy and efficiency**,** add, subtract, multiply, and divide multi-digit decimals using the standard algorithm for each operation.",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.NS.B.4",
+    "statement": "Find the greatest common factor of two whole numbers less than or equal to 100 and the least common multiple of two whole numbers less than or equal to 12. Use the distributive property to express a sum of two whole numbers 1--100 with a common factor as a multiple of a sum of two whole numbers with no common factor. For example, express \\(36 + 8\\) as \\(4(9 + 2)\\).",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.NS.C.5",
+    "statement": "Understand that positive and negative numbers are used together to describe quantities having opposite directions or values (e.g., temperature above/below zero, elevation above/below sea level, credits/debits, positive/negative electric charge); use positive and negative numbers to represent quantities in real-world contexts, explaining the meaning of 0 in each situation.",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.NS.C.6",
+    "statement": "Understand a rational number as a point on the number line. Extend number line diagrams and coordinate axes familiar from previous grades to represent points on the line and in the plane with negative number coordinates.",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.NS.C.7",
+    "statement": "Understand ordering and absolute value of rational numbers.",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.NS.C.8",
+    "statement": "Solve real-world and mathematical problems by graphing points in all four quadrants of the coordinate plane. Include use of coordinates and absolute value to find distances between points with the same first coordinate or the same second coordinate.",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.RP.A.1",
+    "statement": "Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities. For example, \"The ratio of wings to beaks in the bird house at the zoo was 2:1, because for every 2 wings there was 1 beak.\" \"For every vote candidate A received, candidate C received nearly three votes.\"",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.RP.A.2",
+    "statement": "Understand the concept of a unit rate *a*/*b* associated with a ratio *a*:*b* with *b* \u22600, and use rate language in the context of a ratio relationship. For example, \"This recipe has a ratio of 3 cups of flour to 4 cups of sugar, so there is \u00be-cup of flour for each cup of sugar.\" \"We paid \\$75 for 15 hamburgers, which is a rate of \\$5 per hamburger.\" (Clarification: Expectations for unit rates in this grade are limited to non-complex fractions.)",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.RP.A.3",
+    "statement": "Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations.",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.SP.A.1",
+    "statement": "Recognize a statistical question as one that anticipates variability in the data related to the question and accounts for it in the answers. For example, \"How old am I?\" is not a statistical question, but \"How old are the students in my school?\" is a statistical question because one anticipates variability in students' ages.",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.SP.A.2",
+    "statement": "Understand that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread, and overall shape.",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.SP.A.3",
+    "statement": "Recognize that a measure of center for a numerical data set summarizes all of its values with a single number, while a measure of variation describes how its values vary with a single number.",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.SP.B.4",
+    "statement": "Display numerical data in plots on a number line, including dot plots, histograms, and box plots.",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "6.SP.B.5",
+    "statement": "Summarize numerical data sets in relation to their context, such as by:",
+    "subject": "math",
+    "grade": "6"
+  },
+  {
+    "code": "7.EE.A.1",
+    "statement": "Apply properties of operations as strategies to add, subtract, factor, and expand linear expressions with rational coefficients.",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "7.EE.A.2",
+    "statement": "Understand that rewriting an expression in different forms in a problem context can shed light on the problem and how the quantities in it are related. For example, \\(a + 0.05a = 1.05a\\) means that \"increase by 5%\" is the same as \"multiply by 1.05.\"",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "7.EE.B.3",
+    "statement": "Solve multi-step real-life and mathematical problems posed with positive and negative rational numbers in any form (whole numbers, fractions, and decimals), using tools strategically. Apply properties of operations to calculate with numbers in any form; convert between forms as appropriate; and assess the reasonableness of answers using mental computation and estimation strategies. For example: If a woman making \\$25 an hour gets a 10% raise, she will make an additional \\(\\frac{1}{10}\\) of her salary an hour, or \\$2.50, for a new salary of \\$27.50. If you want to place a towel bar \\(9\\frac{3}{4}\\) inches long in the center of a door that is \\(27\\frac{1}{2}\\) inches wide, you will need to place the bar about 9 inches from each edge; this estimate can be used as a check on the exact computation.",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "7.EE.B.4",
+    "statement": "Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities.",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "7.G.A.1",
+    "statement": "Solve problems involving scale drawings of geometric figures, including computing actual lengths and areas from a scale drawing and reproducing a scale drawing at a different scale.",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "7.G.A.2",
+    "statement": "Draw (with technology, with ruler and protractor, as well as freehand) geometric shapes with given conditions. Focus on constructing triangles from three measures of angles or sides, noticing when the conditions determine a unique triangle, more than one triangle, or no triangle.",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "7.G.A.3",
+    "statement": "Describe the two-dimensional figures that result from slicing three-dimensional figures, as in plane sections of right rectangular prisms and right rectangular pyramids.",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "7.G.B.4",
+    "statement": "Know the formulas for the area and circumference of a circle and use them to solve problems; give an informal derivation of the relationship between the circumference and area of a circle.",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "7.G.B.5",
+    "statement": "Use facts about supplementary, complementary, vertical, and adjacent angles in a multi-step problem to write and solve simple equations for an unknown angle in a figure.",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "7.G.B.6",
+    "statement": "Solve real-world and mathematical problems involving area, volume and surface area of two- and three-dimensional objects composed of triangles, quadrilaterals, polygons, cubes, and right prisms.",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "7.NS.A.1",
+    "statement": "Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram.",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "7.NS.A.2",
+    "statement": "Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers.",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "7.NS.A.3",
+    "statement": "Solve real-world and mathematical problems involving the four operations with rational numbers. (Clarification: Computations with rational numbers extend the rules for manipulating fractions to complex fractions.)",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "7.RP.A.1",
+    "statement": "Compute unit rates associated with ratios of fractions, including ratios of lengths, areas and other quantities measured in like or different units. For example, if a person walks \\(\\frac{1}{2}\\) mile in each \\(\\frac{1}{4}\\) hour, compute the unit rate as the complex fraction \\((\\frac{1}{2})(\\frac{1}{4})\\) miles per hour, equivalently 2 miles per hour.",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "7.RP.A.2",
+    "statement": "Recognize and represent proportional relationships between quantities.",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "7.RP.A.3",
+    "statement": "Use proportional relationships to solve multistep ratio and percent problems. Examples: simple interest, tax, markups and markdowns, gratuities and commissions, fees, percent increase and decrease, percent error.",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "7.SP.A.1",
+    "statement": "Understand that statistics can be used to gain information about a population by examining a sample of the population; generalizations about a population from a sample are valid only if the sample is representative of that population. Understand that random sampling tends to produce representative samples and support valid inferences.",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "7.SP.A.2",
+    "statement": "Use data from a random sample to draw inferences about a population with an unknown characteristic of interest. Generate multiple samples (or simulated samples) of the same size to gauge the variation in estimates or predictions. For example, estimate the mean word length in a book by randomly sampling words from the book; predict the winner of a school election based on randomly sampled survey data. Gauge how far off the estimate or prediction might be.",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "7.SP.B.3",
+    "statement": "Informally assess the degree of visual overlap of two numerical data distributions with similar variabilities, measuring the difference between the centers by expressing it as a multiple of a measure of variability. For example, the mean height of players on the basketball team is 10 cm greater than the mean height of players on the soccer team, about twice the variability (mean absolute deviation) on either team; on a dot plot, the separation between the two distributions of heights is noticeable.",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "7.SP.B.4",
+    "statement": "Use measures of center and measures of variability for numerical data from random samples to draw informal comparative inferences about two populations. For example, decide whether the words in a chapter of a seventh-grade science book are generally longer than the words in a chapter of a fourth-grade science book.",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "7.SP.C.5",
+    "statement": "Understand that the probability of a chance event is a number between 0 and 1 that expresses the likelihood of the event occurring. Larger numbers indicate greater likelihood. A probability near 0 indicates an unlikely event, a probability around \u00bd indicates an event that is neither unlikely nor likely, and a probability near 1 indicates a likely event.",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "7.SP.C.6",
+    "statement": "Approximate the probability of a chance event by collecting data on the chance process that produces it and observing its long-run relative frequency, and predict the approximate relative frequency given the probability. For example, when rolling a number cube 600 times, predict that a 3 or 6 would be rolled roughly 200 times, but probably not exactly 200 times.",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "7.SP.C.7",
+    "statement": "Develop a probability model and use it to find probabilities of events. Compare probabilities from a model to observed frequencies; if the agreement is not good, explain possible sources of the discrepancy.",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "7.SP.C.8",
+    "statement": "Find probabilities of compound events using organized lists, tables, tree diagrams, and simulation.",
+    "subject": "math",
+    "grade": "7"
+  },
+  {
+    "code": "8.1.5.AP.1",
+    "statement": "Compare and refine multiple algorithms for the same task and determine which is the most appropriate.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.1.5.AP.2",
+    "statement": "Create programs that use clearly named variables to store and modify data.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.1.5.AP.3",
+    "statement": "Create programs that include sequences, events, loops, and conditionals.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.1.5.AP.4",
+    "statement": "Break down problems into smaller, manageable sub-problems to facilitate program development.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.1.5.AP.5",
+    "statement": "Modify, remix, or incorporate pieces of existing programs into one\u2019s own work to add additional features or create a new program.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.1.5.AP.6",
+    "statement": "Develop programs using an iterative process, implement the program design, and test the program to ensure it works as intended.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.1.5.CS.1",
+    "statement": "Model how computing devices connect to other components to form a system.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.1.5.CS.2",
+    "statement": "Model how computer software and hardware work together as a system to accomplish tasks.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.1.5.CS.3",
+    "statement": "Identify potential solutions for simple hardware and software problems using common troubleshooting strategies.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.1.5.DA.1",
+    "statement": "Collect, organize, and display data in order to highlight relationships or support a claim.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.1.5.DA.2",
+    "statement": "Compare the amount of storage space required for different types of data.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.1.5.DA.3",
+    "statement": "Organize and present collected data visually to communicate insights gained from different views of the data.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.1.5.DA.4",
+    "statement": "Organize and present climate change data visually to highlight relationships or support a claim.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.1.5.DA.5",
+    "statement": "Propose cause and effect relationships, predict outcomes, or communicate ideas using data.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.1.5.IC.1",
+    "statement": "Identify computing technologies that have impacted how individuals live and work and describe the factors that influenced the changes.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.1.5.IC.2",
+    "statement": "Identify possible ways to improve the accessibility and usability of computing technologies to address the diverse needs and wants of users.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.1.5.NI.1",
+    "statement": "Develop models that successfully transmit and receive information using both wired and wireless methods.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.1.5.NI.2",
+    "statement": "Describe physical and digital security measures for protecting sensitive personal information.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.1.8.AP.1",
+    "statement": "Design and illustrate algorithms that solve complex problems using flowcharts and/or pseudocode.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.AP.2",
+    "statement": "Create clearly named variables that represent different data types and perform operations on their values.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.AP.3",
+    "statement": "Design and iteratively develop programs that combine control structures, including nested loops and compound conditionals.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.AP.4",
+    "statement": "Decompose problems and sub-problems into parts to facilitate the design, implementation, and review of programs.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.AP.5",
+    "statement": "Create procedures with parameters to organize code and make it easier to reuse.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.AP.6",
+    "statement": "Refine a solution that meets users\u2019 needs by incorporating feedback from team members and users.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.AP.7",
+    "statement": "Design programs, incorporating existing code, media, and libraries, and give attribution.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.AP.8",
+    "statement": "Systematically test and refine programs using a range of test cases and users.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.AP.9",
+    "statement": "Document programs in order to make them easier to follow, test, and debug.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.CS.1",
+    "statement": "Recommend improvements to computing devices in order to improve the ways users interact with the devices.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.CS.2",
+    "statement": "Design a system that combines hardware and software components to process data.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.CS.3",
+    "statement": "Justify design decisions and explain potential system trade-offs.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.CS.4",
+    "statement": "Systematically apply troubleshooting strategies to identify and resolve hardware and software problems in computing systems.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.DA.1",
+    "statement": "Organize and transform data collected using computational tools to make it usable for a specific purpose.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.DA.2",
+    "statement": "Explain the difference between how the computer stores data as bits and how the data is displayed.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.DA.3",
+    "statement": "Identify the appropriate tool to access data based on its file format.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.DA.4",
+    "statement": "Transform data to remove errors and improve the accuracy of the data for analysis.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.DA.5",
+    "statement": "Test, analyze, and refine computational models.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.DA.6",
+    "statement": "Analyze climate change computational models and propose refinements.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.IC.1",
+    "statement": "Compare the trade-offs associated with computing technologies that affect individual\u2019s everyday activities and career options.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.IC.2",
+    "statement": "Describe issues of bias and accessibility in the design of existing technologies.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.NI.1",
+    "statement": "Model how information is broken down into smaller pieces, transmitted as addressed packets through multiple devices over networks and the Internet, and reassembled at the destination.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.NI.2",
+    "statement": "Model the role of protocols in transmitting data across networks and the Internet and how they enable secure and errorless communication.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.NI.3",
+    "statement": "Explain how network security depends on a combination of hardware, software, and practices that control access to data and systems.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.1.8.NI.4",
+    "statement": "Explain how new security measures have been created in response to key malware events.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.2.5.EC.1",
+    "statement": "Analyze how technology has contributed to or reduced inequities in local and global communities and determine its short- and long-term effects.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.2.5.ED.1",
+    "statement": "Explain the functions of a system and its subsystems.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.2.5.ED.2",
+    "statement": "Collaborate with peers to collect information, brainstorm to solve a problem, and evaluate all possible solutions to provide the best results with supporting sketches or models.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.2.5.ED.3",
+    "statement": "Follow step by step directions to assemble a product or solve a problem, using appropriate tools to accomplish the task.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.2.5.ED.4",
+    "statement": "Explain factors that influence the development and function of products and systems (e.g., resources, criteria, desired features, constraints).",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.2.5.ED.5",
+    "statement": "Describe how specifications and limitations impact the engineering design process.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.2.5.ED.6",
+    "statement": "Evaluate and test alternative solutions to a problem using the constraints and trade-offs identified in the design process.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.2.5.ETW.1",
+    "statement": "Describe how resources such as material, energy, information, time, tools, people, and capital are used in products or systems.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.2.5.ETW.2",
+    "statement": "Describe ways that various technologies are used to reduce improper use of resources.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.2.5.ETW.3",
+    "statement": "Explain why human-designed systems, products, and environments need to be constantly monitored, maintained, and improved.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.2.5.ETW.4",
+    "statement": "Explain the impact that resources, such as energy and materials used to develop technology, have on the environment.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.2.5.ETW.5",
+    "statement": "Identify the impact of a specific technology on the environment and determine what can be done to increase positive effects and to reduce any negative effects, such as climate change.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.2.5.ITH.1",
+    "statement": "Explain how societal needs and wants influence the development and function of a product and a system.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.2.5.ITH.2",
+    "statement": "Evaluate how well a new tool has met its intended purpose and identify any shortcomings it might have.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.2.5.ITH.3",
+    "statement": "Analyze the effectiveness of a new product or system and identify the positive and/or negative consequences resulting from its use.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.2.5.ITH.4",
+    "statement": "Describe a technology/tool that has made the way people live easier or has led to a new business or career.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.2.5.NT.1",
+    "statement": "Troubleshoot a product that has stopped working and brainstorm ideas to correct the problem.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.2.5.NT.2",
+    "statement": "Identify new technologies resulting from the demands, values, and interests of individuals, businesses, industries, and societies.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.2.5.NT.3",
+    "statement": "Redesign an existing product for a different purpose in a collaborative team.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.2.5.NT.4",
+    "statement": "Identify how improvement in the understanding of materials science impacts technologies.",
+    "subject": "csdt",
+    "grade": "5"
+  },
+  {
+    "code": "8.2.8.EC.1",
+    "statement": "Explain ethical issues that may arise from the use of new technologies.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.2.8.EC.2",
+    "statement": "Examine the effects of ethical and unethical practices in product design and development.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.2.8.ED.1",
+    "statement": "Evaluate the function, value, and aesthetics of a technological product or system, from the perspective of the user and the producer.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.2.8.ED.2",
+    "statement": "Identify the steps in the design process that could be used to solve a problem.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.2.8.ED.3",
+    "statement": "Develop a proposal for a solution to a real-world problem that includes a model (e.g., physical prototype, graphical/technical sketch).",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.2.8.ED.4",
+    "statement": "Investigate a malfunctioning system, identify its impact, and explain the step-by-step process used to troubleshoot, evaluate, and test options to repair the product in a collaborative team.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.2.8.ED.5",
+    "statement": "Explain the need for optimization in a design process.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.2.8.ED.6",
+    "statement": "Analyze how trade-offs can impact the design of a product.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.2.8.ED.7",
+    "statement": "Design a product to address a real-world problem and document the iterative design process, including decisions made as a result of specific constraints and trade-offs (e.g., annotated sketches).",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.2.8.ETW.1",
+    "statement": "Illustrate how a product is upcycled into a new product and analyze the short- and long-term benefits and costs.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.2.8.ETW.2",
+    "statement": "Analyze the impact of modifying resources in a product or system (e.g., materials, energy, information, time, tools, people, capital).",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.2.8.ETW.3",
+    "statement": "Analyze the design of a product that negatively impacts the environment or society and develop possible solutions to lessen its impact.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.2.8.ETW.4",
+    "statement": "Compare the environmental effects of two alternative technologies devised to address climate change issues and use data to justify which choice is best.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.2.8.ITH.1",
+    "statement": "Explain how the development and use of technology influences economic, political, social, and cultural issues.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.2.8.ITH.2",
+    "statement": "Compare how technologies have influenced society over time.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.2.8.ITH.3",
+    "statement": "Evaluate the impact of sustainability on the development of a designed product or system.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.2.8.ITH.4",
+    "statement": "Identify technologies that have been designed to reduce the negative consequences of other technologies and explain the change in impact.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.2.8.ITH.5",
+    "statement": "Compare the impacts of a given technology on different societies, noting factors that may make a technology appropriate and sustainable in one society but not in another.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.2.8.NT.1",
+    "statement": "Examine a malfunctioning tool, product, or system and propose solutions to the problem.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.2.8.NT.2",
+    "statement": "Analyze an existing technological product that has been repurposed for a different function.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.2.8.NT.3",
+    "statement": "Examine a system, consider how each part relates to other parts, and redesign it for another purpose.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.2.8.NT.4",
+    "statement": "Explain how a product designed for a specific demand was modified to meet a new demand and led to a new product.",
+    "subject": "csdt",
+    "grade": "8"
+  },
+  {
+    "code": "8.EE.A.1",
+    "statement": "Know and apply the properties of integer exponents to generate equivalent numerical expressions. For example, \\(32 \\times 3 - 5 = 3 - 3 = \\frac{1}{33} = \\frac{1}{27}\\).",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.EE.A.2",
+    "statement": "Use square root and cube root symbols to represent solutions to equations of the form \\(x2 = p\\)and \\(x3 = p\\) where \\(p\\) is a positive rational number.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.EE.A.3",
+    "statement": "Use numbers expressed in the form of a single digit times an integer power of 10 to estimate very large or very small quantities, and to express how many times as much one is than the other. For example, estimate the population of the United States as \\(3 \\times 108\\) and the population of the world as \\(7 \\times 109\\) and determine that the world population is more than 20 times larger.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.EE.A.4",
+    "statement": "Perform operations with numbers expressed in scientific notation, including problems where both decimal and scientific notation are used. Use scientific notation and choose units of appropriate size for measurements of very large or very small quantities (e.g., use millimeters per year for seafloor spreading). Interpret scientific notation that has been generated by technology.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.EE.B.5",
+    "statement": "Graph proportional relationships, interpreting the unit rate as the slope of the graph. Compare two different proportional relationships represented in different ways. For example, compare a distance-time graph to a distance-time equation to determine which of two moving objects has greater speed.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.EE.B.6",
+    "statement": "Use similar triangles to explain why the slope \\(m\\) is the same between any two distinct points on a non-vertical line in the coordinate plane; derive the equation \\(y = mx\\) for a line through the origin and the equation \\(y = mx + b\\) for a line intercepting the vertical axis at \\(b\\).",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.EE.C.7",
+    "statement": "Solve linear equations in one variable.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.EE.C.8",
+    "statement": "Analyze and solve pairs of simultaneous linear equations.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.F.A.1",
+    "statement": "Understand that a function is a rule that assigns to each input exactly one output. The graph of a function is the set of ordered pairs consisting of an input and the corresponding output.\\ (Clarification: Function notation is not required in Grade 8)",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.F.A.2",
+    "statement": "Compare properties (e.g. rate of change, intercepts, domain and range) of two functions each represented in a different way (algebraically, graphically, numerically in tables, or by verbal descriptions). For example, given a linear function represented by a table of values and a linear function represented by an algebraic expression, determine which function has the greater rate of change.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.F.A.3",
+    "statement": "Interpret the equation \\(y = mx + b\\)as defining a linear function, whose graph is a straight line; give examples of functions that are not linear. For example, the function \\(A = s2\\) giving the area of a square as a function of its side length is not linear because its graph contains the points (1,1), (2,4) and (3,9), which are not on a straight line.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.F.B.4",
+    "statement": "Construct a function to model a linear relationship between two quantities. Determine the rate of change and initial value of the function from a description of a relationship or from two values, including reading these from a table or from a graph. Interpret the rate of change and initial value of a linear function in terms of the situation it models, and in terms of its graph or a table of values.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.F.B.5",
+    "statement": "Describe qualitatively the functional relationship between two quantities by analyzing a graph (e.g., where the function is increasing or decreasing, linear or nonlinear). Sketch a graph that exhibits the qualitative features of a function that has been described verbally.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.G.A.1",
+    "statement": "Verify experimentally the properties of rotations, reflections, and translations:",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.G.A.2",
+    "statement": "Understand that a two-dimensional figure is congruent to another if the second can be obtained from the first by a sequence of rotations, reflections, and translations; given two congruent figures, describe a sequence that exhibits the congruence between them.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.G.A.3",
+    "statement": "Describe the effect of dilations, translations, rotations, and reflections on two-dimensional figures using coordinates.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.G.A.4",
+    "statement": "Understand that a two-dimensional figure is similar to another if the second can be obtained from the first by a sequence of rotations, reflections, translations, and dilations; given two similar two-dimensional figures, describe a sequence that exhibits the similarity between them.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.G.A.5",
+    "statement": "Use informal arguments to establish facts about the angle sum and exterior angle of triangles, about the angles created when parallel lines are cut by a transversal, and the angle-angle criterion for similarity of triangles. For example, arrange three copies of the same triangle so that the sum of the three angles appears to form a line, and give an argument in terms of transversals why this is so.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.G.B.6",
+    "statement": "Explain a proof of the Pythagorean Theorem and its converse.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.G.B.7",
+    "statement": "Apply the Pythagorean Theorem to determine unknown side lengths in right triangles in real-world and mathematical problems in two and three dimensions.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.G.B.8",
+    "statement": "Apply the Pythagorean Theorem to find the distance between two points in a coordinate system.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.G.C.9",
+    "statement": "Know the formulas for the volumes of cones, cylinders, and spheres and use them to solve real-world and mathematical problems.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.NS.A.1",
+    "statement": "Know that numbers that are not rational are called irrational. Understand informally that every number has a decimal expansion; for rational numbers show that the decimal expansion repeats eventually and convert a decimal expansion which repeats eventually into a rational number.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.NS.A.2",
+    "statement": "Use rational approximations of irrational numbers to compare the size of irrational numbers, locate them approximately on a number line diagram, and estimate the value of expressions (e.g., $\\pi^{2}$). For example, by truncating the decimal expansion of \\(\\frac{}{2}\\), show that \\(\\frac{}{2}\\)is between 1 and 2, then between 1.4 and 1.5, and explain how to continue on to get better approximations.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.NS.A.3",
+    "statement": "Understand that the sum or product of two rational numbers is rational; that the sum of a rational number and an irrational number is irrational; and that the product of a nonzero rational number and an irrational number is irrational.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.SP.A.1",
+    "statement": "Construct and interpret scatter plots for bivariate measurement data to investigate patterns of association between two quantities. Describe patterns such as clustering, outliers, positive or negative association, linear association, and nonlinear association.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.SP.A.2",
+    "statement": "Know that straight lines are widely used to model relationships between two quantitative variables. For scatter plots that suggest a linear association, informally fit a straight line, and informally assess the model fit (e.g. line of best fit) by judging the closeness of the data points to the line.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.SP.A.3",
+    "statement": "Use the equation of a linear model to solve problems in the context of bivariate measurement data, interpreting the slope and intercept. For example, in a linear model for a biology experiment, interpret a slope of 1.5 cm/hr as meaning that an additional hour of sunlight each day is associated with an additional 1.5 cm in mature plant height.",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "8.SP.A.4",
+    "statement": "Understand that patterns of association can also be seen in bivariate categorical data by displaying frequencies and relative frequencies in a two-way table. Construct and interpret a two-way table summarizing data on two categorical variables collected from the same subjects. Use relative frequencies calculated for rows or columns to describe possible association between the two variables. For example, collect data from students in your class on whether or not they have a curfew on school nights and whether or not they have assigned chores at home. Is there evidence that those who have a curfew also tend to have chores?",
+    "subject": "math",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.5.CP.1",
+    "statement": "Identify the advantages of maintaining a positive credit history.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.1.5.CR.1",
+    "statement": "Compare various ways to give back and relate them to your strengths, interests, and other personal factors.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.1.5.EG.1",
+    "statement": "Explain and give examples of what is meant by the term \u201ctax.\u201d",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.1.5.EG.2",
+    "statement": "Describe how tax monies are spent",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.1.5.EG.3",
+    "statement": "Explain the impact of the economic system on one\u2019s personal financial goals.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.1.5.EG.4",
+    "statement": "Describe how an individual\u2019s financial decisions affect society and contribute to the overall economy.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.1.5.EG.5",
+    "statement": "Identify sources of consumer protection and assistance.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.1.5.FI.1",
+    "statement": "Identify various types of financial institutions and the services they offer including banks, credit unions, and credit card companies.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.1.5.FP.1",
+    "statement": "Illustrate the impact of financial traits on financial decisions.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.1.5.FP.2",
+    "statement": "Identify the elements of being a good steward of money.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.1.5.FP.3",
+    "statement": "Analyze how spending choices and decision-making can result in positive or negative consequences.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.1.5.FP.4",
+    "statement": "Explain the role of spending money and how it affects well- being and happiness (e.g., \"happy money,\" experiences over things, donating to causes, anticipation, etc.).",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.1.5.FP.5",
+    "statement": "Illustrate how inaccurate information is disseminated through various external influencers including the media, advertisers/marketers, friends, educators, and family members.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.1.5.PB.1",
+    "statement": "Develop a personal budget and explain how it reflects spending, saving, and charitable contributions.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.1.5.PB.2",
+    "statement": "Describe choices consumers have with money (e.g., save, spend, donate).",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.1.5.RMI.1",
+    "statement": "Identify risks that individuals and households face.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.1.5.RMI.2",
+    "statement": "Justify reasons to have insurance.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.1.8.CDM.1",
+    "statement": "Compare and contrast the use of credit cards and debit cards for specific purchases and the advantages and disadvantages of using each.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.CDM.2",
+    "statement": "Demonstrate an understanding of the terminology associated with different types of credit (e.g., credit cards, installment loans, mortgages, lines of credit) and compare and calculate the interest rates associated with each.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.CDM.3",
+    "statement": "Compare and contrast loan management strategies, including interest charges and total principal repayment costs.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.CDM.4",
+    "statement": "Evaluate the application process for different types of loans (e.g., credit card, mortgage, student loans).",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.CP.1",
+    "statement": "Compare prices for the same goods or services.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.CP.2",
+    "statement": "Analyze how spending habits affect one\u2019s ability to save.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.CP.3",
+    "statement": "Explain the purpose of a credit score and credit record, the factors and impact of credit scores.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.CP.4",
+    "statement": "Summarize borrower\u2019s credit report rights.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.CP.5",
+    "statement": "Compare the financial products and services available to",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.CR.1",
+    "statement": "Compare and contrast the role of philanthropy, volunteer service, and charities in community development and the quality of life in a variety of cultures.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.CR.2",
+    "statement": "Compare various ways to give back through strengths, passions, goals, and other personal factors.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.CR.3",
+    "statement": "Relate the importance of consumer, business, and government responsibility to the economy and personal finance.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.CR.4",
+    "statement": "Examine the implications of legal and ethical behaviors when making financial decisions.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.EG.1",
+    "statement": "Explain how taxes affect disposable income and the difference between net and gross income",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.EG.2",
+    "statement": "Explain why various sources of income are taxed differently.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.EG.3",
+    "statement": "Explain the concept and forms of taxation and evaluate how local, state and federal governments use taxes to fund public activities and initiatives.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.EG.4",
+    "statement": "Identify and explain the consequences of breaking federal and/or state employment or financial laws.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.EG.5",
+    "statement": "Interpret how changing economic and societal needs influence employment trends and future education.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.EG.6",
+    "statement": "Explain the economic principle of the circular flow of money in different situations regarding buying products or services from a local or national business and buying imported or domestic goods.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.EG.7",
+    "statement": "Explain the effect of the economy (e.g., inflation, unemployment) on personal income, individual and family security, and consumer decisions.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.EG.8",
+    "statement": "Analyze the impact of currency rates over a period of time and the impact on trade, employment, and income.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.EG.9",
+    "statement": "Identify types of consumer fraud, the procedures for reporting fraud, the specific consumer protection laws, and the issues they address.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.FI.1",
+    "statement": "Identify the factors to consider when selecting various financial service providers.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.FI.2",
+    "statement": "Determine the most appropriate use of various financial products and services to borrow and access money for making purchases (e.g., ATM, debit cards, credit cards, check books, online/mobile banking).",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.FI.3",
+    "statement": "Evaluate the most appropriate financial institutions to assist with meeting various personal financial needs and goals.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.FI.4",
+    "statement": "Analyze the interest rates and fees associated with financial",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.FP.1",
+    "statement": "Describe the impact of personal values on various financial scenarios.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.FP.2",
+    "statement": "Evaluate the role of emotions, attitudes, and behavior (rational and irrational) in making financial decisions.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.FP.3",
+    "statement": "Explain how self-regulation is important to managing money (e.g., delayed gratification, impulse buying, peer pressure, etc.).",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.FP.4",
+    "statement": "Analyze how familial and cultural values influence savings rates, spending, and other financial decisions.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.FP.5",
+    "statement": "Determine how spending, investing, and using credit wisely contributes to financial well-being.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.FP.6",
+    "statement": "Compare and contrast advertising messages to understand what they are trying to accomplish.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.FP.7",
+    "statement": "Identify the techniques and effects of deceptive advertising.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.PB.1",
+    "statement": "Predict future expenses or opportunities that should be included in the budget planning process.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.PB.2",
+    "statement": "Explain how different circumstances can affect one\u2019s personal budget.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.PB.3",
+    "statement": "Explain how to create budget that aligns with financial goals.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.PB.4",
+    "statement": "Construct a simple personal savings and spending plan based on various sources of income and different stages of life (e.g. teenager, young adult, family).",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.PB.5",
+    "statement": "Identify factors that affect one\u2019s goals, including peers, culture, location, and past experiences.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.PB.6",
+    "statement": "Construct a budget to save for short-term, long term, and charitable goals.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.PB.7",
+    "statement": "Brainstorm techniques that will help decrease expenses including comparison shopping, negotiating, and day-to-day expense",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.RM.1",
+    "statement": "Determine criteria for deciding the amount of insurance protection needed.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.RM.2",
+    "statement": "Analyze the need for and value of different types of insurance and the impact of deductibles in protecting assets against loss.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.RM.3",
+    "statement": "Evaluate the need for different types of warranties.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.1.8.RM.4",
+    "statement": "Explain the purpose of insurance products and the reasons for property product and liability insurance protection.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.2.5.CAP.1",
+    "statement": "Evaluate personal likes and dislikes and identify careers that might be suited to personal likes.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.2.5.CAP.2",
+    "statement": "Identify how you might like to earn an income.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.2.5.CAP.3",
+    "statement": "Identify qualifications needed to pursue traditional and non-traditional careers and occupations.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.2.5.CAP.4",
+    "statement": "Explain the reasons why some jobs and careers require specific training, skills, and certification (e.g., life guards, child care, medicine, education) and examples of these requirements.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.2.5.CAP.5",
+    "statement": "Identify various employee benefits, including income, medical, vacation time, and lifestyle benefits provided by different types of jobs and careers.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.2.5.CAP.6",
+    "statement": "Compare the characteristics of a successful entrepreneur with the traits of successful employees.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.2.5.CAP.7",
+    "statement": "Identify factors to consider before starting a business.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.2.5.CAP.8",
+    "statement": "Identify risks that individuals and households face.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.2.5.CAP.9",
+    "statement": "Justify reasons to have insurance.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.2.8.CAP.1",
+    "statement": "Identify offerings such as high school and county career and technical school courses, apprenticeships, military programs, and dual enrollment courses that support career or occupational areas of interest.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.2.8.CAP.2",
+    "statement": "Develop a plan that includes information about career areas of interest.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.2.8.CAP.3",
+    "statement": "Explain how career choices, educational choices, skills, economic conditions, and personal behavior affect income.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.2.8.CAP.4",
+    "statement": "Explain how an individual\u2019s online behavior (e.g., social networking, photo exchanges, video postings) may impact opportunities for employment or advancement.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.2.8.CAP.5",
+    "statement": "Develop a personal plan with the assistance of an adult mentor that includes information about career areas of interest, goals and an educational plan.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.2.8.CAP.6",
+    "statement": "Compare the costs of postsecondary education with the potential increase in income from a career of choice.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.2.8.CAP.7",
+    "statement": "Devise a strategy to minimize costs of postsecondary education.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.2.8.CAP.8",
+    "statement": "Compare education and training requirements, income potential, and primary duties of at least two jobs of interest.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.2.8.CAP.9",
+    "statement": "Analyze how a variety of activities related to career preparation (e.g., volunteering, apprenticeships, structured learning experiences, dual enrollment, job search, scholarships) impacts post- secondary options.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.2.8.CAP.10",
+    "statement": "Evaluate how careers have evolved regionally, nationally, and globally.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.2.8.CAP.11",
+    "statement": "Analyze potential career opportunities by considering different types of resources, including occupation databases, and state and national labor market statistics.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.2.8.CAP.12",
+    "statement": "Assess personal strengths, talents, values, and interests to appropriate jobs and careers to maximize career potential.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.2.8.CAP.13",
+    "statement": "Compare employee benefits when evaluating employment interests and explain the possible impact on personal finances.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.2.8.CAP.14",
+    "statement": "Evaluate sources of income and alternative resources to accurately compare employment options.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.2.8.CAP.15",
+    "statement": "Present how the demand for certain skills, the job market, and credentials can determine an individual\u2019s earning power.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.2.8.CAP.16",
+    "statement": "Research different ways workers/ employees improve their earning power through education and the acquisition of new knowledge and skills.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.2.8.CAP.17",
+    "statement": "Prepare a sample resume and cover letter as part of an application process.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.2.8.CAP.18",
+    "statement": "Explain how personal behavior, appearance, attitudes, and other choices may impact the job application process.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.2.8.CAP.19",
+    "statement": "Relate academic achievement, as represented by high school diplomas, college degrees, and industry credentials, to employability and to potential level",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.2.8.CAP.20",
+    "statement": "Identify the items to consider when estimating the cost of funding a business.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.5.CI.1",
+    "statement": "Use appropriate communication technologies to collaborate with individuals with diverse perspectives about a local and/or global climate change issue and deliberate about possible solutions (e.g., W.4.6, 3.MD.B.3,7.1.NM.IPERS.6).",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.CI.2",
+    "statement": "Investigate a persistent local or global issue, such as climate change, and collaborate with individuals with diverse perspectives to improve upon current actions designed to address the issue (e.g., 6.3.5.CivicsPD.3, W.5.7).",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.CI.3",
+    "statement": "Participate in a brainstorming session with individuals with diverse perspectives to",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.CI.4",
+    "statement": "Research the development process of a product and identify the role of failure as a",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.CT.1",
+    "statement": "Identify and gather relevant data that will aid in the problem-solving process (e.g.,",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.CT.2",
+    "statement": "Identify a problem and list the types of individuals and resources (e.g., school, community agencies, governmental, online) that can aid in solving the problem (e.g.,",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.CT.3",
+    "statement": "Describe how digital tools and technology may be used to solve problems.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.CT.4",
+    "statement": "Apply critical thinking and problem-solving strategies to different types of problems such as personal, academic, community and global (e.g., 6.1.5.CivicsCM.3).",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.DC.1",
+    "statement": "Explain the need for and use of copyrights.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.DC.2",
+    "statement": "Provide attribution according to intellectual property rights guidelines using public domain or creative commons media.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.DC.3",
+    "statement": "Distinguish between digital images that can be reused freely and those that have copyright restrictions.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.DC.4",
+    "statement": "Model safe, legal, and ethical behavior when using online or offline technology (e.g.,",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.DC.5",
+    "statement": "Identify the characteristics of a positive and negative online identity and the lasting implications of online activity.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.DC.6",
+    "statement": "Compare and contrast how digital tools have changed social interactions (e.g.,",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.DC.7",
+    "statement": "Explain how posting and commenting in social spaces can have positive or negative consequences.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.DC.8",
+    "statement": "Propose ways local and global communities can engage digitally to participate in and promote climate action (e.g., 6.3.5.GeoHE.1).",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.GCA.1",
+    "statement": "Analyze how culture shapes individual and community perspectives and points of view (e.g., 1.1.5.C2a, RL.5.9, 6.1.5.HistoryCC.8).",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.IML.1",
+    "statement": "Evaluate digital sources for accuracy, perspective, credibility and relevance (e.g., Social Studies Practice - Gathering and Evaluating Sources).",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.IML.2",
+    "statement": "Create a visual representation to organize information about a problem or issue",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.IML.3",
+    "statement": "Represent the same data in multiple visual formats in order to tell a story about the data.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.IML.4",
+    "statement": "Determine the impact of implicit and explicit media messages on individuals, groups, and society as a whole.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.IML.5",
+    "statement": "Distinguish how media are used by individuals, groups, and organizations for varying purposes. (e.g., 1.3A.5.R1a).",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.IML.6",
+    "statement": "Use appropriate sources of information from diverse sources, contexts, disciplines, and cultures to answer questions (e.g., RI.5.7, 6.1.5.HistoryCC.7, 7.1.NM. IPRET.5).",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.IML.7",
+    "statement": "Evaluate the degree to which information meets a need including social",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.TL.1",
+    "statement": "Compare the common uses of at least two different digital tools and identify the advantages and disadvantages of using each.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.TL.2",
+    "statement": "Sort and filter data in a spreadsheet to analyze findings.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.TL.3",
+    "statement": "Format a document using a word processing application to enhance text, change page formatting, and include appropriate images graphics, or symbols.",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.TL.4",
+    "statement": "Compare and contrast artifacts produced individually to those developed collaboratively (e.g., 1.5.5.CR3a).",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.5.TL.5",
+    "statement": "Collaborate digitally to produce an artifact (e.g., 1.2.5CR1d).",
+    "subject": "clks",
+    "grade": "5"
+  },
+  {
+    "code": "9.4.8.CI.1",
+    "statement": "Assess data gathered on varying perspectives on causes of climate change (e.g., cross- cultural, gender-specific, generational), and determine how the data can best be used to design",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.CI.2",
+    "statement": "Repurpose an existing resource in an innovative way (e.g., 8.2.8.NT.3).",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.CI.3",
+    "statement": "Examine challenges that may exist in the adoption of new ideas (e.g., 2.1.8.SSH, 6.1.8.CivicsPD.2).",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.CI.4",
+    "statement": "Explore the role of creativity and innovation in career pathways and industries.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.CT.1",
+    "statement": "Evaluate diverse solutions proposed by a variety of individuals, organizations, and/or agencies to a local or global problem, such as climate change, and use critical thinking skills to predict which one(s) are likely to be effective (e.g., MS-ETS1-2).",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.CT.2",
+    "statement": "Develop multiple solutions to a problem and evaluate short- and long-term effects to determine the most plausible option (e.g., MS-ETS1-4, 6.1.8.CivicsDP.1).",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.CT.3",
+    "statement": "Compare past problem-solving solutions to local, national, or global issues and analyze the factors that led to a positive or negative outcome.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.DC.1",
+    "statement": "Analyze the resource citations in online materials for proper use.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.DC.2",
+    "statement": "Provide appropriate citation and attribution elements when creating media products (e.g., W.6.8).",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.DC.3",
+    "statement": "Describe tradeoffs between allowing information to be public (e.g., within online games) versus keeping information private and secure.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.DC.4",
+    "statement": "Explain how information shared digitally is public and can be searched, copied, and potentially seen by public audiences.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.DC.5",
+    "statement": "Manage digital identity and practice positive online behavior to avoid inappropriate forms of self-disclosure.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.DC.6",
+    "statement": "Analyze online information to distinguish whether it is helpful or harmful to reputation.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.DC.7",
+    "statement": "Collaborate within a digital community to create a digital artifact using strategies such as crowdsourcing or digital surveys.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.DC.8",
+    "statement": "Explain how communities use data and technology to develop measures to respond to effects of climate change (e.g., smart cities).",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.GCA.1",
+    "statement": "Model how to navigate cultural differences with sensitivity and respect (e.g., 1.5.8.C1a).",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.GCA.2",
+    "statement": "Demonstrate openness to diverse ideas and perspectives through active discussions to achieve a group goal.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.IML.1",
+    "statement": "Critically curate multiple resources to assess the credibility of sources when searching for information.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.IML.2",
+    "statement": "Identify specific examples of distortion, exaggeration, or misrepresentation of information.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.IML.3",
+    "statement": "Create a digital visualization that effectively communicates a data set using formatting techniques such as form, position, size, color, movement, and spatial grouping (e.g., 6.SP.B.4, 7.SP.B.8b).",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.IML.4",
+    "statement": "Ask insightful questions to organize different types of data and create meaningful visualizations.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.IML.5",
+    "statement": "Analyze and interpret local or public data sets to summarize and effectively communicate the data.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.IML.6",
+    "statement": "Identify subtle and overt messages based on the method of communication.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.IML.7",
+    "statement": "Use information from a variety of sources, contexts, disciplines, and cultures for a specific purpose (e.g., 1.2.8.C2a, 1.4.8.CR2a, 2.1.8.CHSS/IV.8.AI.1, W.5.8, 6.1.8.GeoSV.3.a, 6.1.8.CivicsDP.4.b, 7.1.NH. IPRET.8).",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.IML.8",
+    "statement": "Apply deliberate and thoughtful search strategies to access high-quality information on climate change (e.g., 1.1.8.C1b).",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.IML.9",
+    "statement": "Distinguish between ethical and unethical uses of information and media (e.g.,",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.IML.10",
+    "statement": "Examine the consequences of the uses of media (e.g., RI.8.7).",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.IML.11",
+    "statement": "Predict the personal and community impact of online and social media activities.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.IML.12",
+    "statement": "Use relevant tools to produce, publish, and deliver information supported with evidence for an authentic audience.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.IML.13",
+    "statement": "Identify the impact of the creator on the content, production, and delivery of",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.IML.14",
+    "statement": "Analyze the role of media in delivering cultural, political, and other societal messages.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.IML.15",
+    "statement": "Explain ways that individuals may experience the same media message differently.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.TL.1",
+    "statement": "Construct a spreadsheet in order to analyze multiple data sets, identify relationships, and facilitate data-based decision-making.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.TL.2",
+    "statement": "Gather data and digitally represent information to communicate a real-world problem , (e.g., MS-ESS3-4, 6.1.8.EconET.1, 6.1.8.CivicsPR.4).",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.TL.3",
+    "statement": "Select appropriate tools to organize and present information digitally.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.TL.4",
+    "statement": "Synthesize and publish information about a local or global issue or event (e.g., MS- LS4-5, 6.1.8.CivicsPI.3).",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.TL.5",
+    "statement": "Compare the process and effectiveness of synchronous collaboration and asynchronous collaboration.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "9.4.8.TL.6",
+    "statement": "Collaborate to develop and publish work that provides perspectives on a real-world problem.",
+    "subject": "clks",
+    "grade": "8"
+  },
+  {
+    "code": "L.KL.5.1",
+    "statement": "Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "L.KL.6.2",
+    "statement": "Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "L.KL.7.2",
+    "statement": "Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "L.KL.8.2",
+    "statement": "Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "L.RF.5.3",
+    "statement": "Know and apply grade-level phonics and word analysis skills in decoding and encoding words; use combined knowledge of all letter-sound correspondences, syllabication patterns, and morphology (e.g., roots and affixes) to read accurately unfamiliar multisyllabic words in context and out of context.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "L.RF.5.4",
+    "statement": "Read with sufficient accuracy and fluency to support comprehension.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "L.SS.6.1",
+    "statement": "Demonstrate command of the system and structure of the English language when writing or speaking.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "L.SS.7.1",
+    "statement": "Demonstrate command of the system and structure of the English language when writing or speaking.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "L.SS.8.1",
+    "statement": "Demonstrate command of the system and structure of the English language when writing or speaking.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "L.VI.5.3",
+    "statement": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "L.VI.6.4",
+    "statement": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "L.VI.7.4",
+    "statement": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "L.VI.8.4",
+    "statement": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "L.VL.5.2",
+    "statement": "Determine or clarify the meaning of unknown and multiple-meaning academic and domain-specific words and phrases based on grade 5 reading and content, choosing flexibly from a range of strategies.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "L.VL.6.3",
+    "statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 6 reading and content, including technical meanings, choosing flexibly from a range of strategies.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "L.VL.7.3",
+    "statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 7 reading and content, including technical meanings, choosing flexibly from a range of strategies.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "L.VL.8.3",
+    "statement": "Determine or clarify the meaning of unknown and multiple-meaning words or phrases based on grade 8 reading and content, including technical meanings, choosing flexibly from a range of strategies.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "L.WF.5.2",
+    "statement": "Demonstrate command of the conventions of writing, including those listed under grade four foundational skills.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "RI.AA.5.7",
+    "statement": "Explain how an author uses reasons and evidence to support particular points in a text, identifying which reasons and evidence support which point(s).",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "RI.AA.6.7",
+    "statement": "Trace the development of and evaluate the argument and specific claims in a text, distinguishing claims that are supported by reasons and evidence from claims that are not.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "RI.AA.7.7",
+    "statement": "Trace and evaluate the argument and specific claims in a text, assessing whether the reasoning is sound and the evidence is relevant and sufficient to support the claims.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "RI.AA.8.7",
+    "statement": "Delineate and evaluate the argument and specific claims in a text, assessing whether the reasoning is sound and the evidence is relevant and sufficient; recognize when irrelevant evidence is introduced.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "RI.CI.5.2",
+    "statement": "Determine the central idea of an informational text and explain how it is supported by key details; summarize the text.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "RI.CI.6.2",
+    "statement": "Determine the central idea of an informational text and explain how it is supported by key details; provide a summary of the text distinct from personal opinions or judgments.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "RI.CI.7.2",
+    "statement": "Determine a central idea in an informational text and explain how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "RI.CI.8.2",
+    "statement": "Determine a central idea of an informational text and how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "RI.CR.5.1",
+    "statement": "Quote accurately from an informational text when explaining what the text says explicitly and make relevant connections when drawing inferences from the text.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "RI.CR.6.1",
+    "statement": "Cite textual evidence and make relevant connections to support analysis of what an informational text says explicitly as well as inferences drawn from the text.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "RI.CR.7.1",
+    "statement": "Cite several pieces of textual evidence and make relevant connections to support analysis of what an informational text says explicitly as well as inferences drawn from the text.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "RI.CR.8.1",
+    "statement": "Cite a range of textual evidence and make clear and relevant connections (including informational text features such as charts, graphs, and diagrams) that strongly support an analysis of multiple aspects of what an informational text says explicitly, as well as inferences drawn from the text.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "RI.CT.5.8",
+    "statement": "Compare and contrast the authors\u2019 approaches across two or more informational texts within the same genre or about texts on the same or similar topics.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "RI.CT.6.8",
+    "statement": "Compare and contrast informational texts in different forms, by different authors, or from different genres (e.g., a memoir written by and a biography on the same person, historical novels and primary source documents, infographics and scientific journals) in terms of their approaches to similar themes and topics.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "RI.CT.7.8",
+    "statement": "Analyze and reflect on (e.g., practical knowledge, historical/cultural context, and background knowledge) how two or more authors writing informational texts about the same topic shape their presentations of key information by emphasizing different evidence or advancing different interpretations of facts.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "RI.CT.8.8",
+    "statement": "Analyze and reflect on (e.g., practical knowledge, historical/cultural context, and background knowledge) two or more informational texts that provide conflicting information on the same topic and identify where the texts disagree on matters of fact or interpretation.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "RI.IT.5.3",
+    "statement": "Analyze the impact of two or more individuals and events throughout the course of a text, explaining the relationships or interactions between two or more individuals, events, ideas, or concepts in a historical, scientific, or technical text based on specific evidence in the text.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "RI.IT.6.3",
+    "statement": "Analyze how a particular text\u2019s (e.g., article, brochure, technical manual, procedural text) structure unfolds by using textual evidence to describe how a key individual, event, or idea is introduced, illustrated, and elaborated in a text.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "RI.IT.7.3",
+    "statement": "Analyze how particular elements of a text interact including how a text makes connections and distinctions among individuals, events, and ideas (e.g., through comparisons, analogies, or categories).",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "RI.IT.8.3",
+    "statement": "Analyze how particular elements of a text interact (e.g., how contexts influence individuals or events, or how individuals influence ideas or events) across multiple text types, including across literary and informational texts.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "RI.MF.5.6",
+    "statement": "Interpret information presented visually, orally, or quantitatively (e.g., in charts, graphs, diagrams, timelines, animations, or interactive elements on web pages) and explain how the information contributes to an understanding of the text in which it appears.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "RI.MF.6.6",
+    "statement": "Integrate information when presented in different media or formats (e.g., visually, quantitatively) to develop a coherent understanding of a topic or issue.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "RI.MF.7.6",
+    "statement": "Compare and contrast texts to analyze the unique qualities of different mediums, including the integration of information from multiple formats and sources to develop deeper understanding of the concept, topic or subject and resolve conflicting information.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "RI.MF.8.6",
+    "statement": "Evaluate the choices made (by the authors, directors, or actors) when presenting an idea in different mediums and the advantages and disadvantages of using different mediums or formats (e.g., visually, quantitatively) to address a question or solve a problem.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "RI.PP.5.5",
+    "statement": "Analyze multiple accounts of the same event or topic, noting important similarities and differences in the point of view they represent and how that may influence the reader\u2019s interpretation.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "RI.PP.6.5",
+    "statement": "Identify author\u2019s purpose perspective or potential bias in a text and explain the impact on the reader\u2019s interpretation.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "RI.PP.7.5",
+    "statement": "Determine how an author conveys or develops perspective or purpose in a text through distinguishing their position from that of others using evidence.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "RI.PP.8.5",
+    "statement": "Analyze how an author conveys or develops their perspective or purpose in a text and by acknowledging and responding to conflicting evidence or viewpoints.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "RI.TS.5.4",
+    "statement": "Compare and contrast the overall structure (e.g., chronology, comparison, cause/effect, problem/solution) of events, ideas, concepts, or information in two or more texts.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "RI.TS.6.4",
+    "statement": "Use text structures (e.g., cause-effect, problem-solution), search tools, and genre features (e.g., graphics, captions, indexes) to locate and integrate information.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "RI.TS.7.4",
+    "statement": "Analyze the structure an author uses to organize a text and how it contributes to the text as a whole, including using knowledge of text structures (e.g., cause-effect, proposition-support) and genre features (e.g., graphics, captions, indexes) to organize and analyze important information.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "RI.TS.8.4",
+    "statement": "Analyze and explain how an author organizes, develops and presents ideas, establishes a point of view or builds supporting arguments through text structure.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "RL.CI.5.2",
+    "statement": "Determine the theme of a literary text (e.g., stories, plays or poetry) and explain how it is supported by key details; summarize the text.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "RL.CI.6.2",
+    "statement": "Determine the theme of a literary text (e.g., stories, plays or poetry) and explain how it is supported by key details; provide a summary of the text distinct from personal opinions or judgments.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "RL.CI.7.2",
+    "statement": "Determine a theme in a literary text (e.g., stories, plays or poetry) and explain how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "RL.CI.8.2",
+    "statement": "Determine a theme of a literary text and how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "RL.CR.5.1",
+    "statement": "Quote accurately from a literary text when explaining what the text says explicitly and make relevant connections when drawing inferences from the text.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "RL.CR.6.1",
+    "statement": "Cite textual evidence and make relevant connections to support analysis of what a literary text says explicitly as well as inferences drawn from the text.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "RL.CR.7.1",
+    "statement": "Cite several pieces of textual evidence and make relevant connections to support analysis of what a literary text says explicitly as well as inferences drawn from the text.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "RL.CR.8.1",
+    "statement": "Cite a range of textual evidence and make clear and relevant connections to strongly support an analysis of multiple aspects of what a literary text says explicitly as well as inferences drawn from the text.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "RL.CT.5.8",
+    "statement": "Compare and contrast the authors\u2019 approaches across two or more literary texts within the same genre or about the same or similar topics.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "RL.CT.6.8",
+    "statement": "Compare and contrast literary texts in different forms, by different authors, or from different genres (e.g., stories and poems; historical novels and primary source documents, scientific journals and fantasy stories) in terms of their approaches to similar themes and topics.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "RL.CT.7.8",
+    "statement": "Compare and contrast a fictional portrayal of an event, time, place, or character and a historical or scientific account of the same period or event as a means of understanding how authors of fiction use or alter history and/or events.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "RL.CT.8.8",
+    "statement": "Analyze and reflect on how the author\u2019s idea in fiction and literary nonfiction texts (e.g., practical knowledge, historical/cultural context, and background knowledge) is shaped by the author\u2019s emphasis on different evidence, advancing different interpretations of facts, or fictional portrayal of a time, place, or character and a historical account of the same period.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "RL.IT.5.3",
+    "statement": "Analyze the impact of two or more individuals and events throughout the course of a text, comparing and contrasting two or more characters, settings, or events in a story or drama, drawing on specific textual evidence (e.g., how characters interact).",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "RL.IT.6.3",
+    "statement": "Describe how a particular text\u2019s structure unfolds in a series of episodes and use textual evidence to describe how the characters respond or change as the plot moves toward a resolution.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "RL.IT.7.3",
+    "statement": "Analyze how particular elements of a text interact including how particular lines of dialogue or incidents in a story or drama propel the action, reveal aspects of a character, or provoke a decision.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "RL.IT.8.3",
+    "statement": "Analyze how particular elements of a text interact (e.g., how setting shapes the characters or plot, how ideas influence individuals or events, or how characters influence ideas or events) across multiple text types, including across literary and informational texts.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "RL.MF.5.6",
+    "statement": "Analyze how visual and multimedia elements contribute to the meaning, tone, or beauty of a text (e.g., graphic novel, multimedia presentation of fiction, folktale, myth, poem).",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "RL.MF.6.6",
+    "statement": "Compare and contrast information or texts to develop a coherent understanding of a theme, topic, or issue when reading a story, drama, or poem to listening to or viewing an audio, video, or live version of the text.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "RL.MF.7.6",
+    "statement": "Compare and contrast texts (e.g., a written story, drama, or poem) to its audio, filmed, staged, or multimedia version and analyze the unique qualities of different mediums, including the effects of techniques unique to each medium (e.g., lighting, sound, color, or camera focus and angles in a film).",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "RL.MF.8.6",
+    "statement": "Evaluate the choices made (by the authors, directors or actors) when presenting an idea in different mediums, including the representation/s or various perspectives of a subject or a key scene in two different artistic mediums (e.g., a person\u2019s life story in both print and multimedia), as well as what is emphasized or absent in each work.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "RL.PP.5.5",
+    "statement": "Describe how a narrator\u2019s or speaker\u2019s point of view influences how events are described, and how that may influence the reader\u2019s interpretation.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "RL.PP.6.5",
+    "statement": "Determine how an author conveys or develops perspective in a text (through the narrator or speaker when appropriate).",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "RL.PP.7.5",
+    "statement": "Determine how an author conveys or develops perspective or purpose in a text through contrasting the points of view of different characters or narrators in a text.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "RL.PP.8.5",
+    "statement": "Analyze how an author conveys or develops their perspective or purpose in a text through the use of different perspectives of the characters and that of the audience or reader (e.g., created through the use of dramatic irony).",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "RL.TS.5.4",
+    "statement": "Explain how a series of chapters, scenes, or stanzas fits together to provide the overall structure of a particular story, drama, or poem.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "RL.TS.6.4",
+    "statement": "Analyze how a particular piece (e.g., sentence, chapter, scene, stanza, or section) fits into the overall structure of a text and contributes to the development of the ideas, theme, setting, or plot.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "RL.TS.7.4",
+    "statement": "Analyze the structure an author uses to organize a text and how it contributes to the text as a whole, including how a drama\u2019s or poem\u2019s form or structure (e.g., soliloquy, sonnet) contributes to its meaning.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "RL.TS.8.4",
+    "statement": "Compare and contrast the structure of texts, analyzing how the differing structure of each text contributes to its meaning, tone and style.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "SL.AS.5.6",
+    "statement": "Adapt speech to a variety of contexts and tasks, using formal English when appropriate to task and situation.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "SL.AS.6.6",
+    "statement": "Adapt speech to a variety of contexts and tasks, demonstrating command of formal English when indicated or appropriate.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "SL.AS.7.6",
+    "statement": "Adapt speech to a variety of contexts and tasks, demonstrating command of formal English when indicated or appropriate.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "SL.AS.8.6",
+    "statement": "Adapt speech to a variety of contexts and tasks, demonstrating command of formal English when indicated or appropriate.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "SL.ES.5.3",
+    "statement": "Summarize the points a speaker makes and explain how each claim is supported by reasons and evidence.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "SL.ES.6.3",
+    "statement": "Deconstruct a speaker\u2019s argument and specific claims, distinguishing claims that are supported by reasons and evidence from claims that are not.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "SL.ES.7.3",
+    "statement": "Delineate a speaker\u2019s argument and specific claims, evaluating the soundness of the reasoning and the relevance and sufficiency of the evidence.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "SL.ES.8.3",
+    "statement": "Delineate a speaker\u2019s argument and specific claims, evaluating the soundness of the reasoning and relevance and sufficiency of the evidence and identifying when irrelevant evidence is introduced.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "SL.II.5.2",
+    "statement": "Summarize a written text read aloud or information presented in diverse media and formats (e.g., visually, quantitatively, and orally).",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "SL.II.6.2",
+    "statement": "Interpret information presented in diverse media and formats (e.g., visually, quantitatively, orally) and explain how it contributes to a topic, text, or issue under study.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "SL.II.7.2",
+    "statement": "Analyze the main ideas and supporting details presented in diverse media and formats (e.g., visually, quantitatively, orally) and explain how the ideas clarify a topic, text, or issue under study.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "SL.II.8.2",
+    "statement": "Analyze the purpose of information presented in diverse media and formats (e.g., visually, quantitatively, orally) and evaluate the motives (e.g., social, commercial, political) behind its presentation.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "SL.PE.5.1",
+    "statement": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 5 topics and texts, building on others\u2019 ideas and expressing their own clearly.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "SL.PE.6.1",
+    "statement": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 6 topics, texts, and issues, building on others\u2019 ideas and expressing their own clearly.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "SL.PE.7.1",
+    "statement": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 7 topics, texts, and issues, building on others\u2019 ideas and expressing their own clearly.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "SL.PE.8.1",
+    "statement": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 8 topics, texts, and issues, building on others\u2019 ideas and expressing their own clearly.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "SL.PI.5.4",
+    "statement": "Report on a topic or text or present an opinion, sequencing ideas logically and using appropriate facts and relevant, descriptive details to support main ideas or themes; speak clearly at an understandable pace.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "SL.PI.6.4",
+    "statement": "Present claims and findings, sequencing ideas logically and using pertinent descriptions, facts, and details to accentuate main ideas or themes; use appropriate speaking behaviors (e.g., eye contact, adequate volume, and clear pronunciation).",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "SL.PI.7.4",
+    "statement": "Present claims and findings, emphasizing salient points in a focused, coherent manner with pertinent descriptions, facts, details, and examples; use appropriate eye contact, adequate volume, and clear pronunciation.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "SL.PI.8.4",
+    "statement": "Present claims and findings, emphasizing salient points in a focused, coherent manner with relevant evidence, sound valid reasoning, and well-chosen details; use appropriate eye contact, adequate volume, and clear pronunciation.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "SL.UM.5.5",
+    "statement": "Include multimedia components (e.g., graphics, sound) and visual displays in presentations when appropriate to enhance the development of main ideas or themes.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "SL.UM.6.5",
+    "statement": "Include multimedia components (e.g., graphics, images, music, sound) and visual displays in presentations to clarify information.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "SL.UM.7.5",
+    "statement": "Include multimedia components and visual displays in presentations to clarify claims and findings and emphasize salient points.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "SL.UM.8.5",
+    "statement": "Integrate multimedia and visual displays into presentations to clarify information, strengthen claims and evidence, and add interest.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "W.AW.5.1",
+    "statement": "Write opinion pieces on topics or texts, supporting a point of view with reasons and information.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "W.AW.6.1",
+    "statement": "Write arguments on discipline-specific content (e.g., social studies, science, math, technical subjects, English/Language Arts) to support claims with clear reasons and relevant evidence.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "W.AW.7.1",
+    "statement": "Write arguments on discipline-specific content (e.g., social studies, science, technical subjects, English/Language Arts) to support claims with clear reasons and relevant evidence.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "W.AW.8.1",
+    "statement": "Write arguments on discipline-specific content (e.g., social studies, science, technical subjects, English/Language Arts) to support claims with clear reasons and relevant evidence.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "W.IW.5.2",
+    "statement": "Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "W.IW.6.2",
+    "statement": "Write informative/explanatory texts (including the narration of historical events, scientific procedures/ experiments, or technical processes) to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "W.IW.7.2",
+    "statement": "Write informative/explanatory texts (including the narration of historical events, scientific procedures/ experiments, or technical processes) to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "W.IW.8.2",
+    "statement": "Write informative/explanatory texts (including the narration of historical events, scientific procedures/ experiments, or technical processes) to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "W.NW.5.3",
+    "statement": "Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "W.NW.6.3",
+    "statement": "Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "W.NW.7.3",
+    "statement": "Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "W.NW.8.3",
+    "statement": "Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "W.RW.5.7",
+    "statement": "Write routinely over extended time frames (time for research and revision) and shorter time frames (a single sitting or a day or two) for a range of tasks, purposes, and audiences.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "W.RW.6.7",
+    "statement": "Write routinely over extended time frames (time for research, reflection, metacognition/self- correction, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "W.RW.7.7",
+    "statement": "Write routinely over extended time frames (time for research, reflection, metacognition/self- correction, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "W.RW.8.7",
+    "statement": "Write routinely over extended time frames (time for research, reflection, metacognition/self- correction, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "W.SE.5.6",
+    "statement": "Gather relevant information from multiple valid and reliable print and digital sources; summarize or paraphrase information in notes and finished work, making note of any similarities and differences among ideas presented; and provide a list of sources.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "W.SE.6.6",
+    "statement": "Gather relevant information from multiple print and digital sources; assess the credibility of each source; and quote or paraphrase the data and conclusions of others while avoiding plagiarism and providing basic bibliographic information for sources.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "W.SE.7.6",
+    "statement": "Gather relevant information from multiple print and digital sources, using search terms effectively; assess the credibility and accuracy of each source; and quote or paraphrase the data and conclusions of others while avoiding plagiarism and following a standard format for citation.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "W.SE.8.6",
+    "statement": "Gather relevant information from multiple print and digital sources, using search terms effectively; assess the credibility and accuracy of each source; and quote or paraphrase the data and conclusions of others while avoiding plagiarism and following a standard format for citation.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "W.WP.5.4",
+    "statement": "With guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "W.WP.6.4",
+    "statement": "With some guidance and support from peers and adults, develop and strengthen writing as needed by planning; flexibly making editing and revision choices; sustaining effort to fit composition needs and purposes; and attempting to address purpose and audience.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "W.WP.7.4",
+    "statement": "With some guidance and support from peers and adults, develop and strengthen writing as needed by planning; flexibly making editing and revision choices and sustaining effort to complete complex writing tasks; and focusing on how well purpose and audience have been addressed.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "W.WP.8.4",
+    "statement": "With some guidance and support from peers and adults, develop and strengthen writing as needed by planning, sustaining effort to complete complex writing tasks; seeking out assistance, models, sources or feedback to improve understanding or refine final products; focusing on how well purpose and audience have been addressed.",
+    "subject": "ela",
+    "grade": "8"
+  },
+  {
+    "code": "W.WR.5.5",
+    "statement": "Establish a central idea about a topic, investigation, issue or event and use several sources to support the proposed central idea.",
+    "subject": "ela",
+    "grade": "5"
+  },
+  {
+    "code": "W.WR.6.5",
+    "statement": "Conduct short research projects to answer a question, drawing on several sources and refocusing the inquiry when appropriate.",
+    "subject": "ela",
+    "grade": "6"
+  },
+  {
+    "code": "W.WR.7.5",
+    "statement": "Conduct short research projects to answer a question, drawing on several sources and generating additional related, focused questions for further research and investigation.",
+    "subject": "ela",
+    "grade": "7"
+  },
+  {
+    "code": "W.WR.8.5",
+    "statement": "Conduct short research projects to answer a question (including a self-generated question), drawing on several sources and generating additional related, focused questions that allow for multiple avenues of exploration.",
+    "subject": "ela",
+    "grade": "8"
+  }
+]

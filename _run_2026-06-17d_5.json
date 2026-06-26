@@ -1,0 +1,131 @@
+{
+ "2.2.8.LF.5": {
+  "schema_version": 1,
+  "standardCode": "2.2.8.LF.5",
+  "standardStatement": "Engages in a variety of physical activities (e.g., aerobic-fitness, strengthen, endurance-fitness activities) using technology and cross-training, and lifetime activities.",
+  "subject": "chpe",
+  "grade": "8",
+  "generatedAt": "2026-06-17T17:06:45.136727Z",
+  "cells": {
+   "remember-1": {
+    "objective": "Name two activities each for aerobic fitness, strength, and endurance, plus one tech tool that tracks effort.",
+    "observableCheck": "Each student fills a category sheet with two activities per type and one tracking tool.",
+    "sampleTask": "Guide posts the three fitness categories and the term cross-training. Students write two activities under each category and name one technology tool, such as a step counter or heart-rate app, that tracks effort. Pairs check three entries. Guide builds a shared class chart from the sheets.",
+    "materials": ["category sheet", "board"]
+   },
+   "remember-2": null,
+   "remember-3": null,
+   "remember-4": null,
+   "understand-1": {
+    "objective": "Explain what cross-training means and why it mixes activity types.",
+    "observableCheck": "Each student writes a one-sentence definition with one example of two mixed activities.",
+    "sampleTask": "Each student writes a one-sentence definition of cross-training and names two activities a person might mix and why. Pairs read both and check the example actually mixes types. Guide collects three clear examples and reads them. The class agrees on a posted definition.",
+    "materials": ["lined paper", "board"]
+   },
+   "understand-2": {
+    "objective": "Describe how a tracking tool turns effort into information a person can use.",
+    "observableCheck": "Each student names one number a tool reports and what decision it could inform.",
+    "sampleTask": "Students pick one tracking tool and write what number it reports, such as steps or heart rate, and one decision that number could inform, such as slowing down or adding a day. Pairs compare and check the decision follows from the number. Guide charts the tools and the decisions they support.",
+    "materials": ["lined paper", "chart paper"]
+   },
+   "understand-3": {
+    "objective": "Sort activities by which fitness type they mainly build.",
+    "observableCheck": "Each pair places ten activity cards under aerobic, strength, or endurance with reasons for split cases.",
+    "sampleTask": "Pairs sort ten activity cards under aerobic, strength, or endurance. For any card that fits more than one, they write which they chose and why. Pairs compare with another pair and argue split cases. Guide reveals that some activities are mixed and names them.",
+    "materials": ["activity cards", "sorting mat"]
+   },
+   "understand-4": {
+    "objective": "Summarize why a varied program beats doing one activity for general fitness.",
+    "observableCheck": "Each student writes a paragraph giving two reasons variety helps.",
+    "sampleTask": "Students write a paragraph explaining why mixing activity types serves general fitness better than repeating one. The paragraph needs two reasons, such as balanced muscle use or lower boredom. Pairs underline the reasons. Guide flags any paragraph that only described variety without explaining its benefit.",
+    "materials": ["lined paper"]
+   },
+   "apply-1": {
+    "objective": "Use a tracking tool to record effort across one varied activity session.",
+    "observableCheck": "Each student logs a reading from each of three activity types in one session.",
+    "sampleTask": "Guide runs a session with an aerobic, a strength, and an endurance station. Students use a tracking tool or a manual count to record one effort reading at each station on a log. After, students mark which station pushed effort highest. Guide collects logs and notes the spread of readings.",
+    "materials": ["effort log", "tracking tool or stopwatch", "three stations"]
+   },
+   "apply-2": {
+    "objective": "Build a one-week cross-training plan that includes all three fitness types.",
+    "observableCheck": "Each student turns in a seven-day plan with each day labeled by fitness type.",
+    "sampleTask": "Each student fills a seven-day grid with activities, labeling each day's main fitness type and including at least one of each type. The plan must include one rest or light day. Pairs check the plan is balanced and realistic. Guide collects three plans that mixed all three types sensibly.",
+    "materials": ["seven-day planning grid", "category sheet"]
+   },
+   "apply-3": {
+    "objective": "Explain to a peer how to use one tech tool to guide a workout.",
+    "observableCheck": "The partner restates how to read the tool and adjust effort from it.",
+    "sampleTask": "Pairs take turns explaining how to use one tracking tool to guide a workout, including what to watch and when to ease off or push. The listener restates the steps. They switch with a different tool. Guide circulates and notes one clear explanation.",
+    "materials": ["tracking tools or app screenshots"]
+   },
+   "apply-4": {
+    "objective": "Build a station-rotation card that runs a small group through a cross-training circuit.",
+    "observableCheck": "A group completes the circuit using only the card.",
+    "sampleTask": "Each student writes a circuit card with four stations, each labeled by fitness type, with the time and the tracking step at each. A small group runs the circuit using only the card. The author watches and notes any unclear step. Guide collects cards a group could run unaided.",
+    "materials": ["circuit card template", "stopwatch", "open floor space"]
+   },
+   "analyze-1": {
+    "objective": "Identify which fitness types a sample weekly plan covers and which it neglects.",
+    "observableCheck": "Each student marks each day's type and names the missing or overloaded type.",
+    "sampleTask": "Guide hands out a sample seven-day plan. Students label each day's fitness type and name which type is missing or overloaded. Pairs compare. Guide reveals the intended gap and discusses how to fill it.",
+    "materials": ["sample weekly plan", "category sheet"]
+   },
+   "analyze-2": {
+    "objective": "Compare a plan that uses tracking technology with one that does not, for what each can adjust.",
+    "observableCheck": "Each pair lists two adjustments the tracked plan supports that the untracked one cannot.",
+    "sampleTask": "Pairs get two versions of a plan, one with tracking and one without. They list two adjustments the tracked plan makes possible that the untracked plan cannot, such as matching effort to a target heart rate. Pairs decide whether the tracking is worth the trouble here. Guide names the most useful adjustment the class found.",
+    "materials": ["two sample plans"]
+   },
+   "analyze-3": {
+    "objective": "Break a single sport into the fitness types its training should include for cross-training.",
+    "observableCheck": "Each student maps one sport to the aerobic, strength, and endurance work it needs.",
+    "sampleTask": "Students pick one sport and map what aerobic, strength, and endurance work would support it, naming one activity for each. They mark which type that sport tends to neglect. Pairs check the map fits the sport. Guide collects two maps that caught a real training gap.",
+    "materials": ["mapping handout", "category sheet"]
+   },
+   "analyze-4": {
+    "objective": "Analyze how tracking data from one week reveals where a program is unbalanced.",
+    "observableCheck": "Each student reads a sample data set and names the imbalance it shows.",
+    "sampleTask": "Guide hands out a week of sample tracking data, such as daily steps and active minutes by type. Students read the data and name where the program is unbalanced and one change the data supports. Pairs compare readings. Guide confirms the imbalance built into the data set.",
+    "materials": ["sample tracking data sheet"]
+   },
+   "evaluate-1": null,
+   "evaluate-2": null,
+   "evaluate-3": {
+    "objective": "Judge whether a peer's cross-training plan is balanced and doable, citing specific days.",
+    "observableCheck": "Each student writes a verdict on a peer plan citing two specific days.",
+    "sampleTask": "Students swap the plans from Apply-2 and score them on a rubric for balance across types, realism, and inclusion of recovery. Each reviewer writes a verdict citing two days that earned or lost points. The reviewer suggests one swap. Guide checks three reviews against the rubric.",
+    "materials": ["peer plans", "three-point rubric"]
+   },
+   "evaluate-4": {
+    "objective": "Defend whether tracking technology helps or distracts a teenager building a fitness habit.",
+    "observableCheck": "Each student states a position with two reasons and answers one counterpoint.",
+    "sampleTask": "Guide poses the question: does tracking technology help or distract a teenager building a habit? Each student writes a stance with two reasons and a response to one counterpoint. Students form two sides and trade their strongest reason. Guide records the reason each side found hardest to answer.",
+    "materials": ["stance handout"]
+   },
+   "create-1": {
+    "objective": "Produce a reference card listing one activity for each fitness type and one tracking tool.",
+    "observableCheck": "Each student turns in a card with three activities by type and one tool with what it measures.",
+    "sampleTask": "Each student makes a reference card naming one activity per fitness type and one tracking tool with what it measures. The card must let a newcomer build a basic varied workout. Pairs check the activities match their types. Guide collects the cards into a class set.",
+    "materials": ["index cards", "category sheet"]
+   },
+   "create-2": {
+    "objective": "Design a four-week cross-training program that progresses across the month.",
+    "observableCheck": "Each student submits a four-week plan showing how load or variety increases week to week.",
+    "sampleTask": "Each student designs a four-week program covering all three fitness types, showing how it gets harder or more varied each week. The progression must be gradual, not a sudden jump. Pairs check week four is reachable from week one. Guide collects two programs with sound progression.",
+    "materials": ["four-week planning sheet", "category sheet"]
+   },
+   "create-3": {
+    "objective": "Create a class cross-training challenge that uses a shared tracking method.",
+    "observableCheck": "Each group submits a challenge with the activities, the tracking method, and how a winner is judged.",
+    "sampleTask": "Small groups design a one-week class challenge that covers all three fitness types and uses one shared tracking method everyone can access. The group sets a fair way to judge progress, not just raw numbers. Groups present the challenge. Guide has the class pick one challenge to run and discusses its fairness.",
+    "materials": ["challenge planning sheet"]
+   },
+   "create-4": {
+    "objective": "Develop a personal lifetime-activity plan that names cross-training a student could keep past school.",
+    "observableCheck": "Each student submits a plan naming activities, a tracking method, and how it would survive a busy adult week.",
+    "sampleTask": "Each student builds a plan for activities they could keep into adulthood, covering all three fitness types and a tracking method, with a note on how it survives a busy week. The plan must use activities that do not depend on a school gym. Pairs check the plan is realistic outside school. Guide reviews three plans for lifetime fit.",
+    "materials": ["lifetime plan template", "category sheet"]
+   }
+  }
+ }
+}

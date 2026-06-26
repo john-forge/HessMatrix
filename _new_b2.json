@@ -1,0 +1,572 @@
+{
+  "2.3.8.ATD.1": {
+    "schema_version": 1,
+    "standardCode": "2.3.8.ATD.1",
+    "standardStatement": "Examine how the use of alcohol, tobacco, and other drugs by adolescents has impacted their lives and the lives of family members socially, emotionally, and physically.",
+    "subject": "chpe",
+    "grade": "8",
+    "generatedAt": "2026-06-18T14:04:03.663396+00:00",
+    "cells": {
+      "remember-1": {
+        "objective": "Name the three impact areas used in this unit: social, emotional, and physical.",
+        "observableCheck": "Each student writes the three areas and one keyword for each on an entry slip.",
+        "sampleTask": "Guide posts the three impact areas and asks students to write each one with a keyword that captures it, such as friendships for social or body for physical. Slips go on a labeled board. Guide reads the board aloud and corrects any keyword that lands in the wrong area.",
+        "materials": [
+          "entry slips",
+          "labeled board"
+        ]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Describe one social, one emotional, and one physical effect adolescent substance use can have.",
+        "observableCheck": "Each student completes a three-row organizer with one named effect per row.",
+        "sampleTask": "Guide gives a three-row organizer for social, emotional, and physical effects. Students fill one specific effect per row drawn from the reading, such as losing a sports spot for physical. Pairs compare organizers and confirm each effect sits in the correct area.",
+        "materials": [
+          "impact organizer",
+          "unit reading"
+        ]
+      },
+      "understand-2": {
+        "objective": "Explain how one effect can spread from the adolescent to a family member.",
+        "observableCheck": "Each student writes a two-sentence chain showing the effect moving from teen to family.",
+        "sampleTask": "Each student picks one effect from their organizer and writes a two-sentence chain showing how it reaches a family member, such as missed school leading to a parent missing work. Pairs trade and check that the chain names a real connection rather than a guess.",
+        "materials": [
+          "impact organizer",
+          "lined paper"
+        ]
+      },
+      "understand-3": {
+        "objective": "Summarize a short case profile by naming the main impacts across the three areas.",
+        "observableCheck": "Each student writes a three-bullet summary of one profile, one bullet per impact area.",
+        "sampleTask": "Guide hands out two short, age-appropriate case profiles of teens affected by substance use. Students read one and write a three-bullet summary naming a social, emotional, and physical impact. Pairs share summaries and add any impact the partner missed.",
+        "materials": [
+          "case profiles",
+          "summary template"
+        ]
+      },
+      "understand-4": {
+        "objective": "Explain why effects in one area often trigger effects in another.",
+        "observableCheck": "Each student draws and labels one arrow connecting two impact areas with a reason.",
+        "sampleTask": "Students review their case profile and draw a labeled arrow connecting two impact areas, such as physical to social, with a sentence explaining the link. Guide collects two examples and shows how the areas feed each other. Class agrees the areas are connected, not separate.",
+        "materials": [
+          "case profiles",
+          "arrow diagram sheet"
+        ]
+      },
+      "apply-1": {
+        "objective": "Sort a list of consequences into social, emotional, and physical categories.",
+        "observableCheck": "Each pair places ten consequence cards into three labeled bins with no leftovers.",
+        "sampleTask": "Guide gives pairs ten consequence cards and three labeled bins. Pairs sort each card and resolve any that seem to fit two bins by choosing the strongest fit. The class reviews the trickiest cards and explains the placement.",
+        "materials": [
+          "consequence cards",
+          "bin labels"
+        ]
+      },
+      "apply-2": {
+        "objective": "Apply the three-area framework to a new scenario the class has not seen.",
+        "observableCheck": "Each student tags a fresh scenario with at least one impact in each area.",
+        "sampleTask": "Guide presents a new scenario about an adolescent’s substance use. Each student tags the scenario with at least one social, one emotional, and one physical impact, underlining the text clue for each. Pairs compare tags and resolve disagreements using the text.",
+        "materials": [
+          "new scenario handout",
+          "highlighters"
+        ]
+      },
+      "apply-3": {
+        "objective": "Use the framework to interview a partner about a fictional character’s impacts.",
+        "observableCheck": "Each student records partner answers on an interview sheet covering all three areas.",
+        "sampleTask": "Pairs take a character card describing a teen affected by substance use. One student interviews the other using questions that cover all three impact areas, then they switch. Each student records answers on an interview sheet that the Guide spot-checks for full coverage.",
+        "materials": [
+          "character cards",
+          "interview sheet"
+        ]
+      },
+      "apply-4": {
+        "objective": "Build a labeled impact map for one case that shows effects reaching both the teen and the family.",
+        "observableCheck": "Each pair produces a two-side map with at least three labeled effects per side.",
+        "sampleTask": "Pairs choose one case profile and build a map with the teen on one side and the family on the other. They draw at least three labeled effects per side and connect any that link across. Pairs post maps and the class checks that family impacts are shown, not just the teen’s.",
+        "materials": [
+          "case profiles",
+          "chart paper",
+          "markers"
+        ]
+      },
+      "analyze-1": {
+        "objective": "Identify which impact in a profile started the chain of other impacts.",
+        "observableCheck": "Each student circles the first-domino impact in a profile and labels it.",
+        "sampleTask": "Guide gives a profile where several impacts pile up. Students circle the impact that appears to start the chain and write a margin note explaining the choice. Pairs compare and point to the text that shows which impact came first.",
+        "materials": [
+          "case profile",
+          "pencils"
+        ]
+      },
+      "analyze-2": {
+        "objective": "Compare two profiles to find which impact area was hit hardest in each.",
+        "observableCheck": "Each student names the hardest-hit area for each profile with one piece of evidence.",
+        "sampleTask": "Students read two short profiles and decide which impact area was hit hardest in each, citing one detail per profile. Pairs discuss why the same substance affected two teens differently. Guide records the range of answers to show impacts are not identical.",
+        "materials": [
+          "two case profiles",
+          "comparison sheet"
+        ]
+      },
+      "analyze-3": {
+        "objective": "Distinguish short-term impacts from longer-term impacts in a profile.",
+        "observableCheck": "Each team sorts impacts onto a now-versus-later timeline and defends two placements.",
+        "sampleTask": "Guide gives teams a profile and a now-versus-later timeline. Teams place each impact on the timeline and prepare to defend two placements. During share-out the Guide presses one team on an impact that could land in both spots.",
+        "materials": [
+          "case profile",
+          "timeline mat",
+          "impact slips"
+        ]
+      },
+      "analyze-4": {
+        "objective": "Analyze how impacts spread across a whole family in a multi-part case.",
+        "observableCheck": "Each team produces a ripple diagram naming at least four people and the impact on each.",
+        "sampleTask": "Guide provides a multi-part case involving a teen and several family members. Teams build a ripple diagram placing the teen at the center and naming at least four people affected, with the specific impact on each. Teams post diagrams and the class identifies who was affected even though they never used the substance.",
+        "materials": [
+          "multi-part case",
+          "chart paper",
+          "markers"
+        ]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Argue which impact area deserves the most attention in a given case and defend the claim.",
+        "observableCheck": "Each student writes a paragraph naming the priority area with two reasons.",
+        "sampleTask": "Guide presents one detailed case. Students write a paragraph arguing which impact area a support plan should address first, giving two reasons and one reason a different area was ranked lower. Volunteers share and the class weighs competing priorities.",
+        "materials": [
+          "detailed case handout",
+          "lined paper"
+        ]
+      },
+      "evaluate-4": {
+        "objective": "Evaluate the completeness of a peer team’s impact map and judge what is missing.",
+        "observableCheck": "Each team writes a review naming at least two gaps with evidence from the map.",
+        "sampleTask": "Teams swap the impact maps built earlier and review them against a checklist covering all three areas and both the teen and family. Each team writes a review naming at least two gaps and the evidence for each. Teams return reviews and the class names the most common gap across maps.",
+        "materials": [
+          "impact maps",
+          "review checklist",
+          "review slip"
+        ]
+      },
+      "create-1": {
+        "objective": "Brainstorm ways adolescent substance use could affect people the teen never expected.",
+        "observableCheck": "Each student adds at least three affected people or situations to the class list.",
+        "sampleTask": "Open brainstorm. Guide asks, 'Beyond the teen, who else feels the effects?' Students name people such as younger siblings, teammates, and neighbors. Guide records every idea on the board with none rejected during the brainstorm.",
+        "materials": [
+          "whiteboard"
+        ]
+      },
+      "create-2": {
+        "objective": "Hypothesize how one early choice could change a teen’s impact story.",
+        "observableCheck": "Each student writes a one-paragraph what-if naming at least two changed outcomes.",
+        "sampleTask": "Each student takes a case profile and writes a what-if paragraph: if the teen had made one different choice early on, how would the social, emotional, and physical story change? The paragraph must name at least two changed outcomes. Pairs trade and check the changes follow logically from the choice.",
+        "materials": [
+          "case profiles",
+          "lined paper"
+        ]
+      },
+      "create-3": {
+        "objective": "Construct an infographic that shows the three impact areas with one real example each.",
+        "observableCheck": "Each team produces a finished infographic with a labeled example per area.",
+        "sampleTask": "Teams design an infographic showing social, emotional, and physical impacts of adolescent substance use, each with one example drawn from the unit. The infographic must be readable from across the room. Teams post infographics and the class checks each area has a clear, accurate example.",
+        "materials": [
+          "poster paper",
+          "markers",
+          "unit notes"
+        ]
+      },
+      "create-4": {
+        "objective": "Develop and test a short peer message that explains how substance use ripples beyond the user, then revise it.",
+        "observableCheck": "Each group delivers the message to a test audience and submits one revision note.",
+        "sampleTask": "Groups create a short peer message, such as a 30-second announcement, explaining how one teen’s substance use affects family and friends. Groups deliver it to a test audience of classmates who rate clarity and accuracy on a feedback card. Each group revises once and notes what changed and why before the final delivery.",
+        "materials": [
+          "message planning sheet",
+          "feedback cards",
+          "timer"
+        ]
+      }
+    }
+  },
+  "2.3.8.ATD.2": {
+    "schema_version": 1,
+    "standardCode": "2.3.8.ATD.2",
+    "standardStatement": "Relate the use of alcohol and other drugs to decision-making, consent, and risk for sexual assault and abuse.",
+    "subject": "chpe",
+    "grade": "8",
+    "generatedAt": "2026-06-18T14:04:03.663396+00:00",
+    "cells": {
+      "remember-1": {
+        "objective": "Define decision-making, consent, and risk in this unit’s words.",
+        "observableCheck": "Each student writes a one-line definition for each of the three terms on a card.",
+        "sampleTask": "Guide posts the three terms and the class co-builds a plain definition for each. Students copy a one-line definition for decision-making, consent, and risk onto a card. Guide collects two cards per term to confirm the definitions match the agreed wording.",
+        "materials": [
+          "definition cards",
+          "term poster"
+        ]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Explain how alcohol and other drugs change a person’s ability to make clear decisions.",
+        "observableCheck": "Each student writes two sentences naming a specific change to thinking or judgment.",
+        "sampleTask": "Guide presents a short, factual reading on how substances slow judgment and reaction. Students write two sentences naming a specific change, such as trouble weighing consequences. Pairs check that each sentence names a real change rather than a vague claim.",
+        "materials": [
+          "unit reading",
+          "lined paper"
+        ]
+      },
+      "understand-2": {
+        "objective": "Describe why consent cannot be given when a person is impaired.",
+        "observableCheck": "Each student restates the rule in their own words and gives one reason.",
+        "sampleTask": "Guide states the rule that a person who is impaired cannot give consent and explains why. Students rewrite the rule in their own words and add one reason it holds, tied to clear thinking. Pairs compare restatements for accuracy.",
+        "materials": [
+          "consent reference sheet",
+          "lined paper"
+        ]
+      },
+      "understand-3": {
+        "objective": "Summarize how substance use raises risk in a social situation.",
+        "observableCheck": "Each student writes a three-bullet summary naming how risk goes up.",
+        "sampleTask": "Guide gives a short scenario reading. Students write a three-bullet summary of how substance use raised risk for the people involved, such as reduced awareness or harder communication. Pairs share and add any risk factor the partner missed.",
+        "materials": [
+          "scenario reading",
+          "summary template"
+        ]
+      },
+      "understand-4": {
+        "objective": "Explain the link between clear decision-making and the ability to give or read consent.",
+        "observableCheck": "Each student draws a labeled link between decision-making and consent with a reason.",
+        "sampleTask": "Students draw a labeled connection on a half-sheet showing how clear decision-making supports both giving and reading consent, with a sentence of reasoning. Guide shows two examples and reinforces that impaired judgment breaks the link. Class confirms the connection in their own words.",
+        "materials": [
+          "link diagram sheet",
+          "pencils"
+        ]
+      },
+      "apply-1": {
+        "objective": "Identify in a scenario whether clear decision-making was possible.",
+        "observableCheck": "Each student marks possible or not possible for three scenarios with a text clue.",
+        "sampleTask": "Guide gives three short scenarios. Students mark whether clear decision-making was possible in each and underline the clue, such as a description of impairment. Pairs compare marks and resolve differences using the text.",
+        "materials": [
+          "scenario set",
+          "highlighters"
+        ]
+      },
+      "apply-2": {
+        "objective": "Apply the consent rule to decide whether consent could be given in sample situations.",
+        "observableCheck": "Each student labels each situation and cites the rule that applies.",
+        "sampleTask": "Guide hands out four sample situations. Students label whether consent could be given in each and cite the specific rule that applies, such as impairment removing consent. Pairs review and confirm the cited rule fits the situation.",
+        "materials": [
+          "situation handout",
+          "consent reference sheet"
+        ]
+      },
+      "apply-3": {
+        "objective": "Use a refusal or exit strategy to lower risk in a substance-pressure scenario.",
+        "observableCheck": "Each pair role-plays a refusal-and-exit and the Guide confirms both steps appear.",
+        "sampleTask": "Guide gives pairs a scenario where substance use raises risk at a gathering. Pairs role-play a clear refusal and a move to a safer setting, such as leaving with a trusted friend. The Guide circulates and confirms both the refusal and the exit appear in each role-play.",
+        "materials": [
+          "scenario cards",
+          "open space"
+        ]
+      },
+      "apply-4": {
+        "objective": "Build a risk-lowering plan for a social situation that involves substances.",
+        "observableCheck": "Each pair produces a written plan with at least three concrete steps.",
+        "sampleTask": "Pairs take a realistic gathering scenario and write a plan with at least three concrete steps to lower risk, such as arriving with a friend, setting a check-in time, and naming an exit ride. Pairs post plans and the class checks each step is something a teen could actually do.",
+        "materials": [
+          "scenario cards",
+          "plan template"
+        ]
+      },
+      "analyze-1": {
+        "objective": "Identify the point in a scenario where impaired judgment raised risk.",
+        "observableCheck": "Each student circles the turning point and labels the risk it created.",
+        "sampleTask": "Guide gives a scenario where substance use leads to a risky situation. Students circle the moment impaired judgment raised risk and label the risk created. Pairs compare and point to the text that marks the turning point.",
+        "materials": [
+          "scenario handout",
+          "pencils"
+        ]
+      },
+      "analyze-2": {
+        "objective": "Compare two scenarios to determine which carried higher risk and why.",
+        "observableCheck": "Each student names the higher-risk scenario with two pieces of evidence.",
+        "sampleTask": "Students read two scenarios and decide which carried higher risk, citing two details. Pairs discuss how substance use changed the level of risk in each. Guide records the reasoning to highlight which factors raised risk most.",
+        "materials": [
+          "two scenarios",
+          "comparison sheet"
+        ]
+      },
+      "analyze-3": {
+        "objective": "Distinguish factors that raised risk from factors that lowered it in a scenario.",
+        "observableCheck": "Each team sorts factor cards into raised-risk and lowered-risk columns and defends two.",
+        "sampleTask": "Guide gives teams a scenario and factor cards naming choices and conditions. Teams sort each into raised-risk or lowered-risk columns and prepare to defend two placements. During share-out the Guide presses on a factor that could go either way depending on details.",
+        "materials": [
+          "scenario card",
+          "factor cards",
+          "sorting mat"
+        ]
+      },
+      "analyze-4": {
+        "objective": "Analyze a multi-step scenario to trace how one choice changed both decision-making and risk.",
+        "observableCheck": "Each team produces a cause-and-effect chain with at least three linked steps.",
+        "sampleTask": "Guide provides a multi-step scenario. Teams build a cause-and-effect chain on chart paper showing how one early choice changed later decision-making and raised risk, naming at least three linked steps. Teams post chains and the class marks the earliest point a different choice would have lowered risk.",
+        "materials": [
+          "multi-step scenario",
+          "chart paper",
+          "markers"
+        ]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Argue which strategy best protects a person in a high-risk scenario and defend it.",
+        "observableCheck": "Each student writes a paragraph naming the chosen strategy with two reasons.",
+        "sampleTask": "Guide presents a high-risk scenario with several possible responses. Students write a paragraph choosing the strategy that best protects the person, giving two reasons and one reason a different strategy was rejected. Volunteers share and the class weighs the cases.",
+        "materials": [
+          "scenario handout",
+          "lined paper"
+        ]
+      },
+      "evaluate-4": {
+        "objective": "Evaluate a set of risk-lowering plans and judge which is most realistic and complete.",
+        "observableCheck": "Each team rates three plans against a rubric and reports the strongest with evidence.",
+        "sampleTask": "Teams receive three sample risk-lowering plans and a rubric scoring realism, completeness, and use of trusted people. Teams rate each plan and write a note naming the strongest and the steps that earned the rating. Teams report out and the Guide builds a class master plan from the best steps.",
+        "materials": [
+          "plan set",
+          "scoring rubric",
+          "report slip"
+        ]
+      },
+      "create-1": {
+        "objective": "Brainstorm protective choices a teen can make before and during a risky social situation.",
+        "observableCheck": "Each student adds at least three protective choices to the class list.",
+        "sampleTask": "Open brainstorm. Guide asks, 'What can a person decide ahead of time to stay safer?' Students name choices such as going with friends, planning a ride, and setting a check-in. Guide records every idea on the board with none rejected.",
+        "materials": [
+          "whiteboard"
+        ]
+      },
+      "create-2": {
+        "objective": "Hypothesize how planning ahead changes the outcome of a risky scenario.",
+        "observableCheck": "Each student writes a one-paragraph what-if naming at least two changed outcomes.",
+        "sampleTask": "Each student takes a risky scenario and writes a what-if paragraph: if the teen had planned ahead using one protective choice, how would the outcome change? The paragraph must name at least two changed outcomes. Pairs trade and confirm the changes follow from the choice.",
+        "materials": [
+          "scenario cards",
+          "lined paper"
+        ]
+      },
+      "create-3": {
+        "objective": "Construct a peer reference card that lists protective strategies for social situations.",
+        "observableCheck": "Each team produces a finished card with at least four clear strategies.",
+        "sampleTask": "Teams design a wallet-size reference card listing at least four protective strategies a teen could use in a social situation involving substances. The card must be readable at a glance and use plain language. Teams trade cards and check each strategy is clear and doable.",
+        "materials": [
+          "card stock",
+          "markers",
+          "brainstorm list"
+        ]
+      },
+      "create-4": {
+        "objective": "Develop and test a short peer scenario that teaches the link between impairment, judgment, and risk, then revise it.",
+        "observableCheck": "Each group runs the scenario with a test audience and submits one revision note.",
+        "sampleTask": "Groups write a short, non-graphic scenario and a debrief that teaches how impairment lowers judgment and raises risk. Groups run it with a test audience of classmates who rate clarity and accuracy on a feedback card. Each group revises once and notes what changed and why before the final run.",
+        "materials": [
+          "scenario planning sheet",
+          "feedback cards",
+          "timer"
+        ]
+      }
+    }
+  },
+  "2.3.8.ATD.3": {
+    "schema_version": 1,
+    "standardCode": "2.3.8.ATD.3",
+    "standardStatement": "Determine the factors that contribute to different rules, laws, and policies in schools, communities, and states regarding alcohol, tobacco (including e-cigarettes, vaping, cannabis products), and other drugs.",
+    "subject": "chpe",
+    "grade": "8",
+    "generatedAt": "2026-06-18T14:04:03.663396+00:00",
+    "cells": {
+      "remember-1": {
+        "objective": "Name the three levels where rules about substances are set: school, community, and state.",
+        "observableCheck": "Each student writes the three levels and one example rule for each on an entry slip.",
+        "sampleTask": "Guide posts the three levels and asks students to write each with one example rule, such as a school vaping ban or a state age limit. Slips go on a labeled board. Guide reads the board and corrects any rule placed at the wrong level.",
+        "materials": [
+          "entry slips",
+          "labeled board"
+        ]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Describe what a specific rule or law about substances requires.",
+        "observableCheck": "Each student restates four sample rules in plain words on a worksheet.",
+        "sampleTask": "Guide hands out four sample rules from different levels. Students rewrite each rule in plain words stating who it applies to and what it requires. Pairs compare restatements and confirm the meaning is kept.",
+        "materials": [
+          "rule worksheet",
+          "pencils"
+        ]
+      },
+      "understand-2": {
+        "objective": "Explain the goal behind one substance rule.",
+        "observableCheck": "Each student writes a 'this rule exists to' sentence for two rules.",
+        "sampleTask": "Each student picks two rules from the board and writes a sentence finishing 'This rule exists to...' for each, naming the goal, such as protecting young people. Pairs trade and check that the goal is a real aim rather than a guess.",
+        "materials": [
+          "rule list",
+          "lined paper"
+        ]
+      },
+      "understand-3": {
+        "objective": "Summarize the main factors that shape substance rules, such as health, age, and safety.",
+        "observableCheck": "Each student lists three factors and ties each to a specific rule.",
+        "sampleTask": "Guide gives a short reading on why substance rules exist. Students list three factors and tie each to a specific rule, such as health driving an age limit. Pairs share and add any factor the partner missed.",
+        "materials": [
+          "factor reading",
+          "summary template"
+        ]
+      },
+      "understand-4": {
+        "objective": "Explain why the same substance can have different rules in different places.",
+        "observableCheck": "Each student writes two sentences explaining a difference between two places’ rules.",
+        "sampleTask": "Guide shows two real, contrasting rules for the same substance from different places. Students write two sentences explaining why the rules differ, naming a factor such as local priorities. Guide collects examples and confirms rules vary by place and reason.",
+        "materials": [
+          "contrasting rules handout",
+          "lined paper"
+        ]
+      },
+      "apply-1": {
+        "objective": "Sort sample rules by the level that sets them.",
+        "observableCheck": "Each pair places eight rule cards into school, community, and state bins with no leftovers.",
+        "sampleTask": "Guide gives pairs eight rule cards and three labeled bins. Pairs sort each rule by the level that sets it and resolve any that seem to fit two levels by choosing the primary one. The class reviews the trickiest cards.",
+        "materials": [
+          "rule cards",
+          "bin labels"
+        ]
+      },
+      "apply-2": {
+        "objective": "Match each rule to the factor that most likely drove it.",
+        "observableCheck": "Each student matches six rules to driving factors and underlines the clue.",
+        "sampleTask": "Guide hands out six rules and a list of factors. Students match each rule to the factor that most likely drove it and underline the clue that supports the match. Pairs compare and resolve differences with reasons.",
+        "materials": [
+          "rule-factor handout",
+          "highlighters"
+        ]
+      },
+      "apply-3": {
+        "objective": "Apply the factor framework to explain a new rule the class has not seen.",
+        "observableCheck": "Each student names two factors behind a fresh rule with evidence.",
+        "sampleTask": "Guide presents a new substance rule. Each student names the two factors most likely behind it and cites evidence from the rule’s wording. Pairs compare and refine their factor list.",
+        "materials": [
+          "new rule handout",
+          "response sheet"
+        ]
+      },
+      "apply-4": {
+        "objective": "Build a labeled chart connecting three rules to the factors and levels behind them.",
+        "observableCheck": "Each pair produces a chart linking each rule to its factor and level.",
+        "sampleTask": "Pairs choose three rules and build a chart linking each to its driving factor and the level that set it. Charts must show the reasoning, not just labels. Pairs post charts and the class checks the links are supported.",
+        "materials": [
+          "rule cards",
+          "chart paper",
+          "markers"
+        ]
+      },
+      "analyze-1": {
+        "objective": "Identify the strongest factor behind a given rule.",
+        "observableCheck": "Each student names the strongest factor for a rule and cites a clue.",
+        "sampleTask": "Guide gives a rule with several possible drivers. Students name the factor that most strongly explains it and cite a clue from the rule. Pairs compare and point to the wording behind their choice.",
+        "materials": [
+          "rule handout",
+          "pencils"
+        ]
+      },
+      "analyze-2": {
+        "objective": "Compare a school rule and a state law on the same substance and explain why they differ.",
+        "observableCheck": "Each student names two differences and a likely reason for each.",
+        "sampleTask": "Students compare a school rule and a state law on the same substance. They name two differences and a likely reason for each, such as a school addressing daily behavior and a state addressing age. Pairs discuss which level can do things the other cannot.",
+        "materials": [
+          "paired rules handout",
+          "comparison sheet"
+        ]
+      },
+      "analyze-3": {
+        "objective": "Distinguish factors based on health from factors based on safety or law enforcement.",
+        "observableCheck": "Each team sorts factor cards into categories and defends two placements.",
+        "sampleTask": "Guide gives teams factor cards and category labels for health, safety, and enforcement. Teams sort each factor and prepare to defend two placements. During share-out the Guide presses on a factor that fits more than one category.",
+        "materials": [
+          "factor cards",
+          "category labels"
+        ]
+      },
+      "analyze-4": {
+        "objective": "Analyze how several factors combined to shape one detailed policy.",
+        "observableCheck": "Each team produces a labeled web naming at least three factors and how each shows up.",
+        "sampleTask": "Guide provides a detailed policy and background. Teams build a web placing the policy at the center and naming at least three contributing factors, with a note on how each shows up in the policy. Teams post webs and the class identifies the factor that seemed to matter most.",
+        "materials": [
+          "detailed policy handout",
+          "chart paper",
+          "markers"
+        ]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Argue whether a given rule does a good job meeting its goal and defend the claim.",
+        "observableCheck": "Each student writes a paragraph judging the rule with two reasons.",
+        "sampleTask": "Guide presents one rule and its stated goal. Students write a paragraph judging whether the rule meets its goal, giving two reasons and one limitation. Volunteers share and the class weighs the cases.",
+        "materials": [
+          "rule and goal handout",
+          "lined paper"
+        ]
+      },
+      "evaluate-4": {
+        "objective": "Evaluate a set of school policies and judge which best balances health and fairness.",
+        "observableCheck": "Each team rates three policies against a rubric and reports the strongest with evidence.",
+        "sampleTask": "Teams receive three sample school substance policies and a rubric scoring health protection, fairness, and clarity. Teams rate each and write a note naming the strongest and the wording that earned the rating. Teams report out and the Guide notes the most common weakness across policies.",
+        "materials": [
+          "policy set",
+          "scoring rubric",
+          "report slip"
+        ]
+      },
+      "create-1": {
+        "objective": "Brainstorm factors that should be considered when writing a school substance policy.",
+        "observableCheck": "Each student adds at least three factors to the class list.",
+        "sampleTask": "Open brainstorm. Guide asks, 'If our school wrote a substance policy, what should it weigh?' Students name factors such as student health, fairness, and enforceability. Guide records every idea on the board with none rejected.",
+        "materials": [
+          "whiteboard"
+        ]
+      },
+      "create-2": {
+        "objective": "Hypothesize how changing one factor would change a policy.",
+        "observableCheck": "Each student writes a one-paragraph what-if naming at least two changes to the policy.",
+        "sampleTask": "Each student takes a sample policy and writes a what-if paragraph: if one factor, such as health concern, were weighted more heavily, how would the policy change? The paragraph must name at least two changes. Pairs trade and check the changes follow from the factor.",
+        "materials": [
+          "sample policy",
+          "lined paper"
+        ]
+      },
+      "create-3": {
+        "objective": "Construct a draft school policy section that names its goal and the factors behind it.",
+        "observableCheck": "Each team produces a one-paragraph draft policy with goal and factors stated.",
+        "sampleTask": "Teams draft a one-paragraph school policy section on a substance topic, stating the goal and the factors that shaped it. The draft must be specific enough to follow. Teams trade drafts and check the goal and factors are both present and clear.",
+        "materials": [
+          "draft template",
+          "brainstorm list"
+        ]
+      },
+      "create-4": {
+        "objective": "Develop and pitch a proposed school policy change, then revise it from peer feedback.",
+        "observableCheck": "Each group pitches the proposal and submits one revision note based on feedback.",
+        "sampleTask": "Groups develop a proposed change to a school substance policy and a short pitch naming the factors behind it. Groups pitch to a test audience of classmates who rate clarity and fairness on a feedback card. Each group revises once and notes what changed and why before the final pitch.",
+        "materials": [
+          "proposal template",
+          "feedback cards",
+          "timer"
+        ]
+      }
+    }
+  }
+}

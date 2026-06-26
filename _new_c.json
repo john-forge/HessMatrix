@@ -1,0 +1,760 @@
+{
+  "2.3.8.DSDT.2": {
+    "schema_version": 1,
+    "standardCode": "2.3.8.DSDT.2",
+    "standardStatement": "Compare and contrast the various services that are available for individuals affected by substance disorders in the community and at the state level.",
+    "subject": "chpe",
+    "grade": "8",
+    "generatedAt": "2026-06-18T19:07:26.934001+00:00",
+    "cells": {
+      "remember-1": {
+        "objective": "Name four services available to a person with a substance disorder, two local and two at the state level.",
+        "observableCheck": "Each student lists four services on an index card, marking each local or state.",
+        "sampleTask": "Guide displays the prompt: 'List four places or programs that help someone with a substance use problem.' Students write four on an index card and mark each as local or state. Cards go on a class board sorted into a local column and a state column.",
+        "materials": [
+          "index cards",
+          "class board"
+        ]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Describe what one community service and one state service each do for a person with a substance disorder.",
+        "observableCheck": "Each student writes one sentence per service naming who it serves and what it offers.",
+        "sampleTask": "Students pick one community service (such as a local counseling center) and one state service (such as a state helpline). Each student writes one sentence per service naming who it serves and what it offers. Pairs trade and check both sentences name a real form of help.",
+        "materials": [
+          "service fact sheet",
+          "lined paper"
+        ]
+      },
+      "understand-2": {
+        "objective": "Explain why a person might choose a community service over a state service, or the reverse.",
+        "observableCheck": "Each student writes two sentences linking a service feature to a person's need.",
+        "sampleTask": "Guide gives short descriptions of a walk-in community clinic and a statewide phone line. Students write two sentences explaining when a person would pick each, linking a feature such as cost or distance to a need. Pairs share and the Guide records the clearest reasons on the board.",
+        "materials": [
+          "service descriptions",
+          "lined paper"
+        ]
+      },
+      "understand-3": {
+        "objective": "Summarize the range of services across community and state levels in a short paragraph.",
+        "observableCheck": "Each student produces a paragraph naming at least three services and what each provides.",
+        "sampleTask": "Students read a one-page list of community and state services. Each writes a paragraph summarizing the range, naming at least three services and what each provides. The paragraph must include at least one community service and one state service. Pairs check that both levels appear.",
+        "materials": [
+          "service list handout",
+          "lined paper"
+        ]
+      },
+      "understand-4": {
+        "objective": "Explain how community and state services connect, so a person moves from one to another.",
+        "observableCheck": "Each student draws a two-step path showing a referral from one service to another.",
+        "sampleTask": "Guide explains that services often refer people to each other. Students draw a two-step path showing how a person could start at a local clinic and be referred to a state-funded program, labeling each step. Pairs compare paths and check each step names a real service and a reason for the referral.",
+        "materials": [
+          "service list handout",
+          "blank path template"
+        ]
+      },
+      "apply-1": {
+        "objective": "Match four sample needs to the service that fits each best.",
+        "observableCheck": "Each student writes the matching service beside each of four need cards.",
+        "sampleTask": "Guide hands out four need cards, such as 'needs a free local meeting tonight' or 'wants a statewide number to call any hour.' Students write the matching service beside each card from the service list. Pairs compare and resolve any mismatch by pointing to the service feature that fits.",
+        "materials": [
+          "need cards",
+          "service list handout"
+        ]
+      },
+      "apply-2": {
+        "objective": "Use a service directory to find the right service for a described person.",
+        "observableCheck": "Each pair locates and records the service name, level, and contact type for one scenario.",
+        "sampleTask": "Guide gives each pair a short scenario about a person seeking help and a one-page service directory. Pairs locate a fitting service and record its name, whether it is community or state, and how to reach it. Pairs post their choice and the Guide checks the service matches the scenario.",
+        "materials": [
+          "scenario card",
+          "service directory"
+        ]
+      },
+      "apply-3": {
+        "objective": "Apply a two-column compare-and-contrast frame to one community service and one state service.",
+        "observableCheck": "Each student fills a frame with at least two shared features and two differences.",
+        "sampleTask": "Students choose one community service and one state service from the directory. Using a compare-and-contrast frame, each student records at least two features the services share and two ways they differ, such as cost, hours, or who runs them. Pairs check that every entry is supported by the directory.",
+        "materials": [
+          "service directory",
+          "compare-contrast frame"
+        ]
+      },
+      "apply-4": {
+        "objective": "Build a labeled resource card for a peer that lists three services by level and use.",
+        "observableCheck": "Each student produces a finished card naming three services, marking level and one-line use.",
+        "sampleTask": "Students design a pocket-size resource card a peer could keep. The card names three services, marks each as community or state, and gives a one-line use for each. Students trade cards and check each entry is accurate and clearly labeled by level.",
+        "materials": [
+          "card template",
+          "service directory",
+          "markers"
+        ]
+      },
+      "analyze-1": {
+        "objective": "Identify the single most important difference between a chosen community and state service.",
+        "observableCheck": "Each student names the key difference and cites the directory entry behind it.",
+        "sampleTask": "Guide gives one community and one state service description. Students name the one difference that matters most for a person seeking help and cite the entry behind it. Pairs compare choices and point to the text that supports each.",
+        "materials": [
+          "two service descriptions",
+          "pencils"
+        ]
+      },
+      "analyze-2": {
+        "objective": "Compare two services to determine which better fits a specific person's situation.",
+        "observableCheck": "Each student names the better-fit service with two pieces of evidence.",
+        "sampleTask": "Students read a short profile of a person and two service descriptions. Each decides which service fits better and gives two pieces of evidence from the descriptions. Pairs discuss why fit, not just availability, matters when someone reaches out for help.",
+        "materials": [
+          "person profile",
+          "two service descriptions",
+          "comparison sheet"
+        ]
+      },
+      "analyze-3": {
+        "objective": "Distinguish services that treat the disorder from services that provide support around it.",
+        "observableCheck": "Each team sorts service cards into treatment and support columns and defends two placements.",
+        "sampleTask": "Guide gives teams service cards mixing treatment programs with support resources such as transportation or housing help. Teams sort each into treatment or support and prepare to defend two placements. During share-out the Guide presses on a card that could fit either column.",
+        "materials": [
+          "service cards",
+          "sorting mat"
+        ]
+      },
+      "analyze-4": {
+        "objective": "Analyze gaps in a town's service list and identify a need that is not covered.",
+        "observableCheck": "Each team marks one uncovered need and the evidence that the list misses it.",
+        "sampleTask": "Guide provides a sample town's full service list and a set of common needs. Teams check each need against the list and mark one need the town does not cover well. Teams post the gap and the evidence, and the class discusses how a state service might fill it.",
+        "materials": [
+          "town service list",
+          "needs checklist",
+          "markers"
+        ]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Argue which one service a town should add first and defend the choice.",
+        "observableCheck": "Each student writes a paragraph with a judgment, two reasons, and one trade-off.",
+        "sampleTask": "Guide presents a town with three candidate services it could add. Students write a paragraph judging which to add first, giving two reasons and naming one trade-off. Volunteers share and the class weighs the strongest cases.",
+        "materials": [
+          "town scenario handout",
+          "lined paper"
+        ]
+      },
+      "evaluate-4": {
+        "objective": "Evaluate three service brochures and judge which most clearly helps a person take a next step.",
+        "observableCheck": "Each team rates three brochures against a rubric and reports the strongest with evidence.",
+        "sampleTask": "Teams receive three sample service brochures and a rubric scoring clarity, accuracy, and ease of next step. Teams rate each and write a note naming the strongest and the wording that earned the rating. Teams report out and the Guide flags any brochure that promises more than a real service can offer.",
+        "materials": [
+          "brochure set",
+          "scoring rubric",
+          "report slip"
+        ]
+      },
+      "create-1": {
+        "objective": "Brainstorm the kinds of help a person with a substance disorder might need beyond medical care.",
+        "observableCheck": "Each student adds at least three needs to the class list.",
+        "sampleTask": "Open brainstorm. Guide asks, 'Besides treatment, what does someone recovering from a substance problem need?' Students name needs such as a ride to appointments, a job, or a friend to check in. Guide records every idea on the board with none rejected.",
+        "materials": [
+          "whiteboard"
+        ]
+      },
+      "create-2": {
+        "objective": "Hypothesize how a fuller set of services could change a person's chance of recovery.",
+        "observableCheck": "Each student writes a one-paragraph what-if naming at least two changed outcomes.",
+        "sampleTask": "Each student writes a what-if paragraph: if a town offered both treatment and support services together, how would a person's recovery change? The paragraph names at least two changed outcomes. Pairs trade and check the outcomes follow from the added services.",
+        "materials": [
+          "service notes",
+          "lined paper"
+        ]
+      },
+      "create-3": {
+        "objective": "Construct a one-page community-and-state resource guide grouped by type of help.",
+        "observableCheck": "Each team produces a finished guide with at least two services per group and correct level labels.",
+        "sampleTask": "Teams design a one-page resource guide grouping services into treatment, counseling, and family support, with at least two services per group. Each entry is labeled community or state and written in plain language. Teams trade guides and check each service is correctly grouped and labeled.",
+        "materials": [
+          "guide template",
+          "service directory"
+        ]
+      },
+      "create-4": {
+        "objective": "Develop and test a short referral script that helps a peer reach the right service, then revise it.",
+        "observableCheck": "Each group delivers the script to a test listener and submits one revision note.",
+        "sampleTask": "Groups write a short script a peer could use to point a friend toward a fitting service, naming the service and the next step. Groups deliver the script to a test listener who rates clarity and accuracy on a feedback card. Each group revises once and notes what changed and why before a final read.",
+        "materials": [
+          "script planning sheet",
+          "feedback cards",
+          "timer"
+        ]
+      }
+    }
+  },
+  "2.3.8.DSDT.3": {
+    "schema_version": 1,
+    "standardCode": "2.3.8.DSDT.3",
+    "standardStatement": "Determine the impact that alcohol and drugs can have on an individual’s social, emotional, and physical well-being.",
+    "subject": "chpe",
+    "grade": "8",
+    "generatedAt": "2026-06-18T19:07:26.934001+00:00",
+    "cells": {
+      "remember-1": {
+        "objective": "Name two impacts of alcohol or drugs for each area: social, emotional, and physical.",
+        "observableCheck": "Each student writes six impacts on a three-column chart before checking with a partner.",
+        "sampleTask": "Guide gives a blank three-column chart labeled social, emotional, and physical. Students write two impacts of alcohol or drugs in each column. Pairs compare charts and the Guide confirms a shared list on the board.",
+        "materials": [
+          "three-column chart",
+          "pencils"
+        ]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Describe one physical impact of a substance in plain everyday terms.",
+        "observableCheck": "Each student writes a two-sentence description naming the body part and the effect.",
+        "sampleTask": "Students pick one physical impact, such as slower reaction time or liver strain. Each writes a two-sentence description naming the body part affected and the effect on daily life. Pairs trade and check the description names a real, accurate effect.",
+        "materials": [
+          "impact fact sheet",
+          "lined paper"
+        ]
+      },
+      "understand-2": {
+        "objective": "Explain how a substance can affect a person's mood or emotions.",
+        "observableCheck": "Each student writes a cause-and-effect sentence linking a substance to an emotional change.",
+        "sampleTask": "Guide reviews how substances change brain chemistry. Students write a cause-and-effect sentence linking a substance to an emotional change, such as a drug raising anxiety the next day. Pairs check that the sentence names a cause and a clear emotional effect.",
+        "materials": [
+          "impact fact sheet",
+          "lined paper"
+        ]
+      },
+      "understand-3": {
+        "objective": "Summarize how one substance can affect all three areas of well-being at once.",
+        "observableCheck": "Each student writes a short paragraph naming a social, an emotional, and a physical effect.",
+        "sampleTask": "Students choose one substance and write a paragraph summarizing how it can touch social, emotional, and physical well-being. The paragraph must name one effect in each area. Pairs check all three areas appear and each effect is accurate.",
+        "materials": [
+          "impact fact sheet",
+          "lined paper"
+        ]
+      },
+      "understand-4": {
+        "objective": "Explain how one impact can lead to another across the three areas.",
+        "observableCheck": "Each student draws a labeled chain linking at least three connected impacts.",
+        "sampleTask": "Guide shows that impacts often chain, such as missed practice leading to lost friendships leading to low mood. Students draw a labeled chain of at least three connected impacts that crosses at least two areas. Pairs compare chains and check each link follows from the one before.",
+        "materials": [
+          "impact fact sheet",
+          "blank chain template"
+        ]
+      },
+      "apply-1": {
+        "objective": "Sort eight described impacts into social, emotional, and physical categories.",
+        "observableCheck": "Each student places all eight impact cards into the correct column.",
+        "sampleTask": "Guide hands out eight impact cards describing real effects. Students place each in the social, emotional, or physical column on a sorting sheet. Pairs compare and resolve any disagreement by pointing to the wording on the card.",
+        "materials": [
+          "impact cards",
+          "sorting sheet"
+        ]
+      },
+      "apply-2": {
+        "objective": "Use the three areas to map the impacts shown in a short case.",
+        "observableCheck": "Each pair lists at least one impact per area found in the case text.",
+        "sampleTask": "Guide gives each pair a short case about a teen using a substance. Pairs list at least one social, one emotional, and one physical impact they find in the text. Pairs post their map and the Guide checks each impact is supported by a line in the case.",
+        "materials": [
+          "case handout",
+          "mapping sheet"
+        ]
+      },
+      "apply-3": {
+        "objective": "Apply the impact chart to predict effects a substance could have on a described student.",
+        "observableCheck": "Each student writes three predicted impacts, one per area, tied to the student's life.",
+        "sampleTask": "Students read a profile of a student with a busy life of sports, friends, and school. Each writes three predicted impacts, one social, one emotional, one physical, tied to that student's life. Pairs check each prediction connects to a real detail in the profile.",
+        "materials": [
+          "student profile",
+          "impact chart"
+        ]
+      },
+      "apply-4": {
+        "objective": "Build a labeled diagram of one person showing impacts across all three areas.",
+        "observableCheck": "Each student produces a body-and-life diagram with at least two labeled impacts per area.",
+        "sampleTask": "Students draw a simple figure with a thought bubble and a friend circle around it. They label at least two physical impacts on the body, two emotional impacts in the bubble, and two social impacts in the circle. Students trade diagrams and check each label names an accurate impact in the right place.",
+        "materials": [
+          "diagram template",
+          "impact fact sheet",
+          "markers"
+        ]
+      },
+      "analyze-1": {
+        "objective": "Identify which single impact in a case is most likely to spread to other areas.",
+        "observableCheck": "Each student names the impact and cites the case clue.",
+        "sampleTask": "Guide gives a case listing several impacts. Students name the one impact most likely to spread to other areas and cite the clue. Pairs compare and point to the text behind their choice.",
+        "materials": [
+          "case handout",
+          "pencils"
+        ]
+      },
+      "analyze-2": {
+        "objective": "Compare two cases to determine which shows wider impact across the three areas.",
+        "observableCheck": "Each student names the wider-impact case with two pieces of evidence.",
+        "sampleTask": "Students read two short cases and decide which shows impact spread across more areas, citing two details. Pairs discuss why impact that crosses areas is harder to recover from than a single effect.",
+        "materials": [
+          "two case handouts",
+          "comparison sheet"
+        ]
+      },
+      "analyze-3": {
+        "objective": "Distinguish a direct impact of a substance from a consequence that comes from a choice around it.",
+        "observableCheck": "Each team sorts impact cards into direct and indirect columns and defends two.",
+        "sampleTask": "Guide gives teams cards mixing direct effects, such as slowed reflexes, with indirect consequences, such as a suspension for missing school. Teams sort each into direct or indirect and prepare to defend two placements. During share-out the Guide presses on a card that could fit either column.",
+        "materials": [
+          "impact cards",
+          "sorting mat"
+        ]
+      },
+      "analyze-4": {
+        "objective": "Analyze how impacts in a detailed case built up over time across the three areas.",
+        "observableCheck": "Each team produces a timeline showing at least three impacts and how they accumulated.",
+        "sampleTask": "Guide provides a detailed case spanning several months. Teams build a timeline placing at least three impacts in order and showing how they accumulated across social, emotional, and physical areas. Teams post timelines and the class marks the point the impacts became hard to reverse.",
+        "materials": [
+          "detailed case",
+          "timeline strip",
+          "markers"
+        ]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Argue which area of well-being a prevention message should focus on first, and defend it.",
+        "observableCheck": "Each student writes a paragraph with a judgment and two reasons.",
+        "sampleTask": "Guide asks which area, social, emotional, or physical, a prevention message for teens should lead with. Students write a paragraph naming their choice with two reasons drawn from the impact evidence. Volunteers share and the class weighs the cases.",
+        "materials": [
+          "impact notes",
+          "lined paper"
+        ]
+      },
+      "evaluate-4": {
+        "objective": "Evaluate three prevention posters and judge which most accurately shows real impacts.",
+        "observableCheck": "Each team rates three posters against a rubric and reports the strongest with evidence.",
+        "sampleTask": "Teams receive three sample prevention posters and a rubric scoring accuracy, clarity, and honesty. Teams rate each and write a note naming the strongest and the wording or image that earned the rating. Teams report out and the Guide flags any poster that exaggerates or scares without facts.",
+        "materials": [
+          "poster set",
+          "scoring rubric",
+          "report slip"
+        ]
+      },
+      "create-1": {
+        "objective": "Brainstorm everyday signs that a substance is affecting someone's well-being.",
+        "observableCheck": "Each student adds at least three observable signs to the class list.",
+        "sampleTask": "Open brainstorm. Guide asks, 'What might you notice if a substance was hurting someone's life?' Students name signs such as falling grades, mood swings, or quitting a team. Guide records every idea on the board with none rejected.",
+        "materials": [
+          "whiteboard"
+        ]
+      },
+      "create-2": {
+        "objective": "Hypothesize how removing a substance could change a person's well-being across areas.",
+        "observableCheck": "Each student writes a one-paragraph what-if naming at least two changed outcomes.",
+        "sampleTask": "Each student writes a what-if paragraph: if a person stopped using and got support, how would their social, emotional, and physical life change? The paragraph names at least two changed outcomes across different areas. Pairs trade and check the changes follow from stopping.",
+        "materials": [
+          "impact notes",
+          "lined paper"
+        ]
+      },
+      "create-3": {
+        "objective": "Construct a one-page guide that groups substance impacts by area for peers.",
+        "observableCheck": "Each team produces a finished guide with at least two impacts per area in plain language.",
+        "sampleTask": "Teams design a one-page guide grouping impacts into social, emotional, and physical, with at least two accurate impacts per area written in plain language. Teams trade guides and check each impact is correctly placed and clearly worded.",
+        "materials": [
+          "guide template",
+          "impact fact sheet"
+        ]
+      },
+      "create-4": {
+        "objective": "Develop and test a short message that explains real impacts honestly, then revise it.",
+        "observableCheck": "Each group delivers the message to a test audience and submits one revision note.",
+        "sampleTask": "Groups create a short message explaining the real impacts of a substance in an honest, non-scare way. Groups deliver it to a test audience of classmates who rate accuracy and tone on a feedback card. Each group revises once and notes what changed and why before final delivery.",
+        "materials": [
+          "message planning sheet",
+          "feedback cards",
+          "timer"
+        ]
+      }
+    }
+  },
+  "2.3.8.DSDT.4": {
+    "schema_version": 1,
+    "standardCode": "2.3.8.DSDT.4",
+    "standardStatement": "Examine how alcohol and drug disorders can impact the social, emotional, and physical lives of friends and family members.",
+    "subject": "chpe",
+    "grade": "8",
+    "generatedAt": "2026-06-18T19:07:26.934001+00:00",
+    "cells": {
+      "remember-1": {
+        "objective": "Name two ways a person's substance disorder can affect a friend or family member in each area: social, emotional, and physical.",
+        "observableCheck": "Each student writes six effects on a three-column chart before checking with a partner.",
+        "sampleTask": "Guide gives a blank three-column chart labeled social, emotional, and physical. Students write two ways a loved one is affected in each column. Pairs compare and the Guide confirms a shared list on the board.",
+        "materials": [
+          "three-column chart",
+          "pencils"
+        ]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Describe one emotional effect a substance disorder can have on a family member.",
+        "observableCheck": "Each student writes two sentences naming the feeling and what causes it.",
+        "sampleTask": "Students pick one emotional effect on a family member, such as constant worry. Each writes two sentences naming the feeling and what in the situation causes it. Pairs trade and check the effect is realistic and clearly explained.",
+        "materials": [
+          "effects fact sheet",
+          "lined paper"
+        ]
+      },
+      "understand-2": {
+        "objective": "Explain how one person's substance use can change daily routines for the whole household.",
+        "observableCheck": "Each student writes a cause-and-effect sentence linking the use to a household change.",
+        "sampleTask": "Guide reviews how a disorder reshapes home life. Students write a cause-and-effect sentence linking one person's use to a change in the household, such as a sibling taking on extra chores. Pairs check the sentence names a cause and a clear household effect.",
+        "materials": [
+          "effects fact sheet",
+          "lined paper"
+        ]
+      },
+      "understand-3": {
+        "objective": "Summarize how a friend's well-being can be touched across all three areas.",
+        "observableCheck": "Each student writes a paragraph naming a social, an emotional, and a physical effect on a friend.",
+        "sampleTask": "Students write a paragraph summarizing how a close friend's social, emotional, and physical life can be affected when someone they care about has a substance disorder. The paragraph names one effect in each area. Pairs check all three areas appear and each effect is accurate.",
+        "materials": [
+          "effects fact sheet",
+          "lined paper"
+        ]
+      },
+      "understand-4": {
+        "objective": "Explain how the impact can ripple from the person to friends to family and back.",
+        "observableCheck": "Each student draws a labeled ripple diagram with at least three connected effects.",
+        "sampleTask": "Guide shows that impact ripples outward and back. Students draw a labeled ripple diagram showing at least three connected effects moving from the person to friends and family. Pairs compare and check each link follows from the one before.",
+        "materials": [
+          "effects fact sheet",
+          "ripple template"
+        ]
+      },
+      "apply-1": {
+        "objective": "Sort eight described effects on loved ones into social, emotional, and physical categories.",
+        "observableCheck": "Each student places all eight effect cards into the correct column.",
+        "sampleTask": "Guide hands out eight cards describing real effects on friends and family. Students place each in the social, emotional, or physical column on a sorting sheet. Pairs compare and resolve any disagreement by pointing to the card wording.",
+        "materials": [
+          "effect cards",
+          "sorting sheet"
+        ]
+      },
+      "apply-2": {
+        "objective": "Use the three areas to map how a case affects the people around the person.",
+        "observableCheck": "Each pair lists at least one effect per area found in the case.",
+        "sampleTask": "Guide gives each pair a short case about a family living with a member's substance disorder. Pairs list at least one social, one emotional, and one physical effect on the people around that member. Pairs post their map and the Guide checks each effect is supported by the case.",
+        "materials": [
+          "case handout",
+          "mapping sheet"
+        ]
+      },
+      "apply-3": {
+        "objective": "Apply the effects chart to predict how a described teen's life changes when a parent has a disorder.",
+        "observableCheck": "Each student writes three predicted effects, one per area, tied to the teen's life.",
+        "sampleTask": "Students read a profile of a teen whose parent has a substance disorder. Each writes three predicted effects on the teen, one social, one emotional, one physical, tied to details in the profile. Pairs check each prediction connects to a real detail.",
+        "materials": [
+          "teen profile",
+          "effects chart"
+        ]
+      },
+      "apply-4": {
+        "objective": "Build a labeled family map showing effects on each member across the three areas.",
+        "observableCheck": "Each student produces a map naming each member and at least one labeled effect per member.",
+        "sampleTask": "Students draw a simple map of a household and a friend. For each person they label at least one effect and mark whether it is social, emotional, or physical. Students trade maps and check each label names a realistic effect placed on the right person.",
+        "materials": [
+          "family map template",
+          "effects fact sheet",
+          "markers"
+        ]
+      },
+      "analyze-1": {
+        "objective": "Identify which family member in a case carries the heaviest impact.",
+        "observableCheck": "Each student names the member and cites two clues from the case.",
+        "sampleTask": "Guide gives a case describing several family members. Students name the member carrying the heaviest impact and cite two clues. Pairs compare and point to the text behind each choice.",
+        "materials": [
+          "case handout",
+          "pencils"
+        ]
+      },
+      "analyze-2": {
+        "objective": "Compare two cases to determine which shows greater impact on friends and family.",
+        "observableCheck": "Each student names the greater-impact case with two pieces of evidence.",
+        "sampleTask": "Students read two short cases and decide which shows greater impact on the people around the person, citing two details. Pairs discuss why impact on loved ones can last even after the person gets help.",
+        "materials": [
+          "two case handouts",
+          "comparison sheet"
+        ]
+      },
+      "analyze-3": {
+        "objective": "Distinguish an effect caused directly by the disorder from one a family member chooses in response.",
+        "observableCheck": "Each team sorts effect cards into caused and chosen-response columns and defends two.",
+        "sampleTask": "Guide gives teams cards mixing direct effects, such as a missed family event, with chosen responses, such as a sibling joining a support group. Teams sort each and prepare to defend two placements. During share-out the Guide presses on a card that could fit either column.",
+        "materials": [
+          "effect cards",
+          "sorting mat"
+        ]
+      },
+      "analyze-4": {
+        "objective": "Analyze how the impact on a family in a detailed case grew over time.",
+        "observableCheck": "Each team produces a timeline showing at least three effects on loved ones and how they grew.",
+        "sampleTask": "Guide provides a detailed case spanning a year. Teams build a timeline placing at least three effects on friends and family in order and showing how the impact grew. Teams post timelines and the class marks the point the family most needed outside support.",
+        "materials": [
+          "detailed case",
+          "timeline strip",
+          "markers"
+        ]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Argue what one form of support would help an affected family member most, and defend it.",
+        "observableCheck": "Each student writes a paragraph with a judgment and two reasons.",
+        "sampleTask": "Guide presents a family member affected by a loved one's disorder. Students write a paragraph judging which one support, such as a support group or counseling, would help most, with two reasons. Volunteers share and the class weighs the cases.",
+        "materials": [
+          "case handout",
+          "lined paper"
+        ]
+      },
+      "evaluate-4": {
+        "objective": "Evaluate three support resources for families and judge which best fits an affected teen.",
+        "observableCheck": "Each team rates three resources against a rubric and reports the strongest with evidence.",
+        "sampleTask": "Teams receive three sample support resources for families and a rubric scoring fit, clarity, and tone. Teams rate each and write a note naming the strongest for an affected teen and the feature that earned the rating. Teams report out and the Guide flags any resource that blames the family.",
+        "materials": [
+          "resource set",
+          "scoring rubric",
+          "report slip"
+        ]
+      },
+      "create-1": {
+        "objective": "Brainstorm ways a friend can support someone whose family member has a substance disorder.",
+        "observableCheck": "Each student adds at least three supportive actions to the class list.",
+        "sampleTask": "Open brainstorm. Guide asks, 'How can you support a friend whose home is affected by a substance problem?' Students name actions such as listening, including them in plans, or pointing them to a counselor. Guide records every idea on the board with none rejected.",
+        "materials": [
+          "whiteboard"
+        ]
+      },
+      "create-2": {
+        "objective": "Hypothesize how support for the family could change outcomes for everyone in the home.",
+        "observableCheck": "Each student writes a one-paragraph what-if naming at least two changed outcomes.",
+        "sampleTask": "Each student writes a what-if paragraph: if friends and family got support too, how would the whole home change? The paragraph names at least two changed outcomes for different people. Pairs trade and check the changes follow from the added support.",
+        "materials": [
+          "effects notes",
+          "lined paper"
+        ]
+      },
+      "create-3": {
+        "objective": "Construct a one-page guide for peers on how a substance disorder affects loved ones and how to help.",
+        "observableCheck": "Each team produces a finished guide grouping effects by area and listing two ways to help.",
+        "sampleTask": "Teams design a one-page guide grouping effects on loved ones into social, emotional, and physical, with at least one effect per area, and listing two supportive actions. The guide is written in plain, caring language. Teams trade guides and check each effect is correctly placed and each action is realistic.",
+        "materials": [
+          "guide template",
+          "effects fact sheet"
+        ]
+      },
+      "create-4": {
+        "objective": "Develop and test a short message that helps peers support an affected friend, then revise it.",
+        "observableCheck": "Each group delivers the message to a test audience and submits one revision note.",
+        "sampleTask": "Groups create a short message teaching peers how to support a friend whose family is affected by a substance disorder. Groups deliver it to a test audience of classmates who rate accuracy and tone on a feedback card. Each group revises once and notes what changed and why before final delivery.",
+        "materials": [
+          "message planning sheet",
+          "feedback cards",
+          "timer"
+        ]
+      }
+    }
+  },
+  "2.3.8.DSDT.5": {
+    "schema_version": 1,
+    "standardCode": "2.3.8.DSDT.5",
+    "standardStatement": "Compare and contrast the various services that are available for family members and others affected by substance disorders in the community and at the state level.",
+    "subject": "chpe",
+    "grade": "8",
+    "generatedAt": "2026-06-18T19:07:26.934001+00:00",
+    "cells": {
+      "remember-1": {
+        "objective": "Name four services for family members affected by a loved one's substance disorder, two local and two at the state level.",
+        "observableCheck": "Each student lists four services on an index card, marking each local or state.",
+        "sampleTask": "Guide displays the prompt: 'List four places or programs that help the family of someone with a substance problem.' Students write four on an index card and mark each local or state. Cards go on a class board sorted into local and state columns.",
+        "materials": [
+          "index cards",
+          "class board"
+        ]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Describe what one family-support service does and who it serves.",
+        "observableCheck": "Each student writes two sentences naming the service, who it serves, and what it offers.",
+        "sampleTask": "Students pick one family-support service, such as a peer support group for relatives. Each writes two sentences naming who it serves and what it offers. Pairs trade and check both sentences describe a real form of help for family members.",
+        "materials": [
+          "service fact sheet",
+          "lined paper"
+        ]
+      },
+      "understand-2": {
+        "objective": "Explain why a family member might choose a community group over a state hotline, or the reverse.",
+        "observableCheck": "Each student writes two sentences linking a service feature to a family need.",
+        "sampleTask": "Guide gives descriptions of a local family support group and a statewide family helpline. Students write two sentences explaining when a family member would pick each, linking a feature such as privacy or in-person contact to a need. Pairs share and the Guide records the clearest reasons.",
+        "materials": [
+          "service descriptions",
+          "lined paper"
+        ]
+      },
+      "understand-3": {
+        "objective": "Summarize the range of family-support services across community and state levels.",
+        "observableCheck": "Each student writes a paragraph naming at least three services and what each provides.",
+        "sampleTask": "Students read a one-page list of community and state family-support services. Each writes a paragraph summarizing the range, naming at least three services and what each provides, with at least one at each level. Pairs check both levels appear.",
+        "materials": [
+          "service list handout",
+          "lined paper"
+        ]
+      },
+      "understand-4": {
+        "objective": "Explain how a family member could move from one service to another through a referral.",
+        "observableCheck": "Each student draws a two-step path showing a referral between two family-support services.",
+        "sampleTask": "Guide explains that family services often refer people onward. Students draw a two-step path showing how a family member could start at a local group and be referred to a state program, labeling each step and the reason. Pairs compare and check each step names a real service.",
+        "materials": [
+          "service list handout",
+          "path template"
+        ]
+      },
+      "apply-1": {
+        "objective": "Match four family needs to the family-support service that fits each best.",
+        "observableCheck": "Each student writes the matching service beside each of four need cards.",
+        "sampleTask": "Guide hands out four need cards, such as 'a sibling needs other teens who understand' or 'a parent wants a confidential number to call.' Students write the matching service beside each card. Pairs compare and resolve mismatches by pointing to the service feature that fits.",
+        "materials": [
+          "need cards",
+          "service list handout"
+        ]
+      },
+      "apply-2": {
+        "objective": "Use a directory to find the right family-support service for a described situation.",
+        "observableCheck": "Each pair records the service name, level, and contact type for one scenario.",
+        "sampleTask": "Guide gives each pair a scenario about a family seeking help and a one-page family-support directory. Pairs locate a fitting service and record its name, level, and how to reach it. Pairs post their choice and the Guide checks the service fits the scenario.",
+        "materials": [
+          "scenario card",
+          "family-support directory"
+        ]
+      },
+      "apply-3": {
+        "objective": "Apply a compare-and-contrast frame to one community and one state family-support service.",
+        "observableCheck": "Each student fills a frame with at least two shared features and two differences.",
+        "sampleTask": "Students choose one community and one state family-support service from the directory. Using a compare-and-contrast frame, each records at least two shared features and two differences, such as cost, format, or who runs them. Pairs check every entry is supported by the directory.",
+        "materials": [
+          "family-support directory",
+          "compare-contrast frame"
+        ]
+      },
+      "apply-4": {
+        "objective": "Build a labeled resource card for an affected family member listing three services by level.",
+        "observableCheck": "Each student produces a finished card naming three services, marking level and one-line use.",
+        "sampleTask": "Students design a pocket-size card a family member could keep. It names three services, marks each community or state, and gives a one-line use. Students trade cards and check each entry is accurate and clearly labeled.",
+        "materials": [
+          "card template",
+          "family-support directory",
+          "markers"
+        ]
+      },
+      "analyze-1": {
+        "objective": "Identify the most important difference between a chosen community and state family-support service.",
+        "observableCheck": "Each student names the key difference and cites the directory entry behind it.",
+        "sampleTask": "Guide gives one community and one state family-support service. Students name the difference that matters most for a family seeking help and cite the entry. Pairs compare and point to the supporting text.",
+        "materials": [
+          "two service descriptions",
+          "pencils"
+        ]
+      },
+      "analyze-2": {
+        "objective": "Compare two family-support services to determine which better fits a specific family.",
+        "observableCheck": "Each student names the better-fit service with two pieces of evidence.",
+        "sampleTask": "Students read a short family profile and two service descriptions. Each decides which service fits better and gives two pieces of evidence. Pairs discuss why fit matters when a whole family is affected.",
+        "materials": [
+          "family profile",
+          "two service descriptions",
+          "comparison sheet"
+        ]
+      },
+      "analyze-3": {
+        "objective": "Distinguish services that treat the affected person from services that support the family around them.",
+        "observableCheck": "Each team sorts service cards into person-focused and family-focused columns and defends two.",
+        "sampleTask": "Guide gives teams cards mixing services for the person with services for the family. Teams sort each and prepare to defend two placements. During share-out the Guide presses on a card that could serve both.",
+        "materials": [
+          "service cards",
+          "sorting mat"
+        ]
+      },
+      "analyze-4": {
+        "objective": "Analyze gaps in a town's family-support services and identify a need that is not covered.",
+        "observableCheck": "Each team marks one uncovered family need and the evidence that the list misses it.",
+        "sampleTask": "Guide provides a sample town's family-support list and a set of common family needs. Teams check each need against the list and mark one the town does not cover well. Teams post the gap and evidence, and the class discusses how a state service might fill it.",
+        "materials": [
+          "town service list",
+          "needs checklist",
+          "markers"
+        ]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Argue which one family-support service a town should add first, and defend the choice.",
+        "observableCheck": "Each student writes a paragraph with a judgment, two reasons, and one trade-off.",
+        "sampleTask": "Guide presents a town with three candidate family-support services. Students write a paragraph judging which to add first, giving two reasons and one trade-off. Volunteers share and the class weighs the strongest cases.",
+        "materials": [
+          "town scenario handout",
+          "lined paper"
+        ]
+      },
+      "evaluate-4": {
+        "objective": "Evaluate three family-support brochures and judge which most clearly guides a relative to a next step.",
+        "observableCheck": "Each team rates three brochures against a rubric and reports the strongest with evidence.",
+        "sampleTask": "Teams receive three sample family-support brochures and a rubric scoring clarity, accuracy, and ease of next step. Teams rate each and write a note naming the strongest and the wording that earned the rating. Teams report out and the Guide flags any brochure that overpromises.",
+        "materials": [
+          "brochure set",
+          "scoring rubric",
+          "report slip"
+        ]
+      },
+      "create-1": {
+        "objective": "Brainstorm the kinds of help a family of someone with a substance disorder might need.",
+        "observableCheck": "Each student adds at least three needs to the class list.",
+        "sampleTask": "Open brainstorm. Guide asks, 'What does a family living with a substance problem need?' Students name needs such as someone to talk to, childcare, or guidance on what to say. Guide records every idea with none rejected.",
+        "materials": [
+          "whiteboard"
+        ]
+      },
+      "create-2": {
+        "objective": "Hypothesize how family-support services could change outcomes for an affected household.",
+        "observableCheck": "Each student writes a one-paragraph what-if naming at least two changed outcomes.",
+        "sampleTask": "Each student writes a what-if paragraph: if a family used both a local group and a state program, how would the household change? The paragraph names at least two changed outcomes. Pairs trade and check the changes follow from the added services.",
+        "materials": [
+          "service notes",
+          "lined paper"
+        ]
+      },
+      "create-3": {
+        "objective": "Construct a one-page family-support resource guide grouped by type of help and level.",
+        "observableCheck": "Each team produces a finished guide with at least two services per group and correct level labels.",
+        "sampleTask": "Teams design a one-page guide grouping family-support services into peer support, counseling, and practical help, with at least two services per group. Each entry is labeled community or state in plain language. Teams trade guides and check grouping and labels.",
+        "materials": [
+          "guide template",
+          "family-support directory"
+        ]
+      },
+      "create-4": {
+        "objective": "Develop and test a short referral script that helps a peer point an affected friend's family to help, then revise it.",
+        "observableCheck": "Each group delivers the script to a test listener and submits one revision note.",
+        "sampleTask": "Groups write a short script a peer could use to point a friend's family toward a fitting service, naming the service and next step. Groups deliver it to a test listener who rates clarity and accuracy on a feedback card. Each group revises once and notes what changed and why.",
+        "materials": [
+          "script planning sheet",
+          "feedback cards",
+          "timer"
+        ]
+      }
+    }
+  }
+}

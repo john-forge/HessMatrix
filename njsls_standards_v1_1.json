@@ -1,0 +1,3 @@
+{
+  "_obsolete": "This placeholder was created mid-implementation and is not used by the app. The schema 1.1 update is delivered via njsls_v1_1_augmentations.js (the overlay file), which extends the existing njsls_standards.js v1.0 records with NGSS three-dimensional fields. Safe to delete."
+}

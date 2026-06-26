@@ -1,0 +1,1034 @@
+{
+  "2.1.8.PP.4": {
+    "schema_version": 1,
+    "standardCode": "2.1.8.PP.4",
+    "standardStatement": "Predict challenges that may be faced by adolescent parents and their families.",
+    "subject": "chpe",
+    "grade": "8",
+    "generatedAt": "2026-06-17T14:40:00Z",
+    "cells": {
+      "remember-1": {
+        "objective": "List five common challenges an adolescent parent may face, such as finishing school, paying for childcare, sleep loss, and limited free time.",
+        "observableCheck": "Each student writes five challenges on an index card and reads two aloud.",
+        "sampleTask": "Guide posts the prompt: 'What are real challenges a teen parent deals with day to day?' Each student writes five on an index card from a word bank the Guide provides. Cards go up on a board sorted into money, school, time, and health columns. The class reads the board and removes duplicates.",
+        "materials": ["index cards", "word bank handout", "class board", "tape"]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Match each adolescent parenting challenge to the part of daily life it affects, such as school, money, or sleep.",
+        "observableCheck": "Each student completes a matching column with at least seven of eight pairs correct.",
+        "sampleTask": "Guide hands out a worksheet with eight challenges in one column and eight areas of life in the other, scrambled. Students draw lines to connect each challenge to the area it affects most. The Guide reviews answers as a class and resolves the pairs students debate. Students fix any wrong lines in a second color.",
+        "materials": ["matching worksheet", "two pen colors"]
+      },
+      "understand-2": {
+        "objective": "Explain in writing why one named challenge, such as missing school, creates a second challenge for an adolescent parent.",
+        "observableCheck": "Each student writes a two-sentence cause-and-effect statement linking one challenge to another.",
+        "sampleTask": "Each student picks one challenge from the board and writes how it leads to a second challenge, using the frame 'This causes that because ...'. For example, missing school lowers grades, which narrows job options later. Pairs trade papers and underline the cause and the effect in each other's writing. The Guide collects three to read aloud without names.",
+        "materials": ["writing frame handout", "lined paper"]
+      },
+      "understand-3": {
+        "objective": "Summarize how a single challenge ripples out from the adolescent parent to the wider family, such as grandparents who step in to help.",
+        "observableCheck": "Each student draws a three-ring diagram showing the parent, the child, and the extended family for one challenge.",
+        "sampleTask": "Guide models a ripple diagram on the board: the teen parent in the center ring, the baby in the next ring, and family members in the outer ring. Students pick one challenge and fill their own three-ring diagram showing who each ring feels the effect on. Students label one arrow between rings with a short phrase. The Guide displays two strong diagrams under the document camera.",
+        "materials": ["blank ripple diagram handout", "document camera", "pencils"]
+      },
+      "understand-4": {
+        "objective": "Describe across several sources how the set of challenges adolescent parents face fits together over the first year of a child's life.",
+        "observableCheck": "Each group produces a labeled timeline with at least one challenge marked in each quarter of the first year.",
+        "sampleTask": "Groups read two short Guide-provided summaries about the first year of parenting. Each group builds a four-section timeline for months zero to twelve and places challenges where they tend to peak, such as sleep loss early and childcare cost when leave ends. Groups add a one-line note explaining each placement. The class compares two timelines and notes where they disagree.",
+        "materials": ["two source summaries", "timeline poster paper", "markers"]
+      },
+      "apply-1": {
+        "objective": "Sort a stack of challenge cards into 'school,' 'money,' 'health,' and 'support' using a provided rule sheet.",
+        "observableCheck": "Each pair places all twelve cards into the four trays and matches the answer key on at least ten.",
+        "sampleTask": "Guide gives each pair twelve challenge cards and four labeled trays with a one-line rule for each category. Pairs read each card and drop it in the tray its rule fits. Pairs check their sort against an answer key the Guide reveals at the ten-minute mark. Each pair writes one card that was hard to place and why.",
+        "materials": ["challenge card sets", "four labeled trays", "rule sheet", "answer key"]
+      },
+      "apply-2": {
+        "objective": "Use a weekly schedule template to slot a teen parent's school, work, childcare, and sleep into a seven-day grid.",
+        "observableCheck": "Each student turns in a grid with no overlap and at least seven hours of sleep marked each night.",
+        "sampleTask": "Guide hands out a blank weekly grid and a card listing one fictional teen parent's fixed commitments, such as classes from eight to two and a shift on two evenings. Students place each block on the grid without overlaps and shade the sleep hours. Students mark in red any day where something does not fit. The Guide collects grids and names one common conflict.",
+        "materials": ["weekly grid template", "commitment cards", "red pencil"]
+      },
+      "apply-3": {
+        "objective": "Apply a problem-and-solution chart to one predicted challenge, choosing a response a teen parent could realistically take.",
+        "observableCheck": "Each student records one challenge, two possible responses, and the response they would pick with a reason.",
+        "sampleTask": "Each student picks a challenge from the class board and fills a chart with the problem, two responses, and the trade-off of each. Students circle the response they would choose and write one sentence on why. Pairs read each other's charts and add one response the partner missed. The Guide posts three charts that show different reasonable choices.",
+        "materials": ["problem-and-solution chart", "class board", "pencils"]
+      },
+      "apply-4": {
+        "objective": "Build a one-week support plan that connects a teen parent to two real resources for two different challenges.",
+        "observableCheck": "Each pair submits a plan naming two resources and the day and time the parent would use each.",
+        "sampleTask": "Pairs receive a card with one teen parent's situation and a list of local-style resources such as a school counselor, a clinic, and a relative. Pairs choose two resources for two challenges and place each on a day-and-time line. Pairs write one sentence on what could block the plan and a backup. The Guide reviews two plans and points out one realistic backup.",
+        "materials": ["situation cards", "resource list", "planning sheet"]
+      },
+      "analyze-1": {
+        "objective": "Identify which of three listed challenges would hit an adolescent parent soonest after a baby arrives.",
+        "observableCheck": "Each student ranks three challenges by how soon they appear and labels the earliest.",
+        "sampleTask": "Guide displays three challenges, such as childcare cost, sleep loss, and saving for college. Students number them one to three by how soon each one shows up after birth and circle the earliest. Students write one sentence defending their top pick. The Guide takes a hand vote and names where students split.",
+        "materials": ["projector", "lined paper"]
+      },
+      "analyze-2": {
+        "objective": "Compare two teen parents' situations to find which challenge they share and which one differs.",
+        "observableCheck": "Each pair fills a Venn diagram with at least two shared and two different challenges.",
+        "sampleTask": "Pairs read two short profiles of teen parents with different family setups, such as one living with grandparents and one living alone. Pairs sort challenges into a Venn diagram with shared challenges in the middle. Pairs write one sentence on why a difference in setup changes the challenge. The Guide displays one Venn and asks the class to add a missing item.",
+        "materials": ["two parent profiles", "Venn diagram handout", "pencils"]
+      },
+      "analyze-3": {
+        "objective": "Trace how one challenge for an adolescent parent leads to a chain of two or three further challenges for the family.",
+        "observableCheck": "Each student builds a cause chain with at least three linked boxes and an explanation for each arrow.",
+        "sampleTask": "Guide models a cause chain: dropping a class leads to fewer credits, which delays graduation, which delays full-time work. Each student picks a starting challenge and builds a chain of three boxes with a labeled arrow between each. Students write a phrase on each arrow saying why one leads to the next. Pairs check whether every arrow holds and flag one weak link.",
+        "materials": ["cause chain template", "pencils", "highlighters"]
+      },
+      "analyze-4": {
+        "objective": "Investigate two sources on adolescent parenting and judge which predicted challenge they both treat as most serious.",
+        "observableCheck": "Each group cites a line from each source and names the challenge both rank highest.",
+        "sampleTask": "Groups read two Guide-provided summaries that each discuss several challenges. Each group finds the challenge both sources stress most and copies one supporting line from each. Groups write two sentences on why both sources agree. The class compares which challenge groups landed on and discusses any group that chose differently.",
+        "materials": ["two source summaries", "evidence recording sheet", "highlighters"]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Judge which of two support plans better addresses a teen parent's most urgent challenge and defend the choice with criteria.",
+        "observableCheck": "Each student rates both plans against three criteria and writes a short paragraph naming the winner.",
+        "sampleTask": "Guide gives students two finished support plans for the same teen parent and a rubric with three criteria, such as speed, cost, and reliability. Students score each plan on the rubric and total the points. Students write a paragraph naming the stronger plan and citing two rubric rows that decided it. Pairs trade and check that the paragraph matches the scores.",
+        "materials": ["two sample support plans", "three-criterion rubric", "lined paper"]
+      },
+      "evaluate-4": {
+        "objective": "Assess across multiple cases whether schools generally do enough to predict and prevent challenges for adolescent parents, and back the verdict with evidence.",
+        "observableCheck": "Each group writes a claim with a verdict and supports it with evidence drawn from at least two cases.",
+        "sampleTask": "Groups read three short cases of how different schools supported or failed teen parents. Each group writes a claim stating whether schools generally do enough, citing evidence from at least two cases. Groups add one recommendation that would close the gap they found. The class hears two opposing verdicts and notes which evidence was strongest.",
+        "materials": ["three case summaries", "claim-and-evidence organizer", "markers"]
+      },
+      "create-1": {
+        "objective": "Label a prepared poster of adolescent parenting challenges with the correct category headings.",
+        "observableCheck": "Each student places all four heading cards on the poster in the right zones.",
+        "sampleTask": "Guide hands each student a poster showing twelve challenge icons grouped in four blank-headed zones. Students write the correct heading on each zone using a category list. Students add one icon of their own to the zone where it fits. The Guide checks headings at the table and corrects any misplaced one.",
+        "materials": ["prepared poster handout", "category list", "markers"]
+      },
+      "create-2": {
+        "objective": "Produce a one-page advice card for a friend who just became a teen parent, naming three challenges and one response to each.",
+        "observableCheck": "Each student turns in a card listing three challenges paired with three concrete responses.",
+        "sampleTask": "Students design a folded advice card for a peer in this situation. Each card names three challenges and gives one specific response to each, such as 'ask the counselor about flexible deadlines.' Students add one resource the friend can contact. Pairs read each other's cards and mark whether each response is doable.",
+        "materials": ["card stock", "markers", "resource list"]
+      },
+      "create-3": {
+        "objective": "Design a short skit that shows an adolescent parent meeting one predicted challenge and choosing a workable response.",
+        "observableCheck": "Each group performs a two-minute skit that names the challenge and shows a clear response.",
+        "sampleTask": "Groups script a two-minute skit in which a teen parent hits one challenge from the class board and works toward a response. The script must name the challenge out loud and end with a realistic step, not a magic fix. Groups rehearse once and perform for another group. The audience group writes one sentence on whether the response was realistic.",
+        "materials": ["script planning sheet", "simple props", "timer"]
+      },
+      "create-4": {
+        "objective": "Develop a school support proposal that predicts three challenges new teen parents face and proposes a concrete program for each.",
+        "observableCheck": "Each group submits a one-page proposal naming three challenges and a matching program with who runs it.",
+        "sampleTask": "Groups write a proposal for school leaders that predicts three challenges teen parents at their school would face. For each challenge the proposal names one program, who would run it, and what it would cost in time or money. Groups pull at least one detail from a source the Guide provided. The class hears two proposals and votes on which is most realistic to start next year.",
+        "materials": ["proposal template", "source summaries", "markers"]
+      }
+    }
+  },
+  "2.1.8.PP.5": {
+    "schema_version": 1,
+    "standardCode": "2.1.8.PP.5",
+    "standardStatement": "Identify resources to assist with parenting.",
+    "subject": "chpe",
+    "grade": "8",
+    "generatedAt": "2026-06-17T14:40:00Z",
+    "cells": {
+      "remember-1": {
+        "objective": "Name six resources that help parents, such as a pediatrician, a food assistance program, a parenting class, and a relative.",
+        "observableCheck": "Each student writes six resources on a half-sheet and reads one the class has not heard yet.",
+        "sampleTask": "Guide posts the prompt: 'Who or what can help a parent who needs support?' Each student lists six resources on a half-sheet using a word bank. The class builds a shared board sorted into health, money, learning, and people columns. The Guide removes duplicates and counts how many the class found.",
+        "materials": ["half-sheets", "word bank handout", "class board"]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Match each parenting resource to the kind of help it offers, such as health care, money, or knowledge.",
+        "observableCheck": "Each student matches at least seven of eight resource-to-help pairs on a worksheet.",
+        "sampleTask": "Guide hands out a worksheet listing eight resources and eight kinds of help, scrambled. Students draw lines connecting each resource to what it provides. The Guide reviews the answers and resolves any pair the class debates. Students correct wrong lines in a second color.",
+        "materials": ["matching worksheet", "two pen colors"]
+      },
+      "understand-2": {
+        "objective": "Explain why a parent would choose a free resource over a paid one for the same need.",
+        "observableCheck": "Each student writes a two-sentence comparison naming the trade-off between a free and a paid option.",
+        "sampleTask": "Guide names one need, such as childcare, and shows one free option and one paid option. Each student writes two sentences on why a parent might pick the free one and what they might give up, such as fewer hours or a waitlist. Pairs trade and underline the trade-off in each other's writing. The Guide reads two examples aloud without names.",
+        "materials": ["comparison handout", "lined paper"]
+      },
+      "understand-3": {
+        "objective": "Summarize how three resources fit together to support one parent's week.",
+        "observableCheck": "Each student writes a short paragraph naming three resources and the order a parent would use them.",
+        "sampleTask": "Each student picks three resources from the board and writes a paragraph describing how a parent would use them across one week, such as a clinic on Monday, a food program on Wednesday, and a relative on the weekend. Students number the resources in order of use. Pairs check whether the order makes sense and suggest one change. The Guide displays two strong paragraphs.",
+        "materials": ["class board", "lined paper"]
+      },
+      "understand-4": {
+        "objective": "Describe across two sources how parenting resources differ for families in a city versus a rural area.",
+        "observableCheck": "Each group lists two resources easier to reach in a city and two easier to reach in a rural area.",
+        "sampleTask": "Groups read two Guide-provided summaries, one about city resources and one about rural resources. Each group fills a two-column chart with resources that are easier to reach in each setting. Groups write one sentence on why the setting changes access, such as distance to a clinic. The class compares charts and notes one resource that is hard to reach in both.",
+        "materials": ["two source summaries", "two-column chart", "markers"]
+      },
+      "apply-1": {
+        "objective": "Sort a stack of resource cards into 'health,' 'money,' 'learning,' and 'people' using a rule sheet.",
+        "observableCheck": "Each pair places all twelve cards and matches the key on at least ten.",
+        "sampleTask": "Guide gives each pair twelve resource cards, four labeled trays, and a one-line rule for each tray. Pairs read each card and drop it in the matching tray. Pairs check against an answer key revealed at the ten-minute mark. Each pair names one card that fit two trays and explains why.",
+        "materials": ["resource card sets", "four labeled trays", "rule sheet", "answer key"]
+      },
+      "apply-2": {
+        "objective": "Use a resource directory to find the right contact for a parent's stated need.",
+        "observableCheck": "Each student records the resource name and contact step for three different needs.",
+        "sampleTask": "Guide hands out a one-page mock directory and a card listing three parent needs, such as a sick child, low food, and trouble reading to a toddler. Students find one resource for each need and write the name and the first step to reach it. Students mark any need with no clear match. The Guide reviews and fills any gap the class found.",
+        "materials": ["mock resource directory", "need cards", "recording sheet"]
+      },
+      "apply-3": {
+        "objective": "Apply a fit check to decide whether a given resource matches a parent's need, hours, and budget.",
+        "observableCheck": "Each student scores one resource on three fit questions and writes a yes or no with a reason.",
+        "sampleTask": "Each student gets one parent scenario and one resource description. Students answer three fit questions: does it meet the need, do the hours work, and is the cost workable. Students write a yes or no with one sentence of reasoning. Pairs trade scenarios and check whether the verdict matches the answers.",
+        "materials": ["scenario cards", "resource descriptions", "fit-check handout"]
+      },
+      "apply-4": {
+        "objective": "Build a resource plan that connects one parent to three resources for three different needs in one week.",
+        "observableCheck": "Each pair submits a plan naming three resources, the need each meets, and the day each is used.",
+        "sampleTask": "Pairs receive a parent profile with three needs and a resource list. Pairs choose one resource per need and place each on a day line. Pairs write one sentence on what could block a resource and a backup. The Guide reviews two plans and names one realistic backup.",
+        "materials": ["parent profiles", "resource list", "planning sheet"]
+      },
+      "analyze-1": {
+        "objective": "Identify which of three resources a parent should contact first in an urgent situation.",
+        "observableCheck": "Each student ranks three resources by urgency and circles the first to call.",
+        "sampleTask": "Guide displays an urgent scenario, such as a feverish infant at night, with three resources. Students number the resources by which to use first and circle the top choice. Students write one sentence defending the order. The Guide takes a hand vote and names where the class split.",
+        "materials": ["projector", "lined paper"]
+      },
+      "analyze-2": {
+        "objective": "Compare two resources that meet the same need and find which fits a working parent better.",
+        "observableCheck": "Each pair fills a two-column chart with the strengths and limits of each resource.",
+        "sampleTask": "Pairs read two resource descriptions that meet one need, such as two childcare options with different hours and costs. Pairs fill a chart with strengths and limits of each. Pairs write one sentence naming which fits a parent who works evenings and why. The Guide displays one chart and asks the class to add a missing limit.",
+        "materials": ["two resource descriptions", "two-column chart", "pencils"]
+      },
+      "analyze-3": {
+        "objective": "Trace how missing one key resource forces a parent to lean harder on the others.",
+        "observableCheck": "Each student builds a cause chain showing the effect of losing one resource on at least two others.",
+        "sampleTask": "Guide models a chain: a closed clinic means longer trips, which costs more time off work, which strains the family budget. Each student picks one resource to remove and builds a three-box chain of effects. Students label each arrow with a phrase saying why one leads to the next. Pairs flag one weak link.",
+        "materials": ["cause chain template", "pencils", "highlighters"]
+      },
+      "analyze-4": {
+        "objective": "Investigate two sources and judge which parenting resource they both treat as most essential.",
+        "observableCheck": "Each group cites one line from each source and names the resource both stress most.",
+        "sampleTask": "Groups read two Guide-provided summaries about parenting supports. Each group finds the resource both stress most and copies one supporting line from each. Groups write two sentences on why both agree. The class compares which resource groups chose and discusses any outlier.",
+        "materials": ["two source summaries", "evidence recording sheet", "highlighters"]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Judge which of two resource plans serves a parent's needs better and defend the pick with criteria.",
+        "observableCheck": "Each student scores both plans on three criteria and writes a paragraph naming the winner.",
+        "sampleTask": "Guide gives two finished resource plans for the same parent and a rubric with three criteria, such as coverage, cost, and reliability. Students score each plan and total the points. Students write a paragraph naming the stronger plan and citing two rubric rows that decided it. Pairs check that the paragraph matches the scores.",
+        "materials": ["two sample resource plans", "three-criterion rubric", "lined paper"]
+      },
+      "evaluate-4": {
+        "objective": "Assess across several cases whether a community gives parents enough usable resources, and support the verdict with evidence.",
+        "observableCheck": "Each group writes a claim with a verdict supported by evidence from at least two cases.",
+        "sampleTask": "Groups read three short cases of parents trying to find help in the same community. Each group writes a claim on whether the resources are enough, citing evidence from at least two cases. Groups add one resource the community is missing. The class hears two opposing verdicts and weighs the evidence.",
+        "materials": ["three case summaries", "claim-and-evidence organizer", "markers"]
+      },
+      "create-1": {
+        "objective": "Label a prepared resource map with the correct category for each marked location.",
+        "observableCheck": "Each student writes the right category on all marked points using a key.",
+        "sampleTask": "Guide hands each student a simple map with marked resource points and a category key. Students label each point with its category, such as health or food. Students add one point of their own and label it. The Guide checks labels at the table and corrects any error.",
+        "materials": ["prepared resource map", "category key", "markers"]
+      },
+      "create-2": {
+        "objective": "Produce a one-page resource flyer that a clinic could hand to a new parent.",
+        "observableCheck": "Each student turns in a flyer naming at least four resources with one contact step each.",
+        "sampleTask": "Students design a flyer for new parents that lists at least four resources grouped by need. Each entry includes one step to reach it. Students add a short headline that tells parents what the flyer is for. Pairs read each other's flyers and mark whether each entry is clear enough to act on.",
+        "materials": ["card stock or paper", "markers", "resource list"]
+      },
+      "create-3": {
+        "objective": "Design a role-play where a parent calls a resource and gets the help they need.",
+        "observableCheck": "Each pair performs a two-minute call showing the parent stating the need and the resource responding.",
+        "sampleTask": "Pairs script a two-minute phone role-play: one plays a parent with a need, one plays a resource worker. The script must have the parent state the need clearly and the worker name a next step. Pairs rehearse once and perform for another pair. The audience writes one sentence on whether the call solved the need.",
+        "materials": ["script planning sheet", "two toy phones or props", "timer"]
+      },
+      "create-4": {
+        "objective": "Develop a resource guide for new parents at your school that organizes at least six resources by need and access.",
+        "observableCheck": "Each group submits a guide grouping six resources by need with a contact step for each.",
+        "sampleTask": "Groups build a one-page resource guide for new parents at their school. The guide groups at least six resources by need and gives one contact step for each. Groups pull at least one resource from a Guide-provided source. The class reviews two guides and votes on which is easiest for a busy parent to use.",
+        "materials": ["guide template", "source summaries", "markers"]
+      }
+    }
+  },
+  "2.1.8.SSH.1": {
+    "schema_version": 1,
+    "standardCode": "2.1.8.SSH.1",
+    "standardStatement": "Differentiate between gender identity, gender expression and sexual orientation.",
+    "subject": "chpe",
+    "grade": "8",
+    "generatedAt": "2026-06-17T14:40:00Z",
+    "cells": {
+      "remember-1": {
+        "objective": "State the working definition of gender identity, gender expression, and sexual orientation from the class glossary.",
+        "observableCheck": "Each student writes all three definitions from memory and checks them against the glossary.",
+        "sampleTask": "Guide posts three terms and their class definitions, then covers the definitions. Each student writes what they remember for each term on a half-sheet. Students uncover the glossary and correct their own definitions in a second color. The Guide collects the half-sheets to see which term needs more review.",
+        "materials": ["class glossary handout", "half-sheets", "two pen colors"]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Match each of the three terms to a plain-language description of what it refers to.",
+        "observableCheck": "Each student correctly matches all three terms to their descriptions on a card sort.",
+        "sampleTask": "Guide gives each student three term cards and three description cards. Students pair each term with the description that fits, keeping the three concepts separate. The Guide reviews the pairs and clears up any mix-up between identity and expression. Students write one sentence stating the difference they found hardest.",
+        "materials": ["term cards", "description cards", "lined paper"]
+      },
+      "understand-2": {
+        "objective": "Explain in writing how gender identity differs from gender expression using one neutral example.",
+        "observableCheck": "Each student writes two sentences that separate identity from expression without merging them.",
+        "sampleTask": "Guide models one neutral example: a person's sense of their own gender is their identity, while the clothes or haircut they choose is their expression. Each student writes two sentences explaining the difference in their own words with a new neutral example. Pairs trade and check that the two ideas stay separate. The Guide reads two clear examples aloud.",
+        "materials": ["example handout", "lined paper"]
+      },
+      "understand-3": {
+        "objective": "Summarize why mixing up the three terms can lead to misunderstanding a classmate.",
+        "observableCheck": "Each student writes a short paragraph naming one misunderstanding that comes from confusing two of the terms.",
+        "sampleTask": "Guide presents a short, respectful scenario where someone assumes one term means another. Each student writes a paragraph naming the mix-up and the misunderstanding it caused. Students suggest one sentence the person could have said instead. Pairs check that the paragraph keeps the three terms distinct.",
+        "materials": ["scenario handout", "lined paper"]
+      },
+      "understand-4": {
+        "objective": "Describe across two sources how the three terms are defined consistently even when wording differs.",
+        "observableCheck": "Each group lists the shared idea behind each term as stated in both sources.",
+        "sampleTask": "Groups read two Guide-provided, age-appropriate sources that define the three terms. Each group fills a chart noting how each source words each term and the shared idea underneath. Groups write one sentence on why the core idea holds even when wording changes. The class compares charts and settles on one clear class definition per term.",
+        "materials": ["two source handouts", "definition chart", "markers"]
+      },
+      "apply-1": {
+        "objective": "Sort a set of statement cards into 'gender identity,' 'gender expression,' or 'sexual orientation' using the class glossary.",
+        "observableCheck": "Each pair places all nine cards and matches the key on at least seven.",
+        "sampleTask": "Guide gives each pair nine neutral statement cards and three labeled trays. Pairs read each card and place it in the tray it belongs to using the glossary. Pairs check against an answer key at the ten-minute mark. Each pair names one card that was tricky and explains the correct placement.",
+        "materials": ["statement card sets", "three labeled trays", "class glossary", "answer key"]
+      },
+      "apply-2": {
+        "objective": "Use the three definitions to fill in the correct term in a set of cloze sentences.",
+        "observableCheck": "Each student completes a cloze worksheet with at least eight of ten blanks correct.",
+        "sampleTask": "Guide hands out ten neutral sentences, each missing one of the three terms. Students fill each blank with the correct term using the glossary. Students mark any sentence where two terms could fit and explain why one is better. The Guide reviews answers and resolves the close calls.",
+        "materials": ["cloze worksheet", "class glossary", "pencils"]
+      },
+      "apply-3": {
+        "objective": "Apply the three definitions to correct a paragraph that uses the terms inaccurately.",
+        "observableCheck": "Each student finds and fixes at least three term errors in a sample paragraph.",
+        "sampleTask": "Guide gives a short paragraph that swaps the three terms incorrectly. Students underline each error and write the correct term above it. Students add one sentence explaining the most important fix. Pairs trade and confirm each correction matches the glossary.",
+        "materials": ["error paragraph handout", "class glossary", "two pen colors"]
+      },
+      "apply-4": {
+        "objective": "Build a quick-reference card that keeps the three terms straight with one example each.",
+        "observableCheck": "Each student produces a card defining all three terms with one neutral example apiece.",
+        "sampleTask": "Students make a folded reference card with the three terms, a one-line definition, and one neutral example each. Cards must keep the three ideas in separate boxes. Students swap cards with a partner and check that no two boxes blur together. The Guide displays two clear cards under the document camera.",
+        "materials": ["card stock", "class glossary", "markers", "document camera"]
+      },
+      "analyze-1": {
+        "objective": "Identify which of three statements confuses two of the terms.",
+        "observableCheck": "Each student picks the flawed statement and names the two terms it confuses.",
+        "sampleTask": "Guide displays three statements, two accurate and one that blends two terms. Students pick the flawed one and write which two terms it mixed. Students rewrite the flawed statement correctly. The Guide takes a hand vote and reviews the rewrite.",
+        "materials": ["projector", "lined paper"]
+      },
+      "analyze-2": {
+        "objective": "Compare gender expression and sexual orientation to show they describe different things.",
+        "observableCheck": "Each pair fills a chart with what each term describes and one way they are independent.",
+        "sampleTask": "Pairs fill a two-column chart noting what gender expression describes and what sexual orientation describes. Pairs write one sentence on why a change in one does not set the other. The Guide displays one chart and asks the class to add a missing point. Students keep examples neutral and respectful.",
+        "materials": ["two-column chart", "class glossary", "pencils"]
+      },
+      "analyze-3": {
+        "objective": "Examine a short scenario and separate which sentences refer to identity, which to expression, and which to orientation.",
+        "observableCheck": "Each student tags each sentence in the scenario with the correct term and defends two tags.",
+        "sampleTask": "Guide gives a short, respectful scenario with five sentences that each touch one of the three concepts. Students tag each sentence with the matching term in the margin. Students write a defense for two of their tags. Pairs compare tags and resolve any sentence they tagged differently.",
+        "materials": ["scenario handout", "class glossary", "pencils"]
+      },
+      "analyze-4": {
+        "objective": "Investigate two sources and judge whether they keep the three terms distinct or blur them.",
+        "observableCheck": "Each group cites one line from each source and rates how clearly each keeps the terms separate.",
+        "sampleTask": "Groups read two Guide-provided sources. Each group finds one line in each that defines a term and rates on a three-point scale how clearly the source keeps the three ideas distinct. Groups write two sentences explaining the rating. The class compares ratings and discusses which source was clearest.",
+        "materials": ["two source handouts", "rating sheet", "highlighters"]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Judge which of two student-written definitions of a term is more accurate and defend the choice with the glossary.",
+        "observableCheck": "Each student picks the stronger definition and cites the glossary point that decides it.",
+        "sampleTask": "Guide gives two student-style definitions of the same term, one precise and one that drifts toward another concept. Students pick the stronger one and write the glossary point that makes it stronger. Students rewrite the weaker definition to fix it. Pairs check that the rewrite is now accurate.",
+        "materials": ["two sample definitions", "class glossary", "lined paper"]
+      },
+      "evaluate-4": {
+        "objective": "Assess across several class examples whether the group uses the three terms accurately, and support the verdict with evidence.",
+        "observableCheck": "Each group writes a claim on the class's accuracy backed by evidence from at least two examples.",
+        "sampleTask": "Groups review three anonymized example sentences pulled from earlier class work. Each group writes a claim on whether the class uses the terms accurately, citing evidence from at least two examples. Groups name the one term that causes the most confusion. The class hears two claims and agrees on one focus for the next lesson.",
+        "materials": ["three anonymized examples", "claim-and-evidence organizer", "markers"]
+      },
+      "create-1": {
+        "objective": "Label a prepared diagram by placing each of the three terms next to its description.",
+        "observableCheck": "Each student attaches all three term labels to the correct spots on the diagram.",
+        "sampleTask": "Guide hands each student a diagram with three description boxes and three loose term labels. Students place each label by its matching description. Students add one neutral example under one box. The Guide checks the labels and corrects any swap.",
+        "materials": ["prepared diagram", "term labels", "glue or tape"]
+      },
+      "create-2": {
+        "objective": "Produce a short explainer poster that teaches a younger student the difference between the three terms.",
+        "observableCheck": "Each student turns in a poster defining all three terms in plain words with one neutral example each.",
+        "sampleTask": "Students design a poster aimed at a sixth grader that defines the three terms in simple language. Each term gets one neutral example and a small drawing. Students keep the three sections clearly separate. Pairs check that a younger reader could tell the terms apart.",
+        "materials": ["poster paper", "markers", "class glossary"]
+      },
+      "create-3": {
+        "objective": "Design a short quiz of five items that tests whether a peer can tell the three terms apart.",
+        "observableCheck": "Each pair produces five items with an answer key that targets the differences among the terms.",
+        "sampleTask": "Pairs write a five-item quiz, such as match or multiple choice, that checks whether someone can distinguish the three terms. Each item must target a real difference, not a trick. Pairs make an answer key and trade quizzes with another pair to take. The taking pair flags any item that is unclear or inaccurate.",
+        "materials": ["quiz template", "class glossary", "pencils"]
+      },
+      "create-4": {
+        "objective": "Develop a short lesson plan that another class could use to learn the three terms, with a hook, definitions, and a check.",
+        "observableCheck": "Each group submits a one-page plan with a hook, the three definitions, and one check for understanding.",
+        "sampleTask": "Groups write a one-page mini-lesson that teaches the three terms to another eighth-grade class. The plan needs a short hook, the three definitions with examples, and one check such as a quick sort. Groups pull definitions from the class glossary and one Guide-provided source. The class reviews two plans and picks one to refine.",
+        "materials": ["lesson plan template", "class glossary", "source handout", "markers"]
+      }
+    }
+  },
+  "2.1.8.SSH.2": {
+    "schema_version": 1,
+    "standardCode": "2.1.8.SSH.2",
+    "standardStatement": "Develop a plan for the school to promote dignity and respect for people of all genders, gender identities, gender expressions, and sexual orientations in the school community.",
+    "subject": "chpe",
+    "grade": "8",
+    "generatedAt": "2026-06-17T14:40:00Z",
+    "cells": {
+      "remember-1": {
+        "objective": "List five concrete actions that show dignity and respect for classmates in everyday school settings.",
+        "observableCheck": "Each student writes five respectful actions on a sticky note and posts two to the board.",
+        "sampleTask": "Guide posts the prompt: 'What does respect look like in the hallway, the lunchroom, and the locker room?' Each student writes five concrete actions on a sticky note. Stickies go on a board sorted by setting. The class reads the board and stars actions that appear more than once.",
+        "materials": ["sticky notes", "class board"]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Explain why a specific respectful action, such as using the name a classmate asks for, supports dignity.",
+        "observableCheck": "Each student writes two sentences linking one action to the dignity it protects.",
+        "sampleTask": "Guide names one respectful action and models why it matters. Each student picks a different action from the board and writes two sentences on the dignity it protects and how a person would feel without it. Pairs trade and underline the reason. The Guide reads two examples aloud.",
+        "materials": ["class board", "lined paper"]
+      },
+      "understand-2": {
+        "objective": "Describe the difference between a school rule and a school culture of respect.",
+        "observableCheck": "Each student gives one example of a rule and one example of a culture habit that goes beyond the rule.",
+        "sampleTask": "Guide explains that rules set a floor while culture is what people do without being told. Each student writes one school rule about respect and one daily habit that goes further. Pairs check that the habit is not just a restatement of the rule. The Guide collects three pairs to display.",
+        "materials": ["example handout", "lined paper"]
+      },
+      "understand-3": {
+        "objective": "Summarize how a respectful school climate affects students' willingness to take part and speak up.",
+        "observableCheck": "Each student writes a short paragraph linking climate to one student behavior, such as joining a club.",
+        "sampleTask": "Guide presents a short scenario about a welcoming versus an unwelcoming class. Each student writes a paragraph on how climate changes whether students join in, ask for help, or stay quiet. Students name one behavior that climate directly affects. Pairs check that the link is specific.",
+        "materials": ["scenario handout", "lined paper"]
+      },
+      "understand-4": {
+        "objective": "Describe across two sources what features make a school respect plan work.",
+        "observableCheck": "Each group lists three features both sources say a good plan needs.",
+        "sampleTask": "Groups read two Guide-provided summaries of school respect or anti-bullying programs. Each group lists features both sources mention, such as clear reporting and student involvement. Groups write one sentence on why each feature matters. The class builds a shared list of must-have features.",
+        "materials": ["two source summaries", "feature chart", "markers"]
+      },
+      "apply-1": {
+        "objective": "Sort proposed actions into 'students,' 'staff,' and 'whole school' using a who-does-it rule.",
+        "observableCheck": "Each pair places all twelve action cards and matches the key on at least ten.",
+        "sampleTask": "Guide gives each pair twelve action cards and three labeled trays for who carries out each action. Pairs read and sort each card. Pairs check against an answer key at the ten-minute mark. Each pair names one action that needs more than one group and explains why.",
+        "materials": ["action card sets", "three labeled trays", "rule sheet", "answer key"]
+      },
+      "apply-2": {
+        "objective": "Use a planning template to turn one respect goal into a specific action with a person responsible.",
+        "observableCheck": "Each student completes a template row with a goal, action, person, and timeline.",
+        "sampleTask": "Guide hands out a planning template with columns for goal, action, who, and when. Each student takes one respect goal from the class list and fills a complete row. Students mark whether the action is doable this term. Pairs check that the action matches the goal.",
+        "materials": ["planning template", "class goal list", "pencils"]
+      },
+      "apply-3": {
+        "objective": "Apply a feasibility check to decide whether a proposed action could run at this school.",
+        "observableCheck": "Each student rates one action on cost, time, and support and writes a go or no-go with a reason.",
+        "sampleTask": "Each student gets one proposed action and a three-question feasibility check on cost, time, and who would back it. Students answer each question and write a go or no-go decision with one sentence of reasoning. Pairs trade and check that the decision matches the answers. The Guide names two actions the class judged feasible.",
+        "materials": ["action cards", "feasibility check handout", "lined paper"]
+      },
+      "apply-4": {
+        "objective": "Build a draft action set of three steps that promote dignity for all students across the school week.",
+        "observableCheck": "Each pair submits three actions with a setting, a person responsible, and a check for each.",
+        "sampleTask": "Pairs draft three respect actions that cover different settings, such as classrooms, hallways, and online. Each action names a setting, a person responsible, and how the school would know it worked. Pairs flag the action hardest to start and why. The Guide reviews two drafts and points out one strong check.",
+        "materials": ["draft planning sheet", "class feature list", "pencils"]
+      },
+      "analyze-1": {
+        "objective": "Identify which of three proposed actions would reach the most students.",
+        "observableCheck": "Each student ranks three actions by reach and circles the widest.",
+        "sampleTask": "Guide displays three proposed actions with different scopes. Students rank them by how many students each reaches and circle the widest. Students write one sentence defending the top choice. The Guide takes a hand vote and names where the class split.",
+        "materials": ["projector", "lined paper"]
+      },
+      "analyze-2": {
+        "objective": "Compare two school plans to find which one better includes students in carrying it out.",
+        "observableCheck": "Each pair fills a chart noting the student role in each plan and which is stronger.",
+        "sampleTask": "Pairs read two short plan summaries. Pairs fill a chart noting what students actually do in each plan. Pairs write one sentence naming which plan gives students a real role and why. The Guide displays one chart and asks the class to add a missing point.",
+        "materials": ["two plan summaries", "comparison chart", "pencils"]
+      },
+      "analyze-3": {
+        "objective": "Trace how one weak point in a plan, such as no clear reporting path, could cause it to fail.",
+        "observableCheck": "Each student builds a cause chain from one weak point to a likely failure.",
+        "sampleTask": "Guide models a chain: no clear way to report an incident means students stay silent, which means staff never act, which means the problem repeats. Each student picks one weak point and builds a three-box chain to a failure. Students label each arrow. Pairs flag one weak link.",
+        "materials": ["cause chain template", "pencils", "highlighters"]
+      },
+      "analyze-4": {
+        "objective": "Investigate two sources and judge which plan feature most affects whether students feel respected.",
+        "observableCheck": "Each group cites one line from each source and names the feature with the biggest effect.",
+        "sampleTask": "Groups read two Guide-provided summaries on school climate. Each group finds the feature both sources tie most to students feeling respected and copies a supporting line from each. Groups write two sentences explaining the link. The class compares findings and discusses any outlier.",
+        "materials": ["two source summaries", "evidence recording sheet", "highlighters"]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Judge which of two draft plans better promotes dignity for all students and defend the choice with criteria.",
+        "observableCheck": "Each student scores both drafts on three criteria and writes a paragraph naming the winner.",
+        "sampleTask": "Guide gives two draft school plans and a rubric with criteria for reach, clarity, and student role. Students score each draft and total the points. Students write a paragraph naming the stronger plan and citing two rubric rows that decided it. Pairs check that the paragraph matches the scores.",
+        "materials": ["two draft plans", "three-criterion rubric", "lined paper"]
+      },
+      "evaluate-4": {
+        "objective": "Assess across several pieces of evidence whether the school's current approach promotes dignity for all students, and support the verdict.",
+        "observableCheck": "Each group writes a claim with a verdict backed by evidence from at least two pieces.",
+        "sampleTask": "Groups review three pieces of evidence about the school, such as a climate survey summary, a hallway observation, and a sample policy. Each group writes a claim on whether the current approach works, citing at least two pieces. Groups name the biggest gap. The class hears two opposing verdicts and weighs the evidence.",
+        "materials": ["three evidence pieces", "claim-and-evidence organizer", "markers"]
+      },
+      "create-1": {
+        "objective": "Label a prepared respect-plan poster with the correct heading for each section.",
+        "observableCheck": "Each student places all four heading cards in the right sections.",
+        "sampleTask": "Guide hands each student a poster with four blank-headed sections and a heading list, such as goals, actions, who, and check. Students write the correct heading on each section. Students add one example action under one heading. The Guide checks headings and corrects any error.",
+        "materials": ["prepared poster handout", "heading list", "markers"]
+      },
+      "create-2": {
+        "objective": "Produce a one-page respect pledge that classmates could sign and follow.",
+        "observableCheck": "Each student turns in a pledge with at least four specific, doable commitments.",
+        "sampleTask": "Students write a class respect pledge with at least four specific commitments, such as 'I use the name a classmate asks for.' Each commitment must be an action, not a feeling. Students add a line on how the class will remind each other. Pairs check that every commitment is doable.",
+        "materials": ["paper", "markers", "class action list"]
+      },
+      "create-3": {
+        "objective": "Design a short campaign, such as a poster series or announcement, that promotes one respect action school-wide.",
+        "observableCheck": "Each group produces a campaign piece with a clear message and where it would appear.",
+        "sampleTask": "Groups pick one respect action and design a short campaign piece, such as three poster slogans or a morning announcement script. The piece must carry one clear message and name where it would run. Groups present to another group for feedback. The audience writes one sentence on whether the message is clear and doable.",
+        "materials": ["poster paper or scripts", "markers", "timer"]
+      },
+      "create-4": {
+        "objective": "Develop a full one-page school plan to promote dignity and respect for people of all genders, gender identities, gender expressions, and sexual orientations.",
+        "observableCheck": "Each group submits a plan with goals, at least three actions, people responsible, and a way to measure success.",
+        "sampleTask": "Groups write a one-page plan for school leaders that promotes dignity and respect for all students. The plan states goals, at least three concrete actions with people responsible, and one way to measure whether it worked. Groups pull at least one feature from the class must-have list and a source. The class reviews two plans and votes on which to propose to staff.",
+        "materials": ["plan template", "class feature list", "source summaries", "markers"]
+      }
+    }
+  },
+  "2.1.8.SSH.3": {
+    "schema_version": 1,
+    "standardCode": "2.1.8.SSH.3",
+    "standardStatement": "Demonstrate communication skills that will support healthy relationships",
+    "subject": "chpe",
+    "grade": "8",
+    "generatedAt": "2026-06-17T14:40:00Z",
+    "cells": {
+      "remember-1": {
+        "objective": "Name five communication skills that support healthy relationships, such as using 'I' statements, active listening, and setting a boundary.",
+        "observableCheck": "Each student lists five skills on an index card and reads one aloud.",
+        "sampleTask": "Guide posts the prompt: 'What does good communication look like between friends or partners?' Each student lists five skills on an index card using a word bank. Cards go on a board grouped into listening, speaking, and boundary skills. The class reads the board and removes duplicates.",
+        "materials": ["index cards", "word bank handout", "class board"]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Match each communication skill to an example sentence that shows it in use.",
+        "observableCheck": "Each student matches at least four of five skills to their example sentences.",
+        "sampleTask": "Guide hands out five skills and five example sentences, scrambled. Students draw lines pairing each skill with the sentence that demonstrates it. The Guide reviews and clears up any pair the class debates. Students write one sentence on the skill they find hardest to spot.",
+        "materials": ["matching worksheet", "pencils"]
+      },
+      "understand-2": {
+        "objective": "Explain why an 'I' statement lowers conflict more than a 'you' statement.",
+        "observableCheck": "Each student rewrites one 'you' statement as an 'I' statement and explains the change.",
+        "sampleTask": "Guide shows one 'you' statement that blames and models the 'I' rewrite. Each student rewrites a different 'you' statement as an 'I' statement and writes one sentence on why it lands better. Pairs trade and check that the rewrite states a feeling and a need. The Guide reads two strong rewrites aloud.",
+        "materials": ["statement handout", "lined paper"]
+      },
+      "understand-3": {
+        "objective": "Summarize how active listening changes the course of a disagreement between friends.",
+        "observableCheck": "Each student writes a short paragraph on what listening adds that arguing back does not.",
+        "sampleTask": "Guide presents a short dialogue where one person listens and one talks over. Each student writes a paragraph on how listening changed where the talk went. Students name one listening move, such as repeating back, that helped. Pairs check that the paragraph points to a specific move.",
+        "materials": ["dialogue handout", "lined paper"]
+      },
+      "understand-4": {
+        "objective": "Describe across two sources the communication habits that healthy relationships share.",
+        "observableCheck": "Each group lists three habits both sources name as healthy.",
+        "sampleTask": "Groups read two Guide-provided summaries on healthy communication. Each group lists habits both sources mention, such as checking in and naming feelings. Groups write one sentence on why each habit helps. The class builds a shared list of healthy habits.",
+        "materials": ["two source summaries", "habit chart", "markers"]
+      },
+      "apply-1": {
+        "objective": "Sort sample statements into 'helpful' or 'harmful' communication using a rule sheet.",
+        "observableCheck": "Each pair sorts all twelve statement cards and matches the key on at least ten.",
+        "sampleTask": "Guide gives each pair twelve statement cards and two labeled trays with a one-line rule for each. Pairs read each card and sort it. Pairs check against an answer key at the ten-minute mark. Each pair rewrites one harmful statement to make it helpful.",
+        "materials": ["statement card sets", "two labeled trays", "rule sheet", "answer key"]
+      },
+      "apply-2": {
+        "objective": "Use the 'I' statement frame to respond to three sample conflict prompts.",
+        "observableCheck": "Each student writes three 'I' statements that each name a feeling and a need.",
+        "sampleTask": "Guide hands out three short conflict prompts and the frame 'I feel ... when ... because ... and I need ...'. Students write one 'I' statement for each prompt. Students mark which response was hardest to phrase. Pairs trade and check that each response fits the frame.",
+        "materials": ["conflict prompt handout", "I-statement frame", "pencils"]
+      },
+      "apply-3": {
+        "objective": "Apply active listening in a timed pair exercise and record what the partner actually said.",
+        "observableCheck": "Each student writes a short summary that the partner confirms is accurate.",
+        "sampleTask": "Pairs take turns: one speaks for ninety seconds about a low-stakes topic while the other listens without interrupting. The listener then writes a three-sentence summary and reads it back. The speaker marks whether it was accurate and corrects one point. Partners switch roles.",
+        "materials": ["topic prompt cards", "lined paper", "timer"]
+      },
+      "apply-4": {
+        "objective": "Build a short scripted response that uses two communication skills to set a boundary kindly.",
+        "observableCheck": "Each student writes a script that names a boundary and uses at least two named skills.",
+        "sampleTask": "Guide gives a scenario where someone needs to set a boundary with a friend. Each student writes a short script that sets the boundary while using at least two skills from the class list, such as an 'I' statement and a calm tone note. Students label which skills they used. Pairs read scripts and check the boundary is clear and respectful.",
+        "materials": ["boundary scenario cards", "class skill list", "lined paper"]
+      },
+      "analyze-1": {
+        "objective": "Identify which line in a short dialogue breaks down the communication.",
+        "observableCheck": "Each student marks the breakdown line and names the skill that was missing.",
+        "sampleTask": "Guide displays a five-line dialogue with one line that derails it. Students mark the line and write which skill was missing, such as listening or an 'I' statement. Students rewrite that line. The Guide takes a hand vote and reviews the rewrite.",
+        "materials": ["dialogue handout", "lined paper"]
+      },
+      "analyze-2": {
+        "objective": "Compare two responses to the same conflict and find which uses healthier communication.",
+        "observableCheck": "Each pair fills a chart noting the skills in each response and which is healthier.",
+        "sampleTask": "Pairs read two responses to one conflict prompt. Pairs fill a chart marking which skills each response uses or lacks. Pairs write one sentence naming the healthier response and why. The Guide displays one chart and asks the class to add a missing skill.",
+        "materials": ["two response handouts", "comparison chart", "pencils"]
+      },
+      "analyze-3": {
+        "objective": "Trace how one poor communication choice escalates a small disagreement into a fight.",
+        "observableCheck": "Each student builds a cause chain from one poor choice to an escalated outcome.",
+        "sampleTask": "Guide models a chain: an accusing 'you' statement triggers defensiveness, which triggers raised voices, which ends the talk. Each student picks one poor choice and builds a three-box escalation chain. Students label each arrow with the reaction it triggers. Pairs flag one weak link.",
+        "materials": ["cause chain template", "pencils", "highlighters"]
+      },
+      "analyze-4": {
+        "objective": "Investigate two sources and judge which communication skill they treat as most important to healthy relationships.",
+        "observableCheck": "Each group cites one line from each source and names the skill both stress most.",
+        "sampleTask": "Groups read two Guide-provided summaries. Each group finds the skill both stress most and copies one supporting line from each. Groups write two sentences on why both agree. The class compares findings and discusses any outlier.",
+        "materials": ["two source summaries", "evidence recording sheet", "highlighters"]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Judge which of two role-play responses communicates more healthily and defend the choice with criteria.",
+        "observableCheck": "Each student scores both responses on three criteria and writes a paragraph naming the winner.",
+        "sampleTask": "Guide shows or scripts two responses to one conflict and gives a rubric for clarity, respect, and listening. Students score each response and total the points. Students write a paragraph naming the stronger response and citing two rubric rows that decided it. Pairs check that the paragraph matches the scores.",
+        "materials": ["two response scripts", "three-criterion rubric", "lined paper"]
+      },
+      "evaluate-4": {
+        "objective": "Assess across several role-plays whether the class uses healthy communication skills well, and support the verdict with evidence.",
+        "observableCheck": "Each group writes a claim on the class's skill use backed by evidence from at least two role-plays.",
+        "sampleTask": "Groups review notes from three earlier role-plays. Each group writes a claim on whether the class communicates healthily, citing evidence from at least two. Groups name the one skill that needs the most practice. The class hears two claims and agrees on one skill to drill next.",
+        "materials": ["role-play notes", "claim-and-evidence organizer", "markers"]
+      },
+      "create-1": {
+        "objective": "Label a prepared dialogue by marking which communication skill each line uses.",
+        "observableCheck": "Each student tags all five lines with the correct skill from a key.",
+        "sampleTask": "Guide hands each student a five-line healthy dialogue and a skill key. Students write the skill each line shows in the margin. Students add one more line that uses any skill from the key. The Guide checks the tags and corrects any error.",
+        "materials": ["prepared dialogue", "skill key", "pencils"]
+      },
+      "create-2": {
+        "objective": "Produce a short comic strip that shows two people resolving a disagreement with healthy communication.",
+        "observableCheck": "Each student turns in a strip of at least four panels that uses two named skills.",
+        "sampleTask": "Students draw a four-panel comic where two people work through a disagreement. The strip must show at least two communication skills in the speech bubbles, such as an 'I' statement and a check-in. Students label the skills below the panels. Pairs read each other's strips and confirm the skills are shown, not just named.",
+        "materials": ["comic strip template", "markers", "class skill list"]
+      },
+      "create-3": {
+        "objective": "Design and perform a two-minute role-play that demonstrates three communication skills in a healthy exchange.",
+        "observableCheck": "Each pair performs a role-play that clearly shows three named skills.",
+        "sampleTask": "Pairs script and rehearse a two-minute role-play of a healthy exchange that uses three communication skills from the class list. The script must show each skill in action, not just mention it. Pairs perform for another pair. The audience names the three skills they saw and flags any that were missing.",
+        "materials": ["script planning sheet", "class skill list", "timer"]
+      },
+      "create-4": {
+        "objective": "Develop a short skills guide that teaches a peer four communication skills with an example and a practice line for each.",
+        "observableCheck": "Each group submits a guide covering four skills, each with an example and a practice prompt.",
+        "sampleTask": "Groups build a one-page communication skills guide for peers. The guide covers four skills, each with a plain definition, one example, and a practice line to try. Groups pull at least one skill from a Guide-provided source. The class reviews two guides and picks one to share with a younger class.",
+        "materials": ["guide template", "class skill list", "source summary", "markers"]
+      }
+    }
+  },
+  "2.1.8.SSH.4": {
+    "schema_version": 1,
+    "standardCode": "2.1.8.SSH.4",
+    "standardStatement": "Compare and contrast the characteristics of healthy and unhealthy relationships.",
+    "subject": "chpe",
+    "grade": "8",
+    "generatedAt": "2026-06-17T14:40:00Z",
+    "cells": {
+      "remember-1": {
+        "objective": "List five traits of a healthy relationship and five traits of an unhealthy relationship.",
+        "observableCheck": "Each student writes ten traits in two columns and reads one from each side.",
+        "sampleTask": "Guide posts two headers, healthy and unhealthy, and a word bank. Each student writes five traits under each header on a T-chart. Students post two stickies, one per side, to a class board. The class reads the board and stars repeated traits.",
+        "materials": ["T-chart handout", "word bank", "sticky notes", "class board"]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Match each relationship trait to whether it builds trust or breaks it.",
+        "observableCheck": "Each student correctly sorts at least eight of ten trait cards by trust effect.",
+        "sampleTask": "Guide gives each student ten trait cards and two bins labeled builds trust and breaks trust. Students sort the cards. The Guide reviews and resolves any debated card. Students write one sentence on the trait that surprised them.",
+        "materials": ["trait cards", "two labeled bins", "lined paper"]
+      },
+      "understand-2": {
+        "objective": "Explain why one trait, such as respect for boundaries, marks a relationship as healthy.",
+        "observableCheck": "Each student writes two sentences linking one trait to relationship health.",
+        "sampleTask": "Guide models one trait and why it matters. Each student picks a different trait and writes two sentences on how it keeps a relationship healthy and what its absence would feel like. Pairs trade and underline the reason. The Guide reads two examples aloud.",
+        "materials": ["trait list", "lined paper"]
+      },
+      "understand-3": {
+        "objective": "Summarize how a single unhealthy trait, such as control, can spread through a relationship.",
+        "observableCheck": "Each student writes a short paragraph showing how one unhealthy trait affects two parts of a relationship.",
+        "sampleTask": "Guide presents a short, respectful scenario where one partner controls plans. Each student writes a paragraph on how that trait touches trust and freedom. Students name one early sign of the trait. Pairs check that the paragraph stays specific.",
+        "materials": ["scenario handout", "lined paper"]
+      },
+      "understand-4": {
+        "objective": "Describe across two sources the traits that healthy and unhealthy relationships consistently show.",
+        "observableCheck": "Each group lists three healthy and three unhealthy traits both sources name.",
+        "sampleTask": "Groups read two Guide-provided summaries on relationship health. Each group fills a two-column chart with traits both sources name for healthy and unhealthy relationships. Groups write one sentence on why one trait matters most. The class builds a shared list.",
+        "materials": ["two source summaries", "two-column chart", "markers"]
+      },
+      "apply-1": {
+        "objective": "Sort relationship scenario cards into 'healthy' or 'unhealthy' using a trait checklist.",
+        "observableCheck": "Each pair sorts all twelve scenario cards and matches the key on at least ten.",
+        "sampleTask": "Guide gives each pair twelve short scenario cards, two trays, and a trait checklist. Pairs read each scenario and sort it using the checklist. Pairs check against an answer key at the ten-minute mark. Each pair names the trait that decided one hard card.",
+        "materials": ["scenario card sets", "two labeled trays", "trait checklist", "answer key"]
+      },
+      "apply-2": {
+        "objective": "Use a trait checklist to score a sample relationship described in a short passage.",
+        "observableCheck": "Each student marks each trait present or absent and totals a health score.",
+        "sampleTask": "Guide hands out a short passage describing a relationship and a checklist of eight traits. Students mark each trait present or absent and total a simple health score. Students write one sentence naming the trait that pulled the score down. The Guide reviews and resolves close calls.",
+        "materials": ["relationship passage", "trait checklist", "pencils"]
+      },
+      "apply-3": {
+        "objective": "Apply a compare-and-contrast frame to two relationships and name two shared and two different traits.",
+        "observableCheck": "Each student completes a frame listing two shared and two contrasting traits with a label for each.",
+        "sampleTask": "Guide gives two short relationship descriptions. Each student fills a compare-and-contrast frame, listing two shared traits and two that differ, marking each as healthy or unhealthy. Students write one sentence on which relationship is healthier and why. Pairs check the labels.",
+        "materials": ["two relationship descriptions", "compare-contrast frame", "pencils"]
+      },
+      "apply-4": {
+        "objective": "Build a quick screening tool of five yes-or-no questions that flag an unhealthy relationship.",
+        "observableCheck": "Each pair produces five questions that each target a specific unhealthy trait.",
+        "sampleTask": "Pairs write five yes-or-no screening questions, each tied to one unhealthy trait such as control or constant criticism. Pairs test the tool on one sample scenario and record the result. Pairs revise any question that was unclear. The Guide reviews two tools and names the sharpest question.",
+        "materials": ["trait list", "screening tool template", "sample scenario"]
+      },
+      "analyze-1": {
+        "objective": "Identify which trait in a short scenario most clearly signals an unhealthy relationship.",
+        "observableCheck": "Each student names the strongest warning trait and cites the line that shows it.",
+        "sampleTask": "Guide displays a short scenario with several traits. Students name the trait that most signals an unhealthy relationship and copy the line that shows it. Students write one sentence defending the pick. The Guide takes a hand vote and discusses splits.",
+        "materials": ["scenario handout", "lined paper"]
+      },
+      "analyze-2": {
+        "objective": "Compare a healthy and an unhealthy version of the same situation to find what tipped it.",
+        "observableCheck": "Each pair names the trait that differs and explains how it changed the outcome.",
+        "sampleTask": "Pairs read two versions of one situation, one healthy and one unhealthy. Pairs find the trait that differs between them and write how that one change shifted the outcome. The Guide displays one pair's finding and asks the class to confirm or push back.",
+        "materials": ["paired scenarios", "comparison chart", "pencils"]
+      },
+      "analyze-3": {
+        "objective": "Trace how one unhealthy trait, such as jealousy, can lead to a chain of further unhealthy behaviors.",
+        "observableCheck": "Each student builds a cause chain with at least three linked behaviors.",
+        "sampleTask": "Guide models a chain: jealousy leads to checking a partner's phone, which leads to controlling who they see, which leads to isolation. Each student picks one starting trait and builds a three-box chain. Students label each arrow. Pairs flag one weak link.",
+        "materials": ["cause chain template", "pencils", "highlighters"]
+      },
+      "analyze-4": {
+        "objective": "Investigate two sources and judge which trait they treat as the clearest line between healthy and unhealthy.",
+        "observableCheck": "Each group cites one line from each source and names the dividing trait.",
+        "sampleTask": "Groups read two Guide-provided summaries. Each group finds the trait both sources use most to separate healthy from unhealthy and copies a supporting line from each. Groups write two sentences explaining the choice. The class compares findings.",
+        "materials": ["two source summaries", "evidence recording sheet", "highlighters"]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Judge which of two relationships described in passages is healthier and defend the verdict with traits.",
+        "observableCheck": "Each student rates both passages against a trait rubric and writes a paragraph naming the healthier one.",
+        "sampleTask": "Guide gives two relationship passages and a rubric of key traits. Students score each passage and total the points. Students write a paragraph naming the healthier relationship and citing two rubric rows that decided it. Pairs check that the paragraph matches the scores.",
+        "materials": ["two relationship passages", "trait rubric", "lined paper"]
+      },
+      "evaluate-4": {
+        "objective": "Assess across several media examples whether shows and songs portray relationships as healthy, and support the verdict.",
+        "observableCheck": "Each group writes a claim on media portrayals backed by evidence from at least two examples.",
+        "sampleTask": "Groups review three short, Guide-provided descriptions of relationships shown in media. Each group writes a claim on whether media tends to show healthy or unhealthy traits, citing at least two examples. Groups name the trait media most often gets wrong. The class hears two claims and weighs the evidence.",
+        "materials": ["three media descriptions", "claim-and-evidence organizer", "markers"]
+      },
+      "create-1": {
+        "objective": "Label a prepared T-chart by placing each trait card on the healthy or unhealthy side.",
+        "observableCheck": "Each student places all ten trait cards on the correct side.",
+        "sampleTask": "Guide hands each student a T-chart and ten loose trait cards. Students place each card on the healthy or unhealthy side. Students add one trait of their own to one side. The Guide checks placements and corrects any error.",
+        "materials": ["prepared T-chart", "trait cards", "glue or tape"]
+      },
+      "create-2": {
+        "objective": "Produce a two-sided card that contrasts a healthy and an unhealthy response to the same situation.",
+        "observableCheck": "Each student turns in a card showing both responses with the key trait labeled on each.",
+        "sampleTask": "Students make a two-sided card for one situation, such as a disagreement about plans. One side shows a healthy response and the other an unhealthy one, with the key trait labeled. Students add one sentence on how to tell them apart. Pairs check that the contrast is clear.",
+        "materials": ["card stock", "markers", "trait list"]
+      },
+      "create-3": {
+        "objective": "Design a short skit that shows the same couple handling one situation in a healthy and then an unhealthy way.",
+        "observableCheck": "Each group performs a two-minute skit that contrasts the two versions and names the deciding traits.",
+        "sampleTask": "Groups script a two-minute skit that plays one situation twice, once healthy and once unhealthy. The script must make the contrasting traits clear in the dialogue. Groups rehearse once and perform for another group. The audience names the traits that changed between versions.",
+        "materials": ["script planning sheet", "simple props", "timer"]
+      },
+      "create-4": {
+        "objective": "Develop a one-page guide that helps a peer tell healthy from unhealthy relationships using traits and examples.",
+        "observableCheck": "Each group submits a guide contrasting at least four trait pairs with an example for each.",
+        "sampleTask": "Groups build a one-page guide for peers that contrasts at least four healthy traits with their unhealthy opposites, giving one example for each pair. Groups add one line on where to get help if a relationship feels unhealthy. Groups pull at least one trait from a source. The class reviews two guides and picks one to share.",
+        "materials": ["guide template", "trait list", "source summary", "markers"]
+      }
+    }
+  },
+  "2.1.8.SSH.5": {
+    "schema_version": 1,
+    "standardCode": "2.1.8.SSH.5",
+    "standardStatement": "Analyze the similarities and differences between friendships, romantic relationships and sexual relationships.",
+    "subject": "chpe",
+    "grade": "8",
+    "generatedAt": "2026-06-17T14:40:00Z",
+    "cells": {
+      "remember-1": {
+        "objective": "Name three or more features of friendships, romantic relationships, and sexual relationships from the class notes.",
+        "observableCheck": "Each student fills three short lists, one per relationship type, on a graphic organizer.",
+        "sampleTask": "Guide posts three headers, friendship, romantic, and sexual, with a word bank of features such as trust, attraction, and consent. Each student writes at least three features under each header. The class builds a shared board grouped by type. The Guide reads the board and removes duplicates.",
+        "materials": ["three-column organizer", "word bank", "class board"]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Match each listed feature to the relationship type or types where it appears.",
+        "observableCheck": "Each student correctly places at least eight of ten features by type.",
+        "sampleTask": "Guide gives each student ten feature cards and three labeled zones, allowing a card to go in more than one zone. Students place each feature where it fits. The Guide reviews and resolves any debated card. Students write one sentence on a feature shared by all three types.",
+        "materials": ["feature cards", "three labeled zones", "lined paper"]
+      },
+      "understand-2": {
+        "objective": "Explain why trust and respect appear in all three relationship types.",
+        "observableCheck": "Each student writes two sentences naming the shared role trust plays across the three types.",
+        "sampleTask": "Guide names trust as a feature of all three types and models one example. Each student writes two sentences on why trust matters in a friendship, a romantic relationship, and a sexual relationship alike. Pairs trade and underline the shared idea. The Guide reads two examples aloud.",
+        "materials": ["feature list", "lined paper"]
+      },
+      "understand-3": {
+        "objective": "Summarize the main feature that sets a sexual relationship apart from a friendship.",
+        "observableCheck": "Each student writes a short paragraph naming one defining difference and why it matters.",
+        "sampleTask": "Guide frames the question respectfully and clinically. Each student writes a paragraph naming one feature, such as physical intimacy and the consent it requires, that distinguishes a sexual relationship from a friendship. Students name why that difference raises the stakes. Pairs check that the paragraph stays accurate and respectful.",
+        "materials": ["class notes", "lined paper"]
+      },
+      "understand-4": {
+        "objective": "Describe across two sources how the three relationship types overlap and where they differ.",
+        "observableCheck": "Each group lists two overlaps and two differences supported by both sources.",
+        "sampleTask": "Groups read two Guide-provided, age-appropriate summaries on relationship types. Each group fills a chart with overlaps and differences the sources name. Groups write one sentence on the clearest difference. The class builds a shared overlap-and-difference list.",
+        "materials": ["two source summaries", "overlap-difference chart", "markers"]
+      },
+      "apply-1": {
+        "objective": "Sort feature cards into a three-circle diagram for friendship, romantic, and sexual relationships.",
+        "observableCheck": "Each pair places all twelve cards and matches the key on at least ten.",
+        "sampleTask": "Guide gives each pair twelve feature cards and a three-circle diagram with overlap zones. Pairs place each feature in the zone that fits, including the shared center. Pairs check against an answer key at the ten-minute mark. Each pair names one feature that belongs in the center and why.",
+        "materials": ["feature card sets", "three-circle diagram", "answer key"]
+      },
+      "apply-2": {
+        "objective": "Use a feature checklist to label which relationship type a short scenario describes.",
+        "observableCheck": "Each student labels three scenarios with the correct type and the feature that signals it.",
+        "sampleTask": "Guide hands out three short scenarios and a feature checklist. Students read each scenario, mark the features present, and label the relationship type. Students underline the feature that decided each label. The Guide reviews and resolves close calls.",
+        "materials": ["scenario handout", "feature checklist", "pencils"]
+      },
+      "apply-3": {
+        "objective": "Apply the three-circle model to place a new feature and justify whether it is shared or unique.",
+        "observableCheck": "Each student places one new feature on the diagram and writes a reason for the placement.",
+        "sampleTask": "Guide names a feature not yet placed, such as long-term commitment. Each student adds it to their three-circle diagram and writes one sentence on whether it is shared or unique and why. Pairs compare placements and resolve any disagreement. The Guide displays two placements that differ and discusses both.",
+        "materials": ["three-circle diagram", "pencils"]
+      },
+      "apply-4": {
+        "objective": "Build a comparison chart that lines up friendships, romantic, and sexual relationships across four features.",
+        "observableCheck": "Each pair completes a chart with all three types rated on four features.",
+        "sampleTask": "Pairs build a chart with three relationship types as rows and four features, such as trust, attraction, consent, and commitment, as columns. Pairs fill each cell with a short note on how that feature shows up in that type. Pairs mark the cell where the types differ most. The Guide reviews two charts and names one clear difference.",
+        "materials": ["comparison chart template", "feature list", "pencils"]
+      },
+      "analyze-1": {
+        "objective": "Identify which feature in a scenario distinguishes a romantic relationship from a friendship.",
+        "observableCheck": "Each student names the distinguishing feature and cites the line that shows it.",
+        "sampleTask": "Guide displays a short scenario. Students name the feature that marks it as romantic rather than a friendship and copy the line that shows it. Students write one sentence defending the pick. The Guide takes a hand vote and discusses splits.",
+        "materials": ["scenario handout", "lined paper"]
+      },
+      "analyze-2": {
+        "objective": "Compare friendships and romantic relationships to find their largest shared feature and largest difference.",
+        "observableCheck": "Each pair names one shared feature and one difference with a reason for each.",
+        "sampleTask": "Pairs use the class notes to find the biggest feature friendships and romantic relationships share and the biggest difference. Pairs write one sentence on each. The Guide displays one pair's finding and asks the class to confirm or extend it.",
+        "materials": ["class notes", "comparison chart", "pencils"]
+      },
+      "analyze-3": {
+        "objective": "Examine how one shared feature, such as trust, plays out differently across the three relationship types.",
+        "observableCheck": "Each student writes how one shared feature looks in each of the three types.",
+        "sampleTask": "Guide names one shared feature. Each student writes three short notes on how that feature shows up in a friendship, a romantic relationship, and a sexual relationship, noting what changes. Students mark the type where the feature carries the most weight. Pairs check that each note is specific.",
+        "materials": ["feature list", "three-box organizer", "pencils"]
+      },
+      "analyze-4": {
+        "objective": "Investigate two sources and judge which feature they treat as the clearest line between the three types.",
+        "observableCheck": "Each group cites one line from each source and names the dividing feature.",
+        "sampleTask": "Groups read two Guide-provided summaries. Each group finds the feature both sources use most to separate the types and copies a supporting line from each. Groups write two sentences explaining the choice. The class compares findings.",
+        "materials": ["two source summaries", "evidence recording sheet", "highlighters"]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Judge whether a given scenario is better described as a friendship or a romantic relationship and defend the call with features.",
+        "observableCheck": "Each student rates the scenario against a feature rubric and writes a paragraph naming the type.",
+        "sampleTask": "Guide gives one ambiguous scenario and a feature rubric. Students mark which features are present and write a paragraph naming the type the evidence supports, citing two features. Pairs compare verdicts and check that each paragraph matches its evidence. The Guide names where the class split.",
+        "materials": ["scenario handout", "feature rubric", "lined paper"]
+      },
+      "evaluate-4": {
+        "objective": "Assess across several scenarios whether the class can reliably tell the three relationship types apart, and support the verdict.",
+        "observableCheck": "Each group writes a claim on the class's accuracy backed by evidence from at least two scenarios.",
+        "sampleTask": "Groups review the class's labels from three earlier scenarios. Each group writes a claim on whether the class tells the types apart reliably, citing at least two scenarios. Groups name the feature that causes the most confusion. The class hears two claims and agrees on one feature to clarify.",
+        "materials": ["scenario label set", "claim-and-evidence organizer", "markers"]
+      },
+      "create-1": {
+        "objective": "Label a prepared three-circle diagram by writing the correct type name on each circle.",
+        "observableCheck": "Each student names all three circles and places one feature in the shared center.",
+        "sampleTask": "Guide hands each student a blank three-circle diagram and a type list. Students write the correct type on each circle and place one shared feature in the center. Students add one unique feature to one circle. The Guide checks labels and corrects any error.",
+        "materials": ["prepared diagram", "type list", "pencils"]
+      },
+      "create-2": {
+        "objective": "Produce a one-page infographic that shows what the three relationship types share and how they differ.",
+        "observableCheck": "Each student turns in an infographic with a shared zone and a unique zone for each type.",
+        "sampleTask": "Students design an infographic, such as a labeled three-circle layout, showing shared features in the center and unique features in each type's zone. Each zone needs at least two features. Students add a short title. Pairs check that the shared and unique zones are accurate.",
+        "materials": ["infographic template", "markers", "feature list"]
+      },
+      "create-3": {
+        "objective": "Design a sorting game that challenges a peer to place features in the right relationship zone.",
+        "observableCheck": "Each pair produces a game with feature cards, zones, and an answer key.",
+        "sampleTask": "Pairs design a quick sorting game with feature cards and three zones for the relationship types, including a shared center. Pairs write rules and an answer key. Pairs trade games with another pair and play one round. The playing pair flags any card that is ambiguous or miskeyed.",
+        "materials": ["blank cards", "zone mat", "feature list"]
+      },
+      "create-4": {
+        "objective": "Develop a one-page guide that teaches a peer to analyze the similarities and differences among the three relationship types.",
+        "observableCheck": "Each group submits a guide that defines the three types, lists shared and unique features, and gives one example each.",
+        "sampleTask": "Groups build a one-page guide for peers that defines the three relationship types, lists what they share and how they differ, and gives one example for each. Groups note that all three require respect and that sexual relationships require consent. Groups pull at least one feature from a source. The class reviews two guides and picks one to refine.",
+        "materials": ["guide template", "feature list", "source summary", "markers"]
+      }
+    }
+  },
+  "2.1.8.SSH.6": {
+    "schema_version": 1,
+    "standardCode": "2.1.8.SSH.6",
+    "standardStatement": "Examine how culture influences the way families cope with traumatic situations, crisis, and change.",
+    "subject": "chpe",
+    "grade": "8",
+    "generatedAt": "2026-06-17T14:40:00Z",
+    "cells": {
+      "remember-1": {
+        "objective": "List four ways families cope with a crisis, such as leaning on relatives, prayer, talking it out, or keeping routines.",
+        "observableCheck": "Each student writes four coping ways on an index card and reads one aloud.",
+        "sampleTask": "Guide posts the prompt: 'What do families do to get through a hard time?' Each student lists four coping ways on an index card using a word bank. Cards go on a board grouped into people, beliefs, and actions. The class reads the board and removes duplicates.",
+        "materials": ["index cards", "word bank handout", "class board"]
+      },
+      "remember-2": null,
+      "remember-3": null,
+      "remember-4": null,
+      "understand-1": {
+        "objective": "Match each coping practice to the cultural background or value it often connects to.",
+        "observableCheck": "Each student matches at least six of eight coping-to-value pairs on a worksheet.",
+        "sampleTask": "Guide hands out a worksheet pairing eight coping practices with eight cultural values or settings, scrambled, drawn from a neutral class reading. Students draw lines connecting each practice to a value it commonly reflects. The Guide reviews and notes that one practice can fit several cultures. Students write one sentence on a practice shared across cultures.",
+        "materials": ["matching worksheet", "class reading", "pencils"]
+      },
+      "understand-2": {
+        "objective": "Explain why two families might cope with the same crisis in different ways.",
+        "observableCheck": "Each student writes two sentences naming a cultural reason for a difference in coping.",
+        "sampleTask": "Guide gives one crisis, such as a job loss, and two short family responses shaped by different traditions. Each student writes two sentences on why culture leads to the different responses. Pairs trade and underline the cultural reason. The Guide reads two examples aloud.",
+        "materials": ["paired response handout", "lined paper"]
+      },
+      "understand-3": {
+        "objective": "Summarize how a family's cultural traditions can support its members during change.",
+        "observableCheck": "Each student writes a short paragraph naming one tradition and the support it gives.",
+        "sampleTask": "Guide presents a short, respectful account of a family using a tradition, such as a gathering or a ritual, to cope with change. Each student writes a paragraph on how that tradition supports the family. Students name one feeling the tradition helps with. Pairs check that the paragraph stays specific and respectful.",
+        "materials": ["account handout", "lined paper"]
+      },
+      "understand-4": {
+        "objective": "Describe across two sources how culture shapes the way families respond to crisis.",
+        "observableCheck": "Each group lists three ways both sources say culture shapes coping.",
+        "sampleTask": "Groups read two Guide-provided summaries on culture and coping. Each group lists ways both sources say culture shapes a family's response, such as who is turned to and what is said openly. Groups write one sentence on why this matters for understanding classmates. The class builds a shared list.",
+        "materials": ["two source summaries", "feature chart", "markers"]
+      },
+      "apply-1": {
+        "objective": "Sort coping examples into 'people-based,' 'belief-based,' and 'action-based' using a rule sheet.",
+        "observableCheck": "Each pair places all twelve cards and matches the key on at least ten.",
+        "sampleTask": "Guide gives each pair twelve coping example cards and three labeled trays with a one-line rule each. Pairs read and sort the cards. Pairs check against an answer key at the ten-minute mark. Each pair names one example that fits two categories and explains why.",
+        "materials": ["coping card sets", "three labeled trays", "rule sheet", "answer key"]
+      },
+      "apply-2": {
+        "objective": "Use a culture-and-coping organizer to map how one described family responds to a crisis.",
+        "observableCheck": "Each student fills the organizer with the family's values, supports, and actions.",
+        "sampleTask": "Guide hands out a short profile of one family facing a crisis and an organizer with three boxes for values, supports, and actions. Students fill each box from the profile. Students mark which response is most tied to the family's culture. The Guide reviews and resolves unclear entries.",
+        "materials": ["family profile", "culture-coping organizer", "pencils"]
+      },
+      "apply-3": {
+        "objective": "Apply a respectful lens to describe how a family's coping makes sense within its own culture.",
+        "observableCheck": "Each student writes a from-their-view statement explaining one coping choice without judging it.",
+        "sampleTask": "Each student gets one short family scenario and writes a statement explaining the family's coping choice from inside that family's values, using the frame 'This makes sense to this family because ...'. Students avoid ranking cultures as better or worse. Pairs trade and check that the statement is respectful and specific. The Guide names two strong examples.",
+        "materials": ["family scenario cards", "sentence frame handout", "lined paper"]
+      },
+      "apply-4": {
+        "objective": "Build a short interview plan to learn how a person's family copes with hard times.",
+        "observableCheck": "Each student writes four respectful questions and one note on consent and privacy.",
+        "sampleTask": "Students draft a four-question interview to learn how someone's family copes with crisis or change. Questions must be open and respectful, and students add one line on asking permission and keeping answers private. Pairs test the questions on each other and flag any that feel intrusive. The Guide reviews and approves the questions before any use.",
+        "materials": ["interview planning sheet", "question starters", "pencils"]
+      },
+      "analyze-1": {
+        "objective": "Identify which detail in a scenario shows culture shaping a family's coping.",
+        "observableCheck": "Each student marks the cultural detail and names the value behind it.",
+        "sampleTask": "Guide displays a short scenario. Students mark the detail that shows culture at work and write the value behind it. Students write one sentence defending the pick. The Guide takes a hand vote and discusses splits.",
+        "materials": ["scenario handout", "lined paper"]
+      },
+      "analyze-2": {
+        "objective": "Compare two families from different cultures coping with the same crisis to find what is shared and what differs.",
+        "observableCheck": "Each pair fills a Venn diagram with at least two shared and two different coping responses.",
+        "sampleTask": "Pairs read two short profiles of families from different cultures facing the same crisis. Pairs sort coping responses into a Venn diagram with shared responses in the middle. Pairs write one sentence on why a difference traces back to culture. The Guide displays one Venn and asks the class to add a shared response.",
+        "materials": ["two family profiles", "Venn diagram handout", "pencils"]
+      },
+      "analyze-3": {
+        "objective": "Examine how one cultural value, such as keeping problems private, shapes several of a family's coping choices.",
+        "observableCheck": "Each student traces one value to at least three coping choices it influences.",
+        "sampleTask": "Guide names one cultural value. Each student maps how that value shapes at least three coping choices, such as who is told, whether help is sought, and how feelings are shown. Students write a phrase on each link. Pairs flag one link that seems weak.",
+        "materials": ["value map template", "pencils", "highlighters"]
+      },
+      "analyze-4": {
+        "objective": "Investigate two sources and judge which aspect of culture most shapes how families cope with crisis.",
+        "observableCheck": "Each group cites one line from each source and names the aspect with the biggest effect.",
+        "sampleTask": "Groups read two Guide-provided summaries. Each group finds the cultural aspect both sources tie most to coping, such as family roles or beliefs, and copies a supporting line from each. Groups write two sentences explaining the link. The class compares findings.",
+        "materials": ["two source summaries", "evidence recording sheet", "highlighters"]
+      },
+      "evaluate-1": null,
+      "evaluate-2": null,
+      "evaluate-3": {
+        "objective": "Judge which of two support responses better respects a family's culture while helping them cope, and defend the choice.",
+        "observableCheck": "Each student scores both responses on three criteria and writes a paragraph naming the better one.",
+        "sampleTask": "Guide gives two responses a helper could offer a family in crisis and a rubric for respect, usefulness, and fit with the family's values. Students score each response and total the points. Students write a paragraph naming the better response and citing two rubric rows. Pairs check that the paragraph matches the scores.",
+        "materials": ["two response handouts", "three-criterion rubric", "lined paper"]
+      },
+      "evaluate-4": {
+        "objective": "Assess across several cases whether a school's crisis support respects families' diverse cultures, and support the verdict.",
+        "observableCheck": "Each group writes a claim on the school's cultural fit backed by evidence from at least two cases.",
+        "sampleTask": "Groups read three short cases of schools supporting families from different cultures through a crisis. Each group writes a claim on whether the support respected families' cultures, citing at least two cases. Groups name one change that would make support fit better. The class hears two verdicts and weighs the evidence.",
+        "materials": ["three case summaries", "claim-and-evidence organizer", "markers"]
+      },
+      "create-1": {
+        "objective": "Label a prepared chart by matching each coping practice to its category heading.",
+        "observableCheck": "Each student places all three heading cards correctly on the chart.",
+        "sampleTask": "Guide hands each student a chart of coping practices with three blank headings and a heading list, such as people, beliefs, and actions. Students write the correct heading over each group. Students add one practice of their own to one group. The Guide checks headings and corrects any error.",
+        "materials": ["prepared chart handout", "heading list", "markers"]
+      },
+      "create-2": {
+        "objective": "Produce a one-page resource sheet that helps a classmate find culturally respectful support during a family crisis.",
+        "observableCheck": "Each student turns in a sheet naming at least four supports and a note on respecting culture.",
+        "sampleTask": "Students design a resource sheet for a peer whose family is facing a crisis. The sheet names at least four supports, such as a counselor, a faith leader, a relative, and a hotline, and adds one line on choosing help that respects the family's culture. Pairs check that each support is clear and the tone is respectful.",
+        "materials": ["card stock or paper", "markers", "resource list"]
+      },
+      "create-3": {
+        "objective": "Design a short skit that shows a family using its cultural traditions to cope with a change.",
+        "observableCheck": "Each group performs a two-minute skit that names the tradition and shows how it supports the family.",
+        "sampleTask": "Groups script a two-minute skit showing a family coping with a change, such as a move, using a cultural tradition or support. The script must name the tradition and show how it helps, while keeping the portrayal respectful and free of stereotype. Groups rehearse once and perform for another group. The audience writes one sentence on how the tradition supported the family.",
+        "materials": ["script planning sheet", "simple props", "timer"]
+      },
+      "create-4": {
+        "objective": "Develop a short guide for new families at the school explaining how the school supports diverse cultures during a crisis.",
+        "observableCheck": "Each group submits a guide naming three supports and how each respects different cultures.",
+        "sampleTask": "Groups write a one-page guide for new families that explains how the school supports families of different cultures through crisis and change. The guide names three supports and one way each respects cultural differences. Groups pull at least one idea from a Guide-provided source. The class reviews two guides and votes on which is most welcoming.",
+        "materials": ["guide template", "source summaries", "markers"]
+      }
+    }
+  }
+}

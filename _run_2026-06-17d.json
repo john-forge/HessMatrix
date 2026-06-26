@@ -1,0 +1,131 @@
+{
+ "2.2.8.LF.1": {
+  "schema_version": 1,
+  "standardCode": "2.2.8.LF.1",
+  "standardStatement": "Develop and build an effective movement and physical fitness vocabulary for self, peers, and family members that can enhance wellness.",
+  "subject": "chpe",
+  "grade": "8",
+  "generatedAt": "2026-06-17T17:06:45.136727Z",
+  "cells": {
+   "remember-1": {
+    "objective": "Name ten movement and fitness terms covered in this unit, with the muscle group or activity each one names.",
+    "observableCheck": "Each student fills a ten-row term sheet and reads three rows aloud.",
+    "sampleTask": "Guide posts ten fitness terms on the board (aerobic, anaerobic, flexibility, endurance, repetition, set, range of motion, heart rate, warm-up, cooldown). Each student writes each term and one short phrase naming what it points to. Students check three rows against a partner's sheet. Guide collects the sheets as the unit baseline.",
+    "materials": ["term sheet handout", "board"]
+   },
+   "remember-2": null,
+   "remember-3": null,
+   "remember-4": null,
+   "understand-1": {
+    "objective": "Match each fitness term to a plain-language definition a younger sibling would understand.",
+    "observableCheck": "Each student completes a term-to-definition matching grid with no more than one error.",
+    "sampleTask": "Guide hands out a grid with ten terms in one column and ten scrambled plain-language definitions in the other. Students draw lines to pair them. Pairs trade grids and mark mismatches. Guide reviews the two terms most students missed and rewrites those definitions on the board.",
+    "materials": ["matching grid handout"]
+   },
+   "understand-2": {
+    "objective": "Explain in writing why a fitness term means more than its everyday use, using endurance and flexibility as the two examples.",
+    "observableCheck": "Each student writes two sentences that separate the gym meaning from the everyday meaning of the term.",
+    "sampleTask": "Students pick endurance and flexibility. For each, they write one sentence using the everyday meaning and one sentence using the fitness meaning. Pairs read both sentences aloud and decide whether the fitness meaning is clear. Guide collects two strong examples and reads them to the class.",
+    "materials": ["lined paper", "term sheet from Remember-1"]
+   },
+   "understand-3": {
+    "objective": "Group the unit's terms into categories that show how the vocabulary is organized.",
+    "observableCheck": "Each pair produces a three-column sort with every term placed and a heading on each column.",
+    "sampleTask": "Each pair gets the ten terms on cut cards. They sort the cards into three groups and write a heading for each group, such as kinds of fitness, parts of a workout, and ways to measure effort. Pairs explain one placement choice to another pair. Guide photographs two sorts that used different headings.",
+    "materials": ["term cards", "blank heading strips"]
+   },
+   "understand-4": {
+    "objective": "Summarize how a shared fitness vocabulary helps a family talk about wellness, using examples from the unit terms.",
+    "observableCheck": "Each student writes a short paragraph naming at least four unit terms in context.",
+    "sampleTask": "Students write a paragraph describing a family deciding how to get more active, using at least four unit terms correctly. The paragraph must show one moment where the right word prevents confusion. Pairs underline each term used and confirm it fits. Guide collects paragraphs and flags any term used loosely.",
+    "materials": ["lined paper", "term sheet"]
+   },
+   "apply-1": {
+    "objective": "Use the correct fitness term to label each station during a circuit walkthrough.",
+    "observableCheck": "Each student places the right term card at each of six stations.",
+    "sampleTask": "Guide sets up six labeled stations in the gym. Students walk the circuit and place a term card at each station naming the fitness component it trains. Guide reveals the answer key one station at a time. Students fix any misplaced card and note which station they missed.",
+    "materials": ["station signs", "term cards", "answer key"]
+   },
+   "apply-2": {
+    "objective": "Apply the unit vocabulary to describe a personal workout in writing using the terms in sequence.",
+    "observableCheck": "Each student writes a workout description that uses warm-up, repetition, set, and cooldown in order.",
+    "sampleTask": "Each student describes a fifteen-minute workout they could do at home, written as numbered steps. The description must use warm-up, repetition, set, and cooldown in the right order. Pairs read each other's steps and check the sequence. Guide collects two that sequenced the terms cleanly.",
+    "materials": ["workout planning sheet"]
+   },
+   "apply-3": {
+    "objective": "Teach two unit terms to a peer who has not learned them, using a demonstration.",
+    "observableCheck": "The partner repeats the term and performs the movement it names without prompting.",
+    "sampleTask": "Pairs split into teacher and learner. The teacher explains and demonstrates two assigned terms, then the learner performs each movement and says the term. They switch roles with two new terms. Guide circulates and notes one pair whose demonstration made the term clear.",
+    "materials": ["term assignment cards", "open floor space"]
+   },
+   "apply-4": {
+    "objective": "Build a labeled family wellness glossary that defines eight terms for use at home.",
+    "observableCheck": "Each student produces a one-page glossary with eight terms, definitions, and one home example each.",
+    "sampleTask": "Each student selects eight unit terms and builds a one-page glossary for their family. Each entry gives the term, a plain definition, and one example of using it at home. Students design it to be read by a family member who knows no fitness terms. Guide reviews three glossaries for clarity and accuracy.",
+    "materials": ["glossary template", "term sheet"]
+   },
+   "analyze-1": {
+    "objective": "Identify which terms in a sample fitness flyer are used correctly and which are misused.",
+    "observableCheck": "Each student marks each flagged term on the flyer as correct or misused.",
+    "sampleTask": "Guide hands out a one-page fitness flyer with eight underlined terms, three of them misused. Students mark each underlined term correct or misused and write the right word for any misuse. Pairs compare marks. Guide reveals the three planted errors and the corrections.",
+    "materials": ["sample flyer with underlined terms"]
+   },
+   "analyze-2": {
+    "objective": "Compare two students' workout descriptions to find where vocabulary use diverges.",
+    "observableCheck": "Each pair lists three differences in how the two descriptions used the same terms.",
+    "sampleTask": "Pairs receive two anonymized workout descriptions of the same activity. They list three places where the writers used a fitness term differently or where one was more precise. Pairs decide which description a beginner would follow more easily. Guide collects the lists and names the most common divergence.",
+    "materials": ["two sample workout descriptions"]
+   },
+   "analyze-3": {
+    "objective": "Break a confusing fitness instruction into the terms it should have used to be clear.",
+    "observableCheck": "Each student rewrites a vague instruction using at least three precise unit terms.",
+    "sampleTask": "Guide posts three vague instructions, such as do it a bunch of times then take it easy. Each student rewrites one using precise terms like repetition, set, and cooldown. Pairs check whether the rewrite removes the guesswork. Guide reads two rewrites and asks the class which terms did the work.",
+    "materials": ["vague instruction cards", "lined paper"]
+   },
+   "analyze-4": {
+    "objective": "Analyze how vocabulary choice changes when explaining fitness to a peer versus a younger family member.",
+    "observableCheck": "Each student produces a two-column chart contrasting word choices for the two audiences.",
+    "sampleTask": "Students pick one fitness idea, such as building endurance. They write how they would explain it to a classmate and how they would explain it to a seven-year-old sibling, in two columns. They mark which terms they kept, swapped, or dropped and why. Guide collects charts and names one swap that improved clarity.",
+    "materials": ["two-column chart handout"]
+   },
+   "evaluate-1": null,
+   "evaluate-2": null,
+   "evaluate-3": {
+    "objective": "Judge whether a peer's family glossary is accurate and usable, citing specific entries.",
+    "observableCheck": "Each student writes a verdict on a peer glossary with two cited entries supporting it.",
+    "sampleTask": "Students swap the glossaries from Apply-4. Using a three-point rubric for accuracy, clarity, and usefulness at home, each student scores a peer's glossary and writes a verdict naming two specific entries that earned or lost points. The reviewer suggests one fix. Guide spot-checks three reviews against the rubric.",
+    "materials": ["peer glossaries", "three-point rubric"]
+   },
+   "evaluate-4": {
+    "objective": "Defend which five terms a family most needs to know first, ranking them with reasons.",
+    "observableCheck": "Each student presents a ranked list of five terms with a one-sentence reason for the top choice.",
+    "sampleTask": "Each student ranks five unit terms by how useful they are for a family starting to get active, most useful first. They write one sentence defending the top term and one defending the bottom. Small groups compare rankings and try to reach a shared top three. Guide records where groups disagreed and why.",
+    "materials": ["ranking sheet", "term sheet"]
+   },
+   "create-1": {
+    "objective": "Produce a set of flash cards covering ten unit terms for home study.",
+    "observableCheck": "Each student turns in ten cards with the term on one side and a definition plus example on the other.",
+    "sampleTask": "Each student makes ten flash cards, term on the front, plain definition and one example on the back. Cards must be readable by a family member. Students quiz a partner using the finished set. Guide collects sets and checks that definitions match the unit meanings.",
+    "materials": ["index cards", "term sheet"]
+   },
+   "create-2": {
+    "objective": "Design a short family fitness challenge that uses correct vocabulary in its instructions.",
+    "observableCheck": "Each student submits a challenge card with steps written in at least four unit terms.",
+    "sampleTask": "Each student designs a one-week home fitness challenge for a family, written on a single card. The instructions must use at least four unit terms correctly so a family member could follow them. Pairs test whether the steps are clear enough to do without asking questions. Guide collects two challenge cards that read cleanly.",
+    "materials": ["challenge card template", "term sheet"]
+   },
+   "create-3": {
+    "objective": "Create an illustrated wall poster that teaches the unit vocabulary to the whole class.",
+    "observableCheck": "Each small group produces a poster with five terms, each shown with a drawing and a definition.",
+    "sampleTask": "Small groups build a poster teaching five unit terms, each with a drawing of the movement and a short definition. The poster must work for a student who missed the unit. Groups present the poster and answer one question from another group. Guide hangs the posters and has the class vote on the clearest term illustration.",
+    "materials": ["poster paper", "markers", "term sheet"]
+   },
+   "create-4": {
+    "objective": "Develop a peer-teaching plan that uses the vocabulary to lead a family member through one workout.",
+    "observableCheck": "Each student submits a step-by-step teaching plan naming the term taught at each step.",
+    "sampleTask": "Each student writes a plan to teach a family member one short workout, marking which term they introduce at each step and how they check the person understood it. The plan must move from naming a term to using it in the movement. Pairs rehearse one step of the plan aloud. Guide reviews three plans for whether the vocabulary builds in a sensible order.",
+    "materials": ["teaching plan template", "term sheet"]
+   }
+  }
+ }
+}

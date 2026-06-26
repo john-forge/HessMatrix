@@ -1,0 +1,584 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Big Dogs — Phase View Hess Matrix</title>
+<style>
+  :root {
+    --orange: #c2410c;
+    --navy: #1f2937;
+    --ink: #222;
+    --muted: #595959;
+    --line: #d9d1bd;
+    --paper: #fbf8f1;
+    --tile: #ffffff;
+    --tile-not-typical: #f0ebdb;
+    --jr: #5b7c99;
+    --sr: #8a4a1f;
+    --p1: #6b8e6f;
+    --p2: #c08545;
+    --p3: #7a5a8a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 28px 32px;
+    background: var(--paper);
+    font-family: "Calibri", -apple-system, "Helvetica Neue", Arial, sans-serif;
+    color: var(--ink);
+    font-size: 14px;
+    line-height: 1.45;
+  }
+  header {
+    border-bottom: 3px solid var(--orange);
+    padding-bottom: 10px;
+    margin-bottom: 18px;
+  }
+  .eyebrow {
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--orange);
+    font-weight: 600;
+  }
+  h1 {
+    margin: 4px 0 6px;
+    font-family: "Iowan Old Style", Georgia, serif;
+    font-weight: 600;
+    color: var(--navy);
+    font-size: 28px;
+  }
+  h1 em { color: var(--orange); font-style: italic; }
+  .subtitle {
+    color: var(--muted);
+    font-size: 13px;
+    margin: 0;
+  }
+  .source-line {
+    margin-top: 8px;
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .source-line strong { color: var(--ink); }
+
+  .placement-note {
+    background: #fff7e6;
+    border-left: 4px solid var(--orange);
+    padding: 10px 14px;
+    margin: 16px 0;
+    font-size: 13px;
+    color: var(--ink);
+  }
+  .placement-note strong { color: var(--orange); }
+
+  .controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    align-items: center;
+    margin: 18px 0;
+    padding: 12px 14px;
+    background: var(--tile);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+  }
+  .control-group {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .control-group .label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    font-weight: 600;
+  }
+  .pill {
+    padding: 5px 12px;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: white;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 12.5px;
+    color: var(--ink);
+    transition: all 0.1s;
+  }
+  .pill:hover { background: #fdf5e8; }
+  .pill.active {
+    background: var(--orange);
+    color: white;
+    border-color: var(--orange);
+  }
+  .stats {
+    margin-left: auto;
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .stats strong { color: var(--navy); }
+
+  .matrix-wrap {
+    overflow-x: auto;
+  }
+  table.matrix {
+    border-collapse: separate;
+    border-spacing: 4px;
+    margin: 12px 0;
+    table-layout: fixed;
+    min-width: 900px;
+    width: 100%;
+  }
+  table.matrix th {
+    background: var(--navy);
+    color: white;
+    padding: 8px 6px;
+    font-size: 11.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    text-align: center;
+    border-radius: 4px;
+    font-weight: 600;
+    vertical-align: middle;
+  }
+  table.matrix th.row-head {
+    background: var(--orange);
+    text-align: left;
+    padding: 8px 10px;
+    width: 130px;
+  }
+  table.matrix th.row-head .v {
+    font-size: 12px;
+    font-weight: 700;
+    display: block;
+  }
+  table.matrix th.row-head .d {
+    font-size: 10px;
+    font-weight: 400;
+    color: rgba(255,255,255,0.85);
+    margin-top: 2px;
+    display: block;
+    text-transform: none;
+    letter-spacing: 0;
+  }
+  table.matrix td.cell {
+    background: var(--tile);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    padding: 6px;
+    vertical-align: top;
+    min-height: 90px;
+    height: 100%;
+  }
+  table.matrix td.cell.not-typical {
+    background: var(--tile-not-typical);
+    color: var(--muted);
+    text-align: center;
+    font-style: italic;
+    font-size: 11px;
+  }
+  table.matrix td.cell .obj {
+    display: block;
+    margin-bottom: 4px;
+    padding: 6px 8px;
+    background: #fefaf2;
+    border-left: 3px solid var(--line);
+    border-radius: 0 3px 3px 0;
+    font-size: 11.5px;
+    line-height: 1.35;
+    cursor: pointer;
+    transition: background 0.1s;
+  }
+  table.matrix td.cell .obj:hover {
+    background: #fdf0d9;
+  }
+  table.matrix td.cell .obj.cohort-jr { border-left-color: var(--jr); }
+  table.matrix td.cell .obj.cohort-sr { border-left-color: var(--sr); }
+  .tag {
+    display: inline-block;
+    font-size: 9.5px;
+    padding: 1px 5px;
+    border-radius: 2px;
+    margin-right: 4px;
+    margin-top: 3px;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+  }
+  .tag.cohort { color: white; }
+  .tag.cohort.jr { background: var(--jr); }
+  .tag.cohort.sr { background: var(--sr); }
+  .tag.phase { background: #eee; color: var(--ink); }
+  .tag.phase.p1 { background: var(--p1); color: white; }
+  .tag.phase.p2 { background: var(--p2); color: white; }
+  .tag.phase.p3 { background: var(--p3); color: white; }
+  .tag.area { background: var(--paper); color: var(--muted); border: 1px solid var(--line); }
+
+  .modal {
+    position: fixed;
+    inset: 0;
+    background: rgba(31,41,55,0.55);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+    padding: 30px;
+  }
+  .modal.open { display: flex; }
+  .modal-card {
+    background: white;
+    border-radius: 8px;
+    max-width: 600px;
+    width: 100%;
+    padding: 24px 28px;
+    box-shadow: 0 12px 40px rgba(0,0,0,0.2);
+    max-height: 80vh;
+    overflow: auto;
+  }
+  .modal-card h2 {
+    margin: 0 0 10px;
+    color: var(--navy);
+    font-size: 18px;
+    font-family: "Iowan Old Style", Georgia, serif;
+  }
+  .modal-card .row {
+    margin: 8px 0;
+    font-size: 13px;
+  }
+  .modal-card .row .k {
+    font-size: 10.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--orange);
+    font-weight: 600;
+    display: block;
+    margin-bottom: 2px;
+  }
+  .modal-card .row .v { color: var(--ink); }
+  .modal-card .reasoning {
+    background: var(--paper);
+    border-left: 3px solid var(--orange);
+    padding: 8px 12px;
+    margin-top: 12px;
+    font-size: 12.5px;
+    font-style: italic;
+    color: var(--muted);
+  }
+  .modal-card .close {
+    float: right;
+    background: transparent;
+    border: none;
+    font-size: 22px;
+    color: var(--muted);
+    cursor: pointer;
+    line-height: 1;
+  }
+
+  footer {
+    margin-top: 28px;
+    padding-top: 16px;
+    border-top: 1px solid var(--line);
+    font-size: 11.5px;
+    color: var(--muted);
+  }
+</style>
+</head>
+<body>
+  <header>
+    <div class="eyebrow">Cognitive Rigor · Phase View Big Dogs · Forge Prep</div>
+    <h1>Big Dogs · Phase View <em>Hess Matrix</em></h1>
+    <p class="subtitle">All 24 learning objectives from the Big Dogs Phase View document, placed on a Bloom × Depth of Knowledge grid. Use the filters to slice by cohort or phase.</p>
+    <div class="source-line"><strong>Sources:</strong> Karin Hess, <em>Cognitive Rigor Matrix</em> (2009). Norman Webb, <em>Depth-of-Knowledge Levels for Four Content Areas</em> (2002). Anderson &amp; Krathwohl, <em>A Taxonomy for Learning, Teaching, and Assessing</em> (2001). <strong>Document:</strong> Big Dogs Phase View by Content Area (Forge Prep, 2026).</div>
+  </header>
+
+  <div class="placement-note">
+    <strong>Placements are inferences.</strong> Each objective's Bloom × DOK cell was assigned based on its leading verb and cognitive demand. Click any objective to see the verb that drove the placement. Override as needed — these are not authoritative.
+  </div>
+
+  <div class="controls">
+    <div class="control-group">
+      <span class="label">Cohort:</span>
+      <button class="pill active" data-filter="cohort" data-val="all">All</button>
+      <button class="pill" data-filter="cohort" data-val="jr">Juniors (G5/G6)</button>
+      <button class="pill" data-filter="cohort" data-val="sr">Seniors (G7/G8)</button>
+    </div>
+    <div class="control-group">
+      <span class="label">Phase:</span>
+      <button class="pill active" data-filter="phase" data-val="all">All</button>
+      <button class="pill" data-filter="phase" data-val="p1">Phase 1 · Preparation</button>
+      <button class="pill" data-filter="phase" data-val="p2">Phase 2 · Exploration</button>
+      <button class="pill" data-filter="phase" data-val="p3">Phase 3 · Presentation</button>
+    </div>
+    <div class="control-group">
+      <span class="label">Area:</span>
+      <button class="pill active" data-filter="area" data-val="all">All</button>
+      <button class="pill" data-filter="area" data-val="Science">Science</button>
+      <button class="pill" data-filter="area" data-val="ELA">ELA</button>
+      <button class="pill" data-filter="area" data-val="Marketing">Marketing</button>
+    </div>
+    <div class="stats">Showing <strong id="shown-count">24</strong> of <strong>24</strong> objectives</div>
+  </div>
+
+  <div class="matrix-wrap">
+    <table class="matrix" id="matrix">
+      <thead>
+        <tr>
+          <th class="row-head" style="background: var(--navy);">Bloom \ DOK</th>
+          <th>DOK 1<br><span style="font-size:9.5px;font-weight:400;text-transform:none;letter-spacing:0;">Recall &amp; Reproduction</span></th>
+          <th>DOK 2<br><span style="font-size:9.5px;font-weight:400;text-transform:none;letter-spacing:0;">Skills &amp; Concepts</span></th>
+          <th>DOK 3<br><span style="font-size:9.5px;font-weight:400;text-transform:none;letter-spacing:0;">Strategic Thinking</span></th>
+          <th>DOK 4<br><span style="font-size:9.5px;font-weight:400;text-transform:none;letter-spacing:0;">Extended Thinking</span></th>
+        </tr>
+      </thead>
+      <tbody id="matrix-body">
+      </tbody>
+    </table>
+  </div>
+
+  <div class="modal" id="modal">
+    <div class="modal-card">
+      <button class="close" id="modal-close">&times;</button>
+      <h2 id="m-title">Objective</h2>
+      <div class="row"><span class="k">Objective</span><span class="v" id="m-obj"></span></div>
+      <div class="row"><span class="k">Cohort</span><span class="v" id="m-cohort"></span></div>
+      <div class="row"><span class="k">Phase</span><span class="v" id="m-phase"></span></div>
+      <div class="row"><span class="k">Content Area</span><span class="v" id="m-area"></span></div>
+      <div class="row"><span class="k">Standards</span><span class="v" id="m-stds"></span></div>
+      <div class="row"><span class="k">Bloom × DOK</span><span class="v" id="m-bd"></span></div>
+      <div class="reasoning" id="m-reason"></div>
+    </div>
+  </div>
+
+  <footer>
+    Big Dogs Phase View Hess Matrix · Forge Prep Livingston, NJ · Founding Year 2026–2027. Bloom verbs follow Anderson &amp; Krathwohl (2001); depth-of-knowledge levels follow Webb (2002); cell-typicality follows Hess (2009).
+  </footer>
+
+<script>
+// =====================================================================
+// OBJECTIVE DATA. Each entry: text, cohort, phase, area, standards, bloom, dok, reasoning.
+// All "objective" strings are verbatim from the Phase View document (Big Dogs).
+// All bloom/dok placements and reasoning notes are inferences from the leading verb.
+// =====================================================================
+const OBJECTIVES = [
+  // ----- PHASE 1 — SCIENCE -----
+  { id: 1, text: "Apply a Punnett square to predict the inheritance of a single trait across one generation",
+    cohort: "jr", phase: "p1", area: "Science", standards: ["MS-LS3-2 (out-of-file)"],
+    bloom: "apply", dok: 2,
+    reasoning: "Verb 'Apply'. Carrying out a procedure (Punnett) in a familiar single-trait task. Skills & concepts (DOK 2)." },
+  { id: 2, text: "Define selective breeding and give two examples from the documented history of a domesticated species",
+    cohort: "jr", phase: "p1", area: "Science", standards: ["MS-LS4-5 (out-of-file)"],
+    bloom: "remember", dok: 1,
+    reasoning: "Verb 'Define' plus recall of examples. Recall a definition + retrieve known cases. DOK 1." },
+  { id: 3, text: "Distinguish a heritable trait from a learned behavior in a domesticated organism",
+    cohort: "jr", phase: "p1", area: "Science", standards: ["MS-LS3-1 (out-of-file)"],
+    bloom: "analyze", dok: 2,
+    reasoning: "Verb 'Distinguish'. Categorize/classify (Analyze) at routine level. DOK 2." },
+  { id: 4, text: "Apply a Punnett square to predict the probability that a specific trait will appear across multiple offspring",
+    cohort: "sr", phase: "p1", area: "Science", standards: ["MS-LS3-2 (out-of-file)", "7.SP.C.7"],
+    bloom: "apply", dok: 2,
+    reasoning: "Verb 'Apply' + multi-step probability. Procedure with criteria across multiple cases. DOK 2." },
+  { id: 5, text: "Explain how artificial selection shifts trait frequency across a population over generations",
+    cohort: "sr", phase: "p1", area: "Science", standards: ["MS-LS4-5 (out-of-file)"],
+    bloom: "understand", dok: 3,
+    reasoning: "Verb 'Explain' generalizing a population-level mechanism. Explain phenomena in terms of concepts (Hess: Understand × DOK 3)." },
+
+  // ----- PHASE 1 — ELA -----
+  { id: 6, text: "Distinguish evidence relevant to a claim from evidence irrelevant to it",
+    cohort: "jr", phase: "p1", area: "ELA", standards: ["RI.AA.6.7", "W.AW.6.1"],
+    bloom: "analyze", dok: 2,
+    reasoning: "Verb 'Distinguish'. Hess ELA: Distinguish relevant/irrelevant is Analyze × DOK 2." },
+  { id: 7, text: "Distinguish a claim supported by reasons and evidence from a claim that is not",
+    cohort: "jr", phase: "p1", area: "ELA", standards: ["RI.AA.6.7"],
+    bloom: "analyze", dok: 2,
+    reasoning: "Verb 'Distinguish'. Analyze relevance of evidence to claim support. DOK 2." },
+  { id: 8, text: "Identify the opposing claim a strong argument must answer",
+    cohort: "jr", phase: "p1", area: "ELA", standards: ["RI.AA.6.7"],
+    bloom: "understand", dok: 1,
+    reasoning: "Verb 'Identify'. Locate a stated element in a text. Hess ELA: Understand × DOK 1." },
+  { id: 9, text: "Evaluate an argument and assess whether the reasoning is sound and the evidence is relevant and sufficient",
+    cohort: "sr", phase: "p1", area: "ELA", standards: ["RI.AA.7.7", "RI.AA.8.7"],
+    bloom: "evaluate", dok: 3,
+    reasoning: "Verb 'Evaluate' plus 'assess'. Cite evidence and develop a logical argument. Hess: Evaluate × DOK 3." },
+  { id: 10, text: "Recognize when irrelevant evidence is introduced into an argument",
+    cohort: "sr", phase: "p1", area: "ELA", standards: ["RI.AA.8.7"],
+    bloom: "analyze", dok: 3,
+    reasoning: "Verb 'Recognize' applied to argument structure (Analyze). DOK 3 because identification requires reasoning across argument as a whole, not surface detail." },
+
+  // ----- PHASE 2 — SCIENCE -----
+  { id: 11, text: "Trace a domesticated organism's distinctive traits back to its ancestral species, naming the selective-breeding moves humans used",
+    cohort: "jr", phase: "p2", area: "Science", standards: ["MS-LS4-5 (out-of-file)"],
+    bloom: "analyze", dok: 3,
+    reasoning: "Verb 'Trace'. Analyze + draw conclusions citing evidence (selective-breeding moves). DOK 3." },
+  { id: 12, text: "Trace a domesticated organism's distinctive traits back to its ancestral species, naming the selective-breeding moves and the approximate generational timeline",
+    cohort: "sr", phase: "p2", area: "Science", standards: ["MS-LS4-5 (out-of-file)"],
+    bloom: "analyze", dok: 3,
+    reasoning: "Verb 'Trace' + timeline reasoning. Analyze causal chain with evidence. DOK 3." },
+  { id: 13, text: "Use a documented selective-breeding case study to argue that domestication is itself a heritable trait set",
+    cohort: "sr", phase: "p2", area: "Science", standards: ["MS-LS4-5 (out-of-file)"],
+    bloom: "evaluate", dok: 3,
+    reasoning: "Verb construction 'Use... to argue'. Cite evidence + develop logical argument. Hess: Evaluate × DOK 3." },
+
+  // ----- PHASE 2 — ELA -----
+  { id: 14, text: "Compose a complete written argument for a specific course of action, addressing one named audience member, with claim, counterclaim, reasoning, and evidence",
+    cohort: "jr", phase: "p2", area: "ELA", standards: ["W.AW.6.1"],
+    bloom: "create", dok: 3,
+    reasoning: "Verb 'Compose'. Synthesize information within one source/topic into an original argument. Hess: Create × DOK 3." },
+  { id: 15, text: "Deliver an oral pitch to a named audience member proposing a specific course of action",
+    cohort: "jr", phase: "p2", area: "ELA", standards: ["SL.PI.6.4"],
+    bloom: "apply", dok: 2,
+    reasoning: "Verb 'Deliver'. Carry out a presentation routine for a known audience. Apply × DOK 2." },
+  { id: 16, text: "Rewrite a generic listing for a specific target-audience profile",
+    cohort: "jr", phase: "p2", area: "ELA", standards: ["W.IW.6.2", "W.WP.6.4"],
+    bloom: "apply", dok: 2,
+    reasoning: "Verb 'Rewrite' to fit criteria. Apply a concept (audience adaptation) in a familiar context. DOK 2." },
+  { id: 17, text: "Determine whether a stated stakeholder concern is evidence-supported or bias-driven, using partner-supplied data as the check",
+    cohort: "jr", phase: "p2", area: "ELA", standards: ["RI.CR.6.1"],
+    bloom: "evaluate", dok: 3,
+    reasoning: "Verb 'Determine' + criterion check. Verify reasonableness using data. Evaluate × DOK 3." },
+  { id: 18, text: "Compose a complete written argument for a specific course of action with claim, counterclaim, reasoning, and evidence, anticipating and answering the strongest opposing position",
+    cohort: "sr", phase: "p2", area: "ELA", standards: ["W.AW.7.1", "W.AW.8.1"],
+    bloom: "create", dok: 3,
+    reasoning: "Verb 'Compose' plus 'anticipating opposing position' adds synthesis across viewpoints. Create × DOK 3 (one source/topic). Could move to DOK 4 if multiple sources required." },
+  { id: 19, text: "Adapt the same persuasive argument across three channels and explain why each adaptation fits its channel",
+    cohort: "sr", phase: "p2", area: "ELA", standards: ["W.AW.8.1", "W.WP.8.4"],
+    bloom: "apply", dok: 3,
+    reasoning: "Verb 'Adapt' across novel contexts plus 'explain why'. Apply a concept in new contexts with reasoning. DOK 3." },
+  { id: 20, text: "Distinguish a legitimate stakeholder objection from stigma by analyzing per-instance and per-category primary-source data",
+    cohort: "sr", phase: "p2", area: "ELA", standards: ["RI.CR.7.1"],
+    bloom: "analyze", dok: 3,
+    reasoning: "Verb 'Distinguish' + 'analyzing... data'. Analyze data + draw conclusions citing evidence. DOK 3." },
+  { id: 21, text: "Deconstruct a speaker's argument and evaluate whether the reasoning is sound",
+    cohort: "sr", phase: "p2", area: "ELA", standards: ["SL.ES.7.3", "SL.ES.8.3"],
+    bloom: "analyze", dok: 3,
+    reasoning: "Verb 'Deconstruct' (break into parts) + 'evaluate reasoning'. Analyze × DOK 3 (Evaluate component pulls upward but the dominant move is structural deconstruction)." },
+
+  // ----- PHASE 2 — MARKETING -----
+  { id: 22, text: "Test the effectiveness of two persuasive variants using A/B response rates and proportional reasoning",
+    cohort: "sr", phase: "p2", area: "Marketing", standards: ["7.RP.A.3", "7.SP.A.2"],
+    bloom: "evaluate", dok: 3,
+    reasoning: "Verb 'Test the effectiveness'. Verify reasonableness of results using data. Evaluate × DOK 3." },
+
+  // ----- PHASE 3 — ELA -----
+  { id: 23, text: "Present claims and findings to an audience, sequencing ideas logically using facts and details",
+    cohort: "jr", phase: "p3", area: "ELA", standards: ["SL.PI.6.4"],
+    bloom: "apply", dok: 2,
+    reasoning: "Verb 'Present'. Carry out a presentation procedure with criteria (logical sequencing, facts, details). DOK 2." },
+  { id: 24, text: "Present claims and findings, emphasizing salient points with relevant evidence, sound reasoning, and well-chosen details",
+    cohort: "sr", phase: "p3", area: "ELA", standards: ["SL.PI.8.4"],
+    bloom: "apply", dok: 3,
+    reasoning: "Verb 'Present' with reasoning + evidence emphasis. Apply × DOK 3 (reasoning, planning, and evidence required during the presentation)." }
+];
+
+const BLOOMS = ["remember", "understand", "apply", "analyze", "evaluate", "create"];
+const BLOOM_LABELS = {
+  remember: { v: "Remember", d: "Retrieve knowledge; recognize, recall" },
+  understand: { v: "Understand", d: "Construct meaning; explain, infer, compare" },
+  apply: { v: "Apply", d: "Carry out a procedure in a familiar/unfamiliar task" },
+  analyze: { v: "Analyze", d: "Break into parts; distinguish, organize" },
+  evaluate: { v: "Evaluate", d: "Make judgments based on criteria" },
+  create: { v: "Create", d: "Reorganize into a new pattern; generate, produce" }
+};
+// Hess "not typical" intersections — used for grayed-out cells
+// Math/Science: Remember DOK 2-4; Evaluate DOK 1-2
+// ELA: same plus Create DOK 1
+// We use the union (most permissive interpretation across mixed-area objectives)
+function isNotTypical(bloom, dok) {
+  if (bloom === "remember" && dok >= 2) return true;
+  if (bloom === "evaluate" && dok <= 2) return true;
+  if (bloom === "create" && dok === 1) return true;
+  return false;
+}
+
+// FILTERS state
+const filters = { cohort: "all", phase: "all", area: "all" };
+
+// Render matrix
+function renderMatrix() {
+  const body = document.getElementById("matrix-body");
+  body.innerHTML = "";
+
+  // Filter objectives
+  const filtered = OBJECTIVES.filter(o =>
+    (filters.cohort === "all" || o.cohort === filters.cohort) &&
+    (filters.phase === "all" || o.phase === filters.phase) &&
+    (filters.area === "all" || o.area === filters.area)
+  );
+
+  document.getElementById("shown-count").textContent = filtered.length;
+
+  BLOOMS.forEach(bloom => {
+    const tr = document.createElement("tr");
+    const th = document.createElement("th");
+    th.className = "row-head";
+    th.innerHTML = '<span class="v">' + BLOOM_LABELS[bloom].v + '</span><span class="d">' + BLOOM_LABELS[bloom].d + '</span>';
+    tr.appendChild(th);
+
+    for (let dok = 1; dok <= 4; dok++) {
+      const td = document.createElement("td");
+      td.className = "cell";
+      if (isNotTypical(bloom, dok)) {
+        td.classList.add("not-typical");
+        td.textContent = "not typical (Hess 2009)";
+      } else {
+        const objs = filtered.filter(o => o.bloom === bloom && o.dok === dok);
+        if (objs.length === 0) {
+          td.innerHTML = '<span style="color:var(--muted);font-size:10.5px;font-style:italic;display:block;text-align:center;padding-top:24px;">—</span>';
+        } else {
+          objs.forEach(o => {
+            const card = document.createElement("span");
+            card.className = "obj cohort-" + o.cohort;
+            card.dataset.id = o.id;
+            const short = o.text.length > 110 ? o.text.slice(0, 110) + "…" : o.text;
+            const tags = '<span class="tag cohort ' + o.cohort + '">' + (o.cohort === "jr" ? "JR" : "SR") + '</span>' +
+                         '<span class="tag phase ' + o.phase + '">' + o.phase.toUpperCase() + '</span>' +
+                         '<span class="tag area">' + o.area + '</span>';
+            card.innerHTML = '<div>' + short + '</div>' + tags;
+            card.addEventListener("click", () => openModal(o.id));
+            td.appendChild(card);
+          });
+        }
+      }
+      tr.appendChild(td);
+    }
+    body.appendChild(tr);
+  });
+}
+
+// Modal
+function openModal(id) {
+  const o = OBJECTIVES.find(x => x.id === id);
+  if (!o) return;
+  document.getElementById("m-title").textContent = "Objective #" + o.id;
+  document.getElementById("m-obj").textContent = o.text;
+  document.getElementById("m-cohort").textContent = (o.cohort === "jr" ? "Juniors (G5/G6)" : "Seniors (G7/G8)");
+  document.getElementById("m-phase").textContent = ({p1: "Phase 1 · Preparation", p2: "Phase 2 · Exploration", p3: "Phase 3 · Presentation"})[o.phase];
+  document.getElementById("m-area").textContent = o.area;
+  document.getElementById("m-stds").textContent = o.standards.join(", ");
+  document.getElementById("m-bd").textContent = BLOOM_LABELS[o.bloom].v + " × DOK " + o.dok;
+  document.getElementById("m-reason").textContent = "Placement reasoning (inferred): " + o.reasoning;
+  document.getElementById("modal").classList.add("open");
+}
+document.getElementById("modal-close").addEventListener("click", () => {
+  document.getElementById("modal").classList.remove("open");
+});
+document.getElementById("modal").addEventListener("click", (e) => {
+  if (e.target.id === "modal") document.getElementById("modal").classList.remove("open");
+});
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape") document.getElementById("modal").classList.remove("open");
+});
+
+// Filters
+document.querySelectorAll(".pill").forEach(btn => {
+  btn.addEventListener("click", () => {
+    const f = btn.dataset.filter, v = btn.dataset.val;
+    filters[f] = v;
+    document.querySelectorAll('.pill[data-filter="' + f + '"]').forEach(p => p.classList.remove("active"));
+    btn.classList.add("active");
+    renderMatrix();
+  });
+});
+
+renderMatrix();
+</script>
+</body>
+</html>

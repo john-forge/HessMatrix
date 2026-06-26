@@ -1,0 +1,311 @@
+{
+  "_chunk": { "part": 3, "of": 6, "challengeId": "why-big-dogs-get-passed-over", "contains": ["Pin 3"], "nextEmits": ["Pin 4", "Pin 5", "Pin 6", "coldTransferTask", "fitnessCheck", "selfVerification"] },
+  "pins": [
+    {
+      "id": "Pin 3",
+      "name": "Meet Your Dog: Assumption Meets Reality",
+      "description": "Pin 3 is the observation arc in which each student is assigned one real big dog, first sees only a photo, writes what they assume, then meets and watches the actual dog and records what they see. The demonstration is the comparison: the gap between the photo assumption and the observed reality, which is the discovery moment of the whole challenge. The cohort and Guide are the audience, with St. Hubert's hosting the observation visit. It matters because a student cannot write a true story about a dog they have not learned to watch, and the profile cards depend on closing this gap.",
+      "objective": "Students will keep a structured observation log on an assigned St. Hubert's dog and compare what they observed against the assumption they made from the photo alone.",
+      "observableEvidence": "Each student produces a written photo assumption, a structured observation log, and a comparison that names where the assumption and the reality diverged.",
+      "date": "[Confirm]", "endDate": null, "endYearWeek": null,
+      "startTime": "9:45 AM", "durationMinutes": 70,
+      "pinDuration": "half-day",
+      "phase": "Exploration",
+      "track": "5-6", "grades": ["G5", "G6"],
+      "audience": "The Junior cohort and the Guide, with St. Hubert's hosting the observation visit.", "partnerId": 0, "standards": ["SEP (Planning and Carrying Out Investigations)", "SEP (Argument from Evidence)"], "locked": false,
+      "pinNote": "yearWeek 5 places the observation arc after the science act so students watch a dog whose bred behavior they can now interpret; the discovery moment falls here per the narrativeArc.",
+      "timeBudget": { "allocatedMinutes": 320 },
+      "subUnits": [
+        {
+          "id": "3.A", "objective": "Students name the assumptions a viewer would make about their assigned big dog from its photo alone and form a hypothesis about why big dogs are adopted less.", "observableMilestone": "Each student writes the photo assumption for their assigned dog and a testable hypothesis about why big dogs wait longer.",
+          "tier": "Enduring", "campaignLean": "heavy",
+          "campaignLeanJustification": "This sub-unit feeds the Pin 3 comparison and the profile card by capturing the photo assumption the rest of Act 3 tests; the skill that crosses forward is naming an assumption precisely enough to check it against observation.",
+          "targetDok": 2,
+          "targetDokRationale": "Students turn a photo into a stated assumption and a testable hypothesis about adoption, a familiar multi-step move applied to their assigned dog.",
+          "hourTotal": { "value": 1.3, "rangeLow": 1.2, "rangeHigh": 1.5 },
+          "sessionTarget": { "perCohortMin": 2, "perCohortMax": 3, "totalMin": 2, "totalMax": 3, "rationale": "First-teach of assumption-versus-observation plus a hypothesis-forming production; concept day 12 carries two lesson lines for a single cohort." },
+          "phase": "Exploration", "track": "5-6", "grades": ["G5", "G6"],
+          "standards": ["SEP (Asking Questions)", "SL.PE.6.1"], "hostsFluencyGate": false, "locked": false,
+          "timeBudget": { "allocatedMinutes": 75 },
+          "standardsRole": { "firstTeaches": ["SEP (Asking Questions)"], "retrieves": [{ "standardId": "SL.PE.6.1", "firstTaughtIn": "PS1" }], "applies": ["SL.PE.6.1"] },
+          "juniorsOverride": null, "seniorsOverride": null,
+          "coldRetrievalSet": [
+            { "day": "Mon", "yearWeek": 5, "cohort": "juniors", "questions": [
+              { "prompt": "What is an assumption?", "expectedAnswer": "Something you take to be true without checking" },
+              { "prompt": "How is an assumption different from an observation?", "expectedAnswer": "An observation is what you actually see" },
+              { "prompt": "What does it mean for a hypothesis to be testable?", "expectedAnswer": "You can gather evidence to check it" }
+            ] }
+          ],
+          "contentInventory": [
+            { "id": "3.A.CI1", "type": "concept", "item": "Assumption versus observation; naming the photo assumption", "hours": 0.7, "loadTier": "high", "standards": ["SEP (Asking Questions)", "SL.PE.6.1"], "enduringConceptRef": "EC3", "notes": "Each student assigned one real big dog, sees only the photo first." },
+            { "id": "3.A.CI2", "type": "application", "item": "Form a testable hypothesis about why big dogs are adopted less", "hours": 0.6, "loadTier": "medium", "standards": ["SEP (Asking Questions)"], "enduringConceptRef": "EC4", "notes": null }
+          ],
+          "sessions": [
+            {
+              "id": "3.A.1", "yearWeek": 5, "day": "Mon", "slot": 1, "startTime": "9:45 AM", "duration": 35,
+              "title": "Photo assumption: name it",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 2, "minPerCycle": 10, "checkMin": 5, "debriefMin": 5, "justification": null },
+              "block": "Teach", "cohort": "juniors",
+              "lessonObjective": "Students will be able to state the assumption a viewer would make about their assigned big dog from its photo alone and label it as an assumption, not a fact.",
+              "description": "Students meet their assigned big dog as a photo only and learn to name the assumption a stranger would make from it, marking it clearly as an assumption rather than a fact. The cognitive work is distinguishing assumption from observation and applying the distinction to their own dog, a deliberately heavy first move (Bloom: Understand to Apply; DOK 2). The artifact is each student's written photo assumption for their assigned dog. It opens the observation arc because the assumption is the baseline the visit will test, and it honors the eleven-year-old's readiness to examine their own snap judgments when it is framed as a skill.",
+              "cogLoadTag": "heavy",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["SEP (Asking Questions)", "SL.PE.6.1"],
+              "standardsVerbatim": { "SEP (Asking Questions)": "[UNVERIFIED — NGSS Science and Engineering Practice, not a coded NJSLS standard; no verbatim standard text exists to quote]", "SL.PE.6.1": "[UNVERIFIED — paraphrase from brief; byte-exact text not retrievable]" },
+              "flags": ["STANDARD_TAG_UNSURE: 'SEP (Asking Questions)' is an NGSS practice, not a coded NJSLS standard; it cannot be verified against a standards database and is excluded from the declared manifest."],
+              "prerequisites": [], "observableCheck": "Each student's photo assumption is written as an assumption about their assigned dog, explicitly labeled as not yet confirmed.", "buildsOn": ["2.F.3"],
+              "guide": "[Confirm]", "rosenshineTag": "modeling",
+              "challengeConnection": "Feeds Pin 3 by capturing the photo assumption; consumed by session 3.D.2, the assumption-versus-reality comparison.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will write their assumption as a fact about the dog ('she is aggressive') rather than as an assumption to test."],
+              "artifact": "The student writes the photo assumption for their assigned big dog, labeled explicitly as an assumption rather than a fact.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["3.A.CI1"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "3.A.2", "yearWeek": 5, "day": "Mon", "slot": 2, "startTime": "10:30 AM", "duration": 40,
+              "title": "Adoption hypothesis: why big dogs wait",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 3, "minPerCycle": 8, "checkMin": 5, "debriefMin": 6, "justification": null },
+              "block": "Production", "cohort": "juniors",
+              "lessonObjective": "Students will be able to form a testable hypothesis about why big dogs are adopted less frequently, drawing on traits and behavior.",
+              "description": "Students turn their assumptions into a testable hypothesis about why big dogs get passed over, drawing on what they learned about bred traits and behavior. The cognitive work is forming a testable hypothesis from observation and prior science, mapped applied reasoning (Bloom: Apply; DOK 2). The artifact is each student's written testable hypothesis. It follows the assumption work because a hypothesis is an assumption made checkable, and it bridges to the Act 4 investigation, honoring the Junior interest in a real question they can pursue.",
+              "cogLoadTag": "medium",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["SEP (Asking Questions)"],
+              "standardsVerbatim": { "SEP (Asking Questions)": "[UNVERIFIED — NGSS practice, not a coded standard]" },
+              "flags": ["STANDARD_TAG_UNSURE: SEP practice, not a coded NJSLS standard."],
+              "prerequisites": ["3.A.1"], "observableCheck": "Each student's hypothesis names a possible reason big dogs wait longer and what evidence would test it.", "buildsOn": ["3.A.1"],
+              "guide": "[Confirm]", "rosenshineTag": "guided practice",
+              "challengeConnection": "Feeds Pin 3 and bridges to Pin 4; the hypothesis is consumed by session 4.A.1, where students refine it into the investigation hypothesis.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will state a belief ('people are scared of big dogs') without naming evidence that could test it."],
+              "artifact": "The student writes a testable hypothesis about why big dogs are adopted less, naming the evidence that would test it.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["3.A.CI2"],
+              "juniorsOverride": null, "seniorsOverride": null
+            }
+          ]
+        },
+        {
+          "id": "3.B", "objective": "Students learn to separate observation from inference, using the Horowitz read-aloud to see how we misread dogs by assuming they sense what we sense.", "observableMilestone": "Each student sorts a set of dog-watching statements into observations and inferences and explains the difference.",
+          "tier": "Enduring", "campaignLean": "heavy",
+          "campaignLeanJustification": "This sub-unit feeds the Pin 3 observation log and the profile card by teaching the observation-versus-inference distinction that keeps the log honest; the skill that crosses forward is recording what the dog did rather than what it meant.",
+          "targetDok": 3,
+          "targetDokRationale": "Students judge whether each dog-watching statement is an observation or an inference, a non-routine distinction that requires reasoning about evidence rather than recall.",
+          "hourTotal": { "value": 0.9, "rangeLow": 0.8, "rangeHigh": 1.1 },
+          "sessionTarget": { "perCohortMin": 1, "perCohortMax": 2, "totalMin": 1, "totalMax": 2, "rationale": "A hook read-aloud plus a first-teach of observation-versus-inference; concept day 13 carries one lesson line for a single cohort." },
+          "phase": "Exploration", "track": "5-6", "grades": ["G5", "G6"],
+          "standards": ["SEP (Constructing Explanations)"], "hostsFluencyGate": false, "locked": false,
+          "timeBudget": { "allocatedMinutes": 60 },
+          "standardsRole": { "firstTeaches": ["SEP (Constructing Explanations)"], "retrieves": [], "applies": [] },
+          "juniorsOverride": null, "seniorsOverride": null,
+          "coldRetrievalSet": [
+            { "day": "Tue", "yearWeek": 5, "cohort": "juniors", "questions": [
+              { "prompt": "What is an observation?", "expectedAnswer": "Something you directly see or hear" },
+              { "prompt": "What is an inference?", "expectedAnswer": "A conclusion you draw from observations" },
+              { "prompt": "Why might we misread what a dog is feeling?", "expectedAnswer": "We assume it senses what we sense" }
+            ] }
+          ],
+          "contentInventory": [
+            { "id": "3.B.CI1", "type": "experience", "item": "Hook: Horowitz on being a dog (told aloud)", "hours": 0.4, "loadTier": "low", "standards": [], "enduringConceptRef": "EC3", "notes": "Guide read-aloud; a dog smelling the passage of time." },
+            { "id": "3.B.CI2", "type": "concept", "item": "What makes a good observation; observation versus inference", "hours": 0.5, "loadTier": "high", "standards": ["SEP (Constructing Explanations)"], "enduringConceptRef": "EC3", "notes": null }
+          ],
+          "sessions": [
+            {
+              "id": "3.B.0", "yearWeek": 5, "day": "Tue", "slot": 1, "startTime": "9:45 AM", "duration": 25,
+              "title": "Horowitz: a dog's world of smell",
+              "durationRecipe": { "setupMin": 0, "cycleCount": 2, "minPerCycle": 9, "checkMin": 4, "debriefMin": 3, "justification": null },
+              "block": "Hook", "cohort": "juniors",
+              "lessonObjective": "Students will be able to state why assuming a dog senses what we sense leads us to misread it.",
+              "description": "The Guide reads aloud Alexandra Horowitz's image of a dog smelling the passage of time, footsteps still hanging in the air, and her point that we misread dogs by assuming they sense the world as we do. The cognitive work is recognizing that interpretation can mislead, with the lesson left open (Bloom: Understand; DOK 1). The artifact is each student's one-line note of a time they assumed they knew what a dog felt. It sets up watch-don't-assume before the observation teach, and it honors the Junior wonder at a world that is real but invisible to us.",
+              "cogLoadTag": "light",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": [],
+              "standardsVerbatim": {},
+              "flags": ["UNVERIFIED_CONTENT_CLAIM: the Horowitz 'smelling the passage of time' image is recounted from the brief's framing; confirm the passage against 'Being a Dog' before reading, per the brief's note that the book has not yet been read."],
+              "prerequisites": ["3.A.2"], "observableCheck": "Each student writes one line about a time they assumed they knew what a dog was feeling.", "buildsOn": ["3.A.2"],
+              "guide": "[Confirm]", "rosenshineTag": null,
+              "challengeConnection": "Feeds Pin 3 by motivating observation; the note is consumed by session 3.B.1, the observation-versus-inference teach.",
+              "developmentalNote": "Tell it as a story, not an assignment, per the brief.", "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will treat a dog's senses as a weaker version of human senses rather than a different world."],
+              "artifact": "The student writes a one-line note about a time they assumed they knew what a dog was feeling.",
+              "movementBreak": false, "locked": false, "inventoryRefs": ["3.B.CI1"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "3.B.1", "yearWeek": 5, "day": "Tue", "slot": 2, "startTime": "10:20 AM", "duration": 35,
+              "title": "Observation versus inference",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 2, "minPerCycle": 10, "checkMin": 5, "debriefMin": 5, "justification": null },
+              "block": "Teach", "cohort": "juniors",
+              "lessonObjective": "Students will be able to separate an observation of a dog from an inference drawn about it and explain what makes a good observation.",
+              "description": "Students learn what makes a good observation and practice separating what a dog did from what a watcher concluded, the core skill the log depends on. The cognitive work is judging statements as observation or inference, strategic reasoning about evidence (Bloom: Analyze; DOK 3). The artifact is a sorted set of dog-watching statements split into observed and inferred. It follows the Horowitz hook because the read-aloud showed why the distinction matters, and it honors the ten-year-old's precision in sorting and classifying.",
+              "cogLoadTag": "heavy",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["SEP (Constructing Explanations)"],
+              "standardsVerbatim": { "SEP (Constructing Explanations)": "[UNVERIFIED — NGSS practice, not a coded NJSLS standard]" },
+              "flags": ["STANDARD_TAG_UNSURE: SEP practice, not a coded standard; excluded from manifest."],
+              "prerequisites": ["3.B.0"], "observableCheck": "Each student correctly sorts at least eight of ten dog-watching statements into observations and inferences.", "buildsOn": ["3.B.0"],
+              "guide": "[Confirm]", "rosenshineTag": "modeling",
+              "challengeConnection": "Feeds Pin 3 by teaching the observation-inference split; consumed by session 3.C.3, the observation visit, and 3.D.1, the pattern analysis.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will record 'the dog is nervous' as an observation rather than as an inference from observed pacing."],
+              "artifact": "The student sorts a set of dog-watching statements into observed and inferred, with the distinction explained.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["3.B.CI2"],
+              "juniorsOverride": null, "seniorsOverride": null
+            }
+          ]
+        },
+        {
+          "id": "3.C", "objective": "Students design and keep a structured observation log on their assigned dog, recording behavior objectively during the St. Hubert's visit.", "observableMilestone": "Each student maintains a structured observation log on their assigned dog with at least ten objectively recorded behaviors.",
+          "tier": "Enduring", "campaignLean": "heavy",
+          "campaignLeanJustification": "This sub-unit feeds the Pin 3 comparison and the profile card by producing the observation log that is the dog's real record; the artifact that crosses forward is the log of observed behaviors the card draws its true details from.",
+          "targetDok": 3,
+          "targetDokRationale": "Students design an observation plan and keep an objective log on a real dog, a non-routine investigation requiring planning and disciplined recording, not a worksheet.",
+          "hourTotal": { "value": 2.0, "rangeLow": 1.8, "rangeHigh": 2.3 },
+          "sessionTarget": { "perCohortMin": 3, "perCohortMax": 4, "totalMin": 3, "totalMax": 4, "rationale": "First-teach of ethological observation, a design-the-investigation production, and the observation visit; concept day 14 carries two lesson lines plus the second St. Hubert's visit for a single cohort." },
+          "phase": "Exploration", "track": "5-6", "grades": ["G5", "G6"],
+          "standards": ["SEP (Planning and Carrying Out Investigations)"], "hostsFluencyGate": false, "locked": false,
+          "timeBudget": { "allocatedMinutes": 145 },
+          "standardsRole": { "firstTeaches": ["SEP (Planning and Carrying Out Investigations)"], "retrieves": [], "applies": ["SEP (Constructing Explanations)"] },
+          "juniorsOverride": null, "seniorsOverride": null,
+          "coldRetrievalSet": [
+            { "day": "Wed", "yearWeek": 5, "cohort": "juniors", "questions": [
+              { "prompt": "What is ethology?", "expectedAnswer": "The study of animal behavior" },
+              { "prompt": "Why should an observation log record behavior, not interpretation?", "expectedAnswer": "To keep it objective and true" },
+              { "prompt": "Name two behaviors you would watch for in your dog.", "expectedAnswer": "Student's examples, e.g. pacing, leaning" }
+            ] }
+          ],
+          "contentInventory": [
+            { "id": "3.C.CI1", "type": "concept", "item": "Observing animal behavior (ethology); recording objectively", "hours": 0.6, "loadTier": "high", "standards": ["SEP (Planning and Carrying Out Investigations)"], "enduringConceptRef": "EC3", "notes": null },
+            { "id": "3.C.CI2", "type": "application", "item": "Design an observation experiment for the assigned dog", "hours": 0.6, "loadTier": "medium", "standards": ["SEP (Planning and Carrying Out Investigations)"], "enduringConceptRef": "EC3", "notes": "Must include appearance and energy level per the brief." },
+            { "id": "3.C.CI3", "type": "experience", "item": "Second St. Hubert's visit: observe your dog and keep the log", "hours": 0.8, "loadTier": "medium", "standards": ["SEP (Planning and Carrying Out Investigations)"], "enduringConceptRef": "EC3", "notes": "Second St. Hubert's visit per the brief marker." }
+          ],
+          "sessions": [
+            {
+              "id": "3.C.1", "yearWeek": 5, "day": "Wed", "slot": 1, "startTime": "9:45 AM", "duration": 35,
+              "title": "Ethology: watching animal behavior",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 2, "minPerCycle": 10, "checkMin": 5, "debriefMin": 5, "justification": null },
+              "block": "Teach", "cohort": "juniors",
+              "lessonObjective": "Students will be able to explain what ethology is and how recording behavior objectively keeps an observation log honest.",
+              "description": "Students learn the basics of ethology, the study of animal behavior, and how watchers record what an animal does without slipping into interpretation. The cognitive work is understanding objective behavioral recording, a heavy concept move (Bloom: Understand; DOK 2). The artifact is a set of behavior-recording rules each student writes for their own log. It precedes the visit so students arrive knowing how to watch, and it honors the eleven-year-old's appetite for a real adult-style investigative skill.",
+              "cogLoadTag": "heavy",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["SEP (Planning and Carrying Out Investigations)"],
+              "standardsVerbatim": { "SEP (Planning and Carrying Out Investigations)": "[UNVERIFIED — NGSS practice, not a coded NJSLS standard]" },
+              "flags": ["STANDARD_TAG_UNSURE: SEP practice, not a coded standard."],
+              "prerequisites": ["3.B.1"], "observableCheck": "Each student writes at least three behavior-recording rules that keep the log objective.", "buildsOn": ["3.B.1"],
+              "guide": "[Confirm]", "rosenshineTag": "small steps",
+              "challengeConnection": "Feeds Pin 3 by teaching objective recording; consumed by sessions 3.C.2 and 3.C.3, the design and the visit.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will plan to record what the dog is feeling rather than what it is doing."],
+              "artifact": "The student writes a set of objective behavior-recording rules for their observation log.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["3.C.CI1"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "3.C.2", "yearWeek": 5, "day": "Wed", "slot": 2, "startTime": "10:30 AM", "duration": 40,
+              "title": "Observation plan: appearance and energy",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 3, "minPerCycle": 8, "checkMin": 5, "debriefMin": 6, "justification": null },
+              "block": "Production", "cohort": "juniors",
+              "lessonObjective": "Students will be able to design an observation plan for their dog that names which behaviors to watch, including appearance and energy level.",
+              "description": "Students design the observation experiment they will run on their assigned dog, naming the behaviors to watch and including appearance and energy level per the brief. The cognitive work is planning an investigation, strategic reasoning the student structures (Bloom: Apply to Analyze; DOK 3). The artifact is each student's observation plan with a target behavior list. It follows the ethology teach to interleave applied design, and it honors the Junior strength in precise, organized preparation for a real task.",
+              "cogLoadTag": "medium",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["SEP (Planning and Carrying Out Investigations)"],
+              "standardsVerbatim": { "SEP (Planning and Carrying Out Investigations)": "[UNVERIFIED — NGSS practice, not a coded standard]" },
+              "flags": [],
+              "prerequisites": ["3.C.1"], "observableCheck": "Each student's observation plan names at least five target behaviors including appearance and energy level.", "buildsOn": ["3.C.1"],
+              "guide": "[Confirm]", "rosenshineTag": "guided practice",
+              "challengeConnection": "Feeds Pin 3 by producing the observation plan; consumed directly by session 3.C.3, the visit.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will plan to watch only dramatic behaviors and miss steady-state appearance and energy cues."],
+              "artifact": "The student designs an observation plan naming the behaviors to watch, including appearance and energy level.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["3.C.CI2"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "3.C.3", "yearWeek": 5, "day": "Thu", "slot": 1, "startTime": "9:45 AM", "duration": 70,
+              "title": "St. Hubert's visit: observe your dog",
+              "durationRecipe": { "setupMin": 10, "cycleCount": 6, "minPerCycle": 8, "checkMin": 7, "debriefMin": 5, "justification": "The observation visit needs a longer block because each student runs their full observation plan on a live dog across six timed watching windows, recording behavior in each before moving on, and travel and setup add fixed overhead that a 35-minute block cannot absorb." },
+              "block": "Production", "cohort": "juniors",
+              "lessonObjective": "Students will be able to keep a structured observation log on their assigned dog, recording behavior objectively during the visit.",
+              "description": "Students visit St. Hubert's and run their observation plan on their assigned dog, recording behavior objectively across timed watching windows. The cognitive work is carrying out an investigation and recording observation without inference under live conditions, applied reasoning with real stakes (Bloom: Apply; DOK 3). The artifact is each student's completed structured observation log. It is the heart of Act 3 and supplies the real record the comparison and the card depend on, and it honors the eleven-year-old's appetite for a responsible, independent real-world task.",
+              "cogLoadTag": "medium",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["SEP (Planning and Carrying Out Investigations)"],
+              "standardsVerbatim": { "SEP (Planning and Carrying Out Investigations)": "[UNVERIFIED — NGSS practice, not a coded standard]" },
+              "flags": ["UNVERIFIED_CONTENT_CLAIM: the visit assumes St. Hubert's will assign each student a real dog to observe and host a second visit; logistics are [Confirm]."],
+              "prerequisites": ["3.C.2"], "observableCheck": "Each student's observation log records at least ten behaviors objectively, with no inferences in the observation column.", "buildsOn": ["3.C.2"],
+              "guide": "[Confirm]", "rosenshineTag": null,
+              "challengeConnection": "Feeds Pin 3 by producing the observation log; consumed by sessions 3.D.1 and 3.D.2, the pattern analysis and the comparison.",
+              "developmentalNote": "Give each student a two-column log (observed versus inferred) so the discipline is built into the tool.", "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will fill the observation column with feelings about the dog instead of recorded behaviors."],
+              "artifact": "The student completes a structured observation log of at least ten objectively recorded behaviors on their assigned dog.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["3.C.CI3"],
+              "juniorsOverride": null, "seniorsOverride": null
+            }
+          ]
+        },
+        {
+          "id": "3.D", "objective": "Students find patterns in their observation logs, draw inferences, and compare what they observed against their photo assumption, producing the Act 3 evidence.", "observableMilestone": "Each student produces a written comparison naming where the observed reality and the photo assumption diverged, and revises the assumption accordingly.",
+          "tier": "Enduring", "campaignLean": "heavy",
+          "campaignLeanJustification": "This sub-unit is the Pin 3 deliverable and the discovery moment: the assumption-versus-reality comparison the profile card is built to close; the artifact that crosses forward is the documented gap between assumption and observation.",
+          "targetDok": 3,
+          "targetDokRationale": "Students argue from their observation log that the real dog differs from the photo assumption, revising a belief against evidence, a non-routine evidence-based comparison.",
+          "hourTotal": { "value": 1.3, "rangeLow": 1.2, "rangeHigh": 1.5 },
+          "sessionTarget": { "perCohortMin": 2, "perCohortMax": 3, "totalMin": 2, "totalMax": 3, "rationale": "A pattern-finding production plus the comparison that is the Act 3 evidence; concept day 15 carries two lesson lines for a single cohort." },
+          "phase": "Exploration", "track": "5-6", "grades": ["G5", "G6"],
+          "standards": ["SEP (Argument from Evidence)"], "hostsFluencyGate": false, "locked": false,
+          "timeBudget": { "allocatedMinutes": 80 },
+          "standardsRole": { "firstTeaches": ["SEP (Argument from Evidence)"], "retrieves": [], "applies": ["SEP (Planning and Carrying Out Investigations)"] },
+          "juniorsOverride": null, "seniorsOverride": null,
+          "coldRetrievalSet": [
+            { "day": "Fri", "yearWeek": 5, "cohort": "juniors", "questions": [
+              { "prompt": "What is a pattern in an observation log?", "expectedAnswer": "A behavior that repeats" },
+              { "prompt": "What does it mean to revise an assumption?", "expectedAnswer": "Change it when evidence contradicts it" },
+              { "prompt": "What was your photo assumption about your dog?", "expectedAnswer": "Student's photo assumption" }
+            ] }
+          ],
+          "contentInventory": [
+            { "id": "3.D.CI1", "type": "application", "item": "Identify patterns in the observation logs", "hours": 0.6, "loadTier": "medium", "standards": ["SEP (Argument from Evidence)"], "enduringConceptRef": "EC3", "notes": null },
+            { "id": "3.D.CI2", "type": "deliverable", "item": "Assumption versus reality comparison (Act 3 evidence)", "hours": 0.7, "loadTier": "high", "standards": ["SEP (Argument from Evidence)"], "enduringConceptRef": "EC3", "notes": "The discovery moment of the challenge." }
+          ],
+          "sessions": [
+            {
+              "id": "3.D.1", "yearWeek": 5, "day": "Fri", "slot": 1, "startTime": "9:45 AM", "duration": 40,
+              "title": "Patterns in the observation log",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 3, "minPerCycle": 8, "checkMin": 5, "debriefMin": 6, "justification": null },
+              "block": "Production", "cohort": "juniors",
+              "lessonObjective": "Students will be able to identify repeating patterns in their observation log and draw an inference each pattern supports.",
+              "description": "Students analyze their observation logs for repeating patterns and draw a careful inference from each, the move that turns raw watching into evidence. The cognitive work is finding patterns and inferring from them, strategic reasoning (Bloom: Analyze; DOK 3). The artifact is a pattern-and-inference list keyed to log entries. It engages the handling-cost-versus-bias tension by grounding any claim about the dog in observed behavior, and it honors the Junior pull toward finding order in collected data. (This session is one of the sessions listed under the challenge tension on real handling cost versus bias; the inference must stay tied to the log.)",
+              "cogLoadTag": "medium",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["SEP (Argument from Evidence)"],
+              "standardsVerbatim": { "SEP (Argument from Evidence)": "[UNVERIFIED — NGSS practice, not a coded NJSLS standard]" },
+              "flags": ["STANDARD_TAG_UNSURE: SEP practice, not a coded standard."],
+              "prerequisites": ["3.C.3"], "observableCheck": "Each student lists at least three log patterns and an inference for each that is tied to specific entries.", "buildsOn": ["3.C.3"],
+              "guide": "[Confirm]", "rosenshineTag": "independent practice",
+              "challengeConnection": "Feeds Pin 3 by producing pattern inferences; consumed by session 3.D.2, the comparison.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will infer beyond the log, claiming a temperament from a single behavior rather than a repeated pattern."],
+              "artifact": "The student produces a pattern-and-inference list keyed to specific observation-log entries.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["3.D.CI1"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "3.D.2", "yearWeek": 5, "day": "Fri", "slot": 2, "startTime": "10:35 AM", "duration": 40,
+              "title": "Assumption versus reality: the gap",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 3, "minPerCycle": 8, "checkMin": 5, "debriefMin": 6, "justification": null },
+              "block": "Production", "cohort": "juniors",
+              "lessonObjective": "Students will be able to compare their observed reality against their photo assumption and revise the assumption where the observations contradict it.",
+              "description": "Students lay their observation log beside the photo assumption they wrote in week five and name exactly where the real dog and the assumed dog diverge, the discovery moment of the challenge. The cognitive work is arguing from evidence to revise a prior belief, strategic evaluative reasoning (Bloom: Evaluate; DOK 3). The artifact is the assumption-versus-reality comparison, the Act 3 evidence. It closes the observation arc and supplies the gap the profile card must close, and it honors the eleven-year-old's growth in updating a belief when the evidence demands it.",
+              "cogLoadTag": "heavy",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["SEP (Argument from Evidence)"],
+              "standardsVerbatim": { "SEP (Argument from Evidence)": "[UNVERIFIED — NGSS practice, not a coded standard]" },
+              "flags": [],
+              "prerequisites": ["3.D.1", "3.A.1"], "observableCheck": "Each student's comparison names at least two points where the observed reality contradicted the photo assumption and states the revised assumption.", "buildsOn": ["3.D.1"],
+              "guide": "[Confirm]", "rosenshineTag": "independent practice",
+              "challengeConnection": "Is the Pin 3 deliverable and the discovery moment; the comparison is consumed by the Act 5 profile card, which is built to close the named gap.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will defend the original assumption rather than revise it when the observation contradicts it."],
+              "artifact": "The student writes an assumption-versus-reality comparison naming where the observed dog contradicted the photo assumption and the revised assumption.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["3.D.CI2"],
+              "juniorsOverride": null, "seniorsOverride": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

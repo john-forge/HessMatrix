@@ -1,0 +1,131 @@
+{
+ "2.2.8.LF.3": {
+  "schema_version": 1,
+  "standardCode": "2.2.8.LF.3",
+  "standardStatement": "Explore by leading self and others to experience and participate in different cultures' physical fitness activities.",
+  "subject": "chpe",
+  "grade": "8",
+  "generatedAt": "2026-06-17T17:06:45.136727Z",
+  "cells": {
+   "remember-1": {
+    "objective": "Name six physical activities and the cultures or regions each one comes from.",
+    "observableCheck": "Each student fills a six-row sheet pairing an activity with its origin.",
+    "sampleTask": "Guide shows short clips or photos of six activities from different cultures, such as capoeira, sepak takraw, and tinikling. Students write each activity and the culture or region it comes from on a six-row sheet. Pairs check three rows against each other. Guide posts the answer key and corrects any mismatches.",
+    "materials": ["activity origin sheet", "photos or short clips"]
+   },
+   "remember-2": null,
+   "remember-3": null,
+   "remember-4": null,
+   "understand-1": {
+    "objective": "Describe the basic movements of one cultural activity in your own words.",
+    "observableCheck": "Each student writes a three-step description a classmate could try from.",
+    "sampleTask": "Each student picks one activity from Remember-1 and writes a three-step description of its basic movement. The steps must be clear enough for a classmate to attempt. Pairs read each other's steps and try the first step. Guide collects two descriptions that a partner could follow.",
+    "materials": ["activity origin sheet", "lined paper", "open floor space"]
+   },
+   "understand-2": {
+    "objective": "Explain what one cultural activity reflects about where it comes from.",
+    "observableCheck": "Each student writes one sentence linking a feature of the activity to its culture or setting.",
+    "sampleTask": "Students pick one activity and write one sentence connecting a feature of it to its origin, such as how tinikling uses bamboo poles common in the Philippines. Pairs read both sentences and check the link is real, not guessed. Guide reads two strong links and notes where students avoided stereotypes.",
+    "materials": ["activity origin sheet", "lined paper"]
+   },
+   "understand-3": {
+    "objective": "Group several cultural activities by a shared movement type they all use.",
+    "observableCheck": "Each pair sorts six activities into movement-type groups with a heading on each.",
+    "sampleTask": "Pairs receive cards for the six activities and sort them by movement type, such as balance, footwork speed, or whole-body rhythm. Each group gets a heading. Pairs explain one placement to another pair. Guide photographs two sorts that used different groupings and discusses the overlap.",
+    "materials": ["activity cards", "heading strips"]
+   },
+   "understand-4": {
+    "objective": "Summarize why trying activities from other cultures broadens a person's fitness experience.",
+    "observableCheck": "Each student writes a short paragraph with two reasons drawn from the unit.",
+    "sampleTask": "Students write a paragraph answering why a person benefits from trying activities outside their own culture. The paragraph needs two reasons grounded in the unit, not general praise. Pairs underline the two reasons. Guide flags any paragraph that stayed vague.",
+    "materials": ["lined paper"]
+   },
+   "apply-1": {
+    "objective": "Perform the basic movement of one cultural activity following a peer's instructions.",
+    "observableCheck": "Each student completes the basic movement when guided through it by a partner.",
+    "sampleTask": "Pairs use the three-step descriptions from Understand-1. One partner reads the steps while the other performs the basic movement, then they switch. Each tries to complete the movement without seeing a demonstration first. Guide circulates and notes one pair who got the movement from words alone.",
+    "materials": ["three-step descriptions", "open floor space"]
+   },
+   "apply-2": {
+    "objective": "Lead a small group through a short warm-up drawn from one cultural activity.",
+    "observableCheck": "The group follows the leader's cues and completes the warm-up together.",
+    "sampleTask": "Each student prepares a two-minute warm-up based on one cultural activity and leads a group of three through it. The leader gives clear cues and adjusts pace for the group. Group members give one piece of feedback after. Guide watches and names one leader whose cues kept the group together.",
+    "materials": ["activity notes", "open floor space", "timer"]
+   },
+   "apply-3": {
+    "objective": "Teach a peer one cultural activity well enough for them to do it unprompted.",
+    "observableCheck": "The learner performs the activity once without further cues from the teacher.",
+    "sampleTask": "Pairs split into teacher and learner. The teacher introduces one cultural activity, demonstrates, and coaches the learner until the learner can do it once on their own. They switch roles with a new activity. Guide circulates and notes a pair whose teaching led to independent practice.",
+    "materials": ["activity notes", "open floor space"]
+   },
+   "apply-4": {
+    "objective": "Build a station card so another group can run a cultural activity without the author present.",
+    "observableCheck": "A different group runs the activity using only the card.",
+    "sampleTask": "Each student writes a station card for one cultural activity with the origin, the movements, and the safety notes. A different group runs the activity using only the card. The author watches without speaking and notes any step the card missed. Guide collects cards that another group ran successfully.",
+    "materials": ["station card template", "open floor space"]
+   },
+   "analyze-1": {
+    "objective": "Identify which features two cultural activities share and which set them apart.",
+    "observableCheck": "Each student completes a Venn diagram for two assigned activities.",
+    "sampleTask": "Guide assigns each pair two cultural activities. Students complete a Venn diagram marking shared features and distinct ones, such as equipment, number of players, and movement type. Pairs compare diagrams with another pair. Guide names one shared feature most pairs missed.",
+    "materials": ["Venn diagram handout", "activity notes"]
+   },
+   "analyze-2": {
+    "objective": "Compare how two cultures train a similar skill, such as balance, through different activities.",
+    "observableCheck": "Each pair writes two specific differences in how the two activities build the skill.",
+    "sampleTask": "Pairs pick two activities that build the same skill and write two specific differences in how each trains it. They decide which approach a beginner would find easier to start. Pairs share their call with another pair. Guide charts the differences the class found most interesting.",
+    "materials": ["activity notes", "lined paper"]
+   },
+   "analyze-3": {
+    "objective": "Break a cultural activity into the movement skills a beginner must learn first.",
+    "observableCheck": "Each student orders three to four sub-skills from first to learn to last.",
+    "sampleTask": "Students pick one cultural activity and break it into three or four sub-skills, then order them from what a beginner learns first to last. They write one sentence on why the first skill comes first. Pairs check the order makes sense. Guide collects two breakdowns with sound ordering.",
+    "materials": ["activity notes", "lined paper"]
+   },
+   "analyze-4": {
+    "objective": "Analyze what made one peer-led activity session work or stall, citing specific moments.",
+    "observableCheck": "Each student writes two observations naming a moment that helped or hurt the session.",
+    "sampleTask": "After the Apply-2 warm-ups, students write two observations about a session they joined, each naming a specific moment that helped or hurt the group's success. They mark whether the issue was the cues, the pacing, or the movement itself. Pairs compare observations. Guide names one pattern across sessions.",
+    "materials": ["observation handout"]
+   },
+   "evaluate-1": null,
+   "evaluate-2": null,
+   "evaluate-3": {
+    "objective": "Judge whether a peer's station card respects the activity's culture and gives safe, clear steps.",
+    "observableCheck": "Each student writes a verdict on a peer card citing two specific entries.",
+    "sampleTask": "Students swap the station cards from Apply-4 and score them on a rubric for accuracy, respect for the culture, and safety. Each reviewer writes a verdict citing two entries that earned or lost points. The reviewer suggests one fix to the weakest part. Guide checks three reviews against the rubric.",
+    "materials": ["peer station cards", "three-point rubric"]
+   },
+   "evaluate-4": {
+    "objective": "Defend which cultural activity the class should add to its regular rotation, with reasons.",
+    "observableCheck": "Each student presents a pick with two reasons and addresses one drawback.",
+    "sampleTask": "Each student picks one cultural activity for the class to keep doing and writes two reasons plus a response to one likely drawback, such as equipment cost. Small groups compare picks and try to agree on one. Guide records each group's choice and the drawback they found hardest to answer.",
+    "materials": ["recommendation sheet", "activity notes"]
+   },
+   "create-1": {
+    "objective": "Produce a labeled card listing the origin and basic moves of one cultural activity.",
+    "observableCheck": "Each student turns in a card with origin, three moves, and one image or sketch.",
+    "sampleTask": "Each student makes a reference card for one cultural activity with the origin, three basic moves, and a small sketch or image. The card must let a newcomer recognize the activity. Pairs check the moves match the activity. Guide collects the cards into a class deck.",
+    "materials": ["index cards", "activity notes"]
+   },
+   "create-2": {
+    "objective": "Design a short fitness routine that blends moves from two different cultural activities.",
+    "observableCheck": "Each student submits a routine naming the two source activities and the moves taken from each.",
+    "sampleTask": "Each student designs a three-minute routine that combines moves from two cultural activities, naming which move came from which. The blend must keep each move recognizable. Pairs try one section of the routine. Guide collects two routines that combined the sources cleanly.",
+    "materials": ["routine planning sheet", "open floor space"]
+   },
+   "create-3": {
+    "objective": "Create a class culture-and-movement showcase plan that lets every group lead one activity.",
+    "observableCheck": "Each group submits a showcase slot with the activity, the lead, and the time needed.",
+    "sampleTask": "Small groups plan one slot of a class showcase, naming the cultural activity, who leads, the space and equipment needed, and the time. The plan must fit a shared class schedule. Groups present the slot and adjust for overlaps with others. Guide assembles the slots into a full showcase schedule.",
+    "materials": ["showcase planning sheet", "class schedule grid"]
+   },
+   "create-4": {
+    "objective": "Develop a leadership plan for guiding a mixed-skill group through an unfamiliar cultural activity.",
+    "observableCheck": "Each student submits a plan that names how they will introduce, demonstrate, and adjust for skill levels.",
+    "sampleTask": "Each student writes a plan to lead a mixed-skill group through a cultural activity new to them, covering how they introduce it, demonstrate it, and adjust for students who struggle or race ahead. The plan must include one adjustment for each skill level. Pairs rehearse the introduction step. Guide reviews three plans for whether the adjustments are concrete.",
+    "materials": ["leadership plan template", "activity notes"]
+   }
+  }
+ }
+}

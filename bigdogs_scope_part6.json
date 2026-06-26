@@ -1,0 +1,209 @@
+{
+  "_chunk": { "part": 6, "of": 6, "challengeId": "why-big-dogs-get-passed-over", "contains": ["Pin 6", "coldTransferTask", "fitnessCheck", "selfVerification", "openQuestions"], "final": true },
+  "pins": [
+    {
+      "id": "Pin 6",
+      "name": "The Cards Go Up: Briefing St. Hubert's",
+      "description": "Pin 6 is the showcase in which students finalize their kennel cards, the cards are printed and clipped to the dogs' kennels, and the cohort briefs St. Hubert's on what they learned about the adoption gap, the stories they told, and their recommendations. The demonstration is the final cards plus the partner briefing delivered to the St. Hubert's Board and adoption staff. St. Hubert's is the authentic audience. It matters because this is the authentic impact the whole challenge aimed at: real cards on real kennels and a real handoff to the partner.",
+      "objective": "Students will present their final profile cards and brief St. Hubert's on the adoption-gap analysis, the campaign's stories, and their recommendations.",
+      "observableEvidence": "Each student contributes a finalized kennel card and a portion of the cohort briefing to St. Hubert's, presented with clear delivery and a supporting visual.",
+      "date": "[Confirm]", "endDate": null, "endYearWeek": null,
+      "startTime": "12:40 PM", "durationMinutes": 150,
+      "pinDuration": "half-day",
+      "phase": "Presentation",
+      "track": "5-6", "grades": ["G5", "G6"],
+      "audience": "The St. Hubert's Board and adoption staff, plus visiting families at the kennels.", "partnerId": 0, "standards": ["SL.PI.6.4", "SL.UM.6.5", "W.NW.6.3", "W.AW.6.1"], "locked": false,
+      "pinNote": "yearWeek 8 places the showcase in the final week of the canonical Big Dogs Fall window (weeks 1-8), with the Cold Transfer Task in week 7 per the placement rule.",
+      "timeBudget": { "allocatedMinutes": 265 },
+      "subUnits": [
+        {
+          "id": "6.A", "objective": "Students finalize their profile card, grounding the story in evidence and claiming only what the dog's evidence supports.", "observableMilestone": "Each student produces a finalized profile card for their assigned dog, ready to print and clip to the kennel.",
+          "tier": "Enduring", "campaignLean": "heavy",
+          "campaignLeanJustification": "This sub-unit produces the campaign's core deliverable, the finalized kennel card; the synthesis that crosses into the partner's hands is the grounded, story-driven card that closes the photo-versus-reality gap.",
+          "targetDok": 3,
+          "targetDokRationale": "Students synthesize narrative craft and evidence discipline into a finalized card that claims only what the dog's evidence supports, a non-routine integration of the whole challenge.",
+          "hourTotal": { "value": 0.7, "rangeLow": 0.6, "rangeHigh": 0.9 },
+          "sessionTarget": { "perCohortMin": 1, "perCohortMax": 2, "totalMin": 1, "totalMax": 2, "rationale": "Concept day 25 finalizes the card in one production session for a single cohort, applying narrative and argument standards already taught." },
+          "phase": "Presentation", "track": "5-6", "grades": ["G5", "G6"],
+          "standards": ["W.NW.6.3", "W.AW.6.1"], "hostsFluencyGate": false, "locked": false,
+          "timeBudget": { "allocatedMinutes": 40 },
+          "standardsRole": { "firstTeaches": [], "retrieves": [], "applies": ["W.NW.6.3", "W.AW.6.1"] },
+          "juniorsOverride": null, "seniorsOverride": null,
+          "coldRetrievalSet": [
+            { "day": "Thu", "yearWeek": 8, "cohort": "juniors", "questions": [
+              { "prompt": "What does it mean to claim only what the evidence supports?", "expectedAnswer": "Do not say more than you can back" },
+              { "prompt": "What is the strongest true detail on your card?", "expectedAnswer": "Student's chosen detail" },
+              { "prompt": "Who reads this card?", "expectedAnswer": "Families at the St. Hubert's kennels" }
+            ] }
+          ],
+          "contentInventory": [
+            { "id": "6.A.CI1", "type": "deliverable", "item": "Finalize the profile card (grounding plus story synthesis)", "hours": 0.7, "loadTier": "high", "standards": ["W.NW.6.3", "W.AW.6.1"], "enduringConceptRef": "EC6", "notes": "The final kennel card." }
+          ],
+          "sessions": [
+            {
+              "id": "6.A.1", "yearWeek": 8, "day": "Thu", "slot": 4, "startTime": "12:40 PM", "duration": 40,
+              "title": "Finalize the kennel card",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 3, "minPerCycle": 8, "checkMin": 5, "debriefMin": 6, "justification": null },
+              "block": "Production", "cohort": "juniors",
+              "lessonObjective": "Students will be able to finalize a kennel card that tells their dog's true story and claims only what the evidence supports.",
+              "description": "Students finalize their kennel card, folding the revised draft, the evidence discipline, and the chosen voice into a print-ready piece for the dog's kennel. The cognitive work is integrating narrative and argument into a finished artifact that stays grounded, sustained synthesis (Bloom: Create; DOK 3). The artifact is each student's finalized kennel card. It is the campaign's core product and the input to the briefing, and it honors the eleven-year-old's pride in a real, public, finished piece with their dog's name on it.",
+              "cogLoadTag": "heavy",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["W.NW.6.3", "W.AW.6.1"],
+              "standardsVerbatim": { "W.NW.6.3": "[UNVERIFIED — paraphrase from brief; byte-exact text not retrievable]", "W.AW.6.1": "[UNVERIFIED — quoted in brief; not byte-verified]" },
+              "flags": [],
+              "prerequisites": ["5.C.2"], "observableCheck": "Each student's finalized card tells a true story and contains no claim the dog's evidence does not support.", "buildsOn": ["5.C.2"],
+              "guide": "[Confirm]", "rosenshineTag": "independent practice",
+              "challengeConnection": "Feeds Pin 6 by finalizing the card; the card is consumed by the showcase session 6.B.3 and clipped to the kennel.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will add a final flourish that overclaims, breaking the evidence discipline at the last step."],
+              "artifact": "The student finalizes a print-ready kennel card that tells the dog's true story and claims only what the evidence supports.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["6.A.CI1"],
+              "juniorsOverride": null, "seniorsOverride": null
+            }
+          ]
+        },
+        {
+          "id": "6.B", "objective": "Students learn to speak well and evaluate speakers, rehearse, and brief St. Hubert's on the adoption-gap analysis and the campaign.", "observableMilestone": "Each student delivers a portion of the briefing to St. Hubert's with clear delivery and a supporting visual.",
+          "tier": "Enduring", "campaignLean": "heavy",
+          "campaignLeanJustification": "This sub-unit is the Pin 6 showcase: the partner briefing that hands off the campaign; the presentation skills that cross into the partner's room are clear delivery and a media-supported explanation of the findings.",
+          "targetDok": 3,
+          "targetDokRationale": "Students present claims and findings to a real partner audience with a supporting visual, a non-routine authentic-audience performance.",
+          "hourTotal": { "value": 3.0, "rangeLow": 2.7, "rangeHigh": 3.3 },
+          "sessionTarget": { "perCohortMin": 3, "perCohortMax": 4, "totalMin": 3, "totalMax": 4, "rationale": "First-teach of presentation and media standards plus a rehearsal plus the half-day showcase; concept day 27 and the speaking sub-rows for a single cohort." },
+          "phase": "Presentation", "track": "5-6", "grades": ["G5", "G6"],
+          "standards": ["SL.PI.6.4", "SL.UM.6.5"], "hostsFluencyGate": false, "locked": false,
+          "timeBudget": { "allocatedMinutes": 225 },
+          "standardsRole": { "firstTeaches": ["SL.PI.6.4", "SL.UM.6.5"], "retrieves": [{ "standardId": "SL.PE.6.1", "firstTaughtIn": "PS1" }], "applies": ["SL.PE.6.1", "W.AW.6.1"] },
+          "juniorsOverride": null, "seniorsOverride": null,
+          "coldRetrievalSet": [
+            { "day": "Fri", "yearWeek": 8, "cohort": "juniors", "questions": [
+              { "prompt": "What are the parts of speaking well?", "expectedAnswer": "Pace, tonality, eye contact, pronunciation" },
+              { "prompt": "How does a visual support a spoken claim?", "expectedAnswer": "Shows the evidence while you explain" },
+              { "prompt": "What is the main finding you will brief St. Hubert's on?", "expectedAnswer": "Student's adoption-gap finding" }
+            ] }
+          ],
+          "contentInventory": [
+            { "id": "6.B.CI1", "type": "concept", "item": "Speaking well; evaluating speakers; presentation tools", "hours": 0.8, "loadTier": "high", "standards": ["SL.PI.6.4", "SL.UM.6.5"], "enduringConceptRef": null, "notes": "Brief sub-rows: evaluating speakers, speaking well, presentation tools." },
+            { "id": "6.B.CI2", "type": "skill", "item": "Briefing rehearsal", "hours": 0.8, "loadTier": "medium", "standards": ["SL.PI.6.4"], "enduringConceptRef": null, "notes": null },
+            { "id": "6.B.CI3", "type": "deliverable", "item": "Brief St. Hubert's (Act 6 evidence: final cards and partner briefing)", "hours": 1.4, "loadTier": "high", "standards": ["SL.PI.6.4", "SL.UM.6.5"], "enduringConceptRef": null, "notes": "Showcase event." }
+          ],
+          "sessions": [
+            {
+              "id": "6.B.1", "yearWeek": 8, "day": "Fri", "slot": 1, "startTime": "9:45 AM", "duration": 40,
+              "title": "Speaking well, judging speakers",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 3, "minPerCycle": 8, "checkMin": 6, "debriefMin": 5, "justification": null },
+              "block": "Teach", "cohort": "juniors",
+              "lessonObjective": "Students will be able to present findings with clear pace, tonality, eye contact, and a supporting visual, and judge a speaker against those criteria.",
+              "description": "Students learn the parts of speaking well, pace, tonality, eye contact, pronunciation, and how a visual supports a claim, then practice judging a speaker against those criteria. The cognitive work is understanding and applying presentation criteria, a heavy first-teach of the speaking and media standards (Bloom: Understand to Apply; DOK 2-3). The artifact is each student's speaker-evaluation rubric used on a sample. It precedes the rehearsal so students know the bar, and it honors the twelve-year-old-adjacent appetite for a real, evaluated performance.",
+              "cogLoadTag": "heavy",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["SL.PI.6.4", "SL.UM.6.5"],
+              "standardsVerbatim": { "SL.PI.6.4": "[UNVERIFIED — paraphrase from brief: present claims and findings, 2023 NJSLS-ELA Speaking Present Information strand; byte-exact text not retrievable]", "SL.UM.6.5": "[UNVERIFIED — paraphrase from brief: include multimedia and visual displays in presentations, 2023 NJSLS-ELA Speaking Use Media strand; byte-exact text not retrievable]" },
+              "flags": ["STANDARD_TAG_UNSURE: SL.PI.6.4 and SL.UM.6.5 strand letters from the brief's migration note; confirm against the NJSLS database."],
+              "prerequisites": ["6.A.1"], "observableCheck": "Each student evaluates a sample speaker against pace, tonality, eye contact, and visual support.", "buildsOn": ["1.E.3"],
+              "guide": "[Confirm]", "rosenshineTag": "modeling",
+              "challengeConnection": "Feeds Pin 6 by teaching presentation; consumed by sessions 6.B.2 (rehearsal) and 6.B.3 (the briefing).",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will judge a speaker on confidence alone, missing whether the claim was supported by the visual."],
+              "artifact": "The student completes a speaker-evaluation rubric on a sample presentation.",
+              "movementBreak": true, "locked": false, "inventoryRefs": ["6.B.CI1"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "6.B.2", "yearWeek": 8, "day": "Fri", "slot": 2, "startTime": "10:40 AM", "duration": 50,
+              "title": "Briefing rehearsal",
+              "durationRecipe": { "setupMin": 5, "cycleCount": 4, "minPerCycle": 8, "checkMin": 7, "debriefMin": 6, "justification": "The rehearsal runs long because each student delivers their briefing segment, receives peer feedback against the speaking rubric, and re-delivers, which requires four short cycles so every student gets at least one feedback-and-redo loop before the real audience." },
+              "block": "Rehearsal", "cohort": "juniors",
+              "lessonObjective": "Students will be able to deliver their briefing segment with clear delivery and a supporting visual, revised on peer feedback.",
+              "description": "Students rehearse their segment of the St. Hubert's briefing, get peer feedback against the speaking rubric, and revise before the real audience. The cognitive work is applying presentation technique to their own findings under feedback, mapped practice with a performance goal (Bloom: Apply; DOK 2-3). The artifact is each student's rehearsed briefing segment with one revision noted. It sits between the speaking teach and the live briefing, and it honors the thirteen-year-old need for support and practice before a high-stakes performance.",
+              "cogLoadTag": "medium",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["SL.PI.6.4"],
+              "standardsVerbatim": { "SL.PI.6.4": "[UNVERIFIED — paraphrase from brief; byte-exact text not retrievable]" },
+              "flags": [],
+              "prerequisites": ["6.B.1"], "observableCheck": "Each student delivers their segment once, takes rubric-based feedback, and re-delivers with one fix.", "buildsOn": ["6.B.1"],
+              "guide": "[Confirm]", "rosenshineTag": "guided practice",
+              "challengeConnection": "Feeds Pin 6 by rehearsing the briefing; the rehearsed segment is consumed by session 6.B.3, the live briefing.",
+              "developmentalNote": "Assign explicit speaking roles so thirteen-year-olds have a defined part rather than an open stage.", "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will memorize a script and lose the eye contact and pacing the rubric rewards."],
+              "artifact": "The student delivers a rehearsed briefing segment revised on peer rubric feedback.",
+              "movementBreak": false, "locked": false, "inventoryRefs": ["6.B.CI2"],
+              "juniorsOverride": null, "seniorsOverride": null
+            },
+            {
+              "id": "6.B.3", "yearWeek": 8, "day": "Fri", "slot": 4, "startTime": "12:40 PM", "duration": 120,
+              "title": "Brief St. Hubert's: the cards go up",
+              "durationRecipe": { "setupMin": 15, "cycleCount": 10, "minPerCycle": 8, "checkMin": 15, "debriefMin": 10, "justification": "The showcase runs as a half-day event because the cohort delivers the full briefing to the St. Hubert's Board and staff in sequenced segments and clips the printed cards to the kennels, with ten short student-delivery windows plus partner question time and the card-hanging, which a standard session cannot hold." },
+              "block": "Showcase", "cohort": "juniors",
+              "lessonObjective": "Students will be able to brief St. Hubert's on the adoption-gap analysis, the campaign's stories, and their recommendations, with the final cards clipped to the kennels.",
+              "description": "Students deliver the cohort briefing to the St. Hubert's Board and staff, explaining the adoption gap, the stories behind the cards, and their recommendations, and the final cards go up on the kennels. The cognitive work is presenting evidence-grounded claims to an authentic audience, a real-audience demonstration (Bloom: Evaluate to Create; DOK 3-4). The artifact is each student's delivered briefing segment plus the clipped kennel card, the Act 6 and challenge evidence. It is the authentic impact the whole challenge aimed at, and it honors the Junior drive to do real, consequential work for a real partner.",
+              "cogLoadTag": "heavy",
+              "track": "5-6", "grades": ["G5", "G6"], "standards": ["SL.PI.6.4", "SL.UM.6.5"],
+              "standardsVerbatim": { "SL.PI.6.4": "[UNVERIFIED — paraphrase from brief; byte-exact text not retrievable]", "SL.UM.6.5": "[UNVERIFIED — paraphrase from brief; byte-exact text not retrievable]" },
+              "flags": ["UNVERIFIED_CONTENT_CLAIM: the showcase assumes St. Hubert's hosts the briefing and permits the cards to be clipped to kennels; the brief marks card display as pending St. Hubert's approval."],
+              "prerequisites": ["6.B.2", "6.A.1"], "observableCheck": "Each student delivers their briefing segment to St. Hubert's with a supporting visual and clips their card to the kennel.", "buildsOn": ["6.B.2"],
+              "guide": "[Confirm]", "rosenshineTag": null,
+              "challengeConnection": "Is the Pin 6 showcase and the challenge's authentic impact; the briefing and cards are the final handoff to the partner.",
+              "developmentalNote": null, "materials": null,
+              "anticipatedCognitiveChallenges": ["Students will present the cards as cute without explaining the evidence-based reasoning behind the campaign."],
+              "artifact": "The student delivers a briefing segment to St. Hubert's with a supporting visual and clips their finalized card to the dog's kennel.",
+              "movementBreak": false, "locked": false, "inventoryRefs": ["6.B.CI3"],
+              "juniorsOverride": null, "seniorsOverride": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "coldTransferTask": {
+    "id": "CTT", "followsPinId": "Pin 4",
+    "yearWeek": 7, "day": "Fri", "startTime": "12:40 PM", "duration": 45,
+    "block": "Cold Transfer Task", "cohort": "juniors",
+    "lessonObjective": "Students will be able to compute a rate from a novel community dataset, name a hidden factor, and write a one-paragraph evidence claim, without dog-adoption scaffolding.",
+    "track": "5-6", "grades": ["G5", "G6"], "standards": ["6.RP.A.3", "6.SP.B.5", "W.AW.6.1"],
+    "standardsVerbatim": { "6.RP.A.3": "[UNVERIFIED — paraphrase from brief; byte-exact text not retrievable]", "6.SP.B.5": "[UNVERIFIED — paraphrase from brief; byte-exact text not retrievable]", "W.AW.6.1": "[UNVERIFIED — quoted in brief; not byte-verified]" },
+    "guide": "[Confirm]", "locked": false,
+    "novelContext": "Each student receives a fresh dataset on which after-school clubs have the lowest sign-up rates at a different school, a domain they have not worked in, and must compute a fair rate comparison, name a hidden factor that could fake the gap, and write a one-paragraph claim grounded in the data, all without the dog-adoption scaffolding they have leaned on.",
+    "juniorsOverride": null,
+    "seniorsOverride": null,
+    "changes": ["domain", "problem type"]
+  },
+  "fitnessCheck": {
+    "topFailureModes": [
+      "The grade-six rate work and middle-school heredity and selection standards sit at the very top of the 5/6 band, so if the planned grade-5 scaffolds on rates and the Punnett and polygenic work are skipped, the desirable difficulty tips into difficulty without prior instruction and grade-5 students withdraw.",
+      "The profile cards collapse into generic gushing if the observation-versus-inference discipline from Act 3 and the claim-only-what-you-saw discipline from Act 4 are not held into Act 5, producing cards that overclaim and break the campaign's credibility with St. Hubert's.",
+      "The canonical eight-week window is densely packed in weeks seven and eight, where the Fluency Gate, the narrative arc, the Cold Transfer Task, and the showcase all land close together, so without a protected calendar the showcase gets rushed and the partner handoff suffers."
+    ],
+    "northStarQuadrant": "Target",
+    "northStarNote": "The challenge pairs genuinely rigorous standards work (grade-six rates and statistics, middle-school selection science, argument and narrative writing) with a real partner, a real audience, and a tangible consequential product, which lands it in Target rather than Fun Trap or Grind Factory, provided the grade-5 scaffolds keep the rigor in the growth zone.",
+    "designChoiceIfNotTarget": null,
+    "antiPatterns": [
+      { "pattern": "difficulty without prior instruction", "description": "The middle-school science and grade-six math are a reach-up for grade-5 students, so any session that applies them without the planned scaffold and prior teach risks unguided difficulty rather than retrieval practice." },
+      { "pattern": "difficulty producing withdrawal", "description": "The Act 5 revision cycles meet eleven-year-old resistance to revising prior work, so without short rounds and a public-private framing some students may disengage rather than revise." }
+    ],
+    "standardsCoverage": { "verdict": "balanced", "note": "Coverage is balanced across math, science, and ELA with each core standard tied to a named work output; the only caveat is that the science and rate standards sit at the top of or just above the 5/6 band by design, a deliberate reach-up the brief acknowledges rather than a coverage over-claim." },
+    "rosenshineCheck": [
+      { "sessionId": "4.E.G", "violation": "no cold retrieval before fluency gate", "description": "The Fluency Gate is well supported by prior daily cold retrieval and the 4.C.0 and 1.C.0 diagnostics, but it is rendered as a 90-minute session rather than a half-day pin event; the Guide should confirm the gate has a correction-loop retake path for students below the 85-90% bar." }
+    ]
+  },
+  "openQuestions": [
+    { "id": "Q1", "item": "St. Hubert's confirmation that kennel cards may be printed and clipped to kennels, and that the cohort may run two visits and the closing briefing.", "marker": "[Confirm]", "priority": "blocking", "source": "Lock 2" },
+    { "id": "Q2", "item": "Byte-exact NJSLS standard text for every tagged code; all standardsVerbatim entries are currently marked UNVERIFIED because no NJSLS database was available at generation time.", "marker": "[Confirm]", "priority": "normal", "source": "Gate" },
+    { "id": "Q3", "item": "ISO dates for each pin and the two St. Hubert's visits, pending the Fall calendar.", "marker": "[Confirm]", "priority": "normal", "source": "Pin 1" },
+    { "id": "Q4", "item": "Whether 3-LS3-1 (grade-3) should remain the heredity anchor for this 5/6 cohort or be replaced with a middle-school heredity standard; flagged below band by design.", "marker": "[Confirm]", "priority": "normal", "source": "2.B" },
+    { "id": "Q5", "item": "Grade-5 scaffold plans for the rate work (6.RP) and the Punnett and polygenic science, required for the Growth Zone parameter to clear.", "marker": "[Confirm]", "priority": "blocking", "source": "Gate" },
+    { "id": "Q6", "item": "Standard code for resource-credibility work in concept day 20: brief tags W.AW.6.1 but W.SE.6.6 may fit better.", "marker": "[Confirm]", "priority": "normal", "source": "4.E" }
+  ],
+  "selfVerification": {
+    "status": "passed with noted fixmes",
+    "durationDistribution": { "totalSessions": 73, "count35to40": 59, "pct35to40": 81, "count41to60": 6, "pct41to60": 8, "count61plus": 5, "pct61plus": 7, "_note": "Computed across all six parts (PS1 + all pin sessions + CTT). 81% at 35-40 min clears the 60% floor; 7% over 60 min clears the 15% ceiling." },
+    "unverifiedCodes": ["SL.PE.6.1", "6.SP.B.4", "5.DL.A.1", "6.RP.A.2", "6.RP.A.3", "6.SP.B.5", "W.AW.6.1", "3-LS3-1", "MS-LS4-4", "MS-LS4-5", "MS-LS4-6", "SEP (Asking Questions)", "SEP (Constructing Explanations)", "SEP (Planning and Carrying Out Investigations)", "SEP (Argument from Evidence)", "W.WR.6.5", "W.SE.6.6", "RI.AA.6.7", "W.NW.6.3", "W.WP.6.4", "SL.PI.6.4", "SL.UM.6.5", "5.NF.B.3"],
+    "failures": [
+      "FIXME (non-blocking): all session.standardsVerbatim entries are marked UNVERIFIED because no NJSLS standards database was available at generation; the Guide or tool must populate verbatim text from window.NJSLS_STANDARDS before the verb audit can run.",
+      "FIXME (non-blocking): the four SEP tokens are NGSS science practices, not coded NJSLS standards, so they cannot be verified against the database and are excluded from declaredStandardsManifest; the Act 3 observation work is anchored on them intentionally.",
+      "FIXME (non-blocking): 3-LS3-1 is a grade-3 NGSS PE used as the heredity anchor for a 5/6 cohort (below band), and MS-LS4-4/5/6 are middle-school PEs (above band for grade 5); both are deliberate per the brief and flagged BAND_STRETCH on every session.",
+      "NOTE: this is a SINGLE-COHORT (Juniors G5/G6) challenge per the locked brief, so the seniors 20% budget floor and the cohort-shared per-week session floor do not apply; seniorsMinutes=0 and seniorsPercent=0.0 are correct.",
+      "FIXME (non-blocking): the Fluency Gate (4.E.G) is rendered as a 90-minute session rather than a half-day pin; the Guide may elevate it.",
+      "FIXME (non-blocking): challenge.timeBudget.cohortAllocation in Part 1 carries the planned juniorsMinutes; the reconciliation note records the actual summed total across all six parts."
+    ],
+    "reconciliationNote": "Actual summed minutes and the duration distribution are recorded by the generator after writing all six parts; see the chat summary for the computed totals. Both clear the single-cohort 20% Juniors floor."
+  }
+}
