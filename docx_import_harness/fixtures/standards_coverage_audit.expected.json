@@ -1,0 +1,2261 @@
+{
+  "source": "standards_coverage_audit.docx",
+  "imported_at": "FIXED-FOR-TEST",
+  "njsls_parser_version": "1.0.0",
+  "segment_count_total": 294,
+  "segment_count_with_codes": 241,
+  "all_codes": [
+    "3-5-ETS1-1",
+    "3-5-ETS1-2",
+    "3-5-ETS1-3",
+    "3.MD.B.3",
+    "5-ESS1-1",
+    "5-ESS1-2",
+    "5-ESS2-1",
+    "5-ESS2-2",
+    "5-ESS3-1",
+    "5-LS1-1",
+    "5-LS2-1",
+    "5-PS1-1",
+    "5-PS1-2",
+    "5-PS2-1",
+    "5-PS3-1",
+    "5.DL.A.1",
+    "5.DL.A.2",
+    "5.DL.A.3",
+    "5.DL.A.4",
+    "5.G.A.1",
+    "5.G.A.2",
+    "5.G.B.3",
+    "5.G.B.4",
+    "5.M.B.2",
+    "5.M.B.3",
+    "5.M.B.4",
+    "5.MD.A.1",
+    "5.NBT.A.1",
+    "5.NBT.A.2",
+    "5.NBT.A.4",
+    "5.NBT.B.5",
+    "5.NBT.B.6",
+    "5.NF.A.1",
+    "5.NF.A.2",
+    "5.NF.B.3",
+    "5.NF.B.5",
+    "5.NF.B.6",
+    "5.NF.B.7",
+    "5.OA.A.1",
+    "5.OA.A.2",
+    "5.OA.B.3",
+    "6.EE.A.1",
+    "6.EE.A.2",
+    "6.EE.A.3",
+    "6.EE.A.4",
+    "6.EE.B.5",
+    "6.EE.B.6",
+    "6.EE.B.7",
+    "6.EE.B.8",
+    "6.EE.C.9",
+    "6.G.A.1",
+    "6.G.A.2",
+    "6.G.A.3",
+    "6.G.A.4",
+    "6.NS.A.1",
+    "6.NS.B.2",
+    "6.NS.B.4",
+    "6.NS.C.5",
+    "6.NS.C.6",
+    "6.NS.C.7",
+    "6.NS.C.8",
+    "6.RP.A.3",
+    "6.SP.A.1",
+    "6.SP.A.2",
+    "6.SP.A.3",
+    "6.SP.B.4",
+    "7.EE.A.1",
+    "7.EE.A.2",
+    "7.EE.B.4",
+    "7.G.A.1",
+    "7.G.A.2",
+    "7.G.A.3",
+    "7.G.B.4",
+    "7.G.B.5",
+    "7.G.B.6",
+    "7.NS.A.1",
+    "7.NS.A.2",
+    "7.SP.A.1",
+    "7.SP.A.2",
+    "7.SP.B.3",
+    "7.SP.B.4",
+    "7.SP.C.5",
+    "7.SP.C.6",
+    "7.SP.C.7",
+    "7.SP.C.8",
+    "8.EE.A.1",
+    "8.EE.A.2",
+    "8.EE.A.3",
+    "8.EE.A.4",
+    "8.EE.B.6",
+    "8.EE.C.7",
+    "8.EE.C.8",
+    "8.F.A.1",
+    "8.F.A.2",
+    "8.F.A.3",
+    "8.F.B.5",
+    "8.G.A.1",
+    "8.G.A.2",
+    "8.G.A.3",
+    "8.G.A.4",
+    "8.G.A.5",
+    "8.G.B.6",
+    "8.G.B.7",
+    "8.G.B.8",
+    "8.G.C.9",
+    "8.NS.A.1",
+    "8.NS.A.2",
+    "8.NS.A.3",
+    "8.SP.A.2",
+    "8.SP.A.3",
+    "8.SP.A.4",
+    "L.KL.5.1",
+    "L.KL.6.2",
+    "L.KL.7.2",
+    "L.KL.8.2",
+    "L.RF.5.3",
+    "L.RF.5.4",
+    "L.SS.6.1",
+    "L.SS.7.1",
+    "L.SS.8.1",
+    "L.VI.5.3",
+    "L.VI.6.4",
+    "L.VI.7.4",
+    "L.VI.8.4",
+    "L.WF.5.2",
+    "MS-ESS1-1",
+    "MS-ESS1-2",
+    "MS-ESS1-3",
+    "MS-ESS1-4",
+    "MS-ESS2-1",
+    "MS-ESS2-2",
+    "MS-ESS2-3",
+    "MS-ESS2-4",
+    "MS-ESS2-5",
+    "MS-ESS2-6",
+    "MS-ESS3-1",
+    "MS-ESS3-2",
+    "MS-ESS3-3",
+    "MS-ESS3-4",
+    "MS-ESS3-5",
+    "MS-ETS1-2",
+    "MS-ETS1-4",
+    "MS-LS1-1",
+    "MS-LS1-2",
+    "MS-LS1-4",
+    "MS-LS1-5",
+    "MS-LS1-6",
+    "MS-LS1-8",
+    "MS-LS2-1",
+    "MS-LS2-2",
+    "MS-LS2-3",
+    "MS-LS2-4",
+    "MS-LS2-5",
+    "MS-LS3-1",
+    "MS-LS3-2",
+    "MS-LS4-1",
+    "MS-LS4-2",
+    "MS-LS4-3",
+    "MS-LS4-4",
+    "MS-LS4-5",
+    "MS-LS4-6",
+    "MS-PS1-1",
+    "MS-PS1-3",
+    "MS-PS1-4",
+    "MS-PS1-5",
+    "MS-PS1-6",
+    "MS-PS2-1",
+    "MS-PS2-2",
+    "MS-PS2-3",
+    "MS-PS2-4",
+    "MS-PS2-5",
+    "MS-PS3-1",
+    "MS-PS3-2",
+    "MS-PS3-3",
+    "MS-PS3-4",
+    "MS-PS3-5",
+    "MS-PS4-1",
+    "MS-PS4-2",
+    "MS-PS4-3",
+    "RI.AA.5.7",
+    "RI.AA.6.7",
+    "RI.AA.7.7",
+    "RI.AA.8.7",
+    "RI.CR.5.1",
+    "RI.CR.6.1",
+    "RI.IT.5.3",
+    "RI.IT.6.3",
+    "RI.IT.7.3",
+    "RI.IT.8.3",
+    "RI.MF.5.6",
+    "RI.MF.6.6",
+    "RI.MF.7.6",
+    "RI.MF.8.6",
+    "RI.PP.5.5",
+    "RI.PP.6.5",
+    "RI.PP.7.5",
+    "RI.PP.8.5",
+    "RI.TS.5.4",
+    "RI.TS.6.4",
+    "RI.TS.7.4",
+    "RI.TS.8.4",
+    "RL.CI.5.2",
+    "RL.CI.6.2",
+    "RL.CI.7.2",
+    "RL.CI.8.2",
+    "RL.CR.5.1",
+    "RL.CR.6.1",
+    "RL.CR.7.1",
+    "RL.CR.8.1",
+    "RL.CT.5.8",
+    "RL.CT.6.8",
+    "RL.CT.7.8",
+    "RL.CT.8.8",
+    "RL.IT.5.3",
+    "RL.IT.6.3",
+    "RL.IT.7.3",
+    "RL.IT.8.3",
+    "RL.MF.5.6",
+    "RL.MF.6.6",
+    "RL.MF.7.6",
+    "RL.MF.8.6",
+    "RL.PP.5.5",
+    "RL.PP.6.5",
+    "RL.PP.7.5",
+    "RL.PP.8.5",
+    "RL.TS.5.4",
+    "RL.TS.6.4",
+    "RL.TS.7.4",
+    "RL.TS.8.4",
+    "SL.II.5.2",
+    "SL.II.6.2",
+    "SL.II.7.2",
+    "SL.II.8.2",
+    "W.NW.5.3",
+    "W.NW.6.3",
+    "W.NW.7.3",
+    "W.NW.8.3",
+    "W.WP.5.4",
+    "W.WP.6.4",
+    "W.WR.5.5",
+    "W.WR.6.5",
+    "W.WR.7.5",
+    "W.WR.8.5"
+  ],
+  "lessons": [
+    {
+      "ord": 1,
+      "source_kind": "table_row",
+      "context": "3.MD.B.3 Grade outside the 5–8 program band blk_n_1777489933540, blk_p_1777489937640_0, blk_012, blk_n_1777490092690, blk_p_1777490120986_0, blk_013",
+      "standards": [
+        "3.MD.B.3"
+      ]
+    },
+    {
+      "ord": 2,
+      "source_kind": "table_row",
+      "context": "5.MD.A.1 CCSS-style code with no NJSLS match blk_086, blk_n_1777489933540, blk_n_1777489867264, blk_p_1777489937640_0, blk_n_1777489610169, blk_p_1777489622975_0, blk_105, blk_007, blk_n_1777490092690, blk_061, blk_175, blk_008, blk_p_1777490120986_0, blk_102",
+      "standards": [
+        "5.MD.A.1"
+      ]
+    },
+    {
+      "ord": 3,
+      "source_kind": "paragraph",
+      "context": "Typed as math (Math) , but its codes are all ELA: RI.CR.5.1, RI.CR.6.1",
+      "standards": [
+        "RI.CR.5.1",
+        "RI.CR.6.1"
+      ]
+    },
+    {
+      "ord": 4,
+      "source_kind": "paragraph",
+      "context": "Typed as math (Math) , but its codes are all ELA: W.WP.5.4, W.WP.6.4, RI.CR.5.1, RI.CR.6.1, W.4",
+      "standards": [
+        "W.WP.5.4",
+        "W.WP.6.4",
+        "RI.CR.5.1",
+        "RI.CR.6.1"
+      ]
+    },
+    {
+      "ord": 5,
+      "source_kind": "paragraph",
+      "context": "L.RF.5.3 Know and apply grade-level phonics and word analysis skills in decoding and encoding words; use combined knowledge of all letter-sound correspondences, syllabication…",
+      "standards": [
+        "L.RF.5.3"
+      ]
+    },
+    {
+      "ord": 6,
+      "source_kind": "paragraph",
+      "context": "L.RF.5.4 Read with sufficient accuracy and fluency to support comprehension.",
+      "standards": [
+        "L.RF.5.4"
+      ]
+    },
+    {
+      "ord": 7,
+      "source_kind": "paragraph",
+      "context": "L.WF.5.2 Demonstrate command of the conventions of writing, including those listed under grade four foundational skills.",
+      "standards": [
+        "L.WF.5.2"
+      ]
+    },
+    {
+      "ord": 8,
+      "source_kind": "paragraph",
+      "context": "L.KL.5.1 Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+      "standards": [
+        "L.KL.5.1"
+      ]
+    },
+    {
+      "ord": 9,
+      "source_kind": "paragraph",
+      "context": "L.VI.5.3 Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+      "standards": [
+        "L.VI.5.3"
+      ]
+    },
+    {
+      "ord": 10,
+      "source_kind": "paragraph",
+      "context": "RL.CR.5.1 Quote accurately from a literary text when explaining what the text says explicitly and make relevant connections when drawing inferences from the text.",
+      "standards": [
+        "RL.CR.5.1"
+      ]
+    },
+    {
+      "ord": 11,
+      "source_kind": "paragraph",
+      "context": "RL.CI.5.2 Determine the theme of a literary text (e.g., stories, plays or poetry) and explain how it is supported by key details; summarize the text.",
+      "standards": [
+        "RL.CI.5.2"
+      ]
+    },
+    {
+      "ord": 12,
+      "source_kind": "paragraph",
+      "context": "RL.IT.5.3 Analyze the impact of two or more individuals and events throughout the course of a text, comparing and contrasting two or more characters, settings, or events in a…",
+      "standards": [
+        "RL.IT.5.3"
+      ]
+    },
+    {
+      "ord": 13,
+      "source_kind": "paragraph",
+      "context": "RI.IT.5.3 Analyze the impact of two or more individuals and events throughout the course of a text, explaining the relationships or interactions between two or more individuals,…",
+      "standards": [
+        "RI.IT.5.3"
+      ]
+    },
+    {
+      "ord": 14,
+      "source_kind": "paragraph",
+      "context": "RL.TS.5.4 Explain how a series of chapters, scenes, or stanzas fits together to provide the overall structure of a particular story, drama, or poem.",
+      "standards": [
+        "RL.TS.5.4"
+      ]
+    },
+    {
+      "ord": 15,
+      "source_kind": "paragraph",
+      "context": "RI.TS.5.4 Compare and contrast the overall structure (e.g., chronology, comparison, cause/effect, problem/solution) of events, ideas, concepts, or information in two or more texts.",
+      "standards": [
+        "RI.TS.5.4"
+      ]
+    },
+    {
+      "ord": 16,
+      "source_kind": "paragraph",
+      "context": "RL.PP.5.5 Describe how a narrator’s or speaker’s point of view influences how events are described, and how that may influence the reader’s interpretation.",
+      "standards": [
+        "RL.PP.5.5"
+      ]
+    },
+    {
+      "ord": 17,
+      "source_kind": "paragraph",
+      "context": "RI.PP.5.5 Analyze multiple accounts of the same event or topic, noting important similarities and differences in the point of view they represent and how that may influence the…",
+      "standards": [
+        "RI.PP.5.5"
+      ]
+    },
+    {
+      "ord": 18,
+      "source_kind": "paragraph",
+      "context": "RL.MF.5.6 Analyze how visual and multimedia elements contribute to the meaning, tone, or beauty of a text (e.g., graphic novel, multimedia presentation of fiction, folktale,…",
+      "standards": [
+        "RL.MF.5.6"
+      ]
+    },
+    {
+      "ord": 19,
+      "source_kind": "paragraph",
+      "context": "RI.MF.5.6 Interpret information presented visually, orally, or quantitatively (e.g., in charts, graphs, diagrams, timelines, animations, or interactive elements on web pages) and…",
+      "standards": [
+        "RI.MF.5.6"
+      ]
+    },
+    {
+      "ord": 20,
+      "source_kind": "paragraph",
+      "context": "RI.AA.5.7 Explain how an author uses reasons and evidence to support particular points in a text, identifying which reasons and evidence support which point(s).",
+      "standards": [
+        "RI.AA.5.7"
+      ]
+    },
+    {
+      "ord": 21,
+      "source_kind": "paragraph",
+      "context": "RL.CT.5.8 Compare and contrast the authors’ approaches across two or more literary texts within the same genre or about the same or similar topics.",
+      "standards": [
+        "RL.CT.5.8"
+      ]
+    },
+    {
+      "ord": 22,
+      "source_kind": "paragraph",
+      "context": "W.NW.5.3 Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
+      "standards": [
+        "W.NW.5.3"
+      ]
+    },
+    {
+      "ord": 23,
+      "source_kind": "paragraph",
+      "context": "W.WR.5.5 Establish a central idea about a topic, investigation, issue or event and use several sources to support the proposed central idea.",
+      "standards": [
+        "W.WR.5.5"
+      ]
+    },
+    {
+      "ord": 24,
+      "source_kind": "paragraph",
+      "context": "SL.II.5.2 Summarize a written text read aloud or information presented in diverse media and formats (e.g., visually, quantitatively, and orally).",
+      "standards": [
+        "SL.II.5.2"
+      ]
+    },
+    {
+      "ord": 25,
+      "source_kind": "paragraph",
+      "context": "L.SS.6.1 Demonstrate command of the system and structure of the English language when writing or speaking.",
+      "standards": [
+        "L.SS.6.1"
+      ]
+    },
+    {
+      "ord": 26,
+      "source_kind": "paragraph",
+      "context": "L.KL.6.2 Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+      "standards": [
+        "L.KL.6.2"
+      ]
+    },
+    {
+      "ord": 27,
+      "source_kind": "paragraph",
+      "context": "L.VI.6.4 Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+      "standards": [
+        "L.VI.6.4"
+      ]
+    },
+    {
+      "ord": 28,
+      "source_kind": "paragraph",
+      "context": "RL.CR.6.1 Cite textual evidence and make relevant connections to support analysis of what a literary text says explicitly as well as inferences drawn from the text.",
+      "standards": [
+        "RL.CR.6.1"
+      ]
+    },
+    {
+      "ord": 29,
+      "source_kind": "paragraph",
+      "context": "RL.CI.6.2 Determine the theme of a literary text (e.g., stories, plays or poetry) and explain how it is supported by key details; provide a summary of the text distinct from…",
+      "standards": [
+        "RL.CI.6.2"
+      ]
+    },
+    {
+      "ord": 30,
+      "source_kind": "paragraph",
+      "context": "RL.IT.6.3 Describe how a particular text’s structure unfolds in a series of episodes and use textual evidence to describe how the characters respond or change as the plot moves…",
+      "standards": [
+        "RL.IT.6.3"
+      ]
+    },
+    {
+      "ord": 31,
+      "source_kind": "paragraph",
+      "context": "RI.IT.6.3 Analyze how a particular text’s (e.g., article, brochure, technical manual, procedural text) structure unfolds by using textual evidence to describe how a key…",
+      "standards": [
+        "RI.IT.6.3"
+      ]
+    },
+    {
+      "ord": 32,
+      "source_kind": "paragraph",
+      "context": "RL.TS.6.4 Analyze how a particular piece (e.g., sentence, chapter, scene, stanza, or section) fits into the overall structure of a text and contributes to the development of the…",
+      "standards": [
+        "RL.TS.6.4"
+      ]
+    },
+    {
+      "ord": 33,
+      "source_kind": "paragraph",
+      "context": "RI.TS.6.4 Use text structures (e.g., cause-effect, problem-solution), search tools, and genre features (e.g., graphics, captions, indexes) to locate and integrate information.",
+      "standards": [
+        "RI.TS.6.4"
+      ]
+    },
+    {
+      "ord": 34,
+      "source_kind": "paragraph",
+      "context": "RL.PP.6.5 Determine how an author conveys or develops perspective in a text (through the narrator or speaker when appropriate).",
+      "standards": [
+        "RL.PP.6.5"
+      ]
+    },
+    {
+      "ord": 35,
+      "source_kind": "paragraph",
+      "context": "RI.PP.6.5 Identify author’s purpose perspective or potential bias in a text and explain the impact on the reader’s interpretation.",
+      "standards": [
+        "RI.PP.6.5"
+      ]
+    },
+    {
+      "ord": 36,
+      "source_kind": "paragraph",
+      "context": "RL.MF.6.6 Compare and contrast information or texts to develop a coherent understanding of a theme, topic, or issue when reading a story, drama, or poem to listening to or…",
+      "standards": [
+        "RL.MF.6.6"
+      ]
+    },
+    {
+      "ord": 37,
+      "source_kind": "paragraph",
+      "context": "RI.MF.6.6 Integrate information when presented in different media or formats (e.g., visually, quantitatively) to develop a coherent understanding of a topic or issue.",
+      "standards": [
+        "RI.MF.6.6"
+      ]
+    },
+    {
+      "ord": 38,
+      "source_kind": "paragraph",
+      "context": "RI.AA.6.7 Trace the development of and evaluate the argument and specific claims in a text, distinguishing claims that are supported by reasons and evidence from claims that are…",
+      "standards": [
+        "RI.AA.6.7"
+      ]
+    },
+    {
+      "ord": 39,
+      "source_kind": "paragraph",
+      "context": "RL.CT.6.8 Compare and contrast literary texts in different forms, by different authors, or from different genres (e.g., stories and poems; historical novels and primary source…",
+      "standards": [
+        "RL.CT.6.8"
+      ]
+    },
+    {
+      "ord": 40,
+      "source_kind": "paragraph",
+      "context": "W.NW.6.3 Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+      "standards": [
+        "W.NW.6.3"
+      ]
+    },
+    {
+      "ord": 41,
+      "source_kind": "paragraph",
+      "context": "W.WR.6.5 Conduct short research projects to answer a question, drawing on several sources and refocusing the inquiry when appropriate.",
+      "standards": [
+        "W.WR.6.5"
+      ]
+    },
+    {
+      "ord": 42,
+      "source_kind": "paragraph",
+      "context": "SL.II.6.2 Interpret information presented in diverse media and formats (e.g., visually, quantitatively, orally) and explain how it contributes to a topic, text, or issue under…",
+      "standards": [
+        "SL.II.6.2"
+      ]
+    },
+    {
+      "ord": 43,
+      "source_kind": "paragraph",
+      "context": "L.SS.7.1 Demonstrate command of the system and structure of the English language when writing or speaking.",
+      "standards": [
+        "L.SS.7.1"
+      ]
+    },
+    {
+      "ord": 44,
+      "source_kind": "paragraph",
+      "context": "L.KL.7.2 Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+      "standards": [
+        "L.KL.7.2"
+      ]
+    },
+    {
+      "ord": 45,
+      "source_kind": "paragraph",
+      "context": "L.VI.7.4 Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+      "standards": [
+        "L.VI.7.4"
+      ]
+    },
+    {
+      "ord": 46,
+      "source_kind": "paragraph",
+      "context": "RL.CR.7.1 Cite several pieces of textual evidence and make relevant connections to support analysis of what a literary text says explicitly as well as inferences drawn from the…",
+      "standards": [
+        "RL.CR.7.1"
+      ]
+    },
+    {
+      "ord": 47,
+      "source_kind": "paragraph",
+      "context": "RL.CI.7.2 Determine a theme in a literary text (e.g., stories, plays or poetry) and explain how it is conveyed through particular details; provide a summary of the text distinct…",
+      "standards": [
+        "RL.CI.7.2"
+      ]
+    },
+    {
+      "ord": 48,
+      "source_kind": "paragraph",
+      "context": "RL.IT.7.3 Analyze how particular elements of a text interact including how particular lines of dialogue or incidents in a story or drama propel the action, reveal aspects of a…",
+      "standards": [
+        "RL.IT.7.3"
+      ]
+    },
+    {
+      "ord": 49,
+      "source_kind": "paragraph",
+      "context": "RI.IT.7.3 Analyze how particular elements of a text interact including how a text makes connections and distinctions among individuals, events, and ideas (e.g., through…",
+      "standards": [
+        "RI.IT.7.3"
+      ]
+    },
+    {
+      "ord": 50,
+      "source_kind": "paragraph",
+      "context": "RL.TS.7.4 Analyze the structure an author uses to organize a text and how it contributes to the text as a whole, including how a drama’s or poem’s form or structure (e.g.,…",
+      "standards": [
+        "RL.TS.7.4"
+      ]
+    },
+    {
+      "ord": 51,
+      "source_kind": "paragraph",
+      "context": "RI.TS.7.4 Analyze the structure an author uses to organize a text and how it contributes to the text as a whole, including using knowledge of text structures (e.g., cause-effect,…",
+      "standards": [
+        "RI.TS.7.4"
+      ]
+    },
+    {
+      "ord": 52,
+      "source_kind": "paragraph",
+      "context": "RL.PP.7.5 Determine how an author conveys or develops perspective or purpose in a text through contrasting the points of view of different characters or narrators in a text.",
+      "standards": [
+        "RL.PP.7.5"
+      ]
+    },
+    {
+      "ord": 53,
+      "source_kind": "paragraph",
+      "context": "RI.PP.7.5 Determine how an author conveys or develops perspective or purpose in a text through distinguishing their position from that of others using evidence.",
+      "standards": [
+        "RI.PP.7.5"
+      ]
+    },
+    {
+      "ord": 54,
+      "source_kind": "paragraph",
+      "context": "RL.MF.7.6 Compare and contrast texts (e.g., a written story, drama, or poem) to its audio, filmed, staged, or multimedia version and analyze the unique qualities of different…",
+      "standards": [
+        "RL.MF.7.6"
+      ]
+    },
+    {
+      "ord": 55,
+      "source_kind": "paragraph",
+      "context": "RI.MF.7.6 Compare and contrast texts to analyze the unique qualities of different mediums, including the integration of information from multiple formats and sources to develop…",
+      "standards": [
+        "RI.MF.7.6"
+      ]
+    },
+    {
+      "ord": 56,
+      "source_kind": "paragraph",
+      "context": "RI.AA.7.7 Trace and evaluate the argument and specific claims in a text, assessing whether the reasoning is sound and the evidence is relevant and sufficient to support the claims.",
+      "standards": [
+        "RI.AA.7.7"
+      ]
+    },
+    {
+      "ord": 57,
+      "source_kind": "paragraph",
+      "context": "RL.CT.7.8 Compare and contrast a fictional portrayal of an event, time, place, or character and a historical or scientific account of the same period or event as a means of…",
+      "standards": [
+        "RL.CT.7.8"
+      ]
+    },
+    {
+      "ord": 58,
+      "source_kind": "paragraph",
+      "context": "W.NW.7.3 Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+      "standards": [
+        "W.NW.7.3"
+      ]
+    },
+    {
+      "ord": 59,
+      "source_kind": "paragraph",
+      "context": "W.WR.7.5 Conduct short research projects to answer a question, drawing on several sources and generating additional related, focused questions for further research and…",
+      "standards": [
+        "W.WR.7.5"
+      ]
+    },
+    {
+      "ord": 60,
+      "source_kind": "paragraph",
+      "context": "SL.II.7.2 Analyze the main ideas and supporting details presented in diverse media and formats (e.g., visually, quantitatively, orally) and explain how the ideas clarify a topic,…",
+      "standards": [
+        "SL.II.7.2"
+      ]
+    },
+    {
+      "ord": 61,
+      "source_kind": "paragraph",
+      "context": "L.SS.8.1 Demonstrate command of the system and structure of the English language when writing or speaking.",
+      "standards": [
+        "L.SS.8.1"
+      ]
+    },
+    {
+      "ord": 62,
+      "source_kind": "paragraph",
+      "context": "L.KL.8.2 Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+      "standards": [
+        "L.KL.8.2"
+      ]
+    },
+    {
+      "ord": 63,
+      "source_kind": "paragraph",
+      "context": "L.VI.8.4 Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+      "standards": [
+        "L.VI.8.4"
+      ]
+    },
+    {
+      "ord": 64,
+      "source_kind": "paragraph",
+      "context": "RL.CR.8.1 Cite a range of textual evidence and make clear and relevant connections to strongly support an analysis of multiple aspects of what a literary text says explicitly as…",
+      "standards": [
+        "RL.CR.8.1"
+      ]
+    },
+    {
+      "ord": 65,
+      "source_kind": "paragraph",
+      "context": "RL.CI.8.2 Determine a theme of a literary text and how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments.",
+      "standards": [
+        "RL.CI.8.2"
+      ]
+    },
+    {
+      "ord": 66,
+      "source_kind": "paragraph",
+      "context": "RL.IT.8.3 Analyze how particular elements of a text interact (e.g., how setting shapes the characters or plot, how ideas influence individuals or events, or how characters…",
+      "standards": [
+        "RL.IT.8.3"
+      ]
+    },
+    {
+      "ord": 67,
+      "source_kind": "paragraph",
+      "context": "RI.IT.8.3 Analyze how particular elements of a text interact (e.g., how contexts influence individuals or events, or how individuals influence ideas or events) across multiple…",
+      "standards": [
+        "RI.IT.8.3"
+      ]
+    },
+    {
+      "ord": 68,
+      "source_kind": "paragraph",
+      "context": "RL.TS.8.4 Compare and contrast the structure of texts, analyzing how the differing structure of each text contributes to its meaning, tone and style.",
+      "standards": [
+        "RL.TS.8.4"
+      ]
+    },
+    {
+      "ord": 69,
+      "source_kind": "paragraph",
+      "context": "RI.TS.8.4 Analyze and explain how an author organizes, develops and presents ideas, establishes a point of view or builds supporting arguments through text structure.",
+      "standards": [
+        "RI.TS.8.4"
+      ]
+    },
+    {
+      "ord": 70,
+      "source_kind": "paragraph",
+      "context": "RL.PP.8.5 Analyze how an author conveys or develops their perspective or purpose in a text through the use of different perspectives of the characters and that of the audience or…",
+      "standards": [
+        "RL.PP.8.5"
+      ]
+    },
+    {
+      "ord": 71,
+      "source_kind": "paragraph",
+      "context": "RI.PP.8.5 Analyze how an author conveys or develops their perspective or purpose in a text and by acknowledging and responding to conflicting evidence or viewpoints.",
+      "standards": [
+        "RI.PP.8.5"
+      ]
+    },
+    {
+      "ord": 72,
+      "source_kind": "paragraph",
+      "context": "RL.MF.8.6 Evaluate the choices made (by the authors, directors or actors) when presenting an idea in different mediums, including the representation/s or various perspectives of…",
+      "standards": [
+        "RL.MF.8.6"
+      ]
+    },
+    {
+      "ord": 73,
+      "source_kind": "paragraph",
+      "context": "RI.MF.8.6 Evaluate the choices made (by the authors, directors, or actors) when presenting an idea in different mediums and the advantages and disadvantages of using different…",
+      "standards": [
+        "RI.MF.8.6"
+      ]
+    },
+    {
+      "ord": 74,
+      "source_kind": "paragraph",
+      "context": "RI.AA.8.7 Delineate and evaluate the argument and specific claims in a text, assessing whether the reasoning is sound and the evidence is relevant and sufficient; recognize when…",
+      "standards": [
+        "RI.AA.8.7"
+      ]
+    },
+    {
+      "ord": 75,
+      "source_kind": "paragraph",
+      "context": "RL.CT.8.8 Analyze and reflect on how the author’s idea in fiction and literary nonfiction texts (e.g., practical knowledge, historical/cultural context, and background knowledge)…",
+      "standards": [
+        "RL.CT.8.8"
+      ]
+    },
+    {
+      "ord": 76,
+      "source_kind": "paragraph",
+      "context": "W.NW.8.3 Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+      "standards": [
+        "W.NW.8.3"
+      ]
+    },
+    {
+      "ord": 77,
+      "source_kind": "paragraph",
+      "context": "W.WR.8.5 Conduct short research projects to answer a question (including a self-generated question), drawing on several sources and generating additional related, focused…",
+      "standards": [
+        "W.WR.8.5"
+      ]
+    },
+    {
+      "ord": 78,
+      "source_kind": "paragraph",
+      "context": "SL.II.8.2 Analyze the purpose of information presented in diverse media and formats (e.g., visually, quantitatively, orally) and evaluate the motives (e.g., social, commercial,…",
+      "standards": [
+        "SL.II.8.2"
+      ]
+    },
+    {
+      "ord": 79,
+      "source_kind": "paragraph",
+      "context": "5.OA.A.1 Use parentheses, brackets, or braces in numerical expressions, and evaluate expressions with these symbols.",
+      "standards": [
+        "5.OA.A.1"
+      ]
+    },
+    {
+      "ord": 80,
+      "source_kind": "paragraph",
+      "context": "5.OA.A.2 Write simple expressions that record calculations with numbers, and interpret numerical expressions without evaluating them. For example, express the calculation \"add 8…",
+      "standards": [
+        "5.OA.A.2"
+      ]
+    },
+    {
+      "ord": 81,
+      "source_kind": "paragraph",
+      "context": "5.OA.B.3 Generate two numerical patterns using two given rules. Identify apparent relationships between corresponding terms. Form ordered pairs consisting of corresponding terms…",
+      "standards": [
+        "5.OA.B.3"
+      ]
+    },
+    {
+      "ord": 82,
+      "source_kind": "paragraph",
+      "context": "5.NBT.A.1 Recognize that in a multi-digit number, a digit in one place represents 10 times as much as it represents in the place to its right and \\(\\frac{1}{10}\\)of what it…",
+      "standards": [
+        "5.NBT.A.1"
+      ]
+    },
+    {
+      "ord": 83,
+      "source_kind": "paragraph",
+      "context": "5.NBT.A.2 Explain patterns in the number of zeros of the product when multiplying a number by powers of 10, and explain patterns in the placement of the decimal point when a…",
+      "standards": [
+        "5.NBT.A.2"
+      ]
+    },
+    {
+      "ord": 84,
+      "source_kind": "paragraph",
+      "context": "5.NBT.A.4 Use place value understanding to round decimals to any place.",
+      "standards": [
+        "5.NBT.A.4"
+      ]
+    },
+    {
+      "ord": 85,
+      "source_kind": "paragraph",
+      "context": "5.NBT.B.5 With accuracy and efficiency, multiply multi-digit whole numbers using the standard algorithm.",
+      "standards": [
+        "5.NBT.B.5"
+      ]
+    },
+    {
+      "ord": 86,
+      "source_kind": "paragraph",
+      "context": "5.NBT.B.6 Find whole-number quotients of whole numbers with up to four-digit dividends and two-digit divisors, using strategies based on place value, the properties of…",
+      "standards": [
+        "5.NBT.B.6"
+      ]
+    },
+    {
+      "ord": 87,
+      "source_kind": "paragraph",
+      "context": "5.NF.A.1 Add and subtract fractions with unlike denominators (including mixed numbers) by replacing given fractions with equivalent fractions in such a way as to produce an…",
+      "standards": [
+        "5.NF.A.1"
+      ]
+    },
+    {
+      "ord": 88,
+      "source_kind": "paragraph",
+      "context": "5.NF.A.2 Solve word problems involving addition and subtraction of fractions referring to the same whole, including cases of unlike denominators, e.g., by using visual fraction…",
+      "standards": [
+        "5.NF.A.2"
+      ]
+    },
+    {
+      "ord": 89,
+      "source_kind": "paragraph",
+      "context": "5.NF.B.3 Interpret a fraction as division of the numerator by the denominator (i.e., \\(\\frac{a}{b} = a \\div b\\)). Solve word problems involving division of whole numbers leading…",
+      "standards": [
+        "5.NF.B.3"
+      ]
+    },
+    {
+      "ord": 90,
+      "source_kind": "paragraph",
+      "context": "5.NF.B.5 Interpret multiplication as scaling (resizing), by:",
+      "standards": [
+        "5.NF.B.5"
+      ]
+    },
+    {
+      "ord": 91,
+      "source_kind": "paragraph",
+      "context": "5.NF.B.6 Solve real world problems involving multiplication of fractions and mixed numbers, e.g., by using visual fraction models or equations to represent the problem.",
+      "standards": [
+        "5.NF.B.6"
+      ]
+    },
+    {
+      "ord": 92,
+      "source_kind": "paragraph",
+      "context": "5.NF.B.7 Apply and extend previous understandings of division to divide unit fractions by whole numbers and whole numbers by unit fractions.",
+      "standards": [
+        "5.NF.B.7"
+      ]
+    },
+    {
+      "ord": 93,
+      "source_kind": "paragraph",
+      "context": "5.M.B.2 Recognize volume as an attribute of solid figures and understand concepts of volume measurement.",
+      "standards": [
+        "5.M.B.2"
+      ]
+    },
+    {
+      "ord": 94,
+      "source_kind": "paragraph",
+      "context": "5.M.B.3 Measure volumes by counting unit cubes, using cubic cm, cubic in, cubic ft, and non-standard units.",
+      "standards": [
+        "5.M.B.3"
+      ]
+    },
+    {
+      "ord": 95,
+      "source_kind": "paragraph",
+      "context": "5.M.B.4 Relate volume to the operations of multiplication and addition and solve real world and mathematical problems involving volume.",
+      "standards": [
+        "5.M.B.4"
+      ]
+    },
+    {
+      "ord": 96,
+      "source_kind": "paragraph",
+      "context": "5.DL.A.1 Understand how different visualizations can highlight different aspects of data. Ask questions and interpret data visualizations to describe and analyze patterns.",
+      "standards": [
+        "5.DL.A.1"
+      ]
+    },
+    {
+      "ord": 97,
+      "source_kind": "paragraph",
+      "context": "5.DL.A.2 Develop strategies to collect, organize and represent data of various types and from various sources. Communicate results digitally through a data visual (e.g. chart,…",
+      "standards": [
+        "5.DL.A.2"
+      ]
+    },
+    {
+      "ord": 98,
+      "source_kind": "paragraph",
+      "context": "5.DL.A.3 Collect and clean data to be analyzable (e.g., make sure each entry is formatted correctly, deal with missing or incomplete data).",
+      "standards": [
+        "5.DL.A.3"
+      ]
+    },
+    {
+      "ord": 99,
+      "source_kind": "paragraph",
+      "context": "5.DL.A.4 Using appropriate visualizations (i.e. double line plot, double bar graph), analyze data across samples.",
+      "standards": [
+        "5.DL.A.4"
+      ]
+    },
+    {
+      "ord": 100,
+      "source_kind": "paragraph",
+      "context": "5.G.A.1 Use a pair of perpendicular number lines, called axes, to define a coordinate system, with the intersection of the lines (the origin) arranged to coincide with the 0 on…",
+      "standards": [
+        "5.G.A.1"
+      ]
+    },
+    {
+      "ord": 101,
+      "source_kind": "paragraph",
+      "context": "5.G.A.2 Represent real world and mathematical problems by graphing points in the first quadrant of the coordinate plane, and interpret coordinate values of points in the…",
+      "standards": [
+        "5.G.A.2"
+      ]
+    },
+    {
+      "ord": 102,
+      "source_kind": "paragraph",
+      "context": "5.G.B.3 Understand that attributes belonging to a category of two-dimensional figures also belong to all subcategories of that category. For example, all rectangles have four…",
+      "standards": [
+        "5.G.B.3"
+      ]
+    },
+    {
+      "ord": 103,
+      "source_kind": "paragraph",
+      "context": "5.G.B.4 Classify two-dimensional figures in a hierarchy based on properties.",
+      "standards": [
+        "5.G.B.4"
+      ]
+    },
+    {
+      "ord": 104,
+      "source_kind": "paragraph",
+      "context": "6.RP.A.3 Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line…",
+      "standards": [
+        "6.RP.A.3"
+      ]
+    },
+    {
+      "ord": 105,
+      "source_kind": "paragraph",
+      "context": "6.NS.A.1 Interpret and compute quotients of fractions, and solve word problems involving division of fractions by fractions, e.g., by using visual fraction models and equations…",
+      "standards": [
+        "6.NS.A.1"
+      ]
+    },
+    {
+      "ord": 106,
+      "source_kind": "paragraph",
+      "context": "6.NS.B.2 With accuracy and efficiency**,** divide multi-digit numbers using the standard algorithm.",
+      "standards": [
+        "6.NS.B.2"
+      ]
+    },
+    {
+      "ord": 107,
+      "source_kind": "paragraph",
+      "context": "6.NS.B.4 Find the greatest common factor of two whole numbers less than or equal to 100 and the least common multiple of two whole numbers less than or equal to 12. Use the…",
+      "standards": [
+        "6.NS.B.4"
+      ]
+    },
+    {
+      "ord": 108,
+      "source_kind": "paragraph",
+      "context": "6.NS.C.5 Understand that positive and negative numbers are used together to describe quantities having opposite directions or values (e.g., temperature above/below zero,…",
+      "standards": [
+        "6.NS.C.5"
+      ]
+    },
+    {
+      "ord": 109,
+      "source_kind": "paragraph",
+      "context": "6.NS.C.6 Understand a rational number as a point on the number line. Extend number line diagrams and coordinate axes familiar from previous grades to represent points on the…",
+      "standards": [
+        "6.NS.C.6"
+      ]
+    },
+    {
+      "ord": 110,
+      "source_kind": "paragraph",
+      "context": "6.NS.C.7 Understand ordering and absolute value of rational numbers.",
+      "standards": [
+        "6.NS.C.7"
+      ]
+    },
+    {
+      "ord": 111,
+      "source_kind": "paragraph",
+      "context": "6.NS.C.8 Solve real-world and mathematical problems by graphing points in all four quadrants of the coordinate plane. Include use of coordinates and absolute value to find…",
+      "standards": [
+        "6.NS.C.8"
+      ]
+    },
+    {
+      "ord": 112,
+      "source_kind": "paragraph",
+      "context": "6.EE.A.1 Write and evaluate numerical expressions involving whole-number exponents.",
+      "standards": [
+        "6.EE.A.1"
+      ]
+    },
+    {
+      "ord": 113,
+      "source_kind": "paragraph",
+      "context": "6.EE.A.2 Write, read, and evaluate expressions in which letters stand for numbers.",
+      "standards": [
+        "6.EE.A.2"
+      ]
+    },
+    {
+      "ord": 114,
+      "source_kind": "paragraph",
+      "context": "6.EE.A.3 Apply the properties of operations to generate equivalent expressions. For example, apply the distributive property to the expression \\(3(2 + x)\\) to produce the…",
+      "standards": [
+        "6.EE.A.3"
+      ]
+    },
+    {
+      "ord": 115,
+      "source_kind": "paragraph",
+      "context": "6.EE.A.4 Identify when two expressions are equivalent (i.e., when the two expressions name the same number regardless of which value is substituted into them). For example, the…",
+      "standards": [
+        "6.EE.A.4"
+      ]
+    },
+    {
+      "ord": 116,
+      "source_kind": "paragraph",
+      "context": "6.EE.B.5 Understand solving an equation or inequality as a process of answering a question: which values from a specified set, if any, make the equation or inequality true? Use…",
+      "standards": [
+        "6.EE.B.5"
+      ]
+    },
+    {
+      "ord": 117,
+      "source_kind": "paragraph",
+      "context": "6.EE.B.6 Use variables to represent numbers and write expressions when solving a real-world or mathematical problem; understand that a variable can represent an unknown number,…",
+      "standards": [
+        "6.EE.B.6"
+      ]
+    },
+    {
+      "ord": 118,
+      "source_kind": "paragraph",
+      "context": "6.EE.B.7 Solve real-world and mathematical problems by writing and solving equations of the form\\ \\(x + p\\) and \\(px = q\\)for cases in which \\(p\\), \\(q\\) and \\(x\\) are all…",
+      "standards": [
+        "6.EE.B.7"
+      ]
+    },
+    {
+      "ord": 119,
+      "source_kind": "paragraph",
+      "context": "6.EE.B.8 Write an inequality of the form \\(x > c\\) or \\(x < c\\) to represent a constraint or condition in a real-world or mathematical problem. Recognize that inequalities of…",
+      "standards": [
+        "6.EE.B.8"
+      ]
+    },
+    {
+      "ord": 120,
+      "source_kind": "paragraph",
+      "context": "6.EE.C.9 Use variables to represent two quantities in a real-world problem that change in relationship to one another; write an equation to express one quantity, thought of as…",
+      "standards": [
+        "6.EE.C.9"
+      ]
+    },
+    {
+      "ord": 121,
+      "source_kind": "paragraph",
+      "context": "6.G.A.1 Find the area of right triangles, other triangles, special quadrilaterals, and polygons by composing into rectangles or decomposing into triangles and other shapes;…",
+      "standards": [
+        "6.G.A.1"
+      ]
+    },
+    {
+      "ord": 122,
+      "source_kind": "paragraph",
+      "context": "6.G.A.2 Find the volume of a right rectangular prism with fractional edge lengths by packing it with unit cubes of the appropriate unit fraction edge lengths, and show that the…",
+      "standards": [
+        "6.G.A.2"
+      ]
+    },
+    {
+      "ord": 123,
+      "source_kind": "paragraph",
+      "context": "6.G.A.3 Draw polygons in the coordinate plane given coordinates for the vertices; use coordinates to find the length of a side joining points with the same first coordinate or…",
+      "standards": [
+        "6.G.A.3"
+      ]
+    },
+    {
+      "ord": 124,
+      "source_kind": "paragraph",
+      "context": "6.G.A.4 Represent three-dimensional figures (e.g., pyramid, triangular prism, rectangular prism) using nets made up of rectangles and triangles, and use the nets to find the…",
+      "standards": [
+        "6.G.A.4"
+      ]
+    },
+    {
+      "ord": 125,
+      "source_kind": "paragraph",
+      "context": "6.SP.A.1 Recognize a statistical question as one that anticipates variability in the data related to the question and accounts for it in the answers. For example, \"How old am…",
+      "standards": [
+        "6.SP.A.1"
+      ]
+    },
+    {
+      "ord": 126,
+      "source_kind": "paragraph",
+      "context": "6.SP.A.2 Understand that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread, and overall shape.",
+      "standards": [
+        "6.SP.A.2"
+      ]
+    },
+    {
+      "ord": 127,
+      "source_kind": "paragraph",
+      "context": "6.SP.A.3 Recognize that a measure of center for a numerical data set summarizes all of its values with a single number, while a measure of variation describes how its values…",
+      "standards": [
+        "6.SP.A.3"
+      ]
+    },
+    {
+      "ord": 128,
+      "source_kind": "paragraph",
+      "context": "6.SP.B.4 Display numerical data in plots on a number line, including dot plots, histograms, and box plots.",
+      "standards": [
+        "6.SP.B.4"
+      ]
+    },
+    {
+      "ord": 129,
+      "source_kind": "paragraph",
+      "context": "7.NS.A.1 Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or…",
+      "standards": [
+        "7.NS.A.1"
+      ]
+    },
+    {
+      "ord": 130,
+      "source_kind": "paragraph",
+      "context": "7.NS.A.2 Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers.",
+      "standards": [
+        "7.NS.A.2"
+      ]
+    },
+    {
+      "ord": 131,
+      "source_kind": "paragraph",
+      "context": "7.EE.A.1 Apply properties of operations as strategies to add, subtract, factor, and expand linear expressions with rational coefficients.",
+      "standards": [
+        "7.EE.A.1"
+      ]
+    },
+    {
+      "ord": 132,
+      "source_kind": "paragraph",
+      "context": "7.EE.A.2 Understand that rewriting an expression in different forms in a problem context can shed light on the problem and how the quantities in it are related. For example, \\(a…",
+      "standards": [
+        "7.EE.A.2"
+      ]
+    },
+    {
+      "ord": 133,
+      "source_kind": "paragraph",
+      "context": "7.EE.B.4 Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the…",
+      "standards": [
+        "7.EE.B.4"
+      ]
+    },
+    {
+      "ord": 134,
+      "source_kind": "paragraph",
+      "context": "7.G.A.1 Solve problems involving scale drawings of geometric figures, including computing actual lengths and areas from a scale drawing and reproducing a scale drawing at a…",
+      "standards": [
+        "7.G.A.1"
+      ]
+    },
+    {
+      "ord": 135,
+      "source_kind": "paragraph",
+      "context": "7.G.A.2 Draw (with technology, with ruler and protractor, as well as freehand) geometric shapes with given conditions. Focus on constructing triangles from three measures of…",
+      "standards": [
+        "7.G.A.2"
+      ]
+    },
+    {
+      "ord": 136,
+      "source_kind": "paragraph",
+      "context": "7.G.A.3 Describe the two-dimensional figures that result from slicing three-dimensional figures, as in plane sections of right rectangular prisms and right rectangular pyramids.",
+      "standards": [
+        "7.G.A.3"
+      ]
+    },
+    {
+      "ord": 137,
+      "source_kind": "paragraph",
+      "context": "7.G.B.4 Know the formulas for the area and circumference of a circle and use them to solve problems; give an informal derivation of the relationship between the circumference…",
+      "standards": [
+        "7.G.B.4"
+      ]
+    },
+    {
+      "ord": 138,
+      "source_kind": "paragraph",
+      "context": "7.G.B.5 Use facts about supplementary, complementary, vertical, and adjacent angles in a multi-step problem to write and solve simple equations for an unknown angle in a figure.",
+      "standards": [
+        "7.G.B.5"
+      ]
+    },
+    {
+      "ord": 139,
+      "source_kind": "paragraph",
+      "context": "7.G.B.6 Solve real-world and mathematical problems involving area, volume and surface area of two- and three-dimensional objects composed of triangles, quadrilaterals,…",
+      "standards": [
+        "7.G.B.6"
+      ]
+    },
+    {
+      "ord": 140,
+      "source_kind": "paragraph",
+      "context": "7.SP.A.1 Understand that statistics can be used to gain information about a population by examining a sample of the population; generalizations about a population from a sample…",
+      "standards": [
+        "7.SP.A.1"
+      ]
+    },
+    {
+      "ord": 141,
+      "source_kind": "paragraph",
+      "context": "7.SP.A.2 Use data from a random sample to draw inferences about a population with an unknown characteristic of interest. Generate multiple samples (or simulated samples) of the…",
+      "standards": [
+        "7.SP.A.2"
+      ]
+    },
+    {
+      "ord": 142,
+      "source_kind": "paragraph",
+      "context": "7.SP.B.3 Informally assess the degree of visual overlap of two numerical data distributions with similar variabilities, measuring the difference between the centers by…",
+      "standards": [
+        "7.SP.B.3"
+      ]
+    },
+    {
+      "ord": 143,
+      "source_kind": "paragraph",
+      "context": "7.SP.B.4 Use measures of center and measures of variability for numerical data from random samples to draw informal comparative inferences about two populations. For example,…",
+      "standards": [
+        "7.SP.B.4"
+      ]
+    },
+    {
+      "ord": 144,
+      "source_kind": "paragraph",
+      "context": "7.SP.C.5 Understand that the probability of a chance event is a number between 0 and 1 that expresses the likelihood of the event occurring. Larger numbers indicate greater…",
+      "standards": [
+        "7.SP.C.5"
+      ]
+    },
+    {
+      "ord": 145,
+      "source_kind": "paragraph",
+      "context": "7.SP.C.6 Approximate the probability of a chance event by collecting data on the chance process that produces it and observing its long-run relative frequency, and predict the…",
+      "standards": [
+        "7.SP.C.6"
+      ]
+    },
+    {
+      "ord": 146,
+      "source_kind": "paragraph",
+      "context": "7.SP.C.7 Develop a probability model and use it to find probabilities of events. Compare probabilities from a model to observed frequencies; if the agreement is not good,…",
+      "standards": [
+        "7.SP.C.7"
+      ]
+    },
+    {
+      "ord": 147,
+      "source_kind": "paragraph",
+      "context": "7.SP.C.8 Find probabilities of compound events using organized lists, tables, tree diagrams, and simulation.",
+      "standards": [
+        "7.SP.C.8"
+      ]
+    },
+    {
+      "ord": 148,
+      "source_kind": "paragraph",
+      "context": "8.NS.A.1 Know that numbers that are not rational are called irrational. Understand informally that every number has a decimal expansion; for rational numbers show that the…",
+      "standards": [
+        "8.NS.A.1"
+      ]
+    },
+    {
+      "ord": 149,
+      "source_kind": "paragraph",
+      "context": "8.NS.A.2 Use rational approximations of irrational numbers to compare the size of irrational numbers, locate them approximately on a number line diagram, and estimate the value…",
+      "standards": [
+        "8.NS.A.2"
+      ]
+    },
+    {
+      "ord": 150,
+      "source_kind": "paragraph",
+      "context": "8.NS.A.3 Understand that the sum or product of two rational numbers is rational; that the sum of a rational number and an irrational number is irrational; and that the product…",
+      "standards": [
+        "8.NS.A.3"
+      ]
+    },
+    {
+      "ord": 151,
+      "source_kind": "paragraph",
+      "context": "8.EE.A.1 Know and apply the properties of integer exponents to generate equivalent numerical expressions. For example, \\(32 \\times 3 - 5 = 3 - 3 = \\frac{1}{33} = \\frac{1}{27}\\).",
+      "standards": [
+        "8.EE.A.1"
+      ]
+    },
+    {
+      "ord": 152,
+      "source_kind": "paragraph",
+      "context": "8.EE.A.2 Use square root and cube root symbols to represent solutions to equations of the form \\(x2 = p\\)and \\(x3 = p\\) where \\(p\\) is a positive rational number.",
+      "standards": [
+        "8.EE.A.2"
+      ]
+    },
+    {
+      "ord": 153,
+      "source_kind": "paragraph",
+      "context": "8.EE.A.3 Use numbers expressed in the form of a single digit times an integer power of 10 to estimate very large or very small quantities, and to express how many times as much…",
+      "standards": [
+        "8.EE.A.3"
+      ]
+    },
+    {
+      "ord": 154,
+      "source_kind": "paragraph",
+      "context": "8.EE.A.4 Perform operations with numbers expressed in scientific notation, including problems where both decimal and scientific notation are used. Use scientific notation and…",
+      "standards": [
+        "8.EE.A.4"
+      ]
+    },
+    {
+      "ord": 155,
+      "source_kind": "paragraph",
+      "context": "8.EE.B.6 Use similar triangles to explain why the slope \\(m\\) is the same between any two distinct points on a non-vertical line in the coordinate plane; derive the equation \\(y…",
+      "standards": [
+        "8.EE.B.6"
+      ]
+    },
+    {
+      "ord": 156,
+      "source_kind": "paragraph",
+      "context": "8.EE.C.7 Solve linear equations in one variable.",
+      "standards": [
+        "8.EE.C.7"
+      ]
+    },
+    {
+      "ord": 157,
+      "source_kind": "paragraph",
+      "context": "8.EE.C.8 Analyze and solve pairs of simultaneous linear equations.",
+      "standards": [
+        "8.EE.C.8"
+      ]
+    },
+    {
+      "ord": 158,
+      "source_kind": "paragraph",
+      "context": "8.F.A.1 Understand that a function is a rule that assigns to each input exactly one output. The graph of a function is the set of ordered pairs consisting of an input and the…",
+      "standards": [
+        "8.F.A.1"
+      ]
+    },
+    {
+      "ord": 159,
+      "source_kind": "paragraph",
+      "context": "8.F.A.2 Compare properties (e.g. rate of change, intercepts, domain and range) of two functions each represented in a different way (algebraically, graphically, numerically in…",
+      "standards": [
+        "8.F.A.2"
+      ]
+    },
+    {
+      "ord": 160,
+      "source_kind": "paragraph",
+      "context": "8.F.A.3 Interpret the equation \\(y = mx + b\\)as defining a linear function, whose graph is a straight line; give examples of functions that are not linear. For example, the…",
+      "standards": [
+        "8.F.A.3"
+      ]
+    },
+    {
+      "ord": 161,
+      "source_kind": "paragraph",
+      "context": "8.F.B.5 Describe qualitatively the functional relationship between two quantities by analyzing a graph (e.g., where the function is increasing or decreasing, linear or…",
+      "standards": [
+        "8.F.B.5"
+      ]
+    },
+    {
+      "ord": 162,
+      "source_kind": "paragraph",
+      "context": "8.G.A.1 Verify experimentally the properties of rotations, reflections, and translations:",
+      "standards": [
+        "8.G.A.1"
+      ]
+    },
+    {
+      "ord": 163,
+      "source_kind": "paragraph",
+      "context": "8.G.A.2 Understand that a two-dimensional figure is congruent to another if the second can be obtained from the first by a sequence of rotations, reflections, and translations;…",
+      "standards": [
+        "8.G.A.2"
+      ]
+    },
+    {
+      "ord": 164,
+      "source_kind": "paragraph",
+      "context": "8.G.A.3 Describe the effect of dilations, translations, rotations, and reflections on two-dimensional figures using coordinates.",
+      "standards": [
+        "8.G.A.3"
+      ]
+    },
+    {
+      "ord": 165,
+      "source_kind": "paragraph",
+      "context": "8.G.A.4 Understand that a two-dimensional figure is similar to another if the second can be obtained from the first by a sequence of rotations, reflections, translations, and…",
+      "standards": [
+        "8.G.A.4"
+      ]
+    },
+    {
+      "ord": 166,
+      "source_kind": "paragraph",
+      "context": "8.G.A.5 Use informal arguments to establish facts about the angle sum and exterior angle of triangles, about the angles created when parallel lines are cut by a transversal,…",
+      "standards": [
+        "8.G.A.5"
+      ]
+    },
+    {
+      "ord": 167,
+      "source_kind": "paragraph",
+      "context": "8.G.B.6 Explain a proof of the Pythagorean Theorem and its converse.",
+      "standards": [
+        "8.G.B.6"
+      ]
+    },
+    {
+      "ord": 168,
+      "source_kind": "paragraph",
+      "context": "8.G.B.7 Apply the Pythagorean Theorem to determine unknown side lengths in right triangles in real-world and mathematical problems in two and three dimensions.",
+      "standards": [
+        "8.G.B.7"
+      ]
+    },
+    {
+      "ord": 169,
+      "source_kind": "paragraph",
+      "context": "8.G.B.8 Apply the Pythagorean Theorem to find the distance between two points in a coordinate system.",
+      "standards": [
+        "8.G.B.8"
+      ]
+    },
+    {
+      "ord": 170,
+      "source_kind": "paragraph",
+      "context": "8.G.C.9 Know the formulas for the volumes of cones, cylinders, and spheres and use them to solve real-world and mathematical problems.",
+      "standards": [
+        "8.G.C.9"
+      ]
+    },
+    {
+      "ord": 171,
+      "source_kind": "paragraph",
+      "context": "8.SP.A.2 Know that straight lines are widely used to model relationships between two quantitative variables. For scatter plots that suggest a linear association, informally fit…",
+      "standards": [
+        "8.SP.A.2"
+      ]
+    },
+    {
+      "ord": 172,
+      "source_kind": "paragraph",
+      "context": "8.SP.A.3 Use the equation of a linear model to solve problems in the context of bivariate measurement data, interpreting the slope and intercept. For example, in a linear model…",
+      "standards": [
+        "8.SP.A.3"
+      ]
+    },
+    {
+      "ord": 173,
+      "source_kind": "paragraph",
+      "context": "8.SP.A.4 Understand that patterns of association can also be seen in bivariate categorical data by displaying frequencies and relative frequencies in a two-way table. Construct…",
+      "standards": [
+        "8.SP.A.4"
+      ]
+    },
+    {
+      "ord": 174,
+      "source_kind": "paragraph",
+      "context": "5-PS1-1 Develop a model to describe that matter is made of particles too small to be seen.",
+      "standards": [
+        "5-PS1-1"
+      ]
+    },
+    {
+      "ord": 175,
+      "source_kind": "paragraph",
+      "context": "5-PS1-2 Measure and graph quantities to provide evidence that regardless of the type of change that occurs when heating, cooling, or mixing substances, the total weight of…",
+      "standards": [
+        "5-PS1-2"
+      ]
+    },
+    {
+      "ord": 176,
+      "source_kind": "paragraph",
+      "context": "5-PS2-1 Support an argument that the gravitational force exerted by Earth on objects is directed down.",
+      "standards": [
+        "5-PS2-1"
+      ]
+    },
+    {
+      "ord": 177,
+      "source_kind": "paragraph",
+      "context": "5-PS3-1 Use models to describe that energy in animals’ food (used for body repair, growth, motion, and to maintain body warmth) was once energy from the sun.",
+      "standards": [
+        "5-PS3-1"
+      ]
+    },
+    {
+      "ord": 178,
+      "source_kind": "paragraph",
+      "context": "5-LS1-1 Support an argument that plants get the materials they need for growth chiefly from air and water.",
+      "standards": [
+        "5-LS1-1"
+      ]
+    },
+    {
+      "ord": 179,
+      "source_kind": "paragraph",
+      "context": "5-LS2-1 Develop a model to describe the movement of matter among plants, animals, decomposers, and the environment.",
+      "standards": [
+        "5-LS2-1"
+      ]
+    },
+    {
+      "ord": 180,
+      "source_kind": "paragraph",
+      "context": "5-ESS1-1 Support an argument that differences in the apparent brightness of the sun compared to other stars is due to their relative distances from Earth.",
+      "standards": [
+        "5-ESS1-1"
+      ]
+    },
+    {
+      "ord": 181,
+      "source_kind": "paragraph",
+      "context": "5-ESS1-2 Represent data in graphical displays to reveal patterns of daily changes in length and direction of shadows, day and night, and the seasonal appearance of some stars in…",
+      "standards": [
+        "5-ESS1-2"
+      ]
+    },
+    {
+      "ord": 182,
+      "source_kind": "paragraph",
+      "context": "5-ESS2-1 Develop a model using an example to describe ways the geosphere, biosphere, hydrosphere, and/or atmosphere interact.",
+      "standards": [
+        "5-ESS2-1"
+      ]
+    },
+    {
+      "ord": 183,
+      "source_kind": "paragraph",
+      "context": "5-ESS2-2 Describe and graph the amounts of salt water and fresh water in various reservoirs to provide evidence about the distribution of water on Earth.",
+      "standards": [
+        "5-ESS2-2"
+      ]
+    },
+    {
+      "ord": 184,
+      "source_kind": "paragraph",
+      "context": "5-ESS3-1 Obtain and combine information about ways individual communities use science ideas to protect the Earth’s resources, environment, and address climate change issues.",
+      "standards": [
+        "5-ESS3-1"
+      ]
+    },
+    {
+      "ord": 185,
+      "source_kind": "paragraph",
+      "context": "3-5-ETS1-1 Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost.",
+      "standards": [
+        "3-5-ETS1-1"
+      ]
+    },
+    {
+      "ord": 186,
+      "source_kind": "paragraph",
+      "context": "3-5-ETS1-2 Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem.",
+      "standards": [
+        "3-5-ETS1-2"
+      ]
+    },
+    {
+      "ord": 187,
+      "source_kind": "paragraph",
+      "context": "3-5-ETS1-3 Plan and carry out fair tests in which variables are controlled and failure points are considered to identify aspects of a model or prototype that can be improved.",
+      "standards": [
+        "3-5-ETS1-3"
+      ]
+    },
+    {
+      "ord": 188,
+      "source_kind": "paragraph",
+      "context": "MS-PS1-1 Develop models to describe the atomic composition of simple molecules and extended structures.",
+      "standards": [
+        "MS-PS1-1"
+      ]
+    },
+    {
+      "ord": 189,
+      "source_kind": "paragraph",
+      "context": "MS-PS1-3 Gather and make sense of information to describe that synthetic materials come from natural resources and impact society.",
+      "standards": [
+        "MS-PS1-3"
+      ]
+    },
+    {
+      "ord": 190,
+      "source_kind": "paragraph",
+      "context": "MS-PS1-4 Develop a model that predicts and describes changes in particle motion, temperature, and state of a pure substance when thermal energy is added or removed.",
+      "standards": [
+        "MS-PS1-4"
+      ]
+    },
+    {
+      "ord": 191,
+      "source_kind": "paragraph",
+      "context": "MS-PS1-5 Develop and use a model to describe how the total number of atoms does not change in a chemical reaction and thus mass is conserved.",
+      "standards": [
+        "MS-PS1-5"
+      ]
+    },
+    {
+      "ord": 192,
+      "source_kind": "paragraph",
+      "context": "MS-PS1-6 Undertake a design project to construct, test, and modify a device that either releases or absorbs thermal energy by chemical processes.",
+      "standards": [
+        "MS-PS1-6"
+      ]
+    },
+    {
+      "ord": 193,
+      "source_kind": "paragraph",
+      "context": "MS-PS2-1 Apply Newton’s Third Law to design a solution to a problem involving the motion of two colliding objects.",
+      "standards": [
+        "MS-PS2-1"
+      ]
+    },
+    {
+      "ord": 194,
+      "source_kind": "paragraph",
+      "context": "MS-PS2-2 Plan an investigation to provide evidence that the change in an object’s motion depends on the sum of the forces on the object and the mass of the object.",
+      "standards": [
+        "MS-PS2-2"
+      ]
+    },
+    {
+      "ord": 195,
+      "source_kind": "paragraph",
+      "context": "MS-PS2-3 Ask questions about data to determine the factors that affect the strength of electric and magnetic forces.",
+      "standards": [
+        "MS-PS2-3"
+      ]
+    },
+    {
+      "ord": 196,
+      "source_kind": "paragraph",
+      "context": "MS-PS2-4 Construct and present arguments using evidence to support the claim that gravitational interactions are attractive and depend on the masses of interacting objects.",
+      "standards": [
+        "MS-PS2-4"
+      ]
+    },
+    {
+      "ord": 197,
+      "source_kind": "paragraph",
+      "context": "MS-PS2-5 Conduct an investigation and evaluate the experimental design to provide evidence that fields exist between objects exerting forces on each other even though the…",
+      "standards": [
+        "MS-PS2-5"
+      ]
+    },
+    {
+      "ord": 198,
+      "source_kind": "paragraph",
+      "context": "MS-PS3-1 Construct and interpret graphical displays of data to describe the relationships of kinetic energy to the mass of an object and to the speed of an object.",
+      "standards": [
+        "MS-PS3-1"
+      ]
+    },
+    {
+      "ord": 199,
+      "source_kind": "paragraph",
+      "context": "MS-PS3-2 Develop a model to describe that when the arrangement of objects interacting at a distance changes, different amounts of potential energy are stored in the system.",
+      "standards": [
+        "MS-PS3-2"
+      ]
+    },
+    {
+      "ord": 200,
+      "source_kind": "paragraph",
+      "context": "MS-PS3-3 Apply scientific principles to design, construct, and test a device that either minimizes or maximizes thermal energy transfer.",
+      "standards": [
+        "MS-PS3-3"
+      ]
+    },
+    {
+      "ord": 201,
+      "source_kind": "paragraph",
+      "context": "MS-PS3-4 Plan an investigation to determine the relationships among the energy transferred, the type of matter, the mass, and the change in the average kinetic energy of the…",
+      "standards": [
+        "MS-PS3-4"
+      ]
+    },
+    {
+      "ord": 202,
+      "source_kind": "paragraph",
+      "context": "MS-PS3-5 Construct, use, and present arguments to support the claim that when the kinetic energy of an object changes, energy is transferred to or from the object.",
+      "standards": [
+        "MS-PS3-5"
+      ]
+    },
+    {
+      "ord": 203,
+      "source_kind": "paragraph",
+      "context": "MS-PS4-1 Use mathematical representations to describe a simple model for waves that includes how the amplitude of a wave is related to the energy in a wave.",
+      "standards": [
+        "MS-PS4-1"
+      ]
+    },
+    {
+      "ord": 204,
+      "source_kind": "paragraph",
+      "context": "MS-PS4-2 Develop and use a model to describe that waves are reflected, absorbed, or transmitted through various materials.",
+      "standards": [
+        "MS-PS4-2"
+      ]
+    },
+    {
+      "ord": 205,
+      "source_kind": "paragraph",
+      "context": "MS-PS4-3 Integrate qualitative scientific and technical information to support the claim that digitized signals are a more reliable way to encode and transmit information than…",
+      "standards": [
+        "MS-PS4-3"
+      ]
+    },
+    {
+      "ord": 206,
+      "source_kind": "paragraph",
+      "context": "MS-LS1-1 Conduct an investigation to provide evidence that living things are made of cells; either one cell or many different numbers and types of cells.",
+      "standards": [
+        "MS-LS1-1"
+      ]
+    },
+    {
+      "ord": 207,
+      "source_kind": "paragraph",
+      "context": "MS-LS1-2 Develop and use a model to describe the function of a cell as a whole and ways parts of cells contribute to the function.",
+      "standards": [
+        "MS-LS1-2"
+      ]
+    },
+    {
+      "ord": 208,
+      "source_kind": "paragraph",
+      "context": "MS-LS1-4 Use argument based on empirical evidence and scientific reasoning to support an explanation for how characteristic animal behaviors and specialized plant structures…",
+      "standards": [
+        "MS-LS1-4"
+      ]
+    },
+    {
+      "ord": 209,
+      "source_kind": "paragraph",
+      "context": "MS-LS1-5 Construct a scientific explanation based on evidence for how environmental and genetic factors influence the growth of organisms.",
+      "standards": [
+        "MS-LS1-5"
+      ]
+    },
+    {
+      "ord": 210,
+      "source_kind": "paragraph",
+      "context": "MS-LS1-6 Construct a scientific explanation based on evidence for the role of photosynthesis in the cycling of matter and flow of energy into and out of organisms.",
+      "standards": [
+        "MS-LS1-6"
+      ]
+    },
+    {
+      "ord": 211,
+      "source_kind": "paragraph",
+      "context": "MS-LS1-8 Gather and synthesize information that sensory receptors respond to stimuli by sending messages to the brain for immediate behavior or storage as memories.",
+      "standards": [
+        "MS-LS1-8"
+      ]
+    },
+    {
+      "ord": 212,
+      "source_kind": "paragraph",
+      "context": "MS-LS2-1 Analyze and interpret data to provide evidence for the effects of resource availability on organisms and populations of organisms in an ecosystem.",
+      "standards": [
+        "MS-LS2-1"
+      ]
+    },
+    {
+      "ord": 213,
+      "source_kind": "paragraph",
+      "context": "MS-LS2-2 Construct an explanation that predicts patterns of interactions among organisms across multiple ecosystems.",
+      "standards": [
+        "MS-LS2-2"
+      ]
+    },
+    {
+      "ord": 214,
+      "source_kind": "paragraph",
+      "context": "MS-LS2-3 Develop a model to describe the cycling of matter and flow of energy among living and nonliving parts of an ecosystem.",
+      "standards": [
+        "MS-LS2-3"
+      ]
+    },
+    {
+      "ord": 215,
+      "source_kind": "paragraph",
+      "context": "MS-LS2-4 Construct an argument supported by empirical evidence that changes to physical or biological components of an ecosystem affect populations.",
+      "standards": [
+        "MS-LS2-4"
+      ]
+    },
+    {
+      "ord": 216,
+      "source_kind": "paragraph",
+      "context": "MS-LS2-5 Evaluate competing design solutions for maintaining biodiversity and ecosystem services.",
+      "standards": [
+        "MS-LS2-5"
+      ]
+    },
+    {
+      "ord": 217,
+      "source_kind": "paragraph",
+      "context": "MS-LS3-1 Develop and use a model to describe why structural changes to genes (mutations) located on chromosomes may affect proteins and may result in harmful, beneficial, or…",
+      "standards": [
+        "MS-LS3-1"
+      ]
+    },
+    {
+      "ord": 218,
+      "source_kind": "paragraph",
+      "context": "MS-LS3-2 Develop and use a model to describe why asexual reproduction results in offspring with identical genetic information and sexual reproduction results in offspring with…",
+      "standards": [
+        "MS-LS3-2"
+      ]
+    },
+    {
+      "ord": 219,
+      "source_kind": "paragraph",
+      "context": "MS-LS4-1 Analyze and interpret data for patterns in the fossil record that document the existence, diversity, extinction, and change of life forms throughout the history of life…",
+      "standards": [
+        "MS-LS4-1"
+      ]
+    },
+    {
+      "ord": 220,
+      "source_kind": "paragraph",
+      "context": "MS-LS4-2 Apply scientific ideas to construct an explanation for the anatomical similarities and differences among modern organisms and between modern and fossil organisms to…",
+      "standards": [
+        "MS-LS4-2"
+      ]
+    },
+    {
+      "ord": 221,
+      "source_kind": "paragraph",
+      "context": "MS-LS4-3 Analyze displays of pictorial data to compare patterns of similarities in the embryological development across multiple species to identify relationships not evident in…",
+      "standards": [
+        "MS-LS4-3"
+      ]
+    },
+    {
+      "ord": 222,
+      "source_kind": "paragraph",
+      "context": "MS-LS4-4 Construct an explanation based on evidence that describes how genetic variations of traits in a population increase some individuals’ probability of surviving and…",
+      "standards": [
+        "MS-LS4-4"
+      ]
+    },
+    {
+      "ord": 223,
+      "source_kind": "paragraph",
+      "context": "MS-LS4-5 Gather and synthesize information about the technologies that have changed the way humans influence the inheritance of desired traits in organisms.",
+      "standards": [
+        "MS-LS4-5"
+      ]
+    },
+    {
+      "ord": 224,
+      "source_kind": "paragraph",
+      "context": "MS-LS4-6 Use mathematical representations to support explanations of how natural selection may lead to increases and decreases of specific traits in populations over time.",
+      "standards": [
+        "MS-LS4-6"
+      ]
+    },
+    {
+      "ord": 225,
+      "source_kind": "paragraph",
+      "context": "MS-ESS1-1 Develop and use a model of the Earth-sun-moon system to describe the cyclic patterns of lunar phases, eclipses of the sun and moon, and seasons.",
+      "standards": [
+        "MS-ESS1-1"
+      ]
+    },
+    {
+      "ord": 226,
+      "source_kind": "paragraph",
+      "context": "MS-ESS1-2 Develop and use a model to describe the role of gravity in the motions within galaxies and the solar system.",
+      "standards": [
+        "MS-ESS1-2"
+      ]
+    },
+    {
+      "ord": 227,
+      "source_kind": "paragraph",
+      "context": "MS-ESS1-3 Analyze and interpret data to determine scale properties of objects in the solar system.",
+      "standards": [
+        "MS-ESS1-3"
+      ]
+    },
+    {
+      "ord": 228,
+      "source_kind": "paragraph",
+      "context": "MS-ESS1-4 Construct a scientific explanation based on evidence from rock strata for how the geologic time scale is used to organize Earth’s 4.6-billion-year-old history.",
+      "standards": [
+        "MS-ESS1-4"
+      ]
+    },
+    {
+      "ord": 229,
+      "source_kind": "paragraph",
+      "context": "MS-ESS2-1 Develop a model to describe the cycling of Earth's materials and the flow of energy that drives this process.",
+      "standards": [
+        "MS-ESS2-1"
+      ]
+    },
+    {
+      "ord": 230,
+      "source_kind": "paragraph",
+      "context": "MS-ESS2-2 Construct an explanation based on evidence for how geoscience processes have changed Earth's surface at varying time and spatial scales.",
+      "standards": [
+        "MS-ESS2-2"
+      ]
+    },
+    {
+      "ord": 231,
+      "source_kind": "paragraph",
+      "context": "MS-ESS2-3 Analyze and interpret data on the distribution of fossils and rocks, continental shapes, and seafloor structures to provide evidence of the past plate motions.",
+      "standards": [
+        "MS-ESS2-3"
+      ]
+    },
+    {
+      "ord": 232,
+      "source_kind": "paragraph",
+      "context": "MS-ESS2-4 Develop a model to describe the cycling of water through Earth's systems driven by energy from the sun and the force of gravity.",
+      "standards": [
+        "MS-ESS2-4"
+      ]
+    },
+    {
+      "ord": 233,
+      "source_kind": "paragraph",
+      "context": "MS-ESS2-5 Collect data to provide evidence for how the motions and complex interactions of air masses result in changes in weather conditions.",
+      "standards": [
+        "MS-ESS2-5"
+      ]
+    },
+    {
+      "ord": 234,
+      "source_kind": "paragraph",
+      "context": "MS-ESS2-6 Develop and use a model to describe how unequal heating and rotation of the Earth cause patterns of atmospheric and oceanic circulation that determine regional climates.",
+      "standards": [
+        "MS-ESS2-6"
+      ]
+    },
+    {
+      "ord": 235,
+      "source_kind": "paragraph",
+      "context": "MS-ESS3-1 Construct a scientific explanation based on evidence for how the uneven distributions of Earth’s mineral, energy, and groundwater resources are the result of past and…",
+      "standards": [
+        "MS-ESS3-1"
+      ]
+    },
+    {
+      "ord": 236,
+      "source_kind": "paragraph",
+      "context": "MS-ESS3-2 Analyze and interpret data on natural hazards to forecast future catastrophic events and inform the development of technologies to mitigate their effects.",
+      "standards": [
+        "MS-ESS3-2"
+      ]
+    },
+    {
+      "ord": 237,
+      "source_kind": "paragraph",
+      "context": "MS-ESS3-3 Apply scientific principles to design a method for monitoring and minimizing a human impact on the environment.",
+      "standards": [
+        "MS-ESS3-3"
+      ]
+    },
+    {
+      "ord": 238,
+      "source_kind": "paragraph",
+      "context": "MS-ESS3-4 Construct an argument supported by evidence for how increases in human population and per-capita consumption of natural resources impact Earth’s systems.",
+      "standards": [
+        "MS-ESS3-4"
+      ]
+    },
+    {
+      "ord": 239,
+      "source_kind": "paragraph",
+      "context": "MS-ESS3-5 Ask questions to clarify evidence of the factors that have caused climate change over the past century.",
+      "standards": [
+        "MS-ESS3-5"
+      ]
+    },
+    {
+      "ord": 240,
+      "source_kind": "paragraph",
+      "context": "MS-ETS1-2 Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem.",
+      "standards": [
+        "MS-ETS1-2"
+      ]
+    },
+    {
+      "ord": 241,
+      "source_kind": "paragraph",
+      "context": "MS-ETS1-4 Develop a model to generate data for iterative testing and modification of a proposed object, tool, or process such that an optimal design can be achieved.",
+      "standards": [
+        "MS-ETS1-4"
+      ]
+    }
+  ],
+  "diagnostics": {
+    "range_notations_seen": [
+      "3 - 3",
+      "3 - 5",
+      "3-5-ETS1-1",
+      "3-5-ETS1-2",
+      "3-5-ETS1-3",
+      "5-ESS1-1",
+      "5-ESS1-2",
+      "5-ESS2-1",
+      "5-ESS2-2",
+      "5-ESS3-1",
+      "5-LS1-1",
+      "5-LS2-1",
+      "5-PS1-1",
+      "5-PS1-2",
+      "5-PS2-1",
+      "5-PS3-1",
+      "5–8",
+      "MS-ESS1-1",
+      "MS-ESS1-2",
+      "MS-ESS1-3",
+      "MS-ESS1-4",
+      "MS-ESS2-1",
+      "MS-ESS2-2",
+      "MS-ESS2-3",
+      "MS-ESS2-4",
+      "MS-ESS2-5",
+      "MS-ESS2-6",
+      "MS-ESS3-1",
+      "MS-ESS3-2",
+      "MS-ESS3-3",
+      "MS-ESS3-4",
+      "MS-ESS3-5",
+      "MS-ETS1-2",
+      "MS-ETS1-4",
+      "MS-LS1-1",
+      "MS-LS1-2",
+      "MS-LS1-4",
+      "MS-LS1-5",
+      "MS-LS1-6",
+      "MS-LS1-8",
+      "MS-LS2-1",
+      "MS-LS2-2",
+      "MS-LS2-3",
+      "MS-LS2-4",
+      "MS-LS2-5",
+      "MS-LS3-1",
+      "MS-LS3-2",
+      "MS-LS4-1",
+      "MS-LS4-2",
+      "MS-LS4-3",
+      "MS-LS4-4",
+      "MS-LS4-5",
+      "MS-LS4-6",
+      "MS-PS1-1",
+      "MS-PS1-3",
+      "MS-PS1-4",
+      "MS-PS1-5",
+      "MS-PS1-6",
+      "MS-PS2-1",
+      "MS-PS2-2",
+      "MS-PS2-3",
+      "MS-PS2-4",
+      "MS-PS2-5",
+      "MS-PS3-1",
+      "MS-PS3-2",
+      "MS-PS3-3",
+      "MS-PS3-4",
+      "MS-PS3-5",
+      "MS-PS4-1",
+      "MS-PS4-2",
+      "MS-PS4-3"
+    ]
+  }
+}

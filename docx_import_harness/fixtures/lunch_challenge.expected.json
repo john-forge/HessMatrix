@@ -1,0 +1,12 @@
+{
+  "source": "lunch_challenge.docx",
+  "imported_at": "FIXED-FOR-TEST",
+  "njsls_parser_version": "1.0.0",
+  "segment_count_total": 253,
+  "segment_count_with_codes": 0,
+  "all_codes": [],
+  "lessons": [],
+  "diagnostics": {
+    "range_notations_seen": []
+  }
+}

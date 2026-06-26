@@ -1,0 +1,76 @@
+{
+  "source": "civics_synthetic.html",
+  "imported_at": "FIXED-FOR-TEST",
+  "njsls_parser_version": "1.0.0",
+  "segment_count_total": 8,
+  "segment_count_with_codes": 6,
+  "all_codes": [
+    "2.1.5.SSH.6",
+    "6.1.5.CivicsPI.6",
+    "6.1.5.CivicsPR.2",
+    "8.2.5.ED.1",
+    "8.2.5.ED.2",
+    "8.2.5.ED.3",
+    "9.1.5.FP.3",
+    "9.1.5.PB.1"
+  ],
+  "lessons": [
+    {
+      "ord": 1,
+      "source_kind": "table_row",
+      "context": "1 Branches of government 6.1.5.CivicsPI.6",
+      "standards": [
+        "6.1.5.CivicsPI.6"
+      ]
+    },
+    {
+      "ord": 2,
+      "source_kind": "table_row",
+      "context": "2 Process for becoming a citizen 6.1.5.CivicsPR.2",
+      "standards": [
+        "6.1.5.CivicsPR.2"
+      ]
+    },
+    {
+      "ord": 3,
+      "source_kind": "table_row",
+      "context": "3 Engineering design cycle intro 8.2.5.ED.1, 8.2.5.ED.3",
+      "standards": [
+        "8.2.5.ED.1",
+        "8.2.5.ED.3"
+      ]
+    },
+    {
+      "ord": 4,
+      "source_kind": "table_row",
+      "context": "4 Cost-benefit decision making 9.1.5.PB.1, 9.1.5.FP.3",
+      "standards": [
+        "9.1.5.PB.1",
+        "9.1.5.FP.3"
+      ]
+    },
+    {
+      "ord": 5,
+      "source_kind": "table_row",
+      "context": "5 Healthy relationships discussion 2.1.5.SSH.6",
+      "standards": [
+        "2.1.5.SSH.6"
+      ]
+    },
+    {
+      "ord": 6,
+      "source_kind": "paragraph",
+      "context": "Range smoke for civics family: 8.2.5.ED.1-3 should expand to ED.1, ED.2, ED.3.",
+      "standards": [
+        "8.2.5.ED.1",
+        "8.2.5.ED.2",
+        "8.2.5.ED.3"
+      ]
+    }
+  ],
+  "diagnostics": {
+    "range_notations_seen": [
+      "8.2.5.ED.1-3"
+    ]
+  }
+}
