@@ -1,0 +1,38 @@
+{
+  "header": {
+    "code": "2.1.5.PGD.1",
+    "grade": "Grade 5",
+    "subject": "chpe",
+    "subjectLabel": "Health & Physical Education",
+    "classification": "PGD - Personal Growth and Development"
+  },
+  "sections": [
+    {
+      "label": "Statement",
+      "kind": "prose",
+      "text": "Identify effective personal health strategies and behaviors that reduce illness, prevent injuries, and maintain or enhance one’s wellness (e.g., adequate sleep, balanced nutrition, ergonomics, regular physical activity)."
+    },
+    {
+      "label": "Classification",
+      "kind": "fields",
+      "items": [
+        {
+          "label": "Disciplinary concept",
+          "value": "PGD - Personal Growth and Development"
+        },
+        {
+          "label": "Standard",
+          "value": "2.1 - Personal and Mental Health"
+        }
+      ]
+    },
+    {
+      "label": "Core idea",
+      "kind": "prose",
+      "text": "Health is influenced by the interaction of body systems."
+    }
+  ],
+  "footer": {
+    "source": "2023/2020 New Jersey Student Learning Standards · NJ Department of Education"
+  }
+}

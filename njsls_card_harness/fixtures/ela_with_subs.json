@@ -1,0 +1,16 @@
+{
+  "subject": "ela",
+  "code": "W.AW.6.1",
+  "grade": "6",
+  "domain": "Writing Domain",
+  "anchor": "AW - Argumentative Writing",
+  "statement": "Write arguments on discipline-specific content (e.g., social studies, science, math, technical subjects, English/Language Arts) to support claims with clear reasons and relevant evidence.",
+  "subs": [
+    "Introduce claim(s) about a topic or issue and organize the reasons and evidence logically.",
+    "Support claim(s) with logical reasoning and relevant, accurate data and evidence, that demonstrate an understanding of the topic or text, using credible sources.",
+    "Use words, phrases, and clauses to link and clarify the relationships among claim(s), reasons and evidence.",
+    "Establish and maintain a formal/academic style, approach, and form.",
+    "Provide a concluding statement or section that follows from the argument presented."
+  ],
+  "prefix": "W"
+}

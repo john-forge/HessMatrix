@@ -1,0 +1,45 @@
+{
+  "header": {
+    "code": "W.AW.6.1",
+    "grade": "Grade 6",
+    "subject": "ela",
+    "subjectLabel": "English Language Arts",
+    "classification": "AW - Argumentative Writing"
+  },
+  "sections": [
+    {
+      "label": "Statement",
+      "kind": "prose",
+      "text": "Write arguments on discipline-specific content (e.g., social studies, science, math, technical subjects, English/Language Arts) to support claims with clear reasons and relevant evidence."
+    },
+    {
+      "label": "Sub-bullets",
+      "kind": "bullets",
+      "items": [
+        "Introduce claim(s) about a topic or issue and organize the reasons and evidence logically.",
+        "Support claim(s) with logical reasoning and relevant, accurate data and evidence, that demonstrate an understanding of the topic or text, using credible sources.",
+        "Use words, phrases, and clauses to link and clarify the relationships among claim(s), reasons and evidence.",
+        "Establish and maintain a formal/academic style, approach, and form.",
+        "Provide a concluding statement or section that follows from the argument presented."
+      ]
+    },
+    {
+      "label": "Domain",
+      "kind": "prose",
+      "text": "Writing Domain"
+    },
+    {
+      "label": "Classification",
+      "kind": "fields",
+      "items": [
+        {
+          "label": "Anchor",
+          "value": "AW - Argumentative Writing"
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "source": "2023/2020 New Jersey Student Learning Standards · NJ Department of Education"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "header": {
+    "code": "6.RP.A.3",
+    "grade": "Grade 6",
+    "subject": "math",
+    "subjectLabel": "Mathematics",
+    "classification": "A. Understand ratio concepts and use ratio reasoning to solve problems"
+  },
+  "sections": [
+    {
+      "label": "Statement",
+      "kind": "prose",
+      "text": "Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations."
+    },
+    {
+      "label": "Sub-bullets",
+      "kind": "bullets",
+      "items": [
+        "Make tables of equivalent ratios relating quantities with whole number measurements, find missing values in the tables, and plot the pairs of values on the coordinate plane. Use tables to compare ratios.",
+        "Solve unit rate problems including those involving unit pricing and constant speed. For example, if it took 7 hours to mow 4 lawns, then at that rate, how many lawns could be mowed in 35 hours? At what rate were lawns being mowed?",
+        "Find a percent of a quantity as a rate per 100 (e.g., 30% of a quantity means \\(1\\frac{30}{00}\\)times the quantity); solve problems involving finding the whole, given a part and the percent.",
+        "Use ratio reasoning to convert measurement units; manipulate and transform units appropriately when multiplying or dividing quantities."
+      ]
+    },
+    {
+      "label": "Domain",
+      "kind": "prose",
+      "text": "6.RP - Ratios and Proportional Relationships"
+    },
+    {
+      "label": "Classification",
+      "kind": "fields",
+      "items": [
+        {
+          "label": "Cluster",
+          "value": "A. Understand ratio concepts and use ratio reasoning to solve problems"
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "source": "2023/2020 New Jersey Student Learning Standards · NJ Department of Education"
+  }
+}

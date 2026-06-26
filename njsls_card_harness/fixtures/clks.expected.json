@@ -1,0 +1,38 @@
+{
+  "header": {
+    "code": "9.1.5.FP.3",
+    "grade": "Grade 5",
+    "subject": "clks",
+    "subjectLabel": "Career & Life Literacies",
+    "classification": "FP - Financial Psychology"
+  },
+  "sections": [
+    {
+      "label": "Statement",
+      "kind": "prose",
+      "text": "Analyze how spending choices and decision-making can result in positive or negative consequences."
+    },
+    {
+      "label": "Classification",
+      "kind": "fields",
+      "items": [
+        {
+          "label": "Disciplinary concept",
+          "value": "FP - Financial Psychology"
+        },
+        {
+          "label": "Standard",
+          "value": "9.1 - Personal Financial Literacy"
+        }
+      ]
+    },
+    {
+      "label": "Core idea",
+      "kind": "prose",
+      "text": "An individual’s financial traits and habits affect his/her finances. Spending choices and their intended and unintended consequences impact financial outcomes and personal well- being."
+    }
+  ],
+  "footer": {
+    "source": "2023/2020 New Jersey Student Learning Standards · NJ Department of Education"
+  }
+}

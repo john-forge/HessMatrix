@@ -1,0 +1,79 @@
+{
+  "header": {
+    "code": "MS-LS4-5",
+    "grade": "Grade MS",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "classification": "Life Sciences"
+  },
+  "sections": [
+    {
+      "label": "Statement",
+      "kind": "prose",
+      "text": "Gather and synthesize information about the technologies that have changed the way humans influence the inheritance of desired traits in organisms."
+    },
+    {
+      "label": "Topic",
+      "kind": "prose",
+      "text": "MS-LS4 - Biological Evolution: Unity and Diversity"
+    },
+    {
+      "label": "Clarification",
+      "kind": "prose",
+      "text": "Emphasis is on synthesizing information from reliable sources about the influence of humans on genetic outcomes in artificial selection (such as genetic modification, animal husbandry, gene therapy); and, on the impacts these technologies have on society as well as the technologies leading to these scientific discoveries."
+    },
+    {
+      "label": "NGSS three-dimensional tagging",
+      "kind": "ngss_dims",
+      "sep_practices": [
+        "Using Mathematics and Computational Thinking"
+      ],
+      "dci_codes": [
+        "LS4.B"
+      ],
+      "ccc_concepts": [
+        "Cause and Effect",
+        "Scientific Knowledge is Based on Empirical Evidence"
+      ]
+    },
+    {
+      "label": "NGSS detail",
+      "kind": "ngss_detail",
+      "seps": [
+        {
+          "practice": "Using Mathematics and Computational Thinking",
+          "bullets": [
+            "Gather, read, and synthesize information from multiple appropriate sources and assess the credibility, accuracy, and possible bias of each publication and methods used, and describe how they are supported or not supported by evidence."
+          ]
+        }
+      ],
+      "dcis": [
+        {
+          "code": "LS4.B",
+          "name": "Natural Selection",
+          "bullets": [
+            "In artificial selection, humans have the capacity to influence certain characteristics of organisms by selective breeding. One can choose desired parental traits determined by genes, which are then passed on to offspring."
+          ]
+        }
+      ],
+      "cccs": [
+        {
+          "concept": "Cause and Effect",
+          "bullets": [
+            "Phenomena may have more than one cause, and some cause and effect relationships in systems can only be described using probability. , Connections to Engineering, Technology, and Applications of Science Interdependence of Science, Engineering, and Technology",
+            "Engineering advances have led to important discoveries in virtually every field of science, and scientific discoveries have led to the development of entire industries and engineered systems."
+          ]
+        },
+        {
+          "concept": "Scientific Knowledge is Based on Empirical Evidence",
+          "bullets": [
+            "Scientific knowledge can describe the consequences of actions but does not necessarily prescribe the decisions that society takes."
+          ]
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "source": "2023/2020 New Jersey Student Learning Standards · NJ Department of Education"
+  }
+}
