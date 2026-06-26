@@ -1,0 +1,18 @@
+{
+  "lessons": [
+    {
+      "id": "L1",
+      "title": "Percentage vs number"
+    }
+  ],
+  "groups": [
+    [
+      {
+        "id": "L1",
+        "title": "Percentage vs number"
+      }
+    ]
+  ],
+  "has_multiple_groups": false,
+  "marker_text": null
+}

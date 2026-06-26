@@ -1,0 +1,7 @@
+{
+  "name": "run_on_inline",
+  "describes": "Day 5 in source — 'L1: how to draw the conclusionL2: how to write up claim with evidence' has no break between L1's title and L2's label. Tests mid-string splitting.",
+  "input": {
+    "raw_cell_text": "L1: how to draw the conclusionL2: how to write up claim with evidence"
+  }
+}

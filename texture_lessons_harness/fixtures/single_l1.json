@@ -1,0 +1,7 @@
+{
+  "name": "single_l1",
+  "describes": "Day 3 in source — one L1 entry only.",
+  "input": {
+    "raw_cell_text": "L1: Percentage vs number   "
+  }
+}

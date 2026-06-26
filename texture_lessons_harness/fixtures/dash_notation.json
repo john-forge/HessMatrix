@@ -1,0 +1,7 @@
+{
+  "name": "dash_notation",
+  "describes": "Day 2 second group only — verifies that L1- (dash) is parsed identically to L1: (colon).",
+  "input": {
+    "raw_cell_text": "L1- Introduce dataset for bar graph (ASPCA or St Huberts)   &#10;L2-  Introduce dataset for Pie Chart (ASPCA or St Huberts)   &#10;L3 - Introduce dataset for Line graph (ASPCA or St Huberts)"
+  }
+}

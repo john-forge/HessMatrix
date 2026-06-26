@@ -1,0 +1,60 @@
+{
+  "lessons": [
+    {
+      "id": "L1",
+      "title": "Introducing the data - “How can we use this information?”"
+    },
+    {
+      "id": "L2",
+      "title": "Learn how to read graphs (bar, line, pie) - How to pull information from graphs - differentiate graphs by aptitude level"
+    },
+    {
+      "id": "L3",
+      "title": "Interpret graphs - drawing conclusions"
+    },
+    {
+      "id": "L1",
+      "title": "Introduce dataset for bar graph (ASPCA or St Huberts)"
+    },
+    {
+      "id": "L2",
+      "title": "Introduce dataset for Pie Chart (ASPCA or St Huberts)"
+    },
+    {
+      "id": "L3",
+      "title": "Introduce dataset for Line graph (ASPCA or St Huberts)"
+    }
+  ],
+  "groups": [
+    [
+      {
+        "id": "L1",
+        "title": "Introducing the data - “How can we use this information?”"
+      },
+      {
+        "id": "L2",
+        "title": "Learn how to read graphs (bar, line, pie) - How to pull information from graphs - differentiate graphs by aptitude level"
+      },
+      {
+        "id": "L3",
+        "title": "Interpret graphs - drawing conclusions"
+      }
+    ],
+    [
+      {
+        "id": "L1",
+        "title": "Introduce dataset for bar graph (ASPCA or St Huberts)"
+      },
+      {
+        "id": "L2",
+        "title": "Introduce dataset for Pie Chart (ASPCA or St Huberts)"
+      },
+      {
+        "id": "L3",
+        "title": "Introduce dataset for Line graph (ASPCA or St Huberts)"
+      }
+    ]
+  ],
+  "has_multiple_groups": true,
+  "marker_text": null
+}

@@ -1,0 +1,7 @@
+{
+  "name": "visit_marker",
+  "describes": "Marker row between Day 1 and Day 2 — 'Concept Progression' column says '1st St Huberts Visit'; Lesson Content column is empty. Testing the case where the raw_cell_text passed in is the Concept Progression text of a marker row, no L# tokens. Parser should return marker_text and an empty lesson list.",
+  "input": {
+    "raw_cell_text": "1st St Huberts Visit  "
+  }
+}

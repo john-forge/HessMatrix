@@ -1,0 +1,50 @@
+{
+  "lessons": [
+    {
+      "id": "L1",
+      "title": "Genes"
+    },
+    {
+      "id": "L2",
+      "title": "Traits - Dominant vs Recessive"
+    },
+    {
+      "id": "L3",
+      "title": "Inheritance - how traits are passed down"
+    },
+    {
+      "id": "L4",
+      "title": "Variation - How traits vary in the same species"
+    },
+    {
+      "id": "L5",
+      "title": "Punnit Squares"
+    }
+  ],
+  "groups": [
+    [
+      {
+        "id": "L1",
+        "title": "Genes"
+      },
+      {
+        "id": "L2",
+        "title": "Traits - Dominant vs Recessive"
+      },
+      {
+        "id": "L3",
+        "title": "Inheritance - how traits are passed down"
+      },
+      {
+        "id": "L4",
+        "title": "Variation - How traits vary in the same species"
+      },
+      {
+        "id": "L5",
+        "title": "Punnit Squares"
+      }
+    ]
+  ],
+  "has_multiple_groups": false,
+  "marker_text": null
+}

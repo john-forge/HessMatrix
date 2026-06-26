@@ -1,0 +1,7 @@
+{
+  "name": "seminar_named",
+  "describes": "Day 20 in source — L1, L2, then a named 'Seminar:' lesson. Tests that non-L# identifiers are preserved as their own entries and do not start a new group.",
+  "input": {
+    "raw_cell_text": "L1: How to identify good resourcesL2: Identifying supporting evidence in the resource for supporting the hypothesis Seminar: question and defend your claims"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "multi_l_sequential",
+  "describes": "Day 7 in source — L1..L5 sequential with encoded newlines.",
+  "input": {
+    "raw_cell_text": "L1: Genes  &#10;L2: Traits - Dominant vs Recessive   &#10;L3: Inheritance - how traits are passed down   &#10;L4: Variation - How traits vary in the same species  &#10;L5: Punnit Squares   &#10;  &#10;   "
+  }
+}

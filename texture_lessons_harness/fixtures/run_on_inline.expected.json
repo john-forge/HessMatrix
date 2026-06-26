@@ -1,0 +1,26 @@
+{
+  "lessons": [
+    {
+      "id": "L1",
+      "title": "how to draw the conclusion"
+    },
+    {
+      "id": "L2",
+      "title": "how to write up claim with evidence"
+    }
+  ],
+  "groups": [
+    [
+      {
+        "id": "L1",
+        "title": "how to draw the conclusion"
+      },
+      {
+        "id": "L2",
+        "title": "how to write up claim with evidence"
+      }
+    ]
+  ],
+  "has_multiple_groups": false,
+  "marker_text": null
+}

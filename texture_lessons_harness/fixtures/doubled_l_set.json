@@ -1,0 +1,7 @@
+{
+  "name": "doubled_l_set",
+  "describes": "Day 2 in source — abstract L1..L3 set followed by a concrete-dataset L1..L3 set. Tests group detection.",
+  "input": {
+    "raw_cell_text": "L1: Introducing the data - “How can we use this information?”L2: Learn how to read graphs (bar, line, pie) - How to pull information from graphs - differentiate graphs by aptitude level L3: Interpret graphs - drawing conclusions  &#10;  &#10;L1- Introduce dataset for bar graph (ASPCA or St Huberts)   &#10;  &#10;L2-  Introduce dataset for Pie Chart (ASPCA or St Huberts)   &#10;  &#10;  &#10;L3 - Introduce dataset for Line graph (ASPCA or St Huberts)   &#10;  &#10;   "
+  }
+}

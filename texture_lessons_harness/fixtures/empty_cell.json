@@ -1,0 +1,7 @@
+{
+  "name": "empty_cell",
+  "describes": "Day 1 in source — concept day is the lesson; Lesson Content column is empty.",
+  "input": {
+    "raw_cell_text": ""
+  }
+}
